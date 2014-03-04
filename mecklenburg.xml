@@ -1,0 +1,295 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+<!ENTITY mecklenburgtp SYSTEM "mecklenburgtp.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="wwi" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>Rules and Regulations of Mecklenburg County Home Guard:</emph>
+Electronic Edition.</title>
+        <author> Mecklenburg County Home Guard </author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Apex Data Services, Inc.</name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Harris Henderson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name>Apex Data Services, Inc., Harris Henderson, and Jill Kuhn Sexton</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca. 20K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="title page">Rules and Regulations of Mecklenburg County Home Guard</title>
+            <author>Mecklenburg County Home Guard</author>
+          </titleStmt>
+          <extent> 8 p.</extent>
+          <publicationStmt>
+            <pubPlace>Charlotte, N. C.</pubPlace>
+            <publisher> [The Council]</publisher>
+            <date>1917</date>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number  Cp970.9 M48 c. 2 (North Carolina Collection, University of North Carolina at Chapel Hill)</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been entered using double-keying and verified against the original. </p>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+        <p id="note1">On page 2, the line <ref target="ref1" targOrder="U">*</ref> that reads “Hoskins—10 men.” originally read “Belmont—10 men.”.  The correction was made by the publisher after printing.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>Mecklenburg County Home Guard -- Rules and practice.</item>
+            <item>World War, 1914-1918 -- North Carolina -- Mecklenburg County.</item>
+            <item>World War, 1914-1918 -- War work -- North Carolina -- Mecklenburg County.</item>
+            <item>Civil defense -- North Carolina -- Mecklenburg County.</item>
+            <item>Mecklenburg County (N.C.) -- History.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-04-12, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-03-20, </date>
+        <respStmt>
+          <name> Jill Kuhn Sexton </name>
+          <resp/>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-03-18, </date>
+        <respStmt>
+          <name>Harris Henderson</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-01-25, </date>
+        <respStmt>
+          <name>Apex Data Services, Inc.</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the text.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div1 type="title page">
+        <p>
+          <figure id="title" entity="mecklenburgtp">
+            <p>[Title Page Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">RULES AND REGULATIONS
+<lb/>
+OF <lb/> MECKLENBURG COUNTY <lb/> HOME GUARD </titlePart>
+        </docTitle>
+        <docAuthor> NORTH CAROLINA COUNCIL OF DEFENSE</docAuthor>
+        <docImprint><pubPlace>CHARLOTTE, N. C.</pubPlace>
+<docDate>DECEMBER, 1917</docDate></docImprint>
+      </titlePage>
+    </front>
+    <body>
+      <div1 type="section">
+        <pb id="p1" n="1"/>
+        <head>RULES AND REGULATIONS <lb/> OF <lb/> Mecklenburg County <lb/> Home Guard <lb/> NORTH CAROLINA COUNCIL <lb/> OF DEFENSE</head>
+        <div2 type="section">
+          <head>1—NAME</head>
+          <p>The name of this organization shall be “The Mecklenburg County Home Guard.”</p>
+        </div2>
+        <div2 type="section">
+          <head>2—OBJECT</head>
+          <p>The object of this organization shall be to secure and preserve, in Mecklenburg County, North Carolina, the observance of law and order, and the true and patriotic support of the constituted authorities of our State and Nation thruout the period of the present war, and for these purposes to serve as a branch of the Mecklenburg County Council of the North Carolina Council of Defense, by and under authority of which it is created.</p>
+        </div2>
+        <div2 type="section">
+          <head>3—MEMBERSHIP</head>
+          <p>Membership in this organization shall be confined to able-bodied male citizens of Mecklenburg County, who possess physical courage and dependability in time of stress, and the respect and confidence of their communities. Membership in this Home Guard is to be established as a distinction and an
+<pb id="p2" n="2"/>
+honor; and the membership shall be elected with the strictest regard to their high character, in order to attain this end.</p>
+        </div2>
+        <div2 type="section">
+          <head>4—ORGANIZATION</head>
+          <p>The independent unit of organization shall be the squad. Except as hereinafter provided, there shall be a squad in each of the eleven wards of the City of Charlotte, one in the village of Belmont-Hoskins, and one in each of the fourteen Townships, exclusive of Charlotte Township, in Mecklenburg County; and the number of men, including officers, in each squad shall be as now assigned by the Organization Committee, viz.:</p>
+          <p>
+            <table rows="12" cols="2">
+              <row role="data">
+                <cell role="data" rows="1" cols="1">CHARLOTTE:</cell>
+                <cell role="data" rows="1" cols="1">Ward 1—33 men.</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1"/>
+                <cell role="data" rows="1" cols="1">Ward 2—16 men.</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1"/>
+                <cell role="data" rows="1" cols="1">Ward 3—17 men.</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1"/>
+                <cell role="data" rows="1" cols="1">Ward 4—28 men.</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1"/>
+                <cell role="data" rows="1" cols="1">Ward 5—21 men.</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1"/>
+                <cell role="data" rows="1" cols="1">Ward 6—28 men.</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1"/>
+                <cell role="data" rows="1" cols="1">Ward 7—14 men.</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1"/>
+                <cell role="data" rows="1" cols="1">Ward 8—21 men.</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1"/>
+                <cell role="data" rows="1" cols="1">Ward 9—16 men.</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1"/>
+                <cell role="data" rows="1" cols="1">Ward 10—9 men.</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1"/>
+                <cell role="data" rows="1" cols="1">Ward 11—8 men.</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1"/>
+                <cell role="data" rows="1" cols="1">
+                  <ref id="ref1" target="note1" targOrder="U">Hoskins—10 men.</ref>
+                </cell>
+              </row>
+            </table>
+          </p>
+          <p>IN EACH TOWNSHIP (except Charlotte Township)—11 men.</p>
+        </div2>
+        <div2 type="section">
+          <head>5—OFFICERS</head>
+          <p>The general command of this Home Guard shall be vested in a Commander, a Lieutenant-Commander, and a Junior Lieutenant-Commander. These officers shall be elected annually in open meeting of the membership
+<pb id="p3" n="3"/>
+by a majority of the members present, to hold office until their successors are elected. They shall jointly constitute a Governing Board. It shall be their duty as a Board to see to the maintenance of the high character of the membership, and to pass on all men proposed for membership; to keep in active touch with the constituted authorities having jurisdiction in this County over the general objects of this organization; to determine matters of policy for the best effectiveness of the organization in attaining its objects as above set forth; and to communicate such decisions, thru the Commander, as orders to the Squad Captains, for observance by them and their squads. In addition to their collective duty, these officers shall have particular duties as follows:</p>
+          <p>The Commander alone shall have authority to issue orders to the Squad Captains. He shall preside over meetings of the Board, and over meetings of the membership of the Guard. He shall call meetings of the Board, upon the request of any member of the Board; and shall call meetings of the Squad Captains or of the entire membership upon the majority vote of the Board, or upon the request of eight or more Squad Captains. PROVIDED, however, that there shall be called at least one meeting of the entire membership annually, on the second Saturday in October, at eleven a. m.</p>
+          <p>The Lieutenant-Commander shall act as Secretary of this organization, and shall keep full and clear records of membership, enlistments,
+<pb id="p4" n="4"/>
+and discharges, and shall keep minutes of all meetings of the membership or of the Board. In the absence of the Commander, he shall exercise all the duties and authority of the Commander.</p>
+          <p>The Junior Lieutenant-Commander shall act as Treasurer of this Organization, guard any funds belonging to it, and keep records of all receipts and disbursements. In the absence of the Lieutenant-Commander, he shall exercise all the duties and authority of the Lieutenant-Commander.</p>
+          <p>The direct command of each independent squad shall be vested in a Squad Captain, who shall, for the purposes of this organization, be in full and absolute command of his squad, and directly responsible for its activity in attaining the objects of the organization. He shall appoint from the membership of the squad under him a Senior Squad Lieutenant and a Junior Squad Lieutenant, each of whom, in the order named, shall succeed to the duties and authority of the next higher officer in case of absence of such higher officer; but only in such case shall special authority devolve on squad lieutenants, unless especially delegated by the Squad Captain. It shall be the duty of every Squad Captain to maintain close touch with all the members of his squad, to the end that the squad shall work harmoniously and as a unit under his direction and oversight.</p>
+          <p>It shall be the duty of every officer of this organization, in case of leaving the County, to notify the Commander, in order that in
+<pb id="p5" n="5"/>
+emergency there may be no delay in communicating with the squads.</p>
+        </div2>
+        <div2 type="section">
+          <head>6—RESIGNATIONS</head>
+          <p>Any member may resign his membership in this organization; but such resignation shall be made in writing to the Squad Captain, by whom it shall promptly be forwarded to the Commander for purposes of record.</p>
+        </div2>
+        <div2 type="section">
+          <head>7—DISCHARGES</head>
+          <p>For good and sufficient cause, a member may be discharged from this organization by his Squad Captain, who shall promptly in such case make a written report of the case to the Commander, setting forth his reasons, and the date such discharge is effective. A member so discharged shall have the right of appeal to the Governing Board, thru the Commander, whose duty it shall be to review the case; but from the decision of the Governing Board there shall be no appeal.</p>
+        </div2>
+        <div2 type="section">
+          <head>8—ENLISTMENTS</head>
+          <p>Vacancies occurring in the squads thru resignations or discharges shall be promptly filled by men nominated in writing by the Squad Captain to the Governing Board, approved by them, and enlisted by the Squad Captain. Furthermore, in case any Squad Captain finds it desirable to increase the number of the membership in his squad, he shall submit his reasons, and the names of the additional men he desires to enlist, in writing to the Governing Board; and in such case the Governing Board shall have the power, in its discretion, to increase the membership of any
+<pb id="p6" n="6"/>
+squad by nominees of its Squad Captain up to a strength not to exceed twice that hereinabove provided for that particular squad; but no new member shall be enlisted in any squad without the approval of the Board. Every man enlisted shall sign the following promise, on a card of record which shall be provided for the purpose:</p>
+          <q direct="unspecified">
+            <p>“I desire to join the Mecklenburg County Home Guard, and if selected as a member I solemnly promise:</p>
+            <p>“First: To give whole-souled allegiance to the United States, and at all times to do my duty as a patriotic citizen.</p>
+            <p>“Second: To abide by all the Rules and Regulations of this Home Guard, and to obey, willingly and without question, all orders from its duly appointed officers.</p>
+            <p>“Signature: .....</p>
+            <p>“Witness:.....”</p>
+          </q>
+        </div2>
+        <div2 type="section">
+          <head>9—DUES</head>
+          <p>For the purpose of defraying the necessary expenses of communication, such as stationery, printing, postage, telegraph and telephone tolls, each member is expected to pay to his Squad Captain the sum of twenty-five cents; the same to be turned in by the Squad Captain to the Junior Lieutenant-Commander.</p>
+        </div2>
+        <div2 type="section">
+          <head>10—DUTIES OF ALL MEMBERS</head>
+          <p>It shall be the duty of every member of this organization:</p>
+          <p>(a) To exercise especial watchfulness over conditions in his immediate neighborhood, and
+<pb id="p7" n="7"/>
+to report to his Squad Captain any evidences of conditions harmful to the public welfare; realizing that many harmful conditions can be more easily stopped by words in their beginning, than by force after they are well-rooted.</p>
+          <p>(b) To use all means to put a stop to disloyal, seditious, or treasonable talk or action; realizing that ignorance, or misinformation coming from enemy sources, is apt to be the cause of any such display by our citizens, and that the prompt and firm counsel of the members of the local squad can usually convert and restrain; but realizing fully that nothing can excuse or permit to be overlooked treason in our midst, and that in every such case it is the duty of every member of this organization carefully to gather evidence which will insure conviction and proper punishment by the Federal Authorities, if need be.</p>
+          <p>(c) To be, in his personal life and conversation, an example, and an active leader in the neighborhood of his home and place of business, in active patriotism of deeds, and not of words only; and to let all men near him know that this is no time for selfishness, indifference, or cowardice; but that whatever our country calls on us to do, that must be <sic corr="thoroughly">thoroly</sic> done, and done cheerfully.</p>
+          <p>(d) To respond immediately, without hesitation or questioning, to every call of his Squad Captain made in the name of this Home Guard; to consult and advise freely with his Squad Captain, and to promote by every means in his power harmony among the members of
+<pb id="p8" n="8"/>
+his squad, its effectiveness of action as a squad, and its individual and collective loyalty to the Squad Captain.</p>
+          <p>(e) To follow the principle that order and harmony among our people is to be maintained by watchfulness for sources of trouble, and by prompt and firm moral suasion by the men of this Home Guard when the source is found; and that no use of force or of arms is ever to be made under authority of this Home Guard.</p>
+          <p>(f) To respond immediately to the call of the Sheriff of this County, and to serve as a deputy under him in case of active disorder in the County; and under such authority from the Sheriff to use such force of arms as he shall direct, to secure law-abiding and order.</p>
+          <p>(g) To know the substance of these regulations, and of such further amendments and additions hereto as shall be adopted by the membership.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

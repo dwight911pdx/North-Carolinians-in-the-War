@@ -1,0 +1,404 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+<!ENTITY % external-entities SYSTEM "./extEntities.dtf">
+<!ENTITY % internal-entities SYSTEM "./intEntities.dtf">
+<!ENTITY clark3 SYSTEM "clark3.jpg" NDATA jpeg>
+<!ENTITY clarktp SYSTEM "clarktp.jpg" NDATA jpeg>
+<!ENTITY clarkcv SYSTEM "clarkcv.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="wwi" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>North Carolina in the World War.  An Address Delivered Before the North Carolina Bar Association at Blowing Rock, N.C., July 5, 1923:</emph>
+Electronic Edition.</title>
+        <author>Clark, Walter, Jr. 1885-1933</author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Apex Data Services, Inc.</name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Harris Henderson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name>Apex Data Services, Inc., Harris Henderson, and Jill Kuhn Sexton</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca.  40K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="title page">North Carolina in the World War.  An Address Delivered Before the North Carolina Bar Association at Blowing Rock, N.C. July 5, 1923</title>
+            <author>Walter Clark, Jr., 1885-1933</author>
+          </titleStmt>
+          <extent>20 p.</extent>
+          <publicationStmt>
+            <pubPlace>[Charlotte, N.C.]</pubPlace>
+            <publisher>Charlotte Chamber of Commerce</publisher>
+            <date>1924</date>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number Cp970.9 C59n (North Carolina Collection, University of North Carolina at Chapel Hill)</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been entered using double-keying and verified against the original. </p>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Running titles have not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>World War, 1914-1918 -- North Carolina.</item>
+            <item>World War, 1914-1918 -- War work -- North Carolina.</item>
+            <item>United States. Army. Division, 30th.</item>
+            <item>United States. Army. Infantry Division, 81st.</item>
+            <item>World War, 1914-1918 -- Campaigns.</item>
+            <item>Speeches, addresses, etc., American -- North Carolina -- Blowing Rock.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-04-26, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-04-03, </date>
+        <respStmt>
+          <name>Jill Kuhn Sexton </name>
+          <resp/>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-03-22, </date>
+        <respStmt>
+          <name>Harris Henderson</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-01-25, </date>
+        <respStmt>
+          <name>Apex Data Services, Inc.</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the text.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div1 type="cover">
+        <p>
+          <figure id="cover" entity="clarkcv">
+            <p>[Cover Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="title page">
+        <p>
+          <figure id="title" entity="clarktp">
+            <p>[Title Page Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main"><hi rend="italics">North Carolina</hi> <lb/> <hi rend="italics">in the</hi> <lb/> <hi rend="italics">World War</hi></titlePart>
+        </docTitle>
+        <byline>
+          <hi rend="italics">An Address by</hi>
+        </byline>
+        <docAuthor>WALTER CLARK, JR. <lb/> Member of Charlotte Bar and Vice-Pres. N. C. Bar Association, <lb/> formerly Captain in 30th U. S. Division <lb/> and Graduate U. S. Army Staff College <lb/> at Langres, France</docAuthor>
+        <docTitle>
+          <titlePart type="main"><hi rend="italics">Delivered before the</hi> <lb/> <hi rend="italics">North Carolina Bar Association</hi> <lb/> <hi rend="italics">at Blowing Rock, N. C.</hi> <lb/> <hi rend="italics">July 5, 1923</hi></titlePart>
+        </docTitle>
+        <docImprint>
+<publisher><hi rend="italics">Published by</hi> <lb/> CHARLOTTE CHAMBER OF COMMERCE</publisher>
+<docDate>1924</docDate></docImprint>
+      </titlePage>
+    </front>
+    <body>
+      <div1 type="section">
+        <pb id="p3" n="3"/>
+        <p>
+          <figure id="ill1" entity="clark3">
+            <p>[Illustration]</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="section">
+        <head>NORTH CAROLINA <lb/> in the WORLD WAR</head>
+        <byline>
+          <hi rend="italics">By Walter Clark, Jr.</hi>
+        </byline>
+        <p>FIVE years ago, 92,000 North Carolinians in the khaki of the army and the blue of the navy were in America's first line of defense against German aggression. Two and one-half millions of North Carolinians, at home, with their substance and their time, were in America's second line of defense.</p>
+        <p>Five years ago, out of every eight North Carolinians above the age of 18 years, one was wearing the uniform of honor—sailor, soldier or marine of the United States—and wearing it with honor.</p>
+        <p>Five years ago, North Carolinians startled the world by smashing through the Hindenburg line at Bellicourt; and five years ago, North Carolinians were partakers in the glories of Chateau Thierry, San Mihiel and Meuse-Argonne. Five years ago, North Carolinians proved themselves worthy descendants of the men who stormed the slopes of Kings Mountain and charged the British lines at Guilford Court House, and worthy descendants of the men who were “First at Bethel, farthest to the front at Gettysburg and Chickamauga, and last at Appomattox.”</p>
+        <p>Perhaps, as General Pershing said in Charlotte on the 20th of May, 1922: “It is needless to say anything about the splendid record made by North Carolina during the World War, for everyone
+<pb id="p4" n="4"/>
+well knows the loyal support and co-operation of her citizens and the magnificent records made by the 30th and 81st Divisions, so largely composed of North Carolinians.”</p>
+        <p>However, there may be some facts in that record which it is worth while to mention again.</p>
+        <div2 type="section">
+          <head>THE CALL TO ARMS</head>
+          <p>When the call of America rose for its men, from the mountain cabin and from the farm, the factory and the bar, the pulpit and, aye, even from the convict camp came streaming to the colors the young manhood of North Carolina. The son of wealth and the son of poverty, the preacher and the convict stood shoulder to shoulder.</p>
+          <p>It was the proud boast of my own company that it could furnish at a moment's notice any kind of man, from a burglar to a preacher. In it were illiterates and college graduates; men who owned automobiles and men who worked on the automobiles of others; men without means of support and hustling wide-awake young business men; farmers, painters, carpenters, and machinists, an ex-convict and a preacher. For six days in the week the preacher was an excellent soldier but, invariably, he remembered the Sabbath day to keep it holy, and on that day he refused to do guard duty, drill or perform any of the duties of a soldier.</p>
+          <p>Flocking to the colors, these men came, not for personal gain nor profit; they came not for honor, nor glory, nor riches; they came in simple obedience to their duty.</p>
+          <p>As for the few laggards who evaded the call of their country, there is only pity and sorrow; pity, that they must walk through life, marked as men who failed their country in its time of need, and sorrow, that their descendants can never say, “My father served his country in the greatest war of modern times.”</p>
+        </div2>
+        <div2 type="section">
+          <pb id="p5" n="5"/>
+          <head>WHITES AND COLORED</head>
+          <p>Of the 92,000 North Carolinians in the service of their country, not all were white; 20,000 were colored and 72,000 white, or nearly four white men to every colored man. At first glance, it is surprising that the white population in North Carolina, which is only double that of the colored population, should have furnished, not twice, but four times as many soldiers as the colored population. Probably, however, this was due to the fact that the white population was more physically fit than the colored population.</p>
+        </div2>
+        <div2 type="section">
+          <head>KILLED, WOUNDED AND DIED</head>
+          <p>And what were the penalties exacted of these 92,000 North Carolinians who served their country?</p>
+          <p>Six hundred and forty-eight were killed out-right on the field of battle. Many others died of their wounds. Four thousand eight hundred and twelve North Carolinians were killed or wounded in battle.</p>
+          <p>And in addition to that, 1,961 North Carolinians died from various causes while in service—a total casualty list of 6,773 North Carolinians.</p>
+          <p>One out of every fifteen (15) North Carolinians who donned the khaki of the army or the blue of the navy, came not home again or came broken in body or mind. Truly, North Carolinians, in the few short months that America was on the battle line must have been in the “focal and the foremost fire.”</p>
+        </div2>
+        <div2 type="section">
+          <head>PHYSICAL CONDITION OF NORTH CAROLINIANS</head>
+          <p>The official records bring out a pleasing fact about the North Carolinians who volunteered or were called for service. Over 65% of the North Carolinians examined were found physically fit for the strenuous and arduous duties of active service. This was a higher percentage than any
+<pb id="p6" n="6"/>
+of our adjoining states—South Carolina, Georgia, Tennessee or Virginia. It shows a better physical manhood than Pennsylvania, New York or any New England State. It was only exceeded by Kentucky and some of the middle western states.</p>
+        </div2>
+        <div2 type="section">
+          <head>ORGANIZATIONS IN WHICH NORTH CAROLINA <lb/> SERVED</head>
+          <p>Most naturally people ask, in what organizations did the North Carolinians serve? Until the World War, the United States always went into war by states. The troops were composed of men from a state and were known and designated as State Troops. Thus, in the Spanish-American War, the troops who first entered Havana, Cuba, were North Carolinians who were known and designated as the 1st North Carolina Infantry.</p>
+          <p>In the World War, this system was changed and for the first time in its history the United States went to war as a nation. State lines were disregarded and units were no longer designated as State Troops.</p>
+          <p>There were three distinct sources which furnished the soldiers in the World War—the regular army, the national guard, and the national army or men chosen by lot or draft for service. The national guard units were taken into service as a unit but their designation was changed and their ranks filled with volunteers or men chosen by lot. Thus, the 3rd North Carolina Infantry, with whom I had the honor to serve, was inducted into service of the United States and was thereafter known as the 120th Infantry of the 30th Division. The ranks of this unit were filled with men from various states.</p>
+          <p>So we may say that there were no units or organizations in the World War composed exclusively of North Carolinians, and very, very few, in which North Carolinians formed a majority in the organization. But in every organization
+<pb id="p7" n="7"/>
+there were individual North Carolinians. They served everywhere that American Troops went. North Carolinians were wounded in Italy and North Carolinians fell at Chateau Thierry as well as on Flanders fields and on the Meuse-Argonne.</p>
+          <p>In two combat divisions are found more North Carolinians than in any other organizations. These combat divisions were the 30th, called Old Hickory Division, after Andrew Jackson, and the 81st Division, called the Wildcat Division, from the fighting animal of that name in the mountains of the Carolinas and Tennessee.</p>
+        </div2>
+        <div2 type="section">
+          <head>THE 30TH DIVISION</head>
+          <p>The bulk of the 30th Division was composed of National Guardsmen from North Carolina, South Carolina and Tennessee, many of whom had seen service in 1916 on the Mexican border. They were trained at Camp Sevier, near Greenville, S. C., and were sent to France in May, 1918.</p>
+          <p>Two of the four regiments of infantry, the 119th and 120th Infantry, the 113th Field Artillery and the 105th Engineers, in this division, were largely North Carolinians—in fact decidedly more than a majority were North Carolinians.</p>
+          <p>Upon arrival in France, the artillery was detached and sent to the south as part of the American Army and took part in the Meuse-Argonne battle. It did not rejoin the division until after the Armistice. The rest of the division became a part of the British Army. The 27th American Division, from New York, was the only other American Division placed with the British Army.</p>
+          <p>The 30th Division first went into line near Ypres, Belgium—or Wipers, as the British called it. Here the 30th had its first battle, capturing the Belgian town of Voormezele, north of Mt. Kemmel, and pushing the Germans back from Ypres.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="p8" n="8"/>
+          <head>ATTACK ON THE HINDENBURG LINE</head>
+          <p>In September, the 30th Division and the 27th Division from New York were transferred to and became a part of the 4th British Army—the 2nd American Corps of the 4th British Army.</p>
+          <p>Orders arrive that the 4th British Army is to attack the Hindenburg line, against which assaults have always failed. The 46th British Division is to attack on the right, the 30th Division in the center, and the 27th Division of New York on the left.</p>
+          <p>To lead the assault for the 30th Division, the 119th and 120th Infantry Regiments are chosen; they are to attack side by side. These two regiments are the old North Carolina National Guard Regiments, the 2nd and 3rd North Carolina Infantry, and a majority of their men are North Carolinians. Behind these two regiments are to follow the 117th and 118th Regiments from South Carolina and Tennessee.</p>
+          <p>And behind the 30th Division is to follow the 5th Australian Division.</p>
+          <p>And what is this Hindenburg Line which has held the British in check for four years and which these men are ordered to storm?</p>
+          <p>First, there are three rows of heavy barbed wire, each row 30 to 40 feet in depth; the wire is twisted and twined about as the thickest of vines in very heavy undergrowth; and it is so heavy that pliers will not cut it and artillery fire on it has little effect.</p>
+          <p>There are three rows of trenches on which the Germans have spent four years in constructing and perfecting to offer resistance.</p>
+          <p>Behind the three rows of wire entanglements and three rows of trenches is the San Quentin Canal and the village of Bellicourt. The canal was built by the Great Napoleon, and when it reaches the ridge on which Bellicourt is situated,
+<pb id="p9" n="9"/>
+it goes into a tunnel underground beneath the village of Bellicourt and beneath the ridge for about a mile and a half. At places, this canal is 193 feet underground. An entire division of troops can be placed in it and be entirely safe during an attack. From the tunnel and canal lead concrete passageways to the village of Bellicourt overhead and to the various trenches. Troops can safely go from the tunnel to the trenches and the village. Everywhere German machine guns are cunningly placed so that their fire will cross each other. The village of Bellicourt and the canal are heavily fortified.</p>
+          <p>Behind the village of Bellicourt and the canal lie open fields. Then there are barbed wire entanglements and trenches again, called the Catelet-Nauroy line. Beyond them lie fortified villages, one of which is called Nauroy.</p>
+          <p>The 30th Division, with two North Carolina Regiments leading the way, are ordered to capture this ground and after capturing the Catelet-Nauroy line of trenches and the village of Nauroy, to halt just beyond.</p>
+        </div2>
+        <div2 type="section">
+          <head>THE ATTACK</head>
+          <p>On the night of the 28th of September, 1918, the two North Carolina Regiments move up to the front lines and take their positions. At 1:00 o'clock that night, two men and an officer from each company crawl out of the trenches and beyond their wire, with rolls of white tape. They spread this white tape on the ground in a long line parallel with the trenches. At 4:00 o'clock that night or the morning of the 29th, the men crawl out of the trenches and locate their positions in the dark by the white tape. By 4:30 a. m. the North Carolinians are in position. Time drags on. At 5:40 a. m. the tanks bang and crash their way up to the tape. For 48 hours now, the British Artillery has been steadily and incessantly firing at the German trenches and fortifications.</p>
+          <pb id="p10" n="10"/>
+          <p>It is 5:50 a. m.! Sixteen brigades of British Artillery open fire. Regiments of machine guns join in. And the long range, heavy artillery joins the terrific chorus. Red and green and white rockets flash into the air from the German trenches as signals to the German guns; promptly every German gun opens fire. The earth quivers with the impact.</p>
+          <p>The North Carolina Regiments move forward. North Carolinians are falling beneath the deluge of shells and machine gun bullets. Capt. Ben Dixon is shot and falls. He rises and goes forward. Again he is shot. Still he goes forward. Then a bullet crashes through his gallant heart and he falls and is still.</p>
+          <p>The North Carolina Regiments reach the wire entanglements. The tanks are plowing great lanes through them. The artillery fire on the wire entanglements has done little damage. The North Carolinians follow through on the lanes made by the tanks and cross it somehow at other points. They reach the German trenches. The attack is going well.</p>
+          <p>Suddenly a thick mist settles upon all which mingling with the smoke from bursting shells makes it impossible for anyone to see six yards away. Out of the mist come whining machine gun bullets—one hundred to the minute. The ground is quivering with the ceaseless and incessant impact and explosion of heavy shells. Companies lose all semblance of order. No man knows where his company officers are—many have fallen. And worse yet, no man knows where his comrades are; whether advancing with him through the mist or retreating. The mist and smoke cover all. Suddenly the two or three comrades which he can see, fall. He stands alone in a mist with shells falling like rain and death all about him.</p>
+          <p>It is a time when the bravest might well pause. You North Carolina farmer boy, private in the
+<pb id="p11" n="11"/>
+ranks, alone in the mist amid the rocking gun-fire, amid death and destruction, what will you do this day? May the God of Battles, and the courage of your fathers be with you this day!</p>
+          <p>North Carolina goes forward.</p>
+          <p>The gates of Death are swinging wide and many a North Carolinian in the flush of his manhood steps within.</p>
+          <p>The Canal is crossed; the village of Bellicourt is captured. The artillery barrage halts fifteen minutes for the North Carolinians to cross the canal and to capture Bellicourt. One company of North Carolinians stop in Bellicourt to capture the Germans in cellars and in dugouts. Another company hastens to seize all exits from the tunnel.</p>
+          <p>North Carolina goes forward.</p>
+          <p>Across the fields they go. They reach the wire entanglements and treanches called the Catelet-Nauroy line. They cross it. The fortified village of Nauroy falls before them. Just beyond this, they halt. It is 11:30 a. m. and they have reached their objective. They lie down.</p>
+          <p>To their left, the 27th American Division from New York is battling desperately for the village of Bony. They have failed to keep up with the North Carolinians. On the right, the 46th British Division is doggedly pushing ahead. They have not kept pace with the North Carolinians.</p>
+          <p>The North Carolina Regiments are the first of the Allied Army to storm and cross the Hindenburg Line!</p>
+          <p>Behind them there is cheering. The debonair and gallant 5th Australian Division appears. The Australians are passing through the North Carolinians to carry on the attack as scheduled. As they pass through, the Australians yell, “Hi, Yanks, what in the hell are you quitting for?
+<pb id="p12" n="12"/>
+Come on and let's finish this job.” The pride of the North Carolinians is touched. Against orders and by ones, twos and threes, they slip in among the Australians and push forward in the fight all afternoon. Night falls and the advance stops.</p>
+          <p>Proudly now may North Carolina write on her banner, “29th September, 1918. The first to cross the Hindenburg Line. Bellicourt and San Quentin Canal.”</p>
+          <p>The 30th Division engages in other battles in October, but it is their exploit on the 29th of September on which their fame rests and rests securely.</p>
+          <p>During the war, the 30th Division advanced a total of about 20 miles over German opposition, captured 3,848 prisoners and had 11,000 men killed or wounded or many over one-third of its total.</p>
+          <p>Curious things happen in a battle. There was one North Carolinian in the attack on the 29th of September who had a mania for collecting souvenirs. As soon as the attack started he threw away his rifle and away he went hunting for German helmets. Amid the most terrific artillery and machine gun fire, with men falling all around him, he dashed over the field picking up German helmets and German Ludger pistols and other souvenirs. Can you imagine it? That night he came staggering up to the company, completely exhausted, loaded down with all kinds of souvenirs of the battle.</p>
+          <p>Another North Carolinian, a sergeant and two men, got completely lost in the mist. They cannot tell in which direction the attack is going, in which direction the German lines are or in which direction the American lines. As they are wandering around, they suddenly spy about seven Germans in a trench. The Germans see them about the same time. Both are equally surprised. The Germans threw their hands up in the air and
+<pb id="p13" n="13"/>
+commence yelling, “Kamerad,” “Kamerad.” The sergeant goes over to them and accepts their surrender. Then from nearby dugouts Germans pour out until 144 Germans have surrendered to these three North Carolinians. The sergeant makes the Germans guide him back to the American lines and proudly marches in with his 144 prisoners of war.</p>
+        </div2>
+        <div2 type="section">
+          <head>COMMENDATIONS OF THE 30TH DIVISION</head>
+          <p>There were some commendations of the 30th Division which should be placed on record, made by soldiers with the moderation of fighting men.</p>
+          <p>General Pershing in his final report says:</p>
+          <q direct="unspecified">
+            <p>“The Second Army Corps, Major-General Read commanding, with the 27th and 30th Divisions on the British Front, was assigned the task in cooperation with the Australian Corps of breaking the Hindenburg Line at Le Cateau, where the San Quentin Canal passes through a tunnel under a ridge. In this attack, carried out on the 29th of September and October 1st, the 30th Division speedily broke through the main line of defense and captured all of its objectives, while the 27th progressed until some of its elements reached Guoy.”</p>
+          </q>
+          <p>That is, the 30th Division accomplished completely the task demanded of them, while the 27th Division fought gallantly but did not quite reach their objective.</p>
+          <p>General Sir John Monash, Commander of the Australian Corps, said:</p>
+          <q direct="unspecified">
+            <p>“The Corps Commander desires to make known to you his appreciation of the splendid fighting qualities of your division, and of the results accomplished in their part in breaking this formidable portion of the Hindenburg Line. It is undoubtedly due to the troops of this corps that the line was broken and the operations now going on made possible.</p>
+          </q>
+          <pb id="p14" n="14"/>
+          <q direct="unspecified">
+            <p>“The unflinching determination of these men, their gallantry in battle and the results accomplished are an example for the future. They will have their place in history and must always be a source of pride to your people.”</p>
+          </q>
+          <p>Coming from the fighting Australians, this was praise indeed.</p>
+          <p>And Sir Douglas Haig, Commander-in-Chief of the British, said:</p>
+          <q direct="unspecified">
+            <p>“On the 29th of September, you took part with distinction in the great and critical attack which shattered the enemy's resistance in the Hindenburg line, and opened the road to final victory. The deeds of the 27th and 30th American Divisions, who on that day took Bellicourt and Nauroy (these were taken by North Carolinians) and so gallantly sustained the desperate struggle for Bony, will rank with the highest achievements of the war. They will always be remembered by the British Regiments that fought beside you.</p>
+            <p>“I rejoice at the success which has attended your effort and am proud to have had you under my command.”</p>
+          </q>
+        </div2>
+        <div2 type="section">
+          <head>THE 81ST DIVISION</head>
+          <p>There was another American Division equally as gallant, the 81st or Wildcat Division. This was a National Army Division recruited principally from North Carolina, South Carolina, Tennessee and Florida. A large percentage of this division was, at all times, from North Carolina.</p>
+          <p>The 81st Division was trained at Camp Jackson, near Columbia, South Carolina. While at Camp Jackson it was noted throughout the army for the smart appearance of its men, its efficiency, its splendid drills and excellent discipline. It was held up to other divisions as one of the model divisions.</p>
+          <p>It was sent to France in August, 1918, and after only a month's training in France, it was placed
+<pb id="p15" n="15"/>
+in the front lines in the Vosges Mountains as part of the 33rd French Corps. It held these trenches for a month, during which time serious raids were attempted by the Germans, and each time gallantly repulsed.</p>
+          <p>On the 19th of October this division was withdrawn from the trenches in the Vosges and became a part of the American Army. It was moved towards Verdun.</p>
+          <p>On the 6th of November it replaced the 35th American Division in the front line.</p>
+          <p>On the night of the 8th of November it received orders to attack the Germans in the Woevre Plain the next morning. At 8:00 o'clock on the morning of the 9th of November the 81st went over the top against three German Divisions—the 5th Prussian Guards, 3rd Bavarians and the 13th Landwehr. The Germans had held their positions since early in the war; their lines were full of concrete pill boxes and strong centers of resistance and the low, marshy plain was filled with wire entanglements.</p>
+          <p>There was little artillery preparation, due to lack of heavy guns and of horses for the 75's. The 81st Division went forward and drove the Germans back.</p>
+          <p>Again on the 10th of November the 81st Division went forward against the stubbornly resisting Germans and drove them back.</p>
+          <p>And on the 11th of November the 81st Division fought until the Armistice at 11 o'clock.</p>
+          <p>During these two days and a half of stubborn and desperate fighting, the 81st Division advanced about four miles without proper artillery support and against strong German Divisions who were desperate. As evidence of the desperate fighting and gallantry of the 81st Division is the fact that 1,032 men were killed or wounded in this division during these two and one-half days.</p>
+          <pb id="p16" n="16"/>
+          <p>Even now I do not understand why the American commanders ordered or permitted so many divisions to attack on the 11th of November, within a few short hours of the Armistice. Nothing was to be gained. And many Americans lost their lives in these useless attacks on the 11th of November.</p>
+        </div2>
+        <div2 type="section">
+          <head>COMMENDATION OF THE 81ST DIVISION</head>
+          <p>General Pershing said of the 81st Division:</p>
+          <q direct="unspecified">
+            <p>“The bearing of this division in this, its first experience in battle, showed the mettle of the officers and men, and gave promise of what it would become as a veteran. With such a record, the division may return home proud of its service in France as a part of the American Expeditionary Forces.”</p>
+          </q>
+        </div2>
+        <div2 type="section">
+          <head>ENGINEER TRAIN OF THE 42ND DIVISION</head>
+          <p>There were other units in which North Carolinians served which may be briefly mentioned:</p>
+          <p>The 42nd or Rainbow Division was one of the first divisions to be sent to France. It was composed of National Guard Units from many different states and was called the Rainbow Division on account of the many states from which it was drawn. And in the opinion of many, was the best fighting body of troops in the American Army. The State of North Carolina furnished the Engineer Train of this division, which remained as a unit throughout their entire service, and North Carolina can well be proud of their service.</p>
+        </div2>
+        <div2 type="section">
+          <head>AVIATORS</head>
+          <p>North Carolina was unusually well represented among the Knights of the Air. In the LaFayette Escadrille there were more North Carolinians than there were from any other state.</p>
+          <pb id="p17" n="17"/>
+          <p>Among the North Carolinians who won fame in the air might be mentioned: Kiffin Rockwell; James McConnell, in whose honor a monument has been erected at Carthage, N. C.; James Baughman, of Washington, N. C.; Arthur Bluethenthal, of Wilmington, and Allan Blount, of Goldsboro.</p>
+        </div2>
+        <div2 type="section">
+          <head>HOSPITAL UNITS</head>
+          <p>Two Hospital Units furnished by North Carolina were especially noted for their efficiency and for the services they rendered to their comrades—Base Hospital No. 69, under the command of Dr. Lawrence, of Winston-Salem, N. C., and Base Hospital No. 0, under the command of Dr. Brenizer, of Charlotte, N. C.</p>
+          <p>Time forbids the mentioning of other hospital units, ambulance units and other special service branches in which North Carolinians achieved distinction and rendered service.</p>
+        </div2>
+        <div2 type="section">
+          <head>THE WOMEN OF NORTH CAROLINA</head>
+          <p>As to the women of North Carolina, who joined the Canteen, the Red Cross and other allied organizations, who cheered our soldiers at home and abroad, and as to the women of North Carolina, who ministered to the sick, the wounded and the dying, there can be no praise too high. Many sacrificed their health and others their lives. I cannot mention all and I am unwilling to mention only a few of these heroic women.</p>
+        </div2>
+        <div2 type="section">
+          <head>MEDALS</head>
+          <p>The Congress of the United States for acts of extraordinary bravery outside of the line of duty grants by a special act of Congress, a medal called the Congressional Medal of Honor, which is the highest honor an American soldier can win. It may be compared to the Victoria Cross of the British.</p>
+          <pb id="p18" n="18"/>
+          <p>A North Carolina farmer boy, from Person County, who was killed in action, was awarded this Congressional Medal of Honor. His name was Robert L. Blackwell.</p>
+          <p>The next highest honor which can come to an American soldier is to be awarded the Distinguished Service Cross—the D. S. C., as the soldiers usually call it. Over 200 D. S. C.'s were awarded to North Carolinians.</p>
+        </div2>
+        <div2 type="section">
+          <head>CIVILIANS</head>
+          <p>And while their sons, brothers and fathers were worthily upholding the traditions of their Tar Heel ancestors on the bloody fields of France and Belgium, the people at home were also nobly doing their part.</p>
+          <p>No call for men, for money, for work, for aid of any kind was made in vain to North Carolina.</p>
+          <p>The World War cost the United States over $1,000,000 for each and every hour she was a participant. As the cost of warring began to mount, the United States called on the citizens of the various states to buy Liberty Bonds and War Savings Stamps to help finance the struggle.</p>
+          <p>The citizens of North Carolina were asked to buy $150,000,000 of Liberty Bonds and War Savings Stamps. They responded by buying $160,000,000, or $10,000,000 more than the Government asked them to buy.</p>
+          <p>As an illustration to show the patriotism of our naturalized citizens, the Greeks of Charlotte, N. C., were asked to get together and buy as a unit. Their leaders called them together and in one day they purchased $65,000 of Liberty Bonds.</p>
+          <p>The Red Cross, the Y. M. C. A. and other kindred organizations called upon North Carolina for funds and cordially did our people respond. Two million dollars were given by North Carolinians to
+<pb id="p19" n="19"/>
+the Red Cross and United War Work. Two hundred and fifty thousand of our people enrolled as members of the Red Cross and manufactured two and one-half millions of articles for the comfort and use of our soldiers and sailors.</p>
+          <p>Then the Government stated that food would win the war, and our North Carolina men, women and children cheerfully observed every request to save food and promptly obeyed all requests for heatless and meatless days. Henry A. Page, of Aberdeen, directed the production and saving of food.</p>
+          <p>With Dr. D. H. Hill, formerly President of the State College, as head, a council of defense was organized to aid the Government in selling Liberty Bonds and War Savings Stamps, in encouraging and advising our people as to gardens and in watching and guarding against slackers and traitors. They served well.</p>
+          <p>Three North Carolinians were in important positions in the United States Government during the war. Representing the United States at the Court of St. James was Walter Page, Ambassador to Great Britain. As Commander-in-Chief of the greatest navy which has ever flown the American Flag was Josephus Daniels. And as Chairman of the War Finance Corporation was Angus Wilton McLean, of Lumberton. They deserve well of their country for the valuable services they rendered. It is needless to mention the loyal and patriotic services rendered by our United States Senators and Congressmen. They are well known to you.</p>
+        </div2>
+        <div2 type="section">
+          <head>CONCLUSION</head>
+          <p>Such are some of the salient facts in the record of North Carolina during the World War.</p>
+          <p>It is five years since the German guns roared out their last message of hate.</p>
+          <pb id="p20" n="20"/>
+          <p>Three thousand miles away, in the soil of France, rest the bodies of 30,000 Americans. In obedience to duty, they fell. Over them might well be erected such a monument as Sparta erected to its heroic citizens who fell, far from home, on the field at Thermopylae, which monument has the inscription, “Go and Sparta tell, that we rest here in obedience to her commands.”</p>
+          <p>In our own soil rest the bodies of another 30,000 Americans. And our hospitals are crowded with the 250,000 who were wounded.</p>
+          <p>For the dead, the racking gunfire has ceased; the bugles have poured out that haunting melody, taps, the lullaby of living soldier and the requiem of the dead; the last salute has been paid to their memory.</p>
+          <p>And have they died in vain? Have the leaders of the nations of earth failed to catch the vision and heed the warning uttered by that soldier who lies in Flanders Field?</p>
+          <lg type="poem">
+            <l>
+              <hi rend="italics">To you from falling hands we throw</hi>
+            </l>
+            <l>
+              <hi rend="italics">The torch. Be yours to hold it high!</hi>
+            </l>
+            <l>
+              <hi rend="italics">If you break faith with us who die,</hi>
+            </l>
+            <l>
+              <hi rend="italics">We shall not sleep, though poppies grow</hi>
+            </l>
+            <l>
+              <hi rend="italics">In Flanders Field.</hi>
+            </l>
+          </lg>
+          <p>If the leaders of the nations have failed to catch the vision, then may the men who offered their lives to their country rally once again about the colors and lead the world to a better and brighter day.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

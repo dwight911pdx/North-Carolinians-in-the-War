@@ -1,0 +1,2256 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+<!ENTITY % external-entities SYSTEM "./extEntities.dtf">
+<!ENTITY % internal-entities SYSTEM "./intEntities.dtf">
+<!ENTITY braggp59a SYSTEM "braggp59a.jpg" NDATA jpeg>
+<!ENTITY braggp59b SYSTEM "braggp59b.jpg" NDATA jpeg>
+<!ENTITY braggcover SYSTEM "braggcover.jpg" NDATA jpeg>
+<!ENTITY braggiifrntpc SYSTEM "braggiifrntpc.jpg" NDATA jpeg>
+<!ENTITY braggp9 SYSTEM "braggp9.jpg" NDATA jpeg>
+<!ENTITY braggp5 SYSTEM "braggp5.jpg" NDATA jpeg>
+<!ENTITY braggp6 SYSTEM "braggp6.jpg" NDATA jpeg>
+<!ENTITY braggp7 SYSTEM "braggp7.jpg" NDATA jpeg>
+<!ENTITY braggp8 SYSTEM "braggp8.jpg" NDATA jpeg>
+<!ENTITY braggp15b SYSTEM "braggp15b.jpg" NDATA jpeg>
+<!ENTITY braggp15a SYSTEM "braggp15a.jpg" NDATA jpeg>
+<!ENTITY braggp18 SYSTEM "braggp18.jpg" NDATA jpeg>
+<!ENTITY braggp17 SYSTEM "braggp17.jpg" NDATA jpeg>
+<!ENTITY braggp10 SYSTEM "braggp10.jpg" NDATA jpeg>
+<!ENTITY braggp11 SYSTEM "braggp11.jpg" NDATA jpeg>
+<!ENTITY braggp12 SYSTEM "braggp12.jpg" NDATA jpeg>
+<!ENTITY braggp13 SYSTEM "braggp13.jpg" NDATA jpeg>
+<!ENTITY braggp14 SYSTEM "braggp14.jpg" NDATA jpeg>
+<!ENTITY braggp16 SYSTEM "braggp16.jpg" NDATA jpeg>
+<!ENTITY braggp43a SYSTEM "braggp43a.jpg" NDATA jpeg>
+<!ENTITY braggp43b SYSTEM "braggp43b.jpg" NDATA jpeg>
+<!ENTITY braggp19 SYSTEM "braggp19.jpg" NDATA jpeg>
+<!ENTITY braggp23 SYSTEM "braggp23.jpg" NDATA jpeg>
+<!ENTITY braggp20 SYSTEM "braggp20.jpg" NDATA jpeg>
+<!ENTITY braggp21 SYSTEM "braggp21.jpg" NDATA jpeg>
+<!ENTITY braggp22 SYSTEM "braggp22.jpg" NDATA jpeg>
+<!ENTITY braggp24 SYSTEM "braggp24.jpg" NDATA jpeg>
+<!ENTITY braggp25 SYSTEM "braggp25.jpg" NDATA jpeg>
+<!ENTITY braggp26 SYSTEM "braggp26.jpg" NDATA jpeg>
+<!ENTITY braggp27 SYSTEM "braggp27.jpg" NDATA jpeg>
+<!ENTITY braggp28 SYSTEM "braggp28.jpg" NDATA jpeg>
+<!ENTITY braggp29 SYSTEM "braggp29.jpg" NDATA jpeg>
+<!ENTITY braggp37 SYSTEM "braggp37.jpg" NDATA jpeg>
+<!ENTITY braggp32 SYSTEM "braggp32.jpg" NDATA jpeg>
+<!ENTITY braggp30 SYSTEM "braggp30.jpg" NDATA jpeg>
+<!ENTITY braggp31 SYSTEM "braggp31.jpg" NDATA jpeg>
+<!ENTITY braggp33 SYSTEM "braggp33.jpg" NDATA jpeg>
+<!ENTITY braggp34 SYSTEM "braggp34.jpg" NDATA jpeg>
+<!ENTITY braggp35 SYSTEM "braggp35.jpg" NDATA jpeg>
+<!ENTITY braggp36 SYSTEM "braggp36.jpg" NDATA jpeg>
+<!ENTITY braggp38 SYSTEM "braggp38.jpg" NDATA jpeg>
+<!ENTITY braggp39 SYSTEM "braggp39.jpg" NDATA jpeg>
+<!ENTITY braggback SYSTEM "braggback.jpg" NDATA jpeg>
+<!ENTITY braggp40 SYSTEM "braggp40.jpg" NDATA jpeg>
+<!ENTITY braggp41 SYSTEM "braggp41.jpg" NDATA jpeg>
+<!ENTITY braggp42 SYSTEM "braggp42.jpg" NDATA jpeg>
+<!ENTITY braggp44 SYSTEM "braggp44.jpg" NDATA jpeg>
+<!ENTITY braggp45 SYSTEM "braggp45.jpg" NDATA jpeg>
+<!ENTITY braggp46 SYSTEM "braggp46.jpg" NDATA jpeg>
+<!ENTITY braggp48 SYSTEM "braggp48.jpg" NDATA jpeg>
+<!ENTITY braggp49 SYSTEM "braggp49.jpg" NDATA jpeg>
+<!ENTITY braggp58 SYSTEM "braggp58.jpg" NDATA jpeg>
+<!ENTITY braggp47a SYSTEM "braggp47a.jpg" NDATA jpeg>
+<!ENTITY braggp50 SYSTEM "braggp50.jpg" NDATA jpeg>
+<!ENTITY braggp51 SYSTEM "braggp51.jpg" NDATA jpeg>
+<!ENTITY braggp52 SYSTEM "braggp52.jpg" NDATA jpeg>
+<!ENTITY braggp53 SYSTEM "braggp53.jpg" NDATA jpeg>
+<!ENTITY braggp54 SYSTEM "braggp54.jpg" NDATA jpeg>
+<!ENTITY braggp55 SYSTEM "braggp55.jpg" NDATA jpeg>
+<!ENTITY braggp56 SYSTEM "braggp56.jpg" NDATA jpeg>
+<!ENTITY braggp57 SYSTEM "braggp57.jpg" NDATA jpeg>
+<!ENTITY braggp47b SYSTEM "braggp47b.jpg" NDATA jpeg>
+<!ENTITY braggiiitp SYSTEM "braggiiitp.jpg" NDATA jpeg>
+<!ENTITY braggp60 SYSTEM "braggp60.jpg" NDATA jpeg>
+<!ENTITY braggp62 SYSTEM "braggp62.jpg" NDATA jpeg>
+<!ENTITY braggp64 SYSTEM "braggp64.jpg" NDATA jpeg>
+<!ENTITY braggp66 SYSTEM "braggp66.jpg" NDATA jpeg>
+<!ENTITY braggp68 SYSTEM "braggp68.jpg" NDATA jpeg>
+<!ENTITY braggp70 SYSTEM "braggp70.jpg" NDATA jpeg>
+<!ENTITY braggp72 SYSTEM "braggp72.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="wwi" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>Camp Bragg and Fayetteville. Sketches of Camp and City:</emph>
+Electronic Edition.</title>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Apex Data Services, Inc.</name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Harris Henderson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name>Apex Data Services, Inc., Melissa Meeks, and Jill Kuhn Sexton</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca.  100K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="title page">Camp Bragg and Fayetteville. Sketches of Camp and City</title>
+          </titleStmt>
+          <extent>  72   p., ill.</extent>
+          <publicationStmt>
+            <pubPlace>Richmond, Virginia</pubPlace>
+            <publisher>Central Publishing Co., Inc.</publisher>
+            <date>1919</date>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number   Cp 353.6 B81c (North Carolina Collection, University of North Carolina at Chapel Hill)</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been entered using double-keying and verified against the original. </p>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Running titles have not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>Fayetteville (N.C.) -- History.</item>
+            <item>World War, 1914-1918 -- Engineering and construction.</item>
+            <item>Camp Bragg (N.C.)</item>
+            <item>Camp Bragg (N.C.) -- History.</item>
+            <item>Military bases -- North Carolina -- History.</item>
+            <item>Fayetteville (N.C.) -- Description and travel.</item>
+            <item>Fayetteville (N.C.) -- Directories.</item>
+            <item>United States. Army -- Military construction operations.</item>
+            <item>United States. Army -- Facilities -- Design and construction.</item>
+            <item>Military bases -- Design and construction.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-04-26, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-04-03, </date>
+        <respStmt>
+          <name> Jill Kuhn Sexton </name>
+          <resp/>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-03-22, </date>
+        <respStmt>
+          <name>Melissa Meeks</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-01-25, </date>
+        <respStmt>
+          <name>Apex Data Services, Inc.</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the text.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div1 type="cover image">
+        <p>
+          <figure id="cover" entity="braggcover">
+            <p>[Cover Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="frontispiece">
+        <p>
+          <figure id="frontis" entity="braggiifrntpc">
+            <p>Old Cool Spring Oak, and the Residence of Major E. R. MacKethan.<lb/>[Frontispiece Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="title page image">
+        <p>
+          <figure id="title" entity="braggiiitp">
+            <p>[Title Page Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">CAMP BRAGG AND <lb/> FAYETTEVILLE <lb/> SKETCHES OF <lb/> CAMP AND <lb/> CITY</titlePart>
+        </docTitle>
+        <docImprint><docDate>COPYRIGHT 1919</docDate>
+<publisher>CENTRAL PUBLISHING CO., Inc.</publisher>
+<pubPlace>Richmond, Virginia</pubPlace></docImprint>
+      </titlePage>
+      <div1 type="preface">
+        <pb id="p4" n="4"/>
+        <head>Preface.</head>
+        <p>Our efforts have been expended toward a comprehensive description of the interesting features connected with the construction of the famous Artillery Camp within our borders, and to depict the attractiveness and commercial possibilities of the City of Fayetteville.</p>
+        <p>It has been our endeavor to give a full and edifying exposition of all that is of public concern.</p>
+        <p>We hope our booklet will be received with due appreciation by our readers and that we have fulfilled the object for which we have striven.</p>
+      </div1>
+    </front>
+    <body>
+      <div1 type="section">
+        <pb id="p5" n="5"/>
+        <head>Camp Bragg.</head>
+        <p>GREAT historical crises have always necessitated quick decisions effecting even the most vital details of administration. When Congress voted to commit our country to the alliance against the German menace, one of the first problems that confronted the government was the selection of sites and the rapid construction of camps suitable for the mobilization of the two million men who sprang to arms
+<figure id="ill1" entity="braggp5"><p>The Field Before Operations Began.</p></figure>
+almost over night. Naturally, propinquity to the large centers of population and to the tide water transportation routes determined the location of the first camps to be developed and the country was soon amazed at the completion within from sixty to ninety days of such enormous undertakings as Camp Devens, Mass., Camp
+<pb id="p6" n="6"/>
+<figure id="ill2" entity="braggp6"><p><q direct="unspecified"><text><body><div1 type="quote"><head>The <lb/> NATIONAL <lb/> BANK</head><head>FAYETTEVILLE, :-: N. C.</head><head>“The Big Bank on the <lb/> Corner”</head><p>Assets: $2,500,000 00</p><p>United States Government, State, County and <lb/> City Depository.</p><closer><signed>J. H. CULBRETH, <hi rend="italics">President.</hi></signed>
+<signed>J. W. McLAUCHLIN, <hi rend="italics">Vice-President.</hi></signed>
+<signed>A. B. McMILLAN, <hi rend="italics">Cashier.</hi></signed>
+<signed>T. M. SHAW, <hi rend="italics">Ass't Cashier.</hi></signed>
+<signed>R. L. HOLLAND, Jr., <hi rend="italics">Ass't Cashier.</hi></signed></closer></div1></body></text></q></p></figure>
+<pb id="p7" n="7"/>
+Upton, N. Y., Camps Merritt and Dix, New Jersey, Camp Meade, Maryland, each capable of housing from twenty to sixty thousand men. But when the first contingents of our army were provided for and the so-called temporary camps, with their restrictions in space, were well serving the purpose for which they were established, the administration at Washington was enabled to give more time and consideration to the selection of sites for the permanent camps that were afterward decided upon. Among these and probably the most wisely chosen of all, is the site upon which now stands the camp that bears the name of the famous hero, General Braxton Bragg.</p>
+        <p>
+          <figure id="ill3" entity="braggp7">
+            <p>Hauling Material from Supply Base to Point of Construction.</p>
+          </figure>
+        </p>
+        <p>In the late spring of nineteen hundred and eighteen a commission from the War Department, at the head of which was Major General Wm. J. Snow, visited Fayetteville, North Carolina, and after several days spent in touring the adjacent country, recommended the purchase or lease of land comprising 209 square miles, or 133,760 acres, 184.3 miles, or 118,000 acres, of which were subsequently acquired and have been converted into an artillery reservation, school and firing range.</p>
+        <p>Many natural advantages determined the commission upon the adoption of this site, among them and perhaps the most important being the superb climate. The reservation is located upon a high plateau 300 feet
+<pb id="p8" n="8"/>
+<figure id="ill4" entity="braggp8"><p><q direct="unspecified"><text><body><div1 type="quote"><head>La Fayette Bank &amp; Trust Co.</head><p>Capital -:- -:- $50,000</p><p>Fayetteville, N. C.</p><p>Prompt, Accurate and Courteous Service.</p><p>A Statement at the end of each month.</p><list type="simple"><item>JOHN R. TOLAR, Jr., <hi rend="italics">President.</hi></item><item>PAUL STEWART, <hi rend="italics">Cashier.</hi></item></list><list type="simple"><head>DIRECTORS:</head><item>JOHN R. TOLAR, Jr., <hi rend="italics">President.</hi></item><item>J. R. SANDERS, <hi rend="italics">Vice President.</hi></item><item>J. V. McGOUGAN, <hi rend="italics">Vice President.</hi></item><item>L. GENTRY, </item><item> S. B. GODWIN, </item><item> J. STEIN, </item><item> J. R. TOLAR, </item><item> D. N. SANDLIN, </item><item> E. A. POE, </item><item> J. W. HOLLINGSWORTH.</item></list></div1></body></text></q></p></figure>
+<pb id="p9" n="9"/>
+above sea level and about sixty miles from the coast as the crow flies and about 90 miles from Wilmington, the nearest seaport. The country is an old one for America, antedating in settlement the Revolutionary War by more than one hundred years. It was originally a primeval forest of long leaf pine and scrub oak. The turpentine industry, however, denuded the forest of the best of its graceful pines and left it to the cultivation of small farms of cotton and corn. But because of the absence of a substantial sub-soil these crops do not thrive as well here as in other parts of North Carolina and for this reason the raising of tobacco and wheat are rarely attempted. A rich strata of black loam covered
+<figure id="ill5" entity="braggp9"><p>Pay Day at Camp.</p></figure>
+with beautiful clean white sand produces many varieties of truck produce, melons and sweet potatoes and gives the land an appearance of unsurpassing verdure throughout almost the entire year. The white sand left by the sea in its pre-historic recession provides a wonderful natural drainage and together with the rolling character of the surface eliminates those features which cause malaria, typhoid and allied diseases. Mosquitoes are almost unknown. There is also a marked absence of vermin of all kinds, especially those that infest swampy regions. A deep swift running stream of clear pure water draining a small lake and fed by countless creeks, bisects the reservation from end to end contributing its share to the wonderful purity of the soil. There
+<pb id="p10" n="10"/>
+<figure id="ill6" entity="braggp10"><p><q direct="unspecified"><text><body><div1 type="quote"><head>J. SIMPSON SCHENCK<lb/>
+REAL ESTATE</head><p>204 Hay Street,</p><p>Fayetteville, N. C.</p><p>Phone 43</p></div1><div1 type="quote"><head>J. S. SCHENCK &amp; CO.</head><head>Sales Agents for <lb/> Mitchell and National Automobiles <lb/> and Federal Trucks</head><p>FAYETTEVILLE, N. C.</p></div1><div1 type="quote"><head>T. S. SALEEBY CO.</head><p>T. S. SALEEBY, Manager.</p><p>Manufacturers and Jobbers of <lb/> Candy</p><p>Fayetteville, :-: N. Carolina</p><p>WHOLESALE</p><p>Fruit and Produce Commission Merchants</p><p>Phones: Retail and Wholesale Store, 24.</p><p>Residence, 618-L.</p></div1></body></text></q></p></figure>
+<pb id="p11" n="11"/>
+is an abundant rainfall uniformly distributed throughout the year, but no long period of rain as in the tropics —no rainy season. This condition keeps the air normally cool and fresh. Frequent short showers followed by warm sunshine dispel the enervating humidity that has to be so unpleasantly endured on the coast both north and south during the summer. Because of the absence of clay in the composition of the soil there is scarcely any mud. Two hours after a hard down pour the ground will be found firm and dry.</p>
+        <p>It has been charged in some sections of the country that the South was shown an undue partiality in the distribution of the army camps but a little thought would
+<figure id="ill7" entity="braggp11"><p>Administration Building at Camp Bragg.</p></figure>
+reveal the wisdom of this course. It is a well known fact that as the wealth of a nation increases a large leisure class is formed which migrates like the birds in search of the localities where out-of-door life can be enjoyed for the longest continuous periods. Within a radius of forty miles of Camp Bragg there are a number of well known resorts, such as Pinehurst and Southern Pines, which hold the record for continuous “open house” over all sections of the United States excepting only California. So then Uncle Sam in selecting Camp Bragg had a kindly purpose in giving the soldiers who so loyally serve him the same climatic advantages that, as a rule can be obtained only by the favored few. With pure air, pure water and an almost complete absence
+<pb id="p12" n="12"/>
+<figure id="ill8" entity="braggp12"><p><q direct="unspecified"><text><body><div1 type="quote"><head>W. F. SMITH CO.</head><p>FAYETTEVILLE, NORTH CAROLINA</p><p>Wholesale Fruits <lb/> Produce, Groceries, Feed, Notions</p><p>Dealers and distributors of car lots and less than car lots—Apples, Oranges, Potatoes, Cabbage Onions, etc.</p><p>Telephone 151</p></div1><div1 type="quote"><head>Mail Order House</head><p>Low Prices</p><p>Prompt Service</p><p>Weekly Prices</p><p><hi rend="italics">List sent to Merchants on application.</hi></p><p>Fruit, Produce, Groceries, Feed, etc</p><p>FRANKLIN ST., - - - FAYETTEVILLE, N. C.</p><p>Telephone 151</p></div1></body></text></q></p></figure>
+<pb id="p13" n="13"/>
+of objectionable fauna the men quartered at Camp Bragg are given a maximum of wholesome recreation with a minimum of indoor confinement.</p>
+        <p>During the summer of 1918 a preliminary survey was made and plans were drawn up for the projected camp, which covered the grouping and distribution of various units and buildings. This work was under the personal supervision of Mr. C. F. Pilat, a patriotic citizen and an experienced Civic Planner of New York City. He like many others volunteered his services to the government with the <sic corr="conscientiousness">conscienciousness</sic> of serving his country.</p>
+        <p>The contract for surveying and drawing up the permanent unit plans was awarded to J. E. Sirrine, of
+<figure id="ill9" entity="braggp13"><p>Main Buildings of Base Hospital.</p></figure>
+Greenville, S. C., and the supervision of the work was placed in the hands of Mr. Cecil L. Reid and Earl Mauldin. That no mistake was made in the selection of this personnel is easily apparent in the location of the groups of buildings, their symmetrical arrangement, the assignment of the different blocks for specific purposes, the intersection and alignment of the concrete and sand clay roads for convenience of mobility and the general harmonizing of the whole scheme. In marked contrast to some of the camps that had to be built upon smaller areas, the buildings at Camp Bragg are erected in groups with considerable space of forest or open field between, plenty of room having been obtained for the purpose for which each group is intended. The
+<pb id="p14" n="14"/>
+<figure id="ill10" entity="braggp14"><p><q direct="unspecified"><text><body><div1 type="quote"><head>CLAYTON <lb/> CIGAR <lb/> COMPANY</head><p>TRADE C.C.C. MARK</p><p>Wholesale Only</p><p>Complete line of Cigars, Tobaccos, <lb/> Candies and Fountain Syrups.</p><p>Phone 22</p><p>Fayetteville, N. C.</p></div1><div1 type="quote"><p>WATCHES</p><p>DIAMONDS</p><p>THE UPTON JEWELRY CO.</p><p>Official Watch Inspector of Atlantic Coast Line and <lb/> Aberdeen &amp; Rockfish R. R. Cos.</p><p><hi rend="italics">Special attention to Engraving and Fine Repairs.</hi><lb/><hi rend="italics">Silverware and Glass.</hi></p><p>PHONE 366</p><p>FAYETTEVILLE, N. C.</p></div1></body></text></q></p></figure>
+<pb id="p15" n="15"/>
+<figure id="ill11" entity="braggp15a"><p>Group of Buildings at Camp Bragg.</p></figure>
+aviation field is two and one half miles from the balloon station; the remount station one and one half miles from the camp center, etc. For this reason various arms of the service can be quartered and their special requirements for training accomplished, although the camp was originally intended for artillery and aviation only.</p>
+        <p>The railroad which at the beginning of operations was only able to discharge men and material on a siding two miles from the camp center, has been so extended that a veritable net work of branches render the transportation of supplies to even the most remote points.</p>
+        <p>Instead of one huge concentration of barracks and mess buildings having been spotted at random over the camp ground, the scheme now reminds one of a number
+<figure id="ill12" entity="braggp15b"><p>Being Reviewed by Their Mascot.</p></figure>
+<pb id="p16" n="16"/>
+<figure id="ill13" entity="braggp16"><p><q direct="unspecified"><text><body><div1 type="quote"><p/><p>Superiority <lb/> Obligation <lb/><sic corr="Usefulness">Usefullness</sic><lb/> Durability <lb/> Efficiency <lb/> Reliability <lb/> Satisfaction <lb/> IS OUR MOTTO <lb/> to which we add a hearty <lb/> welcome to men in uniform <lb/> to make this Drug Store <lb/> “Headquarters Building”</p><p>SOUDERS'</p><p>Market Square</p><p>Fayetteville, N. C.</p></div1></body></text></q></p></figure>
+<pb id="p17" n="17"/>
+of small villages placed in a natural park and each within easy access of any other one in the cantonment.</p>
+        <p>On August 23rd, 1918, the contract for construction was awarded to James Stewart &amp; Co., Inc., of New York for an amount not to exceed $17,000,000. and originally called for a six brigade camp and a 2500 bed base hospital The construction of Camp Bragg has been accomplished under the direct supervision of Mr. R. M. Morris and Mr. D. R. Scott, who were ably assisted by a corps of skilled construction men, selected from Stewart &amp; Co.'s unequaled organization, under the personal direction of Mr. H. B. Deal. That the work could not have been placed in better hands is
+<figure id="ill14" entity="braggp17"><p>The Reservoir That Supplies the Camp.</p></figure>
+attested by the record of this old, long established firm in its successful execution since its organization in 1868, of a long list of large commissions for the government here and in France, as well as for private enterprises.</p>
+        <p>With the signing of the contract no time was lost by the contractors in getting on the ground and commencing work, and Monday, September 9th, 1918, saw the ground broken, the first nail driven and the precursor of the immense caravan of teams hauling lumber from the railroad siding to the site of the first building.</p>
+        <p>In less than three weeks the immense Administration Building was ready for occupancy and in an incredibly brief period the first bunk houses were in use. Fine autumn weather greatly facilitated the work.
+<pb id="p18" n="18"/>
+<figure id="ill15" entity="braggp18"><p><q direct="unspecified"><text><body><div1 type="quote"><p><table><row role="data"><cell role="data" rows="1" cols="1">1870</cell><cell role="data" rows="1" cols="1">1870</cell></row><row role="data"><cell role="data" rows="1" cols="1">1919</cell><cell role="data" rows="1" cols="1">1919</cell></row></table></p><p>Sheetz Furniture House</p><p>HARRY E. SHEETZ, Prop.</p><p>Telephone 579</p><p>120-22 Person St.</p><p>Fayetteville, N. C.</p><p>FAVORITE RANGES</p><p>DETROIT VAPOR OIL STOVES</p><p>McRAE REFRIGERATORS</p><p>Everything necessary for the house</p></div1><div1 type="quote"><head>RAY GROCERY CO.</head><p>Fayetteville's Best Eats</p><p>Phones 85-86</p><p>112 Hay St.</p><p>HEINZ 57 VARIETIES</p><p>ROYSTER CANDIES</p><p>BEECHNUT PRODUCTS</p><p>“A Complete Grocery”</p></div1></body></text></q></p></figure>
+<pb id="p19" n="19"/>
+A huge army of workmen flocked to the camp site from all parts of the United States. At first the men were quartered in Fayetteville and the first mess hall serving breakfast and supper was established there. A long train from the city to the siding ten miles north left every morning and returned every evening. Although accommodations at first were perhaps the crudest known to present day railway practice, <sic corr="antiquated">antequated</sic> cattle cars being used, the journey was short and scarcely ever was a complaint heard while the exchange of homely repartee and good natured badinage enlivened each trip.</p>
+        <p>
+          <figure id="ill16" entity="braggp19">
+            <p>The Doughboys at Ease.</p>
+          </figure>
+        </p>
+        <p>In a few weeks the bunk houses were completed and a number of mess halls opened on the grounds so that the hardships of the trip to and from Fayetteville no longer bad to be endured. From the start the commissary has been good though plain and for a moderate amount the men have been supplied with good wholesome food. Each of the fifty four bunk houses is one hundred and fifty-four feet long by twenty feet wide and is capable of housing comfortably seventy men. A single iron cot with mattress and springs was allotted each man and the company provided as many blankets to the individual as he required.</p>
+        <p>The winter having been a mild one, even for this climate, and the bunk houses being supplied with adequate heating facilities, there was practically no suffering
+<pb id="p20" n="20"/>
+<figure id="ill17" entity="braggp20"><p><q direct="unspecified"><text><body><div1 type="quote"><head>THE SERVICE</head><p>J. T. KELLY, Manager.</p><p>123 Donaldson St.</p><p>Telephone 367.</p><p>FAYETTEVILLE, N. C.</p><p>Palm Beach Cleaning a Specialty</p><p>Universal Garment Cleaning</p><p>Uniforms Given Special Attention</p><p><hi rend="italics">We call for your clothes and return them to you.</hi></p><p>Our Motto <lb/> SERVICE WITH SATISFACTION</p></div1><div1 type="quote"><p>1903</p><p>1919</p><p>J. H. Culbreth &amp; Co.</p><p>Wholesale Grocers</p><p>Carry Large Stocks of All Classes of Goods Usual <lb/> to Wholesale Grocery Trade.</p><p><hi rend="italics">Replenished Daily.</hi></p><p>HEAVY GROCERIES - - CANNED GOODS <lb/> SMOKING TOBACCOS - - CIGARS and <lb/> CIGARETTES - - CHEWING GUM <lb/> CAKES - - CRACKERS - - CANDY <lb/> HAY - - GRAIN - - MILL FEEDS</p><p>We Solicit Your Patronage</p></div1></body></text></q></p></figure>
+<pb id="p21" n="21"/>
+on account of the cold. Also, from the very beginning there has been a notable absence of illness and very few deaths, no epidemics and only sporadic cases of pneumonia and other diseases, which speaks volumes when the great wave of influenza that swept over the country is remembered.</p>
+        <p>For the most part, the character of the men was the best to be found anywhere upon the American continent. A large percentage came from nearby farms and small localities in North Carolina and contiguous states. Many a farmer left his home after harvest and passed the winter in profitable endeavor. A large number also came from the great labor centers of the north, and
+<figure id="ill18" entity="braggp21"><p>A Line of Tractors on the Field.</p></figure>
+these were found to be enterprising and moral. They were for the most part men desirous of spending a delightful winter away from the scenes of vice and lawlessness, with the attendant opportunities for saving the greater part of their earnings. The isolation of the camp ten miles from the nearest town, Fayetteville, enabled comparatively easy enforcement of the prohibition law and there was as a consequence, a minimum of violence and crime. No agitation occurred to mar the peaceful pursuit of the work. This is a remarkable record when the paucity of the military and the almost entire absence of civil authority is considered in the control of a somewhat heterogeneous force of over seven thousand men. There were no tragedies.</p>
+        <pb id="p22" n="22"/>
+        <p>
+          <figure id="ill19" entity="braggp22">
+            <p>
+              <q direct="unspecified">
+                <text>
+                  <body>
+                    <div1 type="quote">
+                      <head>The Clarendon Laundry</head>
+                      <p>42 Maxwell Street,</p>
+                      <p>FAYETTEVILLE, N. C.</p>
+                      <p>Phone 42.</p>
+                      <p>C. G. Carter, Mgr.</p>
+                      <p>“An American Laundry for <lb/> American People”</p>
+                      <p>Don't be afraid to trust us to laundry your finest clothes. We are doing this every day.</p>
+                      <p>The only up-to-date steam laundry <lb/> in our city</p>
+                      <p>Your Patronage Solicited.</p>
+                    </div1>
+                    <div1 type="quote">
+                      <head>The Vann Trading Company <lb/> FAYETTEVILLE, NORTH CAROLINA</head>
+                      <p>Make a Specialty of Satisfactory Service to <lb/> patrons and the public.</p>
+                      <p>Money refunded for all unsatisfactory <lb/> purchases</p>
+                      <p>High Grade Shoes for Men, Ladies, Boys, Girls and Infants, represent our line.</p>
+                      <p>We are specialists in Tailored and Ready-to-Wear Clothing, Hats, Caps and Furnishing Goods.</p>
+                      <p>Our prices are right, with special <lb/> commissions to soldiers <lb/> in uniform</p>
+                    </div1>
+                  </body>
+                </text>
+              </q>
+            </p>
+          </figure>
+        </p>
+        <pb id="p23" n="23"/>
+        <p>Notwithstanding the class of American labor which migrated to the fields of construction in the various localities of the south in an endeavor to take advantage of the increased rates which were being offered by the numerous contractors for common labor, it was found that the supply was utterly inadequate to meet the requirements of the work. In their dilemma the contractors were forced to obtain labor from foreign fields, such as the Mexicans, Porto Ricans, Spaniards, Cubans, and even, in some cases, the Asiatic races. This forced a condition unexpected and at the same time embarrassing to the contractors, owing to the fact that some of these laborers were diminutive in size, unacclimated
+<figure id="ill20" entity="braggp23"><p>Some of the Quarters for the Boys.</p></figure>
+and unable to meet in many cases what proved to them conditions to which they were unaccustomed, and could not adapt themselves. After experimenting with this class of labor at great loss of time and money, the contractors were forced to release them and proceed to make arrangements whereby they could send recruiting agents out to points where labor was concentrated, for the purpose of selecting, as far as possible, such men as might appear to be best fitted for their requirements, and even this course in most instances failed to produce adequate results.</p>
+        <p>At first there was no means of providing the more conventional entertainments and so diversions were impromptu and spontaneous, but after the necessary
+<pb id="p24" n="24"/>
+<figure id="ill21" entity="braggp24"><p><q direct="unspecified"><text><body><div1 type="quote"><head>THE ARMFIELD COMPANY<lb/>
+FAYETTEVILLE, N. C.</head><p>Wholesale Groceries, Fruits and Produce <lb/> Distributors of Bevo<lb/>
+A BEVERAGE</p></div1></body></text></q></p></figure>
+<pb id="p25" n="25"/>
+buildings were completed, the Knights of Columbus and Y. M. C. A. huts were erected and became established to the grateful appreciation of the enormous crowds who benefitted by them religiously and socially.</p>
+        <p>Every night the auditoriums of these two noble institutions were filled with happy and enthusiastic audiences and the entertainments were both elevating and recuperative. The best of the screen world could be obtained merely for the effort of attendance.</p>
+        <p>On May 4th, 1919, the new Liberty Theatre was informally opened. This is the most substantially constructed building in the cantonment. Its capacity is thirty-five <sic corr="hundred">bundred</sic> and it is without doubt the finest
+<figure id="ill22" entity="braggp25"><p>Knights of Columbus Hut.</p></figure>
+lecture hall and place of amusement in any camp in the United States. A high roof and numerous means of exit along three sides provide excellent ventilation. The stage is large enough to show the most elaborate productions. A pitch of about ten feet insures perfect vision even to the most distant spectator while the lighting and <sic corr="acoustic">accoustic</sic> properties are unexcelled. It is intended by the War Department to have here a series of entertainments two or three times a week throughout the year, besides during the day instructive discourses upon an endless variety of subjects will be given the men who are fortunate enough to be stationed at Camp Bragg.</p>
+        <p>In the early days all material had to be unloaded from the cars a distance of nearly two miles from the center of administration. This necessitated the clearing
+<pb id="p26" n="26"/>
+<figure id="ill23" entity="braggp26"><p><q direct="unspecified"><text><body><div1 type="quote"><head>Moreno Construction Co.<lb/>Contracting Engineers</head><p>  Government Constructors <lb/> of Sewers</p><p>We Built the <lb/> Sewer Systems <lb/> at <lb/> Camp Bragg, N. C.</p><p>Home Office:</p><p>Syndicate Trust Co. Building <lb/> St. Louis, Mo.</p><p>Branch Office:</p><p>Cleveland, Ohio.</p></div1></body></text></q></p></figure>
+<pb id="p27" n="27"/>
+of wide spaces through the woods and uprooting of stumps and leveling of some parts to enable the hundreds of mule teams to haul lumber and supplies. Immediate preparations were made and work commenced for the furnishing of an adequate supply of water from McFayden's lake on the reservation and pumping it into large tanks which were placed on towers about fifty feet from the ground. This supplied enough water for use until the installation of the permanent supply was completed. A large dam across Little River deflects a sufficient amount of pure fresh water into a filtration plant through which it is pumped to a large reservoir three miles away, the location chosen on account
+<figure id="ill24" entity="braggp27"><p>Sewer Line Under Construction.</p></figure>
+of its elevation, and from there distributed over the entire camp. By actual government analysis the raw water was found to be 99 plus per cent. pure and yet the authorities required its filtration and chemical treatment before being used by the soldiers. The best of Redwood pipe was sent from the Pacific coast for underground conduits. The amount of water thus obtained is adequately sufficient to supply the six brigade camp originally planned and in addition would furnish enough water in excess of these requirements for a city as large as Fayetteville.</p>
+        <p>With the introduction of an adequate water supply the question of plumbing and heating arose. The Fred Cantrell Company of Chattanooga, Tenn., and H. Kelly Company of Minneapolis, Minn., combined
+<pb id="p28" n="28"/>
+<figure id="ill25" entity="braggp28"><p><q direct="unspecified"><text><body><div1 type="quote"><head>TRADE “H. H. H.” MARK</head><p>One of the Largest Hardware <lb/> Houses in the South</p><p>We Carry a General Line <lb/> of Hardware, Razors, <lb/> Knives, Scissors and <lb/> other Cutlery</p><p>A Hearty Welcome and the <lb/> Right Price to Soldiers</p><p>HUSKE HARDWARE <lb/> HOUSE</p><p>Phones 32 and 40</p><p>405-09 Hay St. Fayetteville, N. C.</p></div1></body></text></q></p></figure>
+<pb id="p29" n="29"/>
+forces for the execution of this work. So rapid yet so thorough was their work accomplished that before cold weather had permanently set in all the main buildings were equipped with running water and the wood stoves removed and supplanted by steam heating systems. A large bath house serves every two of the barrack buildings so that the soldier can drop in at any hour of the day or night and indulge in a refreshing shower of hot or cold water.</p>
+        <p>The road and street paving contracts were given to T. H. Gill &amp; Co. of Binghamton, N. Y., Southern Paving Co. of Chattanooga, Tenn., and Simmons &amp; Whitten of Charlotte, N. C. The absence of mud
+<figure id="ill26" entity="braggp29"><p>The Dam.</p></figure>
+makes for fairly good natural roads if traffic is not too heavy, but this factor is to a large extent counterbalanced by the yielding character of the sandy surface, so with the influx of heavy army trucks and the increasing number of artillery, solid concrete roadways were constructed between the principal parts of the camp.</p>
+        <p>The Pierce Electric Company of Chicago, Illinois, secured the contract for interior lighting and The Perritt Iron &amp; Roofing Company of Pittsburgh, Pa., were awarded the contract for all sheet metal work on the barracks and buildings for camp administration.</p>
+        <p>The fire protection system is excellent, although so far it has fortunately never been put to a severe test. There are two high power pumping engines in use and
+<pb id="p30" n="30"/>
+<figure id="ill27" entity="braggp30"><p><q direct="unspecified"><text><body><div1 type="quote"><head>M. A. BETHUNE<lb/>FANCY GROCERIES</head><p>Telephone 346.</p><p>104 Green Street.</p><p>FAYETTEVILLE, N. C.</p><p>Premier Brand canned goods.</p><p>Ginger Ale and Salad Dressing.</p><p>Breakfast Bacon and Sliced Ham</p><p>New Electric Slicing Machine <lb/> Installed</p><p><hi rend="italics">Auto delivery to any point within city limits.</hi></p></div1><div1 type="quote"><head>THE OLD PRIOR STAND</head><p>Established 1834</p><p>J. H. EGGLESTON, Proprietor</p><p><hi rend="italics">Diamonds, Watches, Clocks, Jewelry and Cut Glass</hi></p><p>FAYETTEVILLE, N. C.</p></div1><div1 type="quote"><head>The Misses Isaacs</head><p>HAY STREET, Opposite THE STRAND</p><p>FAYETTEVILLE, N. C.</p><p>MILLINERY</p><p><hi rend="italics">We invite your inspection of our line of the season's</hi><lb/><hi rend="italics">most exclusive styles in millinery.</hi></p></div1></body></text></q></p></figure>
+<pb id="p31" n="31"/>
+a street hydrant situated every few hundred yards furnishes an adequate force of water when occasion may require.</p>
+        <p>The crowning work of the contractors is the permanent 500 bed Base Hospital. This consists of a group of twenty two buildings and is located upon a slight eminence in section 30 commanding a fine view over the rest of the camp and the surrounding country. Its construction is of hollow tile and cement stucco, the latter work being done by the Zanzer-Reim Company of Chicago, and its total cost when completed will be over $1,000,000. It is intended by the government to equip it with every modern appliance and convenience known to modern medical science. The exacting requirements of the government for the heating, sterilizing of steam and hot water for buildings has been
+<figure id="ill28" entity="braggp31"><p>Type of Roadway at Camp Bragg.</p></figure>
+admirably complied with by C. L. Reeder, Consulting Engineer of Baltimore, Md., and Edward K. Munroe, Engineer in Charge, both of whom are members of The American Society of Heating and Ventilating Engineers and are also Mechanical Engineers. Unquestionably the War Department could have done no better than to locate this institution here. Where else in all the United States can the invalided man and the convaleseing soldier secure to such a degree the natural benefits of good air, warm sunshine, quiet and seclusion from the noise and distractions of the cities? It is unquestionably the best equipped, the most modern and the finest military hospital ever constructed. Much more could be said of the many minor facilities of the camp. The refrigerating plant making twenty-two tons of ice daily, the laundry, the bakery and the grain elevator for the storing of breadstuffs all go to make
+<pb id="p32" n="32"/>
+<figure id="ill29" entity="braggp32"><p><q direct="unspecified"><text><body><div1 type="quote"><head>Fleishman's Big Store</head><p>“The House of Reputation”</p><p>Fayetteville's largest and most progressive department store, where you can buy the finest and most reliable up-to-date Dry Goods, Ready-to-Wear Garments, Millinery and Shoes at popular prices.</p><p>We buy direct from the mills and manufacturers at the lowest possible prices consistent with high quality and good style.</p><p>You can save money by shopping <lb/> here</p></div1><div1 type="quote"><head>B. Fleishman &amp; Bros.<lb/>“The King Clothiers”</head><p>MEN'S AND BOYS' CLOTHING, SHOES AND <lb/> FURNISHINGS</p><p>We make a specialty of Military Uniforms <hi rend="italics">and</hi> Accessories.</p><p>You will find here the best clothing made, including Kuppenheimer and Fashion Park Clothing.</p><p><hi rend="italics">The store that backs its goods with its own reputation and the reputation of America's most prominent manufacturers.</hi></p></div1></body></text></q></p></figure>
+<pb id="p33" n="33"/>
+a complete camp equipment. In fact the equipment for the care and comfort of a population of over twenty thousand has grown within nine months from the forest and the cotton field to the ideal camp.</p>
+        <p>As a training camp for the newly recruited artillery-man and the embryonic aviator the reservation contains miles and miles of rolling country over which <sic corr="manoeuvering">manoeuvring</sic> can take place and theoretical problems in the practice of war tried out. There is wood land and open field, steep incline and deep ravine, fordable streams and gentle slope, placid lakes and a rushing river. Topographically any variety of surface formation exists except the extremely rugged and <sic corr="inaccessibly">inaccessably</sic> mountainous. Artificially the hand of man has created in the very brief space of time since the inception of
+<figure id="ill30" entity="braggp33"><p>Pleasant Moments—Pay Day at Camp.</p></figure>
+the camp all that the soldier needs for his comfort, welfare and advancement in his calling.</p>
+        <p>As an advantage to the State of North Carolina and particularly to the City of Fayetteville and the communities in easy reach of the camp, it must be borne in mind that the government took over a large stretch of territory that had been bereft of its once leading industry and had proven to be none too well adapted to agricultural purposes and diverted it to an enterprise for great national good. So long as the institution of war exists and so long as we shall require a large standing army, which we probably shall for some years to come, any scarcely settled section that possesses advantages for the attraction and maintenance of twenty or thirty thousand men employed in pursuits for their moral, mental and physical development cannot but derive its special share in the general benefit.</p>
+        <pb id="p34" n="34"/>
+        <p>
+          <figure id="ill31" entity="braggp34">
+            <p>
+              <q direct="unspecified">
+                <text>
+                  <body>
+                    <div1 type="quote">
+                      <head>Cooke-Corriher Drug Co.<lb/>Fayetteville, : North Carolina</head>
+                      <p>Hotel LaFayette Building</p>
+                      <p>HEADQUARTERS FOR THE MEN IN <lb/> UNIFORM.</p>
+                      <p>WELCOME AT ALL HOURS</p>
+                      <p>“WE STRIVE TO PLEASE” <lb/> Phone 28</p>
+                    </div1>
+                    <div1 type="quote">
+                      <head>Geo. C. Weisiger</head>
+                      <p>Merchandise Broker and <lb/> Manufactures' Agent.</p>
+                      <p>Donaldson Street,</p>
+                      <p>Fayetteville, N. C.</p>
+                    </div1>
+                    <div1 type="quote">
+                      <head>Patronize Fayetteville's Best <lb/> Barber Shop</head>
+                      <p>MODERN TO THE MINUTE <lb/> Only Skilled Artists Employed <lb/> Service par Excellence</p>
+                      <p>The Place Where You can get a Real Hair Cut</p>
+                      <p>Sterilized Barber Shop</p>
+                      <p>107 Green Street</p>
+                      <p>Highsmith Block</p>
+                      <p>FAYETTEVILLE, N. C.</p>
+                    </div1>
+                  </body>
+                </text>
+              </q>
+            </p>
+          </figure>
+        </p>
+        <pb id="p35" n="35"/>
+        <p>
+          <figure id="ill32" entity="braggp35">
+            <p>Views of Fayetteville and Camp Bragg.</p>
+          </figure>
+        </p>
+        <pb id="p36" n="36"/>
+        <p>
+          <figure id="ill33" entity="braggp36">
+            <p>
+              <q direct="unspecified">
+                <text>
+                  <body>
+                    <div1 type="quote">
+                      <list type="simple">
+                        <item>J. F. HARRISON, <lb/> <hi rend="italics">President.</hi></item>
+                        <item>H. R. LAWFORD, <lb/> <hi rend="italics">Treasurer.</hi></item>
+                        <item>E. A. DIXON, <lb/> <hi rend="italics">Sec. &amp; Gen'l Mgr.</hi></item>
+                      </list>
+                      <p>Fayetteville Ice &amp; <lb/> Manufacturing Co.</p>
+                      <p>Owners of Carolina Ice Cream Co.</p>
+                      <p><sic corr="MANUFACTURERS">MANUFACTURFRS</sic> OF <lb/> PURE CRYSTAL ICE <lb/> AND DEALERS IN <lb/> WOOD AND COAL</p>
+                      <p>Fayetteville Ice &amp; Manufacturing Co.</p>
+                      <p>The Home of Carolina <lb/> Ice Cream</p>
+                      <p>
+                        <table rows="3" cols="2">
+                          <row role="data">
+                            <cell role="data" rows="1" cols="1">Daily Capacity</cell>
+                            <cell role="data" rows="1" cols="1">90 Tons.</cell>
+                          </row>
+                          <row role="data">
+                            <cell role="data" rows="1" cols="1">Storage Capacity</cell>
+                            <cell role="data" rows="1" cols="1">3500 Tons.</cell>
+                          </row>
+                          <row role="data">
+                            <cell role="data" rows="1" cols="1">Siding Capacity</cell>
+                            <cell role="data" rows="1" cols="1">75 Cars.</cell>
+                          </row>
+                        </table>
+                      </p>
+                      <p>P. O. Drawer 426</p>
+                      <p>Phones 95-97</p>
+                      <p>FAYETTEVILLE, N. C.</p>
+                    </div1>
+                    <div1 type="quote">
+                      <pb id="p37" n="37"/>
+                      <list type="simple">
+                        <item>J. F. HARRISON, <lb/> <hi rend="italics">President.</hi></item>
+                        <item>H. R. LAWFORD, <lb/> <hi rend="italics">Treasurer.</hi></item>
+                        <item>E. A. DIXON, <lb/> <hi rend="italics">Sec. &amp; Gen'l Mgr.</hi></item>
+                      </list>
+                      <p>Carolina Ice Cream <lb/> Company</p>
+                      <p>
+                        <figure id="ill35" entity="braggp37">
+                          <p>Interior View of Plant.</p>
+                        </figure>
+                      </p>
+                      <p>The PUBLIC and our PATRONS are given positive assurance as to the PURITY and QUALITY of our product.</p>
+                      <p>Each utensil is sterilized and every care taken in order to manufacture a high grade delicious ICE CREAM.</p>
+                      <p>The Public, and Ladies in particular, are cordially invited to visit our Plant.</p>
+                      <p>CAROLINA ICE CREAM</p>
+                      <p>“The Choice of Those Who <lb/> Discriminate”</p>
+                      <p>P. O. Drawer 426</p>
+                      <p>Phones 95-97</p>
+                      <p>FAYETTEVILLE, N. C.</p>
+                    </div1>
+                    <div1 type="quote">
+                      <pb id="p38" n="38"/>
+                      <p>
+                        <figure id="ill36" entity="braggp38">
+                          <p>[Advertisement]</p>
+                        </figure>
+                      </p>
+                      <p>J. STEIN</p>
+                      <p>K. STEIN</p>
+                      <p>STEIN BROTHERS</p>
+                      <p>“THE HOUSE OF QUALITY”</p>
+                      <p>Clothiers and Furnishers</p>
+                      <p>EXCLUSIVE BOYS' DEPARTMENT</p>
+                      <p>MAIN STORE <lb/> Fayetteville, N. C.</p>
+                      <p>BRANCH STORE <lb/> Sanford, N. C.</p>
+                    </div1>
+                  </body>
+                </text>
+              </q>
+            </p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="section">
+        <pb id="p39" n="39"/>
+        <head>City of Fayetteville, N. C.</head>
+        <p>THE great South is about to fulfill a deterred destiny as the ultimate home of an immense population. Its numerous opportunities for commercial development are in their infancy. Its unrivaled resources have been but little exploited. And in all that is good as relating to the south at large the State of North Carolina affords the best. Possessing as it does a plethora of the possibilities of forest,
+<figure id="ill37" entity="braggp39"><p>The Stein Building, Fayetteville.</p></figure>
+field and mine, a paucity of arid unproductive territory, its range of natural inducements to the prospective settler covers almost every line of human activity.</p>
+        <p>Inland fifty miles from the sea where the first gentle rise of land forms the beginning of a series of gradually increasing elevations which terminate with the grandest
+<pb id="p40" n="40"/>
+<figure id="ill38" entity="braggp40"><p><q direct="unspecified"><text><body><div1 type="quote"><head>D. H. JONES <lb/> Dealer</head><p>Liberty Six and Hupmobile <lb/> Automobiles</p><p>D. E. Worm Driven Trucks</p><p>Trailmobiles</p><p>Texaco Gasoline</p><p>Green Flag Motor Oil</p><p>Tires, Tubes, Accessories <lb/> AGENT</p><p>Perry's Punctureproof Tubes</p><p>414 HAY STREET.</p><p>PHONE 595. <lb/> FAYETTEVILLE, N. C.</p></div1></body></text></q></p></figure>
+<pb id="p41" n="41"/>
+range of mountain peaks anywhere east of the Rockies, the City of Fayetteville, the county seat of Cumberland County, North Carolina, is most picturesquely located. It is 250 feet above sea level and therefore sufficiently remote from swampy areas along the coast to be free from malaria and excessive humidity. Yet it has an outlet to tidewater being at the head of steam navigation on the Cape Fear River and the Federal government has recently commenced operations on a large scale to deepen and widen its channel on account of the rapidly increasing volume of traffic between Fayetteville and the port of Wilmington. Steamers are now plying between the two cities all the year round and a no more delightful day trip for the tourist can be enjoyed
+<figure id="ill39" entity="braggp41"><p>D. H. Jones' Garage.</p></figure>
+anywhere in the United States than is provided by one of these comfortable boats.</p>
+        <p>Fayetteville is served by three railroads. The main line of the Atlantic Coast Line Railroad affords an easy egress north to Richmond, Washington and New York, or south to Jacksonville and the Florida coast. The Aberdeen and Rockfish Railroad connecting the trunk lines of the Seaboard Air Line at Aberdeen opens up a good route to Fayetteville from all points served by the S. A. L. and its connections, being the shortest route from Atlanta.</p>
+        <p>Numerous small farms of fruit and garden truck surround the city on all sides and their products are
+<pb id="p42" n="42"/>
+<figure id="ill40" entity="braggp42"><p><q direct="unspecified"><text><body><div1 type="quote"><head>MacKethan &amp; Co.</head><p>The Rexall Store</p><p>Druggists to the Soldiers <lb/> and All the People</p><p>—SPECIALS—</p><p>Stationery, Fountain Pens, Photo <lb/> Goods and Finishing, Cigars, <lb/> Tobacco, Candy and Drinks.</p><p>Soldiers are invited to “hang out” <lb/> with us, meet their friends <lb/> here, ask us for information <lb/> or any service we <lb/> can render</p><p>MacKethan &amp; Co.</p><p>“On the Square”</p></div1></body></text></q></p></figure>
+<pb id="p43" n="43"/>
+<figure id="ill41" entity="braggp43a"><p>Person Street from Market Place.</p></figure>
+marketed in the large cities within only a few hours after leaving the ground. A uniform rainfall throughout the entire year with only a bare minimum of cold weather in the winter enables the grower to obtain the highest prices for his products in sections where the commodities are “out of season.” The soil along the river and for several miles on either side is one of remarkable fertility, being composed of a rich dark loam slaked with sand. For the professional agriculturist or business man inclined to the soil as an avocation, there is no better land in all the south than these small tracts either within or just outside the corporate limits of Fayetteville. The stimulus to private gardening occasioned by the economic conditions of the recent
+<figure id="ill42" entity="braggp43b"><p>MacKethan &amp; Co., Druggists.</p></figure>
+<pb id="p44" n="44"/>
+<figure id="ill43" entity="braggp44"><p><q direct="unspecified"><text><body><div1 type="quote"><p>If you use a lamp, insist on Crystalite Kerosene, and have a <lb/> light like daylight</p><p>If you own a car, for your motor's sake, always use Texaco <lb/> Motor Oils, and of course you use Texaco Gasoline <lb/> because you get more miles per gallon</p><p>Agents for All Texaco Products</p><p>GALLUP &amp; COMPANY</p><p>Phone 99</p><p>Fayetteville, N. C.</p></div1></body></text></q></p></figure>
+<pb id="p45" n="45"/>
+war can find here in this pastoral paradise its fullest attainment. The rainfall in Fayetteville and contiguous territory is the most uniform in the United States. Its distribution varies from only 12.24 in the winter to 17.05 in the summer. Frequent brief showers are followed by warm sunshine which rapidly absorbs the moisture and leaves the air dry and pure. A natural drainage due to the configuration of the ground in its relation to the river and the sandy character of the soil produce a surface that makes for good communal health.
+<figure id="ill44" entity="braggp45"><p>The First Baptist Church.</p></figure>
+The death rate is only twelve in a thousand. Two large hospitals, The Highsmith and The Cumberland General have a large patronage from those who seek the health giving features of the town together with the skill and care to be obtained in them. The average temperature is 61 degrees, ranging from 42 in December to 80 in July. Rarely does excessive heat occur and the summer nights are invariably cool and invigorating.</p>
+        <p>The population of Fayetteville in 1918 was about ten thousand. Since the acquisition by the Federal government of the Camp Bragg Military Reservation and the immediate commencement there of immense
+<pb id="p46" n="46"/>
+<figure id="ill45" entity="braggp46"><p><q direct="unspecified"><text><body><div1 type="quote"><head>A Fayetteville and Cumberland <lb/> County Institution.</head><p>One of the Largest and <lb/> Most Complete Garages <lb/> in Eastern North Carolina.</p><p>Complete Shops.</p><p>Battery Service Station.</p><p>Vulcanizing Plant and all <lb/> Kinds of Automotive <lb/> Equipment.</p><p>Complete Service.</p><p>Universal <lb/> Garage <lb/> Company, <lb/> Inc.</p><p><hi rend="italics">“Authorized Ford Dealer.”</hi></p><p>Phone 186.</p><p>Fayetteville, N. C.</p></div1></body></text></q></p></figure>
+<pb id="p47" n="47"/>
+<figure id="ill46" entity="braggp47a"><p>Universal Garage.</p></figure>
+building operations attracted such a precipitous influx of immigration as to already effect a permanent increase to the city of about fifty per cent. With a fluctuating force of soldiers at the camp averaging twenty thousand men and with Fayetteville the sole and only center for trade and recreation the future growth of the city is absolutely assured. New hotels and restaurants are in process of construction. Many new retail stores have been established and several of those already in existence have been compelled to enlarge their space and expand their facilities. And with all this the new era in Fayetteville's commercial life has only just begun.</p>
+        <p>With all the City's wholesome, normal growth
+<figure id="ill47" entity="braggp47b"><p>Market Square.</p></figure>
+<pb id="p48" n="48"/>
+<figure id="ill48" entity="braggp48"><p><q direct="unspecified"><text><body><div1 type="quote"><p>A. W. BOYD.</p><p>C. L. MORELAND</p><p>Boyd &amp; Moreland</p><p>PAINTERS-DECORATORS</p><p><hi rend="italics">High Class Paper Hanging and Tinting in All</hi><lb/><hi rend="italics">Its Branches.</hi></p><p>116 Green Street.</p><p>Telephone 837.</p><p>Fayetteville, N. C.</p></div1><div1 type="quote"><head>W. F. BLOUNT</head><p>Pianos and Organs</p><p>31st Year—Oldest in the State</p><p>15,000 instruments sold</p><p>One price system—the lowest</p><p>Quality always the highest</p><p>PHONE 606</p><p>Highsmith Block, - - - Fayetteville, N. C.</p></div1></body></text></q></p></figure>
+<pb id="p49" n="49"/>
+<figure id="ill49" entity="braggp49"><p>The Old Mill—Fayetteville Residences.</p></figure>
+<pb id="p50" n="50"/>
+<figure id="ill50" entity="braggp50"><p><q direct="unspecified"><text><body><div1 type="quote"><head>Fayetteville Service Motor Company</head><p>Sales Agents for Dort Cars</p><p>The General and Mason Tire</p><p>J. D. Jessup,</p><p>Fayetteville, N. C.</p><p>General Repairing <lb/> Washing, etc.</p><p>Tires and Accessories <lb/> for all Cars</p><p>Storage of Cars by Hour, Day, Week or Month</p></div1></body></text></q></p></figure>
+<pb id="p51" n="51"/>
+Fayetteville has never had and does not now intend the introduction of that <sic corr="phenomenon">phenomanon</sic> of American civic life, the real estate boom. Inflation of values and unwarranted expansion of operations are two evils that the sound business sense of its citizens have always discountenanced. Up to the time of the coming of Camp Bragg there was not a vacant residence or store to be be had and since then the number of new buildings have not exceeded and indeed have not kept pace with the demand. Opportunities for conversative development along these lines are unquestionably in store for many years to come. The substantial character of the present business blocks would surprise the most
+<figure id="ill51" entity="braggp51"><p>Fayetteville Service Motor Company.</p></figure>
+critical. Solid masonry of brick and stone with much architectural beauty predominate to an extent nowhere excelled in the south. This is evidenced in the Lafayette and Rosemont hotels, the Post Office, the Railway Station, Lafayette Theatre and the three bank buildings. There are five large cotton and two silk mills located in the immediate vicinity of the city where hundreds of people are employed. By new processes of distillation recently discovered the turpentine industry, once the leading industrial factor in this section has acquired a new impetus, the product being extracted from the pine trees that were formerly discarded. An immense plant for the manufacture of this commodity is in full operation within the limits of the town. On account of the low cost of power, much of it obtained
+<pb id="p52" n="52"/>
+<figure id="ill52" entity="braggp52"><p><q direct="unspecified"><text><body><div1 type="quote"><head>WILSON &amp; CO.</head><p>GENERAL RETAIL GROCERS.</p><p>We carry a complete line of groceries. Our prices are right. We will please you. We solicit your patronage.</p><p>214 Person Street.</p><p>Phone 92.</p><p>Fayetteville, N. C.</p></div1><div1 type="quote"><head>Carolina Woodenware Co. <lb/> FAYETTEVILLE, N. C.</head><p><hi rend="italics">Manufacturers of Lard Tubs and Candy Pails.</hi></p><p>H. W. LILLY, <hi rend="italics">President.</hi></p><p>J. F. HARRISON, <hi rend="italics">V. Pres.</hi></p><p>C. C. COWELL, <hi rend="italics">Secretary.</hi></p></div1><div1 type="quote"><head>MacKethan REAL ESTATE, <lb/> LOAN AND Trust <lb/> Company</head><p>E. R. MacKETHAN, <hi rend="italics">Attorney.</hi></p><p>FARM LANDS AND CITY LOTS.</p><p>MacKethan Building,</p><p>Fayetteville, N. C.</p></div1></body></text></q></p></figure>
+<pb id="p53" n="53"/>
+from the natural waterways which traverse the city from two sides, the inducement to other manufacturers is readily demonstrable and there are several new enterprises in prospect.</p>
+        <p>The main streets of Fayetteville are well paved with asphalt and concrete and the sidewalks all over the City with concrete and flag.</p>
+        <p>A convenient and well operated street railway will soon connect the boat landing at Cape Fear River with the civic center at Camp Bragg, a distance of nearly fifteen miles. The cars will run at sufficiently brief intervals to permit friends and relatives of the boys there stationed the privilege of frequent visits to this beautiful and interesting military reservation. As a short pleasure trip
+<figure id="ill53" entity="braggp53"><p>A Fayetteville Street Scene.</p></figure>
+for the tourist it cannot be excelled. The country roads extending from the city are remarkably free from mud and steep grades and on account of the slightly rolling country are a joy to the automobilist.</p>
+        <p>The retail stores display an attractiveness far in advance of what might be expected in a place of similar size and in the variety and volume of goods afford a market adequate to every need of the most fastidious and exacting.</p>
+        <p>In the social, religious and cultural life of Fayetteville the residents enjoy an atmosphere comparable to any community in the United States. It has been said that North Carolina holds the lead for church attendance over any state in the Union. Several large
+<pb id="p54" n="54"/>
+<figure id="ill54" entity="braggp54"><p><q direct="unspecified"><text><body><div1 type="quote"><head>GEORGE D. ELLIOT, Jr.</head><p>Dealer In <lb/> Paige and Buick Cars, Tires, Tubes and Accessories</p><p>Huske Hardware Building</p><p>Phone 878</p></div1></body></text></q></p></figure>
+<pb id="p55" n="55"/>
+churches representing the Baptist, the Episcopal, Methodist, Presbyterian and Roman Catholic denominations are crowded with earnest adherents on all occasions of public worship. Certainly a Sunday passed in Fayetteville would prove the devout, God fearing inclinations of its inhabitants, as well as the power and personality of its presiding clergymen. Beautiful church edifices appeal to the spiritual wants and desires of almost every creed.</p>
+        <p>The graded schools are above the average. Well lighted, well ventilated buildings containing ample space and every known convenience of illumination and sanitation provide for the care and comfort of the pupils.
+<figure id="ill55" entity="braggp55"><p>George D. Elliott, Jr.—Paige Garage.</p></figure>
+The curricula extend from the rudiments of education clear through the advanced high school course entitling the aspirant to entrance into college or business life. The Donaldson Military School with an enviable reputation all over the country for the development of manly character in youth is situated on the outskirts of the city. A salubrious climate enabling the student a maximum of outdoor life and physical exercise combined with a course promoting the highest intellectual and moral growth have placed the Institution in the front rank of Military Schools. Commodious buildings and spacious grounds contribute materially to the wants of the three or four hundred boys enrolled from all over the United States.</p>
+        <p>Fayetteville has an interesting and unique history.
+<pb id="p56" n="56"/>
+<figure id="ill56" entity="braggp56"><p><q direct="unspecified"><text><body><div1 type="quote"><head>FAYETTEVILLE <lb/> Supply Co.</head><p>Farm Implements <lb/> of <lb/> All Kinds</p><p>Automobile Accessories</p><p>Firestone Cord and Fabric Tires</p><p>Firestone Solid Truck Tires</p><p>Firestone Inner Tubes</p><p>Firestone Solid Tire Press Service</p><p>Repairs for Fords</p><p>Repair Parts for Dodge Pleasure Cars</p><p>Repair Parts for International Trucks</p><p>Gasoline</p><p>Cylinder Oils</p><p>Cup Grease</p><p>Gear Greases</p><p>Gillespie Street <lb/> Fayetteville, -:- North Carolina</p></div1></body></text></q></p></figure>
+<pb id="p57" n="57"/>
+Dating back almost a hundred years before the Revolution, it was first settled by colonists from the high-lands of Scotland. The sturdy Anglo Celtic character of its inhabitants is strikingly exhibited to this day in their <sic corr="homogeneity">homogeniety</sic> and their rigid regard for the enforcement of law and order, the result is a city of much private wealth, of charming homes in a setting of great natural beauty. In the war of the Revolution her sons made their contribution to the common cause in self sacrificing heroism. Marion's men, famous in song and story enrolled many of its quota from the flower of Cumberland County. The City's centrality of location was so well appreciated in those primitive days that soon after the war it became for a number of years
+<figure id="ill57" entity="braggp57"><p>Main Thoroughfare, Fayetteville, N. C.</p></figure>
+one of the alternate seats of the General Assembly of the State. In 1824 the name of the town was changed from Campbellton or Cross Creek to Fayetteville in honor of General LaFayette. This distinguished General visited here on his second visit to America in 1824 and was lavishly entertained, the town having been the first to take its present name in his honor. The Federal constitution was ratified here in 1789.</p>
+        <p>After all the human equation is the determining factor in the development of a country, be it nation, state or municipality. Mexico City and Lima, Peru, were great populous centers of immense wealth and replete with luxury and the gaiety of night life when the site of New York was sold for a barrel of rum
+<pb id="p58" n="58"/>
+<figure id="ill58" entity="braggp58"><p><q direct="unspecified"><text><body><div1 type="quote"><p>PHONE 35.</p><p>FAYETTEVILLE, N. C.</p><p>Clayton Garage</p><p>W. R. CLAYTON.</p><p>Automobiles, Accessories and <lb/> Repairing</p><p>LIVERY CARS</p><p>Exide Battery Service Station</p><p>Agents for Studebaker Cars <lb/> and Service Station</p><p>We Specialize on <lb/> ACETYLENE WELDING</p></div1></body></text></q></p></figure>
+<pb id="p59" n="59"/>
+<figure id="ill59" entity="braggp59a"><p>The Clayton Garage.</p></figure>
+and that of New Orleans submerged in the bottom of the Mississippi. Contrast the relative economic, social and political positions of these cities today. Racial character produced the result in favor of the two North American cities against less advantageous physical conditions. But if a people possess these sterling traits that make for stability, right living and higher ideals and are also favored with an environment having all that is propitious in nature—the best of climate, soil and water, such a people are bound to attain the greatest and noblest ends of destiny. This opportunity exists in Fayetteville to day.</p>
+        <p>
+          <figure id="ill60" entity="braggp59b">
+            <p>A Street Scene in the Business Section.</p>
+          </figure>
+        </p>
+        <pb id="p60" n="60"/>
+        <p>
+          <figure id="ill61" entity="braggp60">
+            <p>
+              <q direct="unspecified">
+                <text>
+                  <body>
+                    <div1 type="quote">
+                      <head>- SHOES - <lb/> FOR <lb/> MEN - WOMEN - CHILDREN</head>
+                      <p>Always the very latest styles and leathers.</p>
+                      <p>They wear, fit and please. Special attention to fitting.</p>
+                      <p>
+                        <hi rend="italics">“The Home of Good Shoes for Twenty Years.”</hi>
+                      </p>
+                      <p>Jennings Shoe Store <lb/> INCORPORATED</p>
+                      <p>118 and 120 Hay Street, <lb/> FAYETTEVILLE, NORTH CAROLINA</p>
+                    </div1>
+                    <div1 type="quote">
+                      <head>HOTEL LAFAYETTE <lb/> FAYETTEVILLE, - - - - - N. C.</head>
+                      <p><hi rend="italics">“Complete in</hi> <lb/> <hi rend="italics">All Its</hi> <lb/> <hi rend="italics">Appointments.”</hi></p>
+                      <p>EUROPEAN <lb/> PLAN</p>
+                      <p>First-Class Cafe.</p>
+                      <p>Excellent Cuisine.</p>
+                    </div1>
+                  </body>
+                </text>
+              </q>
+            </p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="section">
+        <pb id="p61" n="61"/>
+        <head>Classified Business Directory of <lb/> Fayetteville Architects.</head>
+        <p>
+          <table rows="55" cols="2">
+            <row role="label">
+              <cell role="data" rows="1" cols="1">  </cell>
+              <cell role="data" rows="1" cols="1">Phone No.</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Thain, J. J., Bus., Anderson St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">791</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="55" cols="2">
+            <head>ATTORNEYS AT LAW.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Averett, H. S., Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">665</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Broadfoot &amp; Broadfoot Bus., 122 Anderson St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Brothers, H. L., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">7</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Bullard &amp; Stringfield, Bus., K. of P. Bldg. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">600</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Cook &amp; Cook, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">178</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Davis, E. G., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">25</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Gibbs, J. C., K. of P. Bldg. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">MacKethan, E. R., Bus., Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Mcrae, J. C., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">McNeil, Robert, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">671</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Nimocks, Q. K., Bus., K. of P. Bldg. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">48</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Oates &amp; Herring, Bus., Market Sq. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">375</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Robinson &amp; Lyon, Bus., National Bank Bldg. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">64</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Rose &amp; Rose, Bus., Thornton Bldg. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">213</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Shaw, J. G., Bus., Stein Bldg. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">197</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Sinclair, Dye &amp; Ray, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">289</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="55" cols="2">
+            <head>AUTOMOBILE DEALERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Clayton Garage, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">35</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Elliott, Geo. D., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">878</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Jones, D. H., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">595</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Lewis Motor Co., Bus., Maxwell St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">862</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Marsh, Chas. G., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">863</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Universal Garage Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">186</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="55" cols="2">
+            <head>AUTO LIVERY.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Anderson Auto Livery . . . . . </cell>
+              <cell role="data" rows="1" cols="1">792</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="55" cols="2">
+            <head>AUTOMOBILE REPAIRS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Clayton Garage, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">35</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Universal Garage, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">186</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">McEachern Motor Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">892</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Motor Service Co., Bus., Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">75</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Walker Vulcanizing Works, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">229</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Willard Storage Battery Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">868</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="55" cols="2">
+            <head>AUTOMOBILE SUPPLIES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Clayton Garage, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">35</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Elliott, Geo. D., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">878</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fayetteville Service Motor Co., Bus., Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">75</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fayetteville Supply Co., Bus., Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">584</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Jones, D. H., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">595</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Lewis Motor Co., Bus., Maxwell St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">862</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Universal Garage Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">186</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Walker Vulcanizing Works, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">229</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Willard Storage Battery Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">868</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="55" cols="2">
+            <head>BAKERIES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">McNeill, Bakery Co., Bus., Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">288</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="55" cols="2">
+            <head>BANKS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Cumberland Savings &amp; Trust Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">332</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">La Fayette Bank &amp; Trust Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">19</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">National Bank, The, Market Sq. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">291</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">National Bank, The, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">767</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="55" cols="2">
+            <head>BARBERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Bedsole, G. N., Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Brewington, L. D., Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+          </table>
+        </p>
+        <pb id="p62" n="62"/>
+        <p>
+          <figure id="ill62" entity="braggp62">
+            <p>
+              <q direct="unspecified">
+                <text>
+                  <body>
+                    <div1 type="quote">
+                      <head>Hedgpeth Brothers<lb/>528 HAY STREET, <lb/> FAYETTEVILLE, - - NORTH CAROLINA</head>
+                      <p>Phones, 309-310</p>
+                      <p>“The Quality Grocery Store”</p>
+                      <p>THE STORE WHERE <lb/> HONEST PRICES, <lb/> HIGH QUALITY, <lb/> COURTEOUS TREATMENT <lb/> REIGN SUPREME</p>
+                    </div1>
+                    <div1 type="quote">
+                      <head>H. R. Horne &amp; Sons</head>
+                      <p>PHONE 1.</p>
+                      <p>Fayetteville, N. C.</p>
+                      <p>The Up-to-Date Drug Store.</p>
+                      <p>We are never to busy to be obliging<lb/> Come and See Us Often.</p>
+                    </div1>
+                  </body>
+                </text>
+              </q>
+            </p>
+          </figure>
+        </p>
+        <pb id="p63" n="63"/>
+        <p>
+          <table rows="60" cols="2">
+            <row role="label">
+              <cell role="data" rows="1" cols="1">  . . . . . </cell>
+              <cell role="data" rows="1" cols="1">Phone No.</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fleming &amp; Elliott, Bus., Market Sq. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Henderson &amp; Stevens, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Hodge, C., Bus., Bow St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">La Fayette Hotel Barber Shop, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Mc Intyre, J., Bus., Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">St. Clair, H., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Sterilized Barber Shop, Bus., Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Williams, C., Bus., Gillespi St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="60" cols="2">
+            <head>BOTTLERS—Soft Drinks.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Boone Bottling Works, Bus., Mumford St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">370</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Chero Cola Bottling Co., Bus., Franklin St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">281</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Pepsi Cola Bottling Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">514</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Coca Cola Bottling Works, Bus., Mun ford St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">89</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="60" cols="2">
+            <head>BROKERS (Merchandise).</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Prior, R. M., Bus., Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Weisiger, Geo. C., Bus., Donaldson St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="60" cols="2">
+            <head>BRICK MFG'RS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Poe, E. A., Brick Co., Bus., End of Cool Spring St., Plant . . . . . </cell>
+              <cell role="data" rows="1" cols="1">20</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="60" cols="2">
+            <head>CAFE.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Central Cafe, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">277</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Liberty Lunch, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">806</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">New York Cafe, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">432</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="60" cols="2">
+            <head>CIGARS &amp; TOBACCO (Wholesale.)</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Clayton Cigar Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">22</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">COAL AND WOOD. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fayetteville Ice &amp; Mfg. Co., Rowan St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">97</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="60" cols="2">
+            <head>CONFECTIONERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Saleeby, T. S., &amp; Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">24</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Townsend, D. W., Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">629</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="60" cols="2">
+            <head>CONTRACTORS &amp; BUILDERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Gentry, L., Bus., Donaldson St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">McKinney, W. T., Russell St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">884</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">McKinney W. T., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">802</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="60" cols="2">
+            <head>COPPERSMITHS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">McMillan Metal Works, Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">112</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="60" cols="2">
+            <head>COURT HOUSE.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">9</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="60" cols="2">
+            <head>CREDIT CO.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Lessem Credit Co., Dick &amp; Person Sts. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">803</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="60" cols="2">
+            <head>DEPARTMENT STORES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Clothing, Dry Goods &amp; Gents'Furnishings . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">The Capitol, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">59</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">The Fashion, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">80</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fleishman, B. &amp; Bros., Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">199</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fleishman's Big Store, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">3</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Holland &amp; Co., Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">51</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Jones Bros., Bus., Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">450</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Kindley, W. E. &amp; Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">225</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Riff's Department Store . . . . . </cell>
+              <cell role="data" rows="1" cols="1">312</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Stein Brothers, Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">458</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Thornton, Tom, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">77</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Williams, Fred D., Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">71</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Shuford, Rogers &amp; Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">129</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">The Vann Trading Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="60" cols="2">
+            <head>DRUGGISTS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Cook, Corriher Drug Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">28</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Cook, A. J., &amp; Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">141</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Horne, H. R., &amp; Sons, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">1</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Hall, J. S., Drug Co., Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">400</cell>
+            </row>
+          </table>
+        </p>
+        <pb id="p64" n="64"/>
+        <p>
+          <figure id="ill63" entity="braggp64">
+            <p>
+              <q direct="unspecified">
+                <text>
+                  <body>
+                    <div1 type="quote">
+                      <p>DRINK BOTTLED <lb/> Coca-Cola <lb/> Sold Everywhere</p>
+                    </div1>
+                  </body>
+                </text>
+              </q>
+            </p>
+          </figure>
+        </p>
+        <pb id="p65" n="65"/>
+        <p>
+          <table rows="59" cols="2">
+            <row role="label">
+              <cell role="data" rows="1" cols="1">Druggists . . . . . </cell>
+              <cell role="data" rows="1" cols="1">Phone No.</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">MacKethan &amp; Co., Market Sq. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">331</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Seuder's Pharmacy, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">120</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>DRY GOODS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fay Notion Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">857</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>ELECTRICAL SUPPLIES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Holmes Electrical Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">104</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>EXPRESS COMPANIES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Southern Express Co., Maxwell St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">69</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>FARM IMPLEMENTS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fayetteville Supply Co., Bus., Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">584</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>FLORISTS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Sunnyside Floral Nursey, Morganton Road . . . . . </cell>
+              <cell role="data" rows="1" cols="1">49</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>FOUNDRIES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Carolina Machine Co., Bus., Mumford St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">144</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">New Bern Iron Works, Mill Supplies . . . . . </cell>
+              <cell role="data" rows="1" cols="1">320</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>FURNITURE DEALERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Evans Furniture Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">613</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fayetteville Furniture Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">242</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Shoetz Furniture House, Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">579</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>GARAGES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Clayton Garage, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">35</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fayetteville Service Motor Co., Bus., Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">75</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Universal Garage, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">186</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>GAS COMPANIES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fayetteville Light &amp; Power Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">325</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>GOVERNMENT M. P.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Provost Marshal at Armory . . . . . </cell>
+              <cell role="data" rows="1" cols="1">850</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>GROCERS—Retail.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Bethune, M. A., Bus., Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">345-346</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Buckingham, J. B., &amp; Co., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">206-J-206-L</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Bullard, D. W., &amp; Sons . . . . . </cell>
+              <cell role="data" rows="1" cols="1">786</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Byrd, W. J., Bus., Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">136-137</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Hedgepeth Bros., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">309-310</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Powers, J. F., &amp; Son, Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">101</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Rankin, A. E., &amp; Co., Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">33</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Ray Grocery Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">85-86</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Wilson &amp; Co., Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">92</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Phillips W. A., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">249</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Bethune &amp; Hammond, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">475</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>GROCERS—Wholesale.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Adams Grain &amp; Prov. Co., Worth St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">397</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Armfield Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">292</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Bullard, M. O., A. &amp; R. Sta. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">887</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Carolina Grocery Co., Franklin &amp; Maxwell Sts. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">174</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Culbreth &amp; Co., J. H., Maxwell St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">184</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Dunn &amp; Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">2</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Gallup &amp; Co., Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">99</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Mail Order House, Franklin St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">151</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Rankin, A. E., Co., Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">33</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Smith, W. F., Co., Franklin St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">151</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Swift &amp; Co., Donaldson St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">379</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Kent &amp; Burgess, Bus., Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">58</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>HARDWARE DEALERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Haigh, Chas., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">45</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Huske Hardware House, Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">32-40</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Sheetz Furniture House, Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">579</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Rankin, A. E., Co., Bus., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">33</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Saunders Hardware Co., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">41</cell>
+            </row>
+          </table>
+        </p>
+        <pb id="p66" n="66"/>
+        <p>
+          <figure id="ill64" entity="braggp66">
+            <p>
+              <q direct="unspecified">
+                <text>
+                  <body>
+                    <div1 type="quote">
+                      <head>It Will Pay You to Trade With Us <lb/> EVANS FURNITURE CO.</head>
+                      <p>Furniture, Mattings, Rugs, <sic corr="Mattresses">Matresses</sic>.</p>
+                      <p>Beddings, Stoves, Ranges, Etc.</p>
+                      <p>FAYETTEVILLE, N. C.</p>
+                      <p>126 Person Street</p>
+                      <p>Phone 613</p>
+                    </div1>
+                    <div1 type="quote">
+                      <head>Aberdeen &amp; Rockfish Railroad</head>
+                      <p>A. L. THOMPSON, Traffic Manager</p>
+                      <p>FAYETTEVILLE, N. C.</p>
+                      <p><hi rend="italics">Route Your Freight</hi> for Fayetteville, N. C. <hi rend="italics">via</hi> S. A. L. Railway to Aberdeen, care Aberdeen &amp; Rockfish R. R. Good Route from points in South, West, and also Interior Eastern and Northern Points. Short mileage from many points in South and Southwest. <hi rend="italics">We will appreciate your business and give it good attention.</hi></p>
+                    </div1>
+                    <div1 type="quote">
+                      <head>New Bern Iron Works &amp; <lb/> Supply Company, Inc.</head>
+                      <p>MACHINERY AND MILL SUPPLIES <lb/> RIVETED PIPE, TANK AND STACK WORKS</p>
+                      <p><hi rend="italics">Agents for</hi> <lb/> Henry Disston &amp; Sons' Saws, Planer Knives, Files etc., also B. F. Goodrich Rubber Co.'s Rubber Belts, Fire and Steam Hose etc.</p>
+                      <p><hi rend="italics">Branch Store,</hi> <lb/> FAYETTEVILLE, N. C.</p>
+                      <p><hi rend="italics">Main Office, Works and Store,</hi> <lb/> NEW BERN, N. C.</p>
+                    </div1>
+                  </body>
+                </text>
+              </q>
+            </p>
+          </figure>
+        </p>
+        <pb id="p67" n="67"/>
+        <p>
+          <table rows="59" cols="2">
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HAY, GRAIN AND FEED. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">Phone No.</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Adams Grain &amp; Prov. Co, Worth St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">397</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Kent &amp; Burgess, Bus., Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">58</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>HOSPITALS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Cumberland General Hospital, Old Street . . . . . </cell>
+              <cell role="data" rows="1" cols="1">123</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">High Smith Hospital . . . . . </cell>
+              <cell role="data" rows="1" cols="1">39</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HOTELS. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Atlantic Hotel, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Camp Bragg Hotel, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Grand Hotel, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">776</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Hotel LaFayette, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">5</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Hotel Rosemont, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">38</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>ICE CREAM MANUFACTURERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Carolina Ice Cream Co., Rowan St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">97</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Townsend, D. W., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">629</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>ICE MANUFACTURERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fayetteville Ice &amp; Mfg. Co., Rowan St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">97</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>JEWELERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Beasley, B. F., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Eggleston, J. H., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">73</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Upton Jewelry Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">366</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>LAUNDRIES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Clarendon Laundry Co., Maxwell St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">42</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>LUMBER.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Bullard, A. J., &amp; Son, Yard, Russell St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">194</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">De Vane, J. M., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">298</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Highland Lumber Co., Stein Bldg. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">23</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Rankin Lumber Co., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">250</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Southern Timber &amp; Lbr. Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">482</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Spencer, Geo. E., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">822</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Star Lumber, Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">West Lumber &amp; Box Co., Race Path . . . . . </cell>
+              <cell role="data" rows="1" cols="1">415</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>MARBLE &amp; GRANITE WORKS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fayetteville Marble &amp; Granite Works, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">330</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>MEAT MARKETS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">City Market, Person St., near Opera House . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>MILL SUPPLIES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">New Bern Iron Works, Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">320</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>MILLINERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Isaac's, The Misses, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>MUSIC DEALERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Blount, W. F., Highsmith Block . . . . . </cell>
+              <cell role="data" rows="1" cols="1">387</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Pemberton, H. M., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">167</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>NEWS DEALERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Union News Co., A. C. L. Passenger Station . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fayetteville Daily Observer, Green St., Bus. Office . . . . . </cell>
+              <cell role="data" rows="1" cols="1">102</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fayetteville Daily Observer, Editorial Office . . . . . </cell>
+              <cell role="data" rows="1" cols="1">301</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>NOTARIES PUBLIC.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Brown, Cannon, Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Shaw, T. M., National Bank . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Holland, R. L., Jr., National Bank . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Rankin, C. W., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>OFFICE SUPPLIES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Judge Printing Co., Bus., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">307</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="59" cols="2">
+            <head>OIL.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Gailup &amp; Co., Bus., Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">99</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Gulf Refining Co., Russell St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">91</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Standard Oil Co., Pine St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">209</cell>
+            </row>
+          </table>
+        </p>
+        <pb id="p68" n="68"/>
+        <p>
+          <figure id="ill65" entity="braggp68">
+            <p>
+              <q direct="unspecified">
+                <text>
+                  <body>
+                    <div1 type="quote">
+                      <head>Carolina Machine Co.</head>
+                      <p>W. H. RUSSEL, Proprietor.</p>
+                      <p>Foundry and Machine Work</p>
+                      <p>Oxy-Acetylene Welding.</p>
+                      <p>Mill Supplies.</p>
+                      <p>Fayetteville, N. C.</p>
+                    </div1>
+                    <div1 type="quote">
+                      <head>Chas. G. Marsh</head>
+                      <p>CHANDLER SIX AUTOMOBILES CLEVELAND SIX <lb/>REAL ESTATE</p>
+                      <p>OFFICE: SMITH-SANDROCK.</p>
+                      <p>PHONE 863</p>
+                      <p>FAYETTEVILLE, N. C.</p>
+                    </div1>
+                    <div1 type="quote">
+                      <head>Southern Timber &amp; Lumber <lb/> Company, Inc.</head>
+                      <p>MANUFACTURERS AND WHOLESALERS.</p>
+                      <p>CAPITAL $82,000.00</p>
+                      <p>Long Leaf Y. P. Dimension Kiln Dried N. C. Pine Flooring, Ceiling, Siding, Roofers, Shingles, Laths.</p>
+                      <p>T. G. McALISTER, Prest.</p>
+                      <p>H. V. WORTH, V. Prest.</p>
+                      <p>C. C. McALISTER, Treas. and Gen. Mgr.</p>
+                      <p>J. C. McDIARMID, Sales Mgr.</p>
+                      <p>Western Union Code.</p>
+                      <p>FAYETTEVILLE, N. C.</p>
+                    </div1>
+                  </body>
+                </text>
+              </q>
+            </p>
+          </figure>
+        </p>
+        <pb id="p69" n="69"/>
+        <p>
+          <table rows="61" cols="2">
+            <row role="label">
+              <cell role="data" rows="1" cols="1">PAINTERS. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">Phone No.</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Boyd &amp; Moreland, Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">837</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="61" cols="2">
+            <head>PHOTOGRAPHERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Paton's Studio, National Bank Bldg. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">212</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Timby, M. F., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="61" cols="2">
+            <head>PHYSICIANS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Adams, Dr., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">589</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Algood, R. A., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">780</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Averett, Dr. K. G., Cedar Creek . . . . . </cell>
+              <cell role="data" rows="1" cols="1">4603</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Cromartie, A. S., MacKethan Office . . . . . </cell>
+              <cell role="data" rows="1" cols="1">338</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Evans, Frank N. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">218</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Hair, L. G., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">239-L</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Henderson, B. H., Moore St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">273-J</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Highsmith, J. F., Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">113</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1"><sic corr="Highsmith, Saevy">Highsmith,,Saevy</sic> . . . . . </cell>
+              <cell role="data" rows="1" cols="1">124</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Jordan, Wm. S., Burgess St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">226</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Judd, J. H., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">536</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">McFayden, O. L., Anderson St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">302</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">McFall, E. W., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">836</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">McGougan, J. B., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">120</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">McKethan, D. G., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">507</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">McKethan, J. A., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">507</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">McNeill, J. W., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">141</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Melcher, P. N., Bow St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">356</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Olive, R. M., Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">405</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Patterson, G. B., Rowan St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">156</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Pittman, R. L. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">848</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Sanderford, Harvey, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">160</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Shaffer, Julius . . . . . </cell>
+              <cell role="data" rows="1" cols="1">541</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Smoot &amp; Lilly, Burgess St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">226</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Styron. N. H., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">371</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">West, T. M., Old St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">124</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="61" cols="2">
+            <head>PIANOS AND ORGANS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Blount, W. F., Market Sq. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">387</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Pemberton Music House, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">167</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="61" cols="2">
+            <head>PLUMBERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Crane Plumbing Co., Donaldson St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">4</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Minor Plumbing Co., Donaldson St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">882</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Smith Plumbing Co. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Thomas &amp; McColl, Donaldson St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">4</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="61" cols="2">
+            <head>POLICE STATION.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Gillespie St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">62</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="61" cols="2">
+            <head>PRESSING CLUBS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">The Service, Donaldson St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Bragg Pressing Club, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">864</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">LaFayette Pressing Club . . . . . </cell>
+              <cell role="data" rows="1" cols="1">847</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="61" cols="2">
+            <head>PRINTERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Judge Printing Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">307</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Diamond Printing Co., Person St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="61" cols="2">
+            <head>PRODUCE.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Sandrock, C. W., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">108</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Stickley &amp; Otterson, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">891</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="61" cols="2">
+            <head>PUBLIC WORKS OFFICE.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">285</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Hostess House, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="61" cols="2">
+            <head>RAILROADS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Aberdeen &amp; Rockfish R. R. Co., St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">11</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Atlantic Coast Line . . . . . </cell>
+              <cell role="data" rows="1" cols="1">393</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Cumberland Rwy &amp; Power Co., St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">854</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Norfolk Southern R. R. Co. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">14</cell>
+            </row>
+          </table>
+        </p>
+        <pb id="p70" n="70"/>
+        <p>
+          <figure id="ill66" entity="braggp70">
+            <p>
+              <q direct="unspecified">
+                <text>
+                  <body>
+                    <div1 type="quote">
+                      <head>B. F. Beasley<lb/>JEWELER</head>
+                      <p>Established 1857</p>
+                      <p><hi rend="italics">Diamonds, Silverware, Cut Glass, Fine Watches,</hi> <lb/> <hi rend="italics">Repairing and Engraving.</hi></p>
+                      <p>FAYETTEVILLE, N. C.</p>
+                      <p>We will be pleased to have you call and see our stock of Watches, Silverware, Cut Glass and Jewelry. Our Repair Department is conducted by experts and all work is guaranteed to please you.</p>
+                    </div1>
+                    <div1 type="quote">
+                      <head>J. F. Powers &amp; Son <lb/>FANCY GROCERIES</head>
+                      <p>106 Person Street.</p>
+                      <p>Phone 101.</p>
+                      <p>FAYETTEVILLE, N. C.</p>
+                      <p>
+                        <hi rend="italics">“We Have What You Need.”</hi>
+                      </p>
+                    </div1>
+                    <div1 type="quote">
+                      <head>KENT &amp; BURGESS</head>
+                      <p>Wholesale Dealers in</p>
+                      <p>Heavy and Fancy Groceries</p>
+                      <p>138 Gillespie Street,</p>
+                      <p>FAYETTEVILLE, — — NORTH CAROLINA</p>
+                      <p>We make a Specialty of Feed, Grain, Hay <lb/> etc.</p>
+                    </div1>
+                  </body>
+                </text>
+              </q>
+            </p>
+          </figure>
+        </p>
+        <pb id="p71" n="71"/>
+        <p>
+          <table rows="34" cols="2">
+            <row role="label">
+              <cell role="data" rows="1" cols="1">REAL ESTATE . . . . . </cell>
+              <cell role="data" rows="1" cols="1">Phone No.</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Carolina Trust Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">711</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Cooper, C. J., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">711</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Fayetteville Ins. &amp; Realty Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">220</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">MacKethan Real Estate Loan &amp; Trust Co., Green St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Marsh, Chas. G., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">863</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Scarboro, S. W., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">807</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Schenk, J. Simpson, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">43</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="34" cols="2">
+            <head>RED CROSS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Home Service Office, “Old Market” . . . . . </cell>
+              <cell role="data" rows="1" cols="1">840</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="34" cols="2">
+            <head>SEWING MACHINES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Singer Sewing Machine Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">88</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="34" cols="2">
+            <head>SHOE STORES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Jennings Shoe Store, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">300</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="34" cols="2">
+            <head>TAILORS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Hunsberger, O. F., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">633</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">The Service, Donaldson St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="34" cols="2">
+            <head>TELEGRAPH &amp; CABLE COMPANIES.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Carolina Tel. &amp; Tel. Co., Old St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">500</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Postal Telegraph &amp; Cable Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">44</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Western Union Tel. &amp; Cable Co., Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">181-182</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="34" cols="2">
+            <head>THEATERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">LaFayette Theatre . . . . . </cell>
+              <cell role="data" rows="1" cols="1"> </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">The Strand, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">138</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">The Rose, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">846</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="34" cols="2">
+            <head>UNDERTAKERS &amp; EMBALMERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Rogers. J. M., Anderson St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">60</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="34" cols="2">
+            <head>U. S. HEALTH DEPART.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Sweeney, Capt., Stein Bldg. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">581</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">War Camp Community Service, Stein Bldg. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">805</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">War Camp Community Service, Hay St. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">46</cell>
+            </row>
+          </table>
+        </p>
+        <p>
+          <table rows="34" cols="2">
+            <head>WOODENWARE MANUFACTURERS.</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Carolina Wooden Ware Co. . . . . . </cell>
+              <cell role="data" rows="1" cols="1">386</cell>
+            </row>
+          </table>
+        </p>
+        <div2 type="section">
+          <head>CAMP BRAGG, N. C.</head>
+          <p>A charge of ten cents (10c.) will be made for each connection, of five minutes or fraction thereof, to Camp Bragg. A connection will be considered established when the called number answers. Call “Camp Bragg” and when Camp Operator answers give number desired.</p>
+        </div2>
+        <div2 type="section">
+          <head>TOAST TO FAYETTEVILLE.</head>
+          <lg type="poem">
+            <lg type="poem">
+              <l>FAYETTEVILLE, a city of Scotch descent</l>
+              <l>Surpassed by none on this continent,</l>
+              <l>A Queen, she reigned in years of yore</l>
+              <l>In finance, trade and sports galore.</l>
+              <l>Today she stands without a peer</l>
+              <l>Graciously proud of her past career.</l>
+            </lg>
+            <lg type="poem">
+              <l>Her gates stand wide for the rising tide</l>
+              <l>Of progress, that prevails on every side;</l>
+              <l>Her merchants, her bankers and editors, too,</l>
+              <l>Invite all to join the old ship's new crew.</l>
+            </lg>
+          </lg>
+          <p>Address all communications regarding this booklet to <lb/> CAMP BRAGG &amp; FAYETTEVILLE BOOKLET, <lb/> 119 Cool Spring Street, <lb/> FAYETTEVILLE, N. C.</p>
+          <p>Price 25 cents—Mailed to any address on receipt of 35 cents.</p>
+          <pb id="p72" n="72"/>
+          <p>
+            <figure id="ill67" entity="braggp72">
+              <p>
+                <q direct="unspecified">
+                  <text>
+                    <body>
+                      <div1 type="quote">
+                        <head>CAROLINA <lb/> TRUST CO.</head>
+                        <p>Opposite Post Office Fayetteville, N. C.</p>
+                        <p>Fire Insurance and <lb/> Real Estate</p>
+                        <p>Call on Us for Efficient Service <lb/> in any Business Deal</p>
+                        <p>C. J. COOPER, President</p>
+                        <p>PHONE 711</p>
+                      </div1>
+                    </body>
+                  </text>
+                </q>
+              </p>
+            </figure>
+          </p>
+        </div2>
+      </div1>
+    </body>
+    <back>
+      <div1 type="div1">
+        <p>
+          <figure id="ill68" entity="braggback">
+            <p>[Back Cover]</p>
+          </figure>
+        </p>
+      </div1>
+    </back>
+  </text>
+</TEI.2>

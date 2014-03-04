@@ -1,0 +1,146 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+<!ENTITY condo SYSTEM "condo.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="WWI" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>[The State of North Carolina Through its Council of Defense Deeply Sympathizes with You ...]</emph>
+Electronic Edition.</title>
+        <author>North Carolina Council of Defense</author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Apex Data Services, Inc.</name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Leslie Sult</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name>Apex Data Services, Inc., Leslie Sult, and Jill Kuhn Sexton</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca. 5K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="caption">[The State of North Carolina Through its Council of Defense Deeply Sympathizes with You ...]</title>
+            <author>North Carolina Council of Defense</author>
+          </titleStmt>
+          <extent>1 p.</extent>
+          <publicationStmt>
+            <pubPlace>[Raleigh, N.C.]</pubPlace>
+            <publisher>[The Council]</publisher>
+            <date>[1917 or 1918]</date>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number Cb970.9 N87c  (North Carolina Collection, University of North Carolina at Chapel Hill)</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been entered using double-keying and verified against the original. </p>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>World War, 1914-1918 -- North Carolina.</item>
+            <item>Condolence notes -- North Carolina.</item>
+            <item>Soldiers -- North Carolina -- Death.</item>
+            <item>Death notices -- North Carolina.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-04-12, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-03-07, </date>
+        <respStmt>
+          <name> Jill Kuhn Sexton </name>
+          <resp> </resp>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-02-05, </date>
+        <respStmt>
+          <name>Leslie Sult</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-01-25, </date>
+        <respStmt>
+          <name>Apex Data Services, Inc.</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the text.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 type="section">
+        <p>
+          <figure id="image" entity="condo">
+            <p>[Image of Card]</p>
+          </figure>
+        </p>
+        <p>The State of North Carolina through its Council of Defense deeply sympathizes with you in the loss of your gallant son</p>
+        <p>_____________________________________________________________________</p>
+        <p>who in an hour of world-wide peril showed supreme patriotism by laying down his life at his country's call. His willingness to sacrifice himself for home, for country, and for humanity, enshrines his name on the roll of those whom the State will never cease to honor.</p>
+        <closer><signed>William Sidney Wilson <lb/>Secretary </signed>
+<signed>Daniel Harvey Hill <lb/>Chairman</signed></closer>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

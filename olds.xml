@@ -1,0 +1,166 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd">
+<TEI.2>
+  <teiHeader type="wwi" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>Birth and Death of a Camp.  Armistice Puts an End to the Feverish War Activity of Camp Polk, at Raleigh:</emph>
+Electronic Edition.</title>
+        <author> Olds, Fred A. </author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Apex Data Services, Inc.</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name>Apex Data Services, Inc., Leslie Sult, and Jill Kuhn Sexton</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca.  15K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="caption title">Birth and Death of a Camp.  Armistice Puts an End to the Feverish War Activity of Camp Polk, at Raleigh</title>
+            <author> Olds, Fred A. </author>
+          </titleStmt>
+          <extent> p. 1, 6.</extent>
+          <publicationStmt>
+            <pubPlace>Oxford, N.C.</pubPlace>
+            <publisher>[Oxford Orphan Asylum]</publisher>
+            <date>1919</date>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number  FC366.1 O74 1919 (North Carolina Collection Folio, University of North Carolina at Chapel Hill)</note>
+            <note anchored="yes">Appears in Orphans' Friend and Masonic Journal.  Vol. 43, no. 43 (Jan. 17, 1919)  </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been entered using double-keying and verified against the original. </p>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>Camp Polk (N.C.)</item>
+            <item>Camp Mangum (N.C.)</item>
+            <item>Military camps -- North Carolina -- Raleigh.</item>
+            <item>World War, 1914-1918 -- Engineering and construction.</item>
+            <item>World War, 1914-1918 -- Tank warfare.</item>
+            <item>World War, 1914-1918 -- North Carolina -- Raleigh.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-05-09, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-04-08, </date>
+        <respStmt>
+          <name> Jill Kuhn Sexton </name>
+          <resp/>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-04-04, </date>
+        <respStmt>
+          <name>Leslie Sult</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-03-05, </date>
+        <respStmt>
+          <name>Apex Data Services, Inc.</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the text.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 type="section">
+        <pb id="p1" n="1"/>
+        <head>BIRTH AND DEATH OF A CAMP <lb/> Armistice Puts an End to the Feverish <lb/> War Activity of Camp <lb/> Polk, at Raleigh</head>
+        <byline>FRED A. OLDS</byline>
+        <p>When the writer was a little fellow, in the days of the civil war, which goes down into history now as the War Between the States and which to tell the truth is dwarfed and set much further back in the past by the Great War, now just expiring, he delighted to go into the camps of the soldiers. How rude they were, yet there was a charm about them. There was, you might be very sure, music of some sort, often by a band, with but few instruments and those well battered and yet, a band! And then too, the war over, the writer used to see the abandoned camps, both Confederate and Federal, and in the fires, now so cold, found many a pound of lead from the bullets of the cartridges of that day, in which the powder was held in paper. With this lead shot were made, by pouring the lead into a groove in a plank and so forming a long bar, very slender, which was pressed into a V-shaped opening in an iron bar, heated greatly and laid horizontally. The melted lead, in little pellets, fell into a bucket of water and there were your shot. This particular youngster can truthfully say he killed hundreds of squirrels with shot thus made.</p>
+        <p>One of the Confederate camps which was deserted, when that side in the conflict gave up in April 1865, was at Camp Mangum, at what is now Method, three miles west of Raleigh, and now there is another deserted camp, at the same place. It was Camp Polk, the only Tank camp in this country, but when the armistice came, like lightning from a clear sky, the camp simply died a natural death.</p>
+        <p>Thousands of acres of land had been leased for this vitally important war purpose, for tank fighting is one of the really big things in war today; the landowners who lived on the site had made an exodus to other parts and many were the moving scenes, if a pun is permissible, when they departed to “fresh fields and pastures new.”</p>
+        <p>A small army of workmen, soldiers and civilians, took charge of the construction work and a wooden city had just begun to rise and crown the height. All day long there was a wild rush of construction, of barracks and all the many other things which now mark one of your Uncle Sam's canonments. Steam shovels clattered, mules by the hundreds toiled and moiled, locomotives dashed here and there, and men by hundreds worked their hardest. The writer and his “kiddy cotton pickers” worked several days in the heart of this activity, the children taking it all as the most natural thing in the world. Great trucks dashed by them; train after train, loaded with cheering troops bound for France, the beloved, roared past in those wonderfully brilliant October days. It was a scene never to be forgotten.</p>
+        <p>And then came the fateful 11th of November and in a few hours the erst-while busy hands of the clock stood still. Orders came for the stoppage, the ending of all work on the camp, and the workers faded away like a mist of the morning.</p>
+        <p>The State Fair was not held last year, for the tank fighters had been quartered there, the war department having leased grounds and buildings, and having 4,000 picked fighters in tents. Then came the miserable influenza, and caught soldiers and citizens alike in its clutch of death and suffering. But Raleigh, mourning her own, worked day and night for the sick of the camp.</p>
+        <p>In 1917 Miss Congressman Jeannette Rankin made the address of dedication of the Woman's Building at the Fair Grounds. Little did she or her thousands of auditors dream that in less than a year that building, with its “Better Babies” annex too, would be the quarters of scores of Uncle Sam's officers. Time is whirling, sure enough. In the spacious grounds were rows and rows of tents, each large enough for six men, each tent heated and electrically lighted and with wooden sides covered with tarred paper. Long mess halls, of wood, with tarred paper roofs, were put up, with kitchens attached, and all available space was utilized. There was an overflow camp outside the fair grounds, and at Method, a mile away, there were two temporary camps, one for white engineer troops, the other for colored stevedore troops.</p>
+        <p>Under the grand stand was the strangest exhibit ever seen in North Carolina, a row of tanks, some like giants, others of medium size, and yet others, the “whippets,” tiny indeed. One was an English tank, the “Brittania,” which has done plenty of fighting in France. Some carried two cannon, six-pounders, that is firing a shell of that weight, while the little fellows had only one gun. There were “tanks” black, dull gray and some camouflaged, but all grim and warlike in the extreme.</p>
+        <p>Near the fair grounds was the temporary drill field, carefully graded by the stevedore battalion, used also for aviation purposes. Near what was to have been the main portion of the cantonment was the school of pistol instruction and beyond this the six-pounder gun school and tank fighting zone. The sharp crack of the heavy pistols, calibre 45, and the angry boom of the guns was heard much of the day.</p>
+        <p>At the pistol school there was built by the busy stevedores a complete system of trenches and dug-outs, like those in France today, only of course in the small. Into these went the men under training, and at the signal began the advance, “over the top.” Angle upon angle marked many of the trenches and at the sharp turns there popped into view a “Boche,” made of paper, who had to be shot. So the sides of the trenches at the angles are marked by thousands of big bullet holes. One would think hundreds of wood-peckers had been busy there.</p>
+        <p>At what was to have been Camp Polk there are now piled over 15,000000 feet of lumber, brought there on many a train. Vast piles of it, laid out by the ever-busy stevedores, strike the eye. Now it is to be reshipped and will go to France, it is said. The partially finished railway sidings hold long lines of freight cars. Storehouses, and barracks, in all stages of progress, are before the eye, a lofty observation tower rises beside a highway. But all is still; where there was so much busy life there is now death, for already Camp Polk is little more than a memory.</p>
+        <p>It makes you think of the epitaph the Irishman placed on the tombstone at the grave of his baby, who had lived but 24 hours:</p>
+        <lg type="poem">
+          <l>“Now you were so soon done for,</l>
+          <l>I wonder what you were begun for.”</l>
+        </lg>
+        <p>But when the cantonment construction was begun this country did not look for an end of the war before the summer of 1920. Plenty of people will now step up and gravely assure you “I knew all the time it would end by Thanksgiving day.” You do not have to reply to these people; all you have to do is to think of Ananias and his successors of the edition of 1919. The liar, like the poor, “we have always with us,” and so it will remain until the end of the world.</p>
+        <p>And so today, there beside the railways, the Seaboard and the Southern, is the camp which is dead, never to be tenanted; there are the spaces cut in thick woods, which were to have been roads; there are cotton-fields, yellow-white with the hanging locks, only picked here and there; with farm houses which but lately were surrounded by tents full of Uncle Sam's 
+<pb id="p6" n="6"/>
+men, and the busy scenes, now gone forever, make you think of a man who dies suddenly; one moment so active, so strenuous, so virile, the next a mere inert mass.</p>
+        <p>Signs are all about, “Laborers wanted;” in the big corrals the contractors' mules had their homes and frolicked like children on their Sunday holidays. Gone are the contractors, laborers and mules. The camp is dead. It was to have been for 16,000 men. A few of these had come, and now these, except a handful, are at Camp Greene, Charlotte; the stevedores are removing everything from the fair grounds except the original buildings; the tanks go to Camp Benning, at Columbus, Ga., where the U. S. owns a large reservation and it is to become the permanent tank camp for the whole country. The emblem of the Tanks is a black cat, the slogan is “Treat 'em Rough.”</p>
+        <p>There could not possibly be a finer lot of men, all “hand-picked,” to use a phrase, than the Tankers. They represented all the United States. Some had come thousands of miles to get in this exciting department of fighting; from Australia, from Alaska, and other far-away places. There was in the brigade here a great-grandson of General Robert E. Lee and a grandson of General U. S. Grant. Men of all professions, but all brave fellows, were in the ranks, or rather in the Tanks, as privates and proud of it, wild to go to France and have it out with that most odious, treacherous and cruel of all beasts—the Boche. Death is a trifle to the “Tanker,” whose cry is “Give 'em Hell, Boys!” You can hear it, as you can hear ringing, ringing, that other cry of the American troops as they rushed the German positions and beat their proudest picked troops, “Remember the Lusitania!”</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

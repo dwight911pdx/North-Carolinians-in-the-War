@@ -1,0 +1,1289 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+<!ENTITY % external-entities SYSTEM "./extEntities.dtf">
+<!ENTITY % internal-entities SYSTEM "./intEntities.dtf">
+<!ENTITY yy19p10 SYSTEM "yy19p10.jpg" NDATA jpeg>
+<!ENTITY yy19p1 SYSTEM "yy19p1.jpg" NDATA jpeg>
+<!ENTITY yy19p3 SYSTEM "yy19p3.jpg" NDATA jpeg>
+<!ENTITY yy19p4 SYSTEM "yy19p4.jpg" NDATA jpeg>
+<!ENTITY yy19p5 SYSTEM "yy19p5.jpg" NDATA jpeg>
+<!ENTITY yy19p6 SYSTEM "yy19p6.jpg" NDATA jpeg>
+<!ENTITY yy19p7 SYSTEM "yy19p7.jpg" NDATA jpeg>
+<!ENTITY yy19p8 SYSTEM "yy19p8.jpg" NDATA jpeg>
+<!ENTITY yy19p9 SYSTEM "yy19p9.jpg" NDATA jpeg>
+<!ENTITY yy19tp SYSTEM "yy19tp.jpg" NDATA jpeg>
+<!ENTITY yy19victtp SYSTEM "yy19victtp.jpg" NDATA jpeg>
+<!ENTITY yy19p11a SYSTEM "yy19p11a.jpg" NDATA jpeg>
+<!ENTITY yy19p11b SYSTEM "yy19p11b.jpg" NDATA jpeg>
+<!ENTITY yy19p11c SYSTEM "yy19p11c.jpg" NDATA jpeg>
+<!ENTITY yy19p13b SYSTEM "yy19p13b.jpg" NDATA jpeg>
+<!ENTITY yy19p13a SYSTEM "yy19p13a.jpg" NDATA jpeg>
+<!ENTITY yy19p13c SYSTEM "yy19p13c.jpg" NDATA jpeg>
+<!ENTITY yy19p23c SYSTEM "yy19p23c.jpg" NDATA jpeg>
+<!ENTITY yy19p23b SYSTEM "yy19p23b.jpg" NDATA jpeg>
+<!ENTITY yy19p23a SYSTEM "yy19p23a.jpg" NDATA jpeg>
+<!ENTITY yy19p15a SYSTEM "yy19p15a.jpg" NDATA jpeg>
+<!ENTITY yy19p15b SYSTEM "yy19p15b.jpg" NDATA jpeg>
+<!ENTITY yy19p15c SYSTEM "yy19p15c.jpg" NDATA jpeg>
+<!ENTITY yy19p17a SYSTEM "yy19p17a.jpg" NDATA jpeg>
+<!ENTITY yy19p17b SYSTEM "yy19p17b.jpg" NDATA jpeg>
+<!ENTITY yy19p17c SYSTEM "yy19p17c.jpg" NDATA jpeg>
+<!ENTITY yy19p19a SYSTEM "yy19p19a.jpg" NDATA jpeg>
+<!ENTITY yy19p19b SYSTEM "yy19p19b.jpg" NDATA jpeg>
+<!ENTITY yy19p19c SYSTEM "yy19p19c.jpg" NDATA jpeg>
+<!ENTITY yy19p19d SYSTEM "yy19p19d.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="wwi" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>The Yackety Yack of Nineteen Hundred and Nineteen. [Excerpts Relating to World War I]:</emph>
+Electronic Edition.</title>
+        <author>Dialectic and Philanthropic Literary Societies and the Fraternities of the University of North Carolina, Chapel Hill</author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Apex Data Services, Inc.</name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Kara Rempe and Harris Henderson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name>Apex Data Services, Inc., Melissa Graham, and Jill Kuhn Sexton</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca. 50K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="title page">The Yackety Yack of Nineteen Hundred and Nineteen</title>
+          </titleStmt>
+          <extent>   [26] p., ill.</extent>
+          <publicationStmt>
+            <pubPlace>Charlotte, North Carolina</pubPlace>
+            <publisher>Observer Printing House</publisher>
+            <date>1919</date>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Uncataloged copy used for digitization (North Carolina Collection, University of North Carolina at Chapel Hill)</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been entered using double-keying and verified against the original. </p>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p>The original text included no page numbers; supplied page numbers begin numbering from the section title page and are enclosed by brackets.</p>
+        <p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All single right and left quotation marks are encoded as ’ and ‘ respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Running titles have not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>World War, 1914-1918 -- Education and the war.</item>
+            <item>Patriotism -- North Carolina.</item>
+            <item>University of North Carolina (1793-1962) -- Students.</item>
+            <item>College students -- North Carolina -- Chapel Hill -- Political activity.</item>
+            <item>United States. Army. Students' Army Training Corps.</item>
+            <item>Plattsburgh Barracks (N.Y.)</item>
+            <item>World War, 1914-1918 -- War work -- North Carolina -- Chapel Hill.</item>
+            <item>World War, 1914-1918 -- North Carolina -- Chapel Hill.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-05-10, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-04-25, </date>
+        <respStmt>
+          <name> Jill Kuhn Sexton </name>
+          <resp/>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-03-07, </date>
+        <respStmt>
+          <name>Melissa Meeks</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-03-01, </date>
+        <respStmt>
+          <name>Apex Data Services, Inc.</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the text.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div1 type="title page">
+        <p>
+<figure id="title" entity="yy19tp"><p>[Title Page Image]</p></figure></p>
+      </div1>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">The Yackety Yack <lb/> OF <lb/> Nineteen Hundred and Nineteen </titlePart>
+        </docTitle>
+        <docEdition>EDITED BY THE <lb/> DIALECTIC AND PHILANTHROPIC LITERARY SOCIETIES <lb/> AND THE FRATERNITIES OF THE <lb/> UNIVERSITY OF NORTH CAROLINA <lb/> CHAPEL HILL</docEdition>
+      </titlePage>
+    </front>
+    <body>
+      <div1>
+        <div2 type="section">
+          <pb id="p2" n="[2]"/>
+          <p>
+<figure id="ill1" entity="yy19victtp"><p>VICTORY</p></figure></p>
+        </div2>
+        <div2 type="section">
+          <pb id="p3" n="[3]"/>
+          <p>
+<figure id="ill2" entity="yy19p1"><p>GENERAL PERSHING—AMERICA'S OWN <lb/>By permission of Clinedinst.</p></figure></p>
+        </div2>
+        <div2 type="section">
+          <pb id="p4" n="[4]"/>
+          <head>NORTH CAROLINA IN THE WAR</head>
+          <p>To the drama of war played out in the great open places of land, air, and water. North Carolina has given herself quietly, intensely.</p>
+          <p>To the drama of war played upon her hearthstone, she has brought as full a devotion to her part. Her men and women, when they heard the clear call, left without words comfort and calmness of work. In that fashion. whether near or afar, they have seen it thru. There can be no questioning here. As in days past, deeds blaze forth their own splendor. On foreign soil, Carolina men have infused into the names St. Quentin, Cambrai, St. Mihiel, and the Argonne a fame so pure it is undying. The far reaches of a mine- and submarine-infested sea have borne them in as fine a service. In every camp of America there were men of North Carolina, drilling, drilling and hoping, who never felt the thrill of duty on the firing line. The last days of the war found North Carolina colleges vibrant with young men, intently training for immediate service.</p>
+          <pb id="p5" n="[5]"/>
+          <p>
+<figure id="ill3" entity="yy19p3"><p>In The Land of Our Dreams<lb/>North Carolina's Own<lb/>
+Showing the Huns how to Fight</p></figure></p>
+          <pb id="p6" n="[6]"/>
+          <p>The Federal Government reports that, as a whole, our State was more free from intrigue and treachery, more unitedly loyal than any other. There is glory enough for all, and the future record will hold as equal those who went and those who could not go. The dross has been purged from us by sacrificing together. We will go on, and achieve other things in the spirit of the just past months.</p>
+          <p>
+<figure id="ill4" entity="yy19p4"><p>[Illustration]</p></figure></p>
+          <pb id="p7" n="[7]"/>
+          <p>
+<figure id="ill5" entity="yy19p5"><p>The World through A Port Hole</p></figure></p>
+        </div2>
+        <div2 type="section">
+          <pb id="p8" n="[8]"/>
+          <head>CAROLINA IN THE CAMPS</head>
+          <p>
+<figure id="ill6" entity="yy19p6"><p>CAROLINA IN THE CAMPS</p></figure></p>
+          <pb id="p9" n="[9]"/>
+          <p>
+<figure id="ill7" entity="yy19p7"><p>OUR MEN AT PLATTSBURG</p></figure></p>
+          <pb id="p10" n="[10]"/>
+          <p>
+<figure id="ill8" entity="yy19p8"><p>THE SERGEANT-MAJOR WITH HIS BAYNICK</p></figure></p>
+          <div3 type="section">
+            <head>PLATTSBURG</head>
+            <p>PLATTSBURG! What a depth of meaning there is in the word! What an image it has forever indelibly stamped into our memories!</p>
+            <p>Plattsburg! The snappiest, peppiest Camp in the old U. S. A.! What an education it has been to us—with its snap, its vigor, and its dash. A place where you had to be continuously on the job.</p>
+            <p>And at Plattsburg, Carolina was on the job.</p>
+            <p>Of the one hundred and twenty-five University men at this Camp, practically all who were eligible as officers obtained their commissions at the expiration of the course. We hit the place with a rush, and quickly adapted ourselves to the surroundings. The youth from Maine hiked along the Lake Shore Road beside the lad from California, and the son of the Old North State had for his “bunkie” the boy from Montana. The very air at Plattsburg was full of pep. There wasn't a leisure moment from 5.30 in the morning until 9.00 at night. And it was this dash, this continuous on-the-go that made men of the fellows.</p>
+            <p>5.30—A terrific clanging right in your very ear—and you were on your feet, dressing like mad! Three minutes, and you heard the first sergeant's shrill whistle. “All out—On the line—Compane-e-e- -”, and then you woke up! Oh, how good that old bunk felt—but that was all over now, and it was time for grub. And wasn't that chow dee-licious?</p>
+            <p>7.00—“All out in seven minutes with long packs—ten miles out, and ten back—get your canteens full”, and in a few moments we were off down the old Peru Road. And when twelve bells came around, didn't that hot water, and those Bolognas and cheese sandwiches taste good?</p>
+            <p>1.00 p. m.—and we were hitting the old turnpike again, swinging along to the strain of “The Last Long Mile.” At five, we were back at the barracks, and at five-one we were in the bath-house cooling off. And then supper, and after that retreat and the study period.</p>
+            <p>And on other days there were the lectures at the Stadium, and the movies at night, with Company “A's” quartet singing “Yama Yama,” and all of us huddled up in our blankets and quilts out there under the pines and the starry canopy of the heavens. Oh, they were great old days! We can never forget them. And the Lake! It, too, had the pep, for it was always lashing and rolling, and seemed to be alive, and interested in us.</p>
+            <p>And on Sundays, the services in the “Y” hut, and on Sunday evenings the big “Sing” out on the parade grounds, kept us occupied and full of spirit.</p>
+            <p>Above all stood the friend of the fellows—one who was always looking out for them—Colonel Dentler, whose familiar figure as he stood upon the platform at the Stadium will always be remembered by everyone who was there, and whose kindly words of encouragement will never be forgotten.</p>
+            <p>“Show your ever-increasing discipline by rapidly dispersing from all sides. DISMISSED!” Those were his words of dismissal.</p>
+            <pb id="p11" n="[11]"/>
+            <p>
+<figure id="ill9" entity="yy19p9"><p>adiggin trenches and poundin away on those far famed Oglethorpe hikes.</p></figure></p>
+          </div3>
+        </div2>
+        <div2 type="section">
+          <pb id="p12" n="[12]"/>
+          <head>S A T C</head>
+          <p>
+<figure id="ill10" entity="yy19p10"><p>K-K-K-Katy, Beautiful Katy, You're the only g-g-girl that I adore,<lb/> W-When the moon shines, over the cow-shed, I'll be watching at the k-k-kitchen door.</p><p>S A T C</p></figure></p>
+          <pb id="p13" n="[13]"/>
+          <p>
+<figure id="ill12" entity="yy19p11a"><p>THE OFFICERS OF THE S. A. T. C.—CAPT. C. C. HELMER, Commanding</p></figure></p>
+          <p>
+<figure id="ill13" entity="yy19p11b"><p>CAPTAIN ALLEN <lb/> Commanding <lb/> The University Battalion</p></figure></p>
+          <list type="simple">
+            <head>STAFF</head>
+            <item>CAPT. G. T. CARSON</item>
+            <item>LIEUT. C. R. SMITH <lb/> Adjutant</item>
+            <item>LIEUT. J. H. WINSLOW <lb/> Quartermaster</item>
+          </list>
+          <list type="simple">
+            <head>CONTRACT SURGEONS</head>
+            <item>DR. R. B. LAWSON</item>
+            <item>DR. C. S. MANGUM</item>
+            <item>DR. WM. DeB. MacNIDER</item>
+          </list>
+          <p>
+<figure id="ill14" entity="yy19p11c"><p>MR. WHITFIELD <lb/> Adjutant <lb/> The University Battalion</p></figure></p>
+          <div3 type="section">
+            <pb id="p14" n="[14]"/>
+            <head>THE STUDENTS' ARMY TRAINING CORPS AT  CAROLINA</head>
+            <p>IT is now possible to look back on the days of the Students' Army Training Corps, and to correctly estimate the significance of those days with the clear vision that comes from retrospect. In the days of disappointment that followed the signing of the armistice, when the urge of the desire for service overseas was suddenly removed, every student soldier felt that the Students' Army Training Corps was of no value. In the sudden impulse to condemn everything military; because of hopes frustrated, and never a chance for service, the real value of the Students' Army Training Corps experience for our University and Carolina men was lost sight of.</p>
+            <p>The government did a very wise thing when it created this Students' Army Training Corps, and could the experiment have been carried out its benefits would by now have been too obvious to point out. From the first days in October, when the system was started, it seemed that fate was against a speedy organization of the units into efficient, spirited bodies. Equipment was hard to secure, personnel of the staffs were slow in assembling, and upon everything that scourge of scourges, the “flu,” descended. The men were compelled to keep a strict quarantine, pleasures and freedoms were cut off. Sickness is a breeder of slow inertia and lack of spirit. Morale was hard to maintain, on the campus, when the atmosphere was full of dread.</p>
+            <p>The American spirit is one that never says die. In spite of all hindrances, the student soldiers faced the situation in an American way. Drill went on as usual. Men forced themselves to look on the bright side of things. The companies were fast acquiring the click and sureness of experienced bodies. The University Corps rendered full, faithful service. Certainly they showed the true Carolina spirit in their game efforts to put life into a machine clogged by circumstance. The regional director, Major Towner, pronounced the University battalion the most efficient in his district.</p>
+            <p>In the last analysis, the Students' Army Training Corps can by no means be branded as a failure. In spite of individual disappointment, and the unfortunate circumstances which attended its stay on the Carolina campus, we believe that it has resulted in making our campus a more sincere, open-minded place; where men know the finer things of our life which used to escape us, and have a clearer conception of the value of strong bodies and well-governed lives.</p>
+            <pb id="p15" n="[15]"/>
+          </div3>
+        </div2>
+        <div2 type="section">
+          <div3 type="section">
+            <p>
+<figure id="ill15a" entity="yy19p13a"><p>Barracks No. 2</p></figure></p>
+            <p>
+<figure id="ill15b" entity="yy19p13b"><p>Company A.</p></figure></p>
+            <p>
+<figure id="ill15c" entity="yy19p13c"><p>Attention<lb/>Steady<lb/>It was a peculiar feeling.</p></figure></p>
+          </div3>
+          <div3 type="section">
+            <pb id="p16" n="[16]"/>
+            <head>COMPANY “A”</head>
+            <list type="simple">
+              <item>LIEUT. C. W. ROBINSON, Commanding</item>
+              <item>LIEUT. C. A. JOYCE</item>
+              <item>FIRST SERGT. T. E. HINSON</item>
+            </list>
+            <list type="simple">
+              <head>SERGEANTS</head>
+              <item>JONES, R. D. V.</item>
+              <item>PEMBERTON, A. J.</item>
+              <item>BRYANT, L. H.</item>
+              <item>CANADY, H. B.</item>
+              <item>FEARRINGTON, J. C. P.</item>
+              <item>HERTY, F. B.</item>
+              <item>HORNER, J. M.</item>
+              <item>McKNIGHT, T. M.</item>
+              <item>SMITH, P. C.</item>
+            </list>
+            <list type="simple">
+              <head>CORPORALS</head>
+              <item>ANDREWS, W. H.</item>
+              <item>BRISTOL, H. C.</item>
+              <item>BUTT, W. H.</item>
+              <item>COOPER, H. B.</item>
+              <item>CRALLE, F. M.</item>
+              <item>DURHAM, I. W.</item>
+              <item>FRYE, C. R.</item>
+              <item>HOOKER, E. F.</item>
+              <item>HENSON, H. F.</item>
+              <item>MOORE, T. O.</item>
+              <item>RUSSELL, E. R.</item>
+              <item>SHARPE, C. J.</item>
+              <item>TAYLOR, J. W.</item>
+              <item>WOOD, E. P.</item>
+              <item>HARNEY, J. N.</item>
+              <item>PRESSLEY, W. A.</item>
+              <item>EATON, W. C.</item>
+              <item>RAMSAY, CLAUDE</item>
+            </list>
+            <list type="simple">
+              <head>PRIVATES</head>
+              <item>ALEXANDER, MAXIS M.</item>
+              <item>ALLEN, SILAS L.</item>
+              <item>BAILEY, W. M.</item>
+              <item>BAKER, M. R.</item>
+              <item>BASON, W. J.</item>
+              <item>BEASLEY, E. L.</item>
+              <item>BELL, T. R.</item>
+              <item>BENDER, W. R.</item>
+              <item>BOGER, J. D.</item>
+              <item>BOREN, G. S.</item>
+              <item>BROWN, E. W.</item>
+              <item>BROWN, H. M.</item>
+              <item>BROWNING, A. M.</item>
+              <item>BULLOCK, H. H.</item>
+              <item>BURGEN, R. J.</item>
+              <item>BUXTON, J. T.</item>
+              <item>BYRD, DAN.</item>
+              <item>CANADY, H. B.</item>
+              <item>CARPENTER, M. G.</item>
+              <item>CARROLL, C. C.</item>
+              <item>CARTER, H. C.</item>
+              <item>CASHATT, C. E.</item>
+              <item>CAVINESS, V. S.</item>
+              <item>CHAPPEL, H. V.</item>
+              <item>CLARK, H. S.</item>
+              <item>COBLE, H. W.</item>
+              <item>COBLE, R. W.</item>
+              <item>COFFEY, C. S.</item>
+              <item>COOPER, L. M.</item>
+              <item>COURTNEY, A. M.</item>
+              <item>COVINGTON, G. W.</item>
+              <item>CRAVEN, O. K.</item>
+              <item>CRESS, R. E.</item>
+              <item>DANIELS, W. C.</item>
+              <item>DAVIS, E. J.</item>
+              <item>DAVIS, R. M.</item>
+              <item>DEBNAM, W. E.</item>
+              <item>DOBSON, C. B.</item>
+              <item>DORSETT, J. W.</item>
+              <item>ELLIOTT, G. B.</item>
+              <item>FEARRINGTON, J. C. P.</item>
+              <item>FIELDS, WORTH</item>
+              <item>FOIL, W. A.</item>
+              <item>FOLGER, FRED</item>
+              <item>FOLGOM, T. W.</item>
+              <item>FOOTE, W. F.</item>
+              <item>FORNEY, O. G.</item>
+              <item>FUTRELL, W. E.</item>
+              <item>GARRISON, C. C.</item>
+              <item>GIBSON, T. G.</item>
+              <item>GLENN, C. T.</item>
+              <item>GRIER, F. E.</item>
+              <item>GUARD, J. W.</item>
+              <item>HAMER, W. W.</item>
+              <item>HAND, S. J.</item>
+              <item>HARRELL, J. W.</item>
+              <item>HARTNESS, J. L.</item>
+              <item>HILL, W. F.</item>
+              <item>HOGAN, J. D.</item>
+              <item>HUDSON, R. J.</item>
+              <item>HUNT, L. R.</item>
+              <item>HUNTER, F. P.</item>
+              <item>IVER, C. L.</item>
+              <item>JOHNSTON, R. L.</item>
+              <item>JONES, B. S.</item>
+              <item>JONES, G. C.</item>
+              <item>KERNODLE, L. H.</item>
+              <item>KIGER, H. E.</item>
+              <item>KIMBERLY, DAVID</item>
+              <item>KLUTTZ, O. E.</item>
+              <item>LAMBERT, A. H.</item>
+              <item>LAMBERT, W. L.</item>
+              <item>LEA, V. D.</item>
+              <item>LEGRAND, R. L.</item>
+              <item>LOUGEE, E. G.</item>
+              <item>LYDAY, J. W.</item>
+              <item>McANNALLY, A. L.</item>
+              <item>McDONALD, J. R.</item>
+              <item>McKEEL, B. S.</item>
+              <item>McMILLAN, L. DeR.</item>
+              <item>McMULLAN, F. S.</item>
+              <item>McNEELY, A. R.</item>
+              <item>MARKHAM, C. E.</item>
+              <item>MARTIN, H. E.</item>
+              <item>MAY, J. N.</item>
+              <item>MERCER, A. L.</item>
+              <item>MOODY, R. M.</item>
+              <item>MOORE, G. B.</item>
+              <item>MORTON, P. R.</item>
+              <item>NELSON, J. D.</item>
+              <item>NOBLIN, R. L.</item>
+              <item>NOE, K. B.</item>
+              <item>NOWLIN, S. G.</item>
+              <item>PALMER, W. M.</item>
+              <item>PARKS, HUGH</item>
+              <item>PAYLOR, W. C.</item>
+              <item>PICKENS, W. A.</item>
+              <item>PICKETT, H. G.</item>
+              <item>POLLOCK, P. B.</item>
+              <item>REDDING, J. L.</item>
+              <item>ROBBINS, F. R.</item>
+              <item>RODDICK, C. S.</item>
+              <item>SAPPENFIELD, D. E.</item>
+              <item>SASSER, R. M.</item>
+              <item>SAUNDERS, W. P. T.</item>
+              <item>SCOTT, R. D.</item>
+              <item>SHORT, J. M.</item>
+              <item>SIMMONS, T. L.</item>
+              <item>SISKE, G. C.</item>
+              <item>SLOAN, A. B.</item>
+              <item>SMITH, A. J.</item>
+              <item>SMITH, P. C.</item>
+              <item>SNOW, E. N.</item>
+              <item>STEADMAN, M. W.</item>
+              <item>STROUP, F. L.</item>
+              <item>TERRY, J. S.</item>
+              <item>THOMAS, T. K.</item>
+              <item>THORPE, A. T.</item>
+              <item>TILSON, W. E.</item>
+              <item>TROTT, C. M.</item>
+              <item>TYSON, G. F.</item>
+              <item>UMSTEAD, L. W.</item>
+              <item>WAGONER, B. R.</item>
+              <item>WARDLAW, D. M.</item>
+              <item>WHITE, J. S.</item>
+              <item>WIDENHOUSE, M. A.</item>
+              <item>WILKINSON, G. W.</item>
+              <item>WILLIAMSON, ARTHUR</item>
+              <item>WILSON, W. G.</item>
+              <item>WISEMAN, P. H.</item>
+            </list>
+          </div3>
+        </div2>
+        <div2 type="section">
+          <div3 type="section">
+            <pb id="p17" n="[17]"/>
+            <p>
+<figure id="ill16a" entity="yy19p15a"><p>Barracks No. 3</p></figure></p>
+            <p>
+<figure id="ill16b" entity="yy19p15b"><p>Company B.</p></figure></p>
+            <p>
+<figure id="ill16c" entity="yy19p15c"><p>eyes right<lb/>Co. B on leaves<lb/>
+STAND BY YOUR BUNK</p></figure></p>
+          </div3>
+          <div3 type="section">
+            <pb id="p18" n="[18]"/>
+            <head>COMPANY “B”</head>
+            <list type="simple">
+              <item>LIEUT. D. G. LAMBERT, Commanding</item>
+              <item>LIEUT. R. A. ROBERTS</item>
+              <item>FIRST SERGT. L. M. JAMES</item>
+            </list>
+            <list type="simple">
+              <head>SERGEANTS</head>
+              <item>HARVEY, L. H.</item>
+              <item>MOBLEY, N.</item>
+              <item>KIMBALL, D. B., JR.</item>
+              <item>BOYD, C. T.</item>
+              <item>DENNY, G. V.</item>
+              <item>ERVIN, H. T.</item>
+              <item>ROSS, R. A.</item>
+            </list>
+            <list type="simple">
+              <head>CORPORALS</head>
+              <item>PROFFEITT, H. C.</item>
+              <item>PLESS, J. W.</item>
+              <item>SUMNER, C. R.</item>
+              <item>KENT, S. G.</item>
+              <item>WEBB, W. D.</item>
+              <item>FICKLEN, J. S.</item>
+              <item>LYNCH, PETER</item>
+              <item>McKIMMON, HUGH</item>
+              <item>McWHORTER, E. H.</item>
+              <item>MILTON, L. V.</item>
+              <item>KING, F. C.</item>
+              <item>AYCOCK, L. L.</item>
+              <item>McLAUGHLIN, J. B.</item>
+              <item>HARRIS, L. R.</item>
+              <item>JUSTICE, W. S.</item>
+              <item>SHAMBURGER, M. E.</item>
+              <item>TAYLOR, G. E.</item>
+              <item>TAYLOE, JOSH</item>
+            </list>
+            <list type="simple">
+              <head>PRIVATES</head>
+              <item>ASHBY, CLARENCE L.</item>
+              <item>ASHBY, T. B.</item>
+              <item>AYCOCK, A. L.</item>
+              <item>BABB, J. S.</item>
+              <item>BAILEY, J. D.</item>
+              <item>BAKER, J. E.</item>
+              <item>BALENTINE, E. C.</item>
+              <item>BEAM, R. D.</item>
+              <item>BEASLEY, B. F.</item>
+              <item>BELL, E. W.</item>
+              <item>BLAKE, W. E.</item>
+              <item>BOSEMAN, DEWEY</item>
+              <item>BOURNE, W. C.</item>
+              <item>BURTON, C. W.</item>
+              <item>BUTNER, PHILLIP</item>
+              <item>CARPENTER, W. S.</item>
+              <item>CARTER, C. C.</item>
+              <item>CARTER, S. K.</item>
+              <item>CATES, C. H.</item>
+              <item>CHINNIS, C. C.</item>
+              <item>CONNELL, E. W.</item>
+              <item>CONWELL, R. M.</item>
+              <item>COUNCILL, E. T.</item>
+              <item>COURTNEY, J. A.</item>
+              <item>CREECH, W. H.</item>
+              <item>CURRY, A. M.</item>
+              <item>DAVIDSON, C. W.</item>
+              <item>DAVIS, J. H.</item>
+              <item>DEITZ, R. O.</item>
+              <item>DOGGETT, H. H.</item>
+              <item>ERVIN, P. P.</item>
+              <item>FLEMMING, R. L.</item>
+              <item>FOX, N. A.</item>
+              <item>FRAZIER, E. H.</item>
+              <item>GENTRY, J. H.</item>
+              <item>GRAEBER, E. B.</item>
+              <item>HARRIS, DAVID</item>
+              <item>HEAFNER, A. E.</item>
+              <item>HEDRICK, C. R.</item>
+              <item>HENDRICKS, JOE H.</item>
+              <item>HETTLEMAN, PHILLIP</item>
+              <item>HILDERBRAND, N. S.</item>
+              <item>HODGES, D. M.</item>
+              <item>JENNINGS, E. D.</item>
+              <item>JOHNSON, ARCHIE</item>
+              <item>JONES, R. R.</item>
+              <item>KING, H. H.</item>
+              <item>KNOWLES, W. B.</item>
+              <item>LEE, R. B.</item>
+              <item>LEMMOND, W. A.</item>
+              <item>LEWIS, J. F.</item>
+              <item>LEWIS, W. F.</item>
+              <item>LONG, J. B.</item>
+              <item>McCUISTON, J. G.</item>
+              <item>McGARRY, J. M.</item>
+              <item>McLEAN, J. A.</item>
+              <item>McMULLAN, T. M.</item>
+              <item>McNAIR, W. S.</item>
+              <item>McQUEEN, M. C.</item>
+              <item>MANNING, G. D.</item>
+              <item>MARSHBURN, R. F.</item>
+              <item>MAUNEY, C. C.</item>
+              <item>MEARES, W. W.</item>
+              <item>MERRITT, A. H.</item>
+              <item>MOEHLMAN, E. O.</item>
+              <item>MOORE, W. D.</item>
+              <item>MORGAN, P. L.</item>
+              <item>MYERS, D. L.</item>
+              <item>NASH, ABNER</item>
+              <item>NASH, M. W.</item>
+              <item>NELSON, G. W.</item>
+              <item>NEWCOMB, A. P.</item>
+              <item>NEWTON, T. F.</item>
+              <item>NICHOLS, W. J.</item>
+              <item>NORFLEET, C. A.</item>
+              <item>OETTINGER, J. R.</item>
+              <item>OGBURN, W. S.</item>
+              <item>O'NEIL, H. E.</item>
+              <item>PATTON, W. R.</item>
+              <item>PERKINS, C. F.</item>
+              <item>PERRETT, V. A.</item>
+              <item>PERRY, F. L.</item>
+              <item>PHILLIPS, L. J.</item>
+              <item>PHILLIPS, M. B.</item>
+              <item>PROPST, G. D.</item>
+              <item>PRUDEN, S. E.</item>
+              <item>REED, EL. L.</item>
+              <item>RICHARDS, A. M.</item>
+              <item>RICHARDSON, W. D.</item>
+              <item>RIDGE, C. B.</item>
+              <item>RIGGINS, H. M.</item>
+              <item>ROBERTS, B. N.</item>
+              <item>SAVAGE, C. B.</item>
+              <item>SCARBOROUGH, A. M.</item>
+              <item>SCARBOROUGH, D. E.</item>
+              <item>SCHIFEMAN, H. W.</item>
+              <item>SCOTT, McDONALD</item>
+              <item>SEXTON, J. W.</item>
+              <item>SOUTHERLAND, G. C.</item>
+              <item>SPAINHOUR, J. F.</item>
+              <item>SPENCER, H. R.</item>
+              <item>SPONG, E. M.</item>
+              <item>STAGG, J. E.</item>
+              <item>STEVENSON, S. W.</item>
+              <item>STIMPSON, R. T.</item>
+              <item>STOKES, W. F.</item>
+              <item>STONE, M. L.</item>
+              <item>STRICKLAND, J. W.</item>
+              <item>STRUDWICK, C. R.</item>
+              <item>SUMMEY, T. O.</item>
+              <item>SUMNER, E. A.</item>
+              <item>TAYLOR, F. A.</item>
+              <item>TAYLOR, G. D.</item>
+              <item>TAYLOR, T. C.</item>
+              <item>TERRY, H. S.</item>
+              <item>TRANSOU, WILLIAM M.</item>
+              <item>WARREN, V. L.</item>
+              <item>WHITE, R. B.</item>
+              <item>WILLIAMS, WILLIAM K. A.</item>
+              <item>WOODALL, W. R.</item>
+              <item>WYCHE, C. J.</item>
+              <item>YOUNGBLOOD, S. M.</item>
+            </list>
+          </div3>
+        </div2>
+        <div2 type="section">
+          <div3 type="section">
+            <pb id="p19" n="[19]"/>
+            <p>
+<figure id="ill17a" entity="yy19p17a"><p>Barracks No. 6</p></figure></p>
+            <p>
+<figure id="ill17b" entity="yy19p17b"><p>Company C</p></figure></p>
+            <p>
+<figure id="ill17c" entity="yy19p17c"><p>pass in review<lb/>fixing to fight<lb/>
+December 7</p></figure></p>
+          </div3>
+          <div3 type="section">
+            <pb id="p20" n="[20]"/>
+            <head>COMPANY “C”</head>
+            <list type="simple">
+              <item>LIEUT. R. W. MARTIN, Commanding</item>
+              <item>LIEUT. P. M. ALLISON</item>
+              <item>FIRST SERGT. W. H. RUFFIN, JR.</item>
+            </list>
+            <list type="simple">
+              <head>SERGEANTS</head>
+              <item>HESTER, W. M.</item>
+              <item>CROSS, J. P.</item>
+              <item>COWAN, J. C.</item>
+              <item>BRINN, T. P.</item>
+              <item>THIES, K. E.</item>
+              <item>GRIFFITH, R. H.</item>
+              <item>WHITE, E. E.</item>
+            </list>
+            <list type="simple">
+              <head>CORPORALS</head>
+              <item>NIMMS, HORACE</item>
+              <item>GRANT, D. L.</item>
+              <item>ROBBINS, J. M.</item>
+              <item>PAYNE, F. L.</item>
+              <item>HARGETT, J. M.</item>
+              <item>EURE, T. A.</item>
+              <item>STONE, M. B.</item>
+              <item>HARDEN, BOYD</item>
+              <item>HARRINGTON, C. L.</item>
+              <item>SCHIFFMAN, A. A.</item>
+              <item>LEONARD, C. T.</item>
+              <item>DUPREE, B. C.</item>
+              <item>NAIMAN, BARNETTE</item>
+            </list>
+            <list type="simple">
+              <head>PRIVATES</head>
+              <item>ALLEY, F. E.</item>
+              <item>ANDERSON, R. S.</item>
+              <item>AUSTIN, E. F.</item>
+              <item>AXLEY, J. H.</item>
+              <item>BACON, F. R.</item>
+              <item>BEARD, N. S.</item>
+              <item>BERRY, J. D.</item>
+              <item>BIVENS, JAY</item>
+              <item>BOLICK, R. E.</item>
+              <item>BRANDON, W. C.</item>
+              <item>BREWER, T. C.</item>
+              <item>BROWER, E. B.</item>
+              <item>CAMPBELL, E. P.</item>
+              <item>CHAPPEL, L. E.</item>
+              <item>CILLEY, C. A.</item>
+              <item>CLINE, J. I.</item>
+              <item>CRAIG, CLAUDE</item>
+              <item>CRAIG, R. L.</item>
+              <item>DAUGHTRIDGE, E. L.</item>
+              <item>DAVIS, C. H.</item>
+              <item>DAVIS, L. E.</item>
+              <item>ELLER, J. D.</item>
+              <item>EURE, T. A.</item>
+              <item>EZELL, C. L.</item>
+              <item>FLYNN, E. H.</item>
+              <item>FRYE, R. L.</item>
+              <item>FURR, D. M.</item>
+              <item>GRAHAM, HECTOR</item>
+              <item>GREATHOUSE, C. L.</item>
+              <item>GRIMSLEY, D. H.</item>
+              <item>GROSE, C. H.</item>
+              <item>GUION, H. N.</item>
+              <item>GWYNN, R. B.</item>
+              <item>HARPER, M. D.</item>
+              <item>HARRELL, W. A.</item>
+              <item>HARRIS, H. C.</item>
+              <item>HARRIS, R. E.</item>
+              <item>HENDERSON, W. T.</item>
+              <item>HENDREN, J. F.</item>
+              <item>HORNE, J. A.</item>
+              <item>HOWELL, A. H.</item>
+              <item>HUBBARD, J. C.</item>
+              <item>HUNDLEY, J. V.</item>
+              <item>HUNT, G. P.</item>
+              <item>HUSBAND, F. A.</item>
+              <item>JACKSON, D. H.</item>
+              <item>JACOBS, H. W.</item>
+              <item>JENKINS, W. H.</item>
+              <item>JESSUP, D. T.</item>
+              <item>JOHNSON, H. J.</item>
+              <item>JOHNSON, J. L.</item>
+              <item>JOHNSTON, R. M.</item>
+              <item>JONES, M. B.</item>
+              <item>KEENER, J. E.</item>
+              <item>KERR, J. H.</item>
+              <item>KERR, J. T.</item>
+              <item>KETCHIE, J. M.</item>
+              <item>KING, W. B.</item>
+              <item>LASSITER, H. W.</item>
+              <item>LAZARUS, B. S.</item>
+              <item>LONON, W. D.</item>
+              <item>LYNCH, P. P.</item>
+              <item>McCABE, A. G.</item>
+              <item>McKENKIE, A. L.</item>
+              <item>McNEIL, C. M.</item>
+              <item>McNEIL, G. V.</item>
+              <item>McRAE, J. D.</item>
+              <item>McRAE, JAMES</item>
+              <item>MacDONALD, R. G.</item>
+              <item>MATHEWS, S. E.</item>
+              <item>MATHEWS, S. T.</item>
+              <item>MATHEWS, W. E.</item>
+              <item>MAXWELL, J. E.</item>
+              <item>MILLS, J. C.</item>
+              <item>MORRIS, J. R.</item>
+              <item>MOUNTCASTLE. K. F.</item>
+              <item>MOURANE, J. H.</item>
+              <item>MURCHISON, W. C.</item>
+              <item>NELSON, L. M.</item>
+              <item>NOBLE, M. C. S.</item>
+              <item>OGBURN, R. W.</item>
+              <item>OSBORN, A. Y.</item>
+              <item>PAGE, E. H.</item>
+              <item>PARCELL, H. D.</item>
+              <item>PARKER, T. F.</item>
+              <item>PEARSON, J. R.</item>
+              <item>PENNY, W. B.</item>
+              <item>PERSON, J. A.</item>
+              <item>PHARR, F. C.</item>
+              <item>POWELL, C. P.</item>
+              <item>PROCTOR, R. W.</item>
+              <item>RANSON, R. L.</item>
+              <item>RECTOR, D. C.</item>
+              <item>RILEY, R. T.</item>
+              <item>RIVES, E. E.</item>
+              <item>RUDISILL, L. E.</item>
+              <item>RUTHERFORD, R. C.</item>
+              <item>SALEEBY, E. R.</item>
+              <item>SCHOLL, J. L.</item>
+              <item>SCHOLL, LEO</item>
+              <item>SCOTT, H. A.</item>
+              <item>SCHUMAN, H. R.</item>
+              <item>SIMPSON, R. H.</item>
+              <item>SLOAN, D. D.</item>
+              <item>SMITH, C. H.</item>
+              <item>SNIPES, L. C.</item>
+              <item>SPENCER, E. M.</item>
+              <item>STALEY, A. W.</item>
+              <item>STANLEY, H. R.</item>
+              <item>STEWART, J. E.</item>
+              <item>STONE, W. L.</item>
+              <item>STRATTON, W. L.</item>
+              <item>SWEETMAN, E. M.</item>
+              <item>SWINDELL, W. B.</item>
+              <item>TICKLE, J. D.</item>
+              <item>TILLETT, D. P.</item>
+              <item>TOPPING, D. D.</item>
+              <item>WADDILL, J. B.</item>
+              <item>WAGONER, JOE</item>
+              <item>WALKER, F. G.</item>
+              <item>WARE, G. A.</item>
+              <item>WASHBURN, J. P.</item>
+              <item>WHITE, C. A.</item>
+              <item>WHITE, M. P.</item>
+              <item>WHITE, WOODFORD</item>
+              <item>WILKIE, A. L.</item>
+              <item>WILKINS, A. B.</item>
+              <item>WILSON, R. B.</item>
+              <item>WILSON, ROSS B.</item>
+              <item>WOLFF, L. V.</item>
+              <item>WOOD, J. E.</item>
+            </list>
+          </div3>
+        </div2>
+        <div2 type="section">
+          <div3 type="section">
+            <pb id="p21" n="[21]"/>
+            <p>
+<figure id="ill18a" entity="yy19p19a"><p>Barracks No. 7</p></figure></p>
+            <p>
+<figure id="ill18b" entity="yy19p19b"><p>The Navy</p></figure></p>
+            <p>
+<figure id="ill18c" entity="yy19p19c"><p>Company D</p></figure></p>
+            <p>
+<figure id="ill18d" entity="yy19p19d"><p>not a quiver<lb/>
+out airing or The Aviation Recriut<lb/>Soupy Soupy Soupy</p></figure></p>
+          </div3>
+          <div3 type="section">
+            <pb id="p22" n="[22]"/>
+            <head>COMPANY “D”</head>
+            <list type="simple">
+              <item>LIEUT. A. M. BELL, Commanding</item>
+              <item>LIEUT. H. B. LIMBAUGH</item>
+              <item>FIRST SERGT. A. E. GANT</item>
+            </list>
+            <list type="simple">
+              <head>SERGEANTS</head>
+              <item>LOWE, F. R.</item>
+              <item>WILLIAMSON, J. S.</item>
+              <item>BRYANT, V. S.</item>
+              <item>WILSON, L. G.</item>
+              <item>STEVENS, E. W.</item>
+              <item>TUCKER, J. G.</item>
+            </list>
+            <list type="simple">
+              <head>CORPORALS</head>
+              <item>FOWLER, C. W.</item>
+              <item>INGRAM, L. M.</item>
+              <item>KINCAID, H. G.</item>
+              <item>PENNY, J. T.</item>
+              <item>WEST, H. G.</item>
+              <item>EVANS, E. H.</item>
+              <item>FORDHAM, E. H.</item>
+              <item>NEIMAN, E. I.</item>
+              <item>HILL, M. A.</item>
+              <item>THORP, I. D.</item>
+            </list>
+            <list type="simple">
+              <head>PRIVATES</head>
+              <item>ANDERSON, H. S.</item>
+              <item>ARRINGTON, S. L.</item>
+              <item>AUSTIN, J. H.</item>
+              <item>AUSTIN, S. C.</item>
+              <item>ATWATER, H. A.</item>
+              <item>BENBOW, E. V.</item>
+              <item>BIZZELL, N. C.</item>
+              <item>BLACKWELDER, D. H.</item>
+              <item>BLAIR, C. D.</item>
+              <item>BONDURANT, S. O.</item>
+              <item>BOOE, P. H.</item>
+              <item>BOST, J. C.</item>
+              <item>BOYD, R. C.</item>
+              <item>BROOKS, C. K.</item>
+              <item>BROWNE, J. M.</item>
+              <item>CARSON, N. G.</item>
+              <item>CATHEY, R. A.</item>
+              <item>COKER, R. G.</item>
+              <item>COLE, S. R.</item>
+              <item>CONLEY, W. C.</item>
+              <item>CONNOR, W. P.</item>
+              <item>CONOLY, J. H.</item>
+              <item>COSTNER, W. B.</item>
+              <item>COVINGTON, W. C.</item>
+              <item>CRAVER, G. J.</item>
+              <item>CRUMPLER, C. O.</item>
+              <item>DENTON, R. V.</item>
+              <item>DORSETT, J. D.</item>
+              <item>DUNCAN, D. D.</item>
+              <item>DYSART, J. W.</item>
+              <item>ELEY, A. J.</item>
+              <item>FAGGE, H. L.</item>
+              <item>FIELD, D. M.</item>
+              <item>FLYNT, D. W.</item>
+              <item>FREEMAN, C. M.</item>
+              <item>FRITZ, H. H.</item>
+              <item>GARRETT, C. B.</item>
+              <item>GREEN, WORTH B.</item>
+              <item>GRIFFIN, H. G.</item>
+              <item>GURLEY, H. T.</item>
+              <item>HADLEY, W. A.</item>
+              <item>HAIRR, A. Y.</item>
+              <item>HARRELL, J. S.</item>
+              <item>HARRIS, E. W.</item>
+              <item>HARRISS, W. W.</item>
+              <item>HAWFIELD, R. R.</item>
+              <item>HAYWORTH, R. V.</item>
+              <item>HAZLEHURST, J. L.</item>
+              <item>HENDREN, W. M.</item>
+              <item>HILL, T. B.</item>
+              <item>HOFFNER, B. I.</item>
+              <item>HOGAN, K. P.</item>
+              <item>HOLT, P. P.</item>
+              <item>HOOKS, BENNETT</item>
+              <item>HOOKS, WILLIAM O.</item>
+              <item>HUGHES, S. B.</item>
+              <item>JOHNSON, H. L.</item>
+              <item>KANOY, R. C.</item>
+              <item>KISER, H. L.</item>
+              <item>KLUTTZ, L. E.</item>
+              <item>LANCASTER, C. G.</item>
+              <item>LEIGH, C. S.</item>
+              <item>LEWIS, W. M.</item>
+              <item>LONG, W. E.</item>
+              <item>McKINNEY, WM.</item>
+              <item>MADDREY, J. T.</item>
+              <item>MANNESS, E. G.</item>
+              <item>MARTIN, F. A.</item>
+              <item>MERRITT, W. E.</item>
+              <item>MONROE, C. R.</item>
+              <item>MOORE, FREDERICK</item>
+              <item>MOORE, G. W.</item>
+              <item>MORRIS, J. D.</item>
+              <item>NELSON, J. D.</item>
+              <item>NOILS, V. V.</item>
+              <item>OLDHAM, L. B.</item>
+              <item>OVERCASH, W. E.</item>
+              <item>PALMER, H. F.</item>
+              <item>PENNY, L. G.</item>
+              <item>PERKINS, G. O.</item>
+              <item>PHELPS, J. H.</item>
+              <item>PREVETTE, J. F.</item>
+              <item>PRICE, I.</item>
+              <item>PRESTON, L. W.</item>
+              <item>RENDLEMAN, D. A.</item>
+              <item>RICHARDSON, D. D.</item>
+              <item>RIDGE, W. M.</item>
+              <item>ROBBINS, G. B.</item>
+              <item>ROBERSON, I. F.</item>
+              <item>ROURK, W. A.</item>
+              <item>SHORE, R. S.</item>
+              <item>SIMPSON, P. B.</item>
+              <item>SIMS, A. H.</item>
+              <item>SMITH, R. C.</item>
+              <item>SMOOT, W. B.</item>
+              <item>SNIDER, W. F.</item>
+              <item>SPRY, R. L.</item>
+              <item>STITT, R. B.</item>
+              <item>SUMMERS, GLEEN S.</item>
+              <item>SWAIM, H. A.</item>
+              <item>TEAGUE, LEWIS E.</item>
+              <item>TRAVIS, L. G.</item>
+              <item>VESTAL, G. V.</item>
+              <item>WALKER, A. C.</item>
+              <item>WELLS, D. A.</item>
+              <item>WHITE, E. F.</item>
+              <item>WILLIAMS, D. D.</item>
+              <item>WINFREE, J. H.</item>
+              <item>YELVERTON, B. O.</item>
+            </list>
+          </div3>
+        </div2>
+        <div2 type="section">
+          <pb id="p23" n="[23]"/>
+          <head>THE NAVY</head>
+          <p>SECOND LIEUT. M. T. McCOWAN, Commanding</p>
+          <p>BONNER, J. H.</p>
+          <p>Boatswain Mate, First Class</p>
+          <list type="simple">
+            <head>BOATSWAIN MATES, SECOND CLASS</head>
+            <item>COOPER, D. A.</item>
+            <item>GRANTHAM, G. L.</item>
+            <item>HOLDEN, N. C.</item>
+            <item>SMITH, H. G.</item>
+            <item>QUILLIN, E. L.</item>
+            <item>WATSON, P. T.</item>
+          </list>
+          <list type="simple">
+            <head>COXSWAINS</head>
+            <item>BROWN, S. W.</item>
+            <item>KING, G. W.</item>
+            <item>CUMMINGS, E. O.</item>
+            <item>DARDEN, D. B.</item>
+            <item>LEE, C. G.</item>
+            <item>LITTLE, I. M.</item>
+            <item>NOWELL, S. C.</item>
+            <item>McKELLAR, F. N.</item>
+          </list>
+          <list type="simple">
+            <head>APPRENTICE SEAMEN</head>
+            <item>ALEXANDER, R. G.</item>
+            <item>BOBBITT, W. C.</item>
+            <item>BOICE, H. S.</item>
+            <item>BRITT, A. M.</item>
+            <item>BROWN, H. S.</item>
+            <item>CALDWELL, D. G.</item>
+            <item>CANADY, E. H.</item>
+            <item>CLARKE, H. D.</item>
+            <item>DIXON, T. G.</item>
+            <item>FARTHING, F. R.</item>
+            <item>FOSTER, S. E.</item>
+            <item>FRITZ, P. C.</item>
+            <item>GEDDIE, K. B.</item>
+            <item>HEATH, F. G.</item>
+            <item>HENDERLITE, J. W.</item>
+            <item>HOFLER, R. H.</item>
+            <item>HONNEYCUTT, R. E.</item>
+            <item>HOOKER, W. H.</item>
+            <item>HOWARD, J. H.</item>
+            <item>HUNTER, R. A.</item>
+            <item>JARMAN, L. W.</item>
+            <item>JOLLY, T. E.</item>
+            <item>JONES, H. A.</item>
+            <item>KING, C. M.</item>
+            <item>KIRK, W. W.</item>
+            <item>KIRKSEY, W. A.</item>
+            <item>LAY, L. R.</item>
+            <item>LOHR, B. E.</item>
+            <item>LUTTERLOH, I. H.</item>
+            <item>McMILLAN, J. L.</item>
+            <item>MATHEWS, L. A.</item>
+            <item>NYE, C. L.</item>
+            <item>PACE, T. L.</item>
+            <item>PACE, W. G.</item>
+            <item>PENCE, J. J.</item>
+            <item>PROCTOR, J. G.</item>
+            <item>ROSE, D. J.</item>
+            <item>RUFFIN, R. G.</item>
+            <item>SHUFORD, H. M.</item>
+            <item>SMITH, R. O.</item>
+            <item>STACK, A. M.</item>
+            <item>SWIFT, V. E.</item>
+            <item>TAYLOR, S. R.</item>
+            <item>THOMPSON, P. C.</item>
+            <item>TURNER, R.</item>
+            <item>TYLER, E. R.</item>
+            <item>UNDERWOOD, J. W.</item>
+            <item>VENTERS, L. S.</item>
+            <item>WALKER, C. H.</item>
+            <item>WEEKS, R. S.</item>
+            <item>WINSTEAD, J. L.</item>
+            <item>WOMBLE, D. J.</item>
+            <item>WORTHINGTON, S. O.</item>
+            <item>YOUNCE, G. A.</item>
+          </list>
+        </div2>
+        <div2 type="section">
+          <head>MARINE CORPS</head>
+          <list type="simple">
+            <item>FIRST LIEUT. R. F. BOYD, Commanding</item>
+            <item>FIRST SERGT. C. P. STUMP</item>
+          </list>
+          <list type="simple">
+            <head>SERGEANTS</head>
+            <item>L. O. GREGORY</item>
+            <item>A. S. M. KENNEY</item>
+          </list>
+          <list type="simple">
+            <head>PRIVATES</head>
+            <item>BERRYHILL, W. R.</item>
+            <item>CONE, BEN</item>
+            <item>HORNADAY, J. C.</item>
+            <item>LINEBERGER, A. C.</item>
+            <item>MILES, F. G.</item>
+            <item>MILLIGAN, PATRICK</item>
+            <item>REAMS, H. C.</item>
+          </list>
+        </div2>
+        <div2 type="section">
+          <pb id="p24" n="[24]"/>
+          <head>THE UNIVERSITY BATTALION</head>
+          <p>CAPT. J. STUART ALLEN, Princess Patricia's Canadian Light Infantry, Commanding</p>
+          <p>J. V. WHITFIELD, Adjutant</p>
+        </div2>
+        <div2 type="section">
+          <head>“E” COMPANY</head>
+          <list type="simple">
+            <item>CAPT. S. C. OGBURN</item>
+            <item>FIRST LIEUT. T. J. WILSON</item>
+            <item>SECOND LIEUT. D. B. JACOBI</item>
+            <item>FIRST SERGT. W. W. WILLIAMS</item>
+          </list>
+          <list type="simple">
+            <head>SERGEANTS</head>
+            <item>HAYGOOD, J.</item>
+            <item>HILL, G. W.</item>
+            <item>BEERS, C. D.</item>
+          </list>
+          <list type="simple">
+            <head>PRIVATES</head>
+            <item>ABERNETHY, C. L.</item>
+            <item>ARMFIELD, B. M.</item>
+            <item>AYCOCK, M. D.</item>
+            <item>BEERS, C. D.</item>
+            <item>BRAND, J. N.</item>
+            <item>BRITTAIN, J. V.</item>
+            <item>BROOKS, F. P.</item>
+            <item>BURTON, R. O.</item>
+            <item>CARSON, R. L.</item>
+            <item>CASPER, R. M.</item>
+            <item>COKER, J. W.</item>
+            <item>CRAWFORD, R. B.</item>
+            <item>CRISP, A. R.</item>
+            <item>DAVIS, S. L.</item>
+            <item>EPSTEIN, S. N.</item>
+            <item>FEREE, R. S.</item>
+            <item>FINGER, G. T.</item>
+            <item>FRENCH, L. C.</item>
+            <item>GIBSON, A. M.</item>
+            <item>GIBSON, F. T.</item>
+            <item>GILLESPIE, S. C.</item>
+            <item>GORHAM, M. C.</item>
+            <item>GRIFFEN, A. G.</item>
+            <item>HALL, E. F.</item>
+            <item>HAMER, D.</item>
+            <item>HAYES, J. H.</item>
+            <item>HAYES, N. P.</item>
+            <item>HAYWOOD, W. W.</item>
+            <item>HEFFNER, H. C.</item>
+            <item>HEFFNER, R. L.</item>
+            <item>HILL, G. W.</item>
+            <item>HODGIN, J. P.</item>
+            <item>HORTON, J. P.</item>
+            <item>JACOBI, D. B.</item>
+            <item>JOHNSTON, C. S.</item>
+            <item>LAKE, M. E.</item>
+            <item>LEAVITTE, S. E.</item>
+            <item>LONDON, W. L.</item>
+            <item>McPHERSON, H. L.</item>
+            <item>McRAE, J. T.</item>
+            <item>MARTIN, E. H.</item>
+            <item>MENZIES, A. A.</item>
+            <item>MURDOCK, T. C.</item>
+            <item>NEELEY, H. H.</item>
+            <item>NORWOOD, S. J.</item>
+            <item>OWENS, A. B.</item>
+            <item>PALMER, J. K.</item>
+            <item>PIKE, C. G.</item>
+            <item>PRINCE, W. M.</item>
+            <item>PRITCHETT, J. A.</item>
+            <item>PROCTOR, R. L.</item>
+            <item>RAND, E. G.</item>
+            <item>RANKIN, H. A.</item>
+            <item>SAUNDERS, — —</item>
+            <item>SHINE, W. H.</item>
+            <item>SMITH, L. S.</item>
+            <item>STORY, P. M.</item>
+            <item>STOUT, W. W.</item>
+            <item>SYLVESTER, L. W.</item>
+            <item>SYMMES, C. E.</item>
+            <item>THOMPSON, E. H.</item>
+            <item>VAN LANDINGHAM, R.</item>
+            <item>WALKER, H. W.</item>
+            <item>WILLARD, E. P.</item>
+            <item>WILLIAMS, C. J.</item>
+            <item>WOLF, T. C.</item>
+            <item>WOOTEN, S. D.</item>
+          </list>
+        </div2>
+        <div2 type="section">
+          <pb id="p25" n="[25]"/>
+          <p>
+<figure id="ill19a" entity="yy19p23a"><p>hep...right...hep...</p></figure></p>
+          <p>
+<figure id="ill19b" entity="yy19p23b"><p>The University Battalion<lb/>Non S. A. T. C.</p></figure></p>
+          <p>
+<figure id="ill19c" entity="yy19p23c"><p>hand s'lute <lb/>A Perfect line<lb/>
+We'll always remember you</p></figure></p>
+        </div2>
+        <div2 type="section">
+          <pb id="p26" n="[26]"/>
+          <head>“F” COMPANY</head>
+          <p>CAPT. A. H. PELL</p>
+          <p>FIRST LIEUT. H. EDMONDSON</p>
+          <p>SECOND LIEUT. J. B. McLEOD</p>
+          <p>FIRST SERGT. T. C. SMITH</p>
+          <list type="simple">
+            <head>SERGEANTS</head>
+            <item>BOBBITT, W. H.</item>
+            <item>DANIELS, J. W.</item>
+            <item>PATTERSON, A. H., JR.</item>
+          </list>
+          <list type="simple">
+            <head>PRIVATES</head>
+            <item>ALEXANDER, W. A.</item>
+            <item>ANDERSON, W. P.</item>
+            <item>BARDIN, J. G.</item>
+            <item>BENDER, R.</item>
+            <item>BEST, H. M.</item>
+            <item>BODDIE, N. C.</item>
+            <item>BOWEN, J. F.</item>
+            <item>BOYD, G. V.</item>
+            <item>BOYD, R. E.</item>
+            <item>BROOKS, F. P.</item>
+            <item>BULLOCK, J. D.</item>
+            <item>CAMPEN, G. B.</item>
+            <item>CARROLL, J. A.</item>
+            <item>DAUGHTRIDGE, A. L.</item>
+            <item>DUFFEY, H. B.</item>
+            <item>ELLIOT, G. D.</item>
+            <item>FELS, J.</item>
+            <item>FOSTER, J. W.</item>
+            <item>FOWLER, L. M.</item>
+            <item>FRAZIER, J. W.</item>
+            <item>GARDNER, W. A.</item>
+            <item>GRAY, P. M.</item>
+            <item>GREENWOOD, J. C.</item>
+            <item>GRISSETT, G. A.</item>
+            <item>HALL, G. C.</item>
+            <item>HANNAH, W. T.</item>
+            <item>HARDIN, J. H.</item>
+            <item>HAYES, F. A.</item>
+            <item>HICKS, E. L.</item>
+            <item>LANE, S. J.</item>
+            <item>LANGLEY, C.</item>
+            <item>LESSER, S. H.</item>
+            <item>LIVELY, K. K.</item>
+            <item>MADDRY, R. S.</item>
+            <item>MASSENBURG, J. S.</item>
+            <item>MEARES, W. T.</item>
+            <item>MERRITT, E. S.</item>
+            <item>MILLS, W. C.</item>
+            <item>MOORE, L. D.</item>
+            <item>ODEN, J. W.</item>
+            <item>PARKER, F.</item>
+            <item>PATTERSON, A. H.</item>
+            <item>PEACOCK, F. L.</item>
+            <item>PIPES, E. J.</item>
+            <item>PRESSLY, J. L.</item>
+            <item>PRICE, H.</item>
+            <item>PROCTOR, C. W.</item>
+            <item>PURRINGTON, A. L.</item>
+            <item>ROBERTSON, S. T.</item>
+            <item>SIMMONS, D. L.</item>
+            <item>SMITH, T. C.</item>
+            <item>SUMMEY, L. D.</item>
+            <item>SUMNER, N. L.</item>
+            <item>SUSMAN, B. L.</item>
+            <item>UPCHURCH, W. H.</item>
+            <item>WARE, R. R.</item>
+            <item>WARREN, J.</item>
+            <item>WATSON, G. C.</item>
+            <item>WEARN, J. S.</item>
+            <item>WOODALL, W. P.</item>
+          </list>
+        </div2>
+        <div2 type="section">
+          <pb id="p27" n="[27]"/>
+          <list type="simple">
+            <item>GEORGE H. COX, '14, Cited for Bravery</item>
+            <item>BENJAMIN F. DIXON, '05, Cited for Bravery</item>
+            <item>SAMUEL J. ERWIN, JR., '17, Cited for D. S. C.</item>
+            <item>ERNEST GRAVES, '00, D. S. M.</item>
+            <item>GRAHAM K. HOBBS, '12, Cited for Bravery</item>
+            <item>BRYCE LITTLE, '20, Cited for Extraordinary Service</item>
+            <item>BRUCE MASON, D. S. C.</item>
+            <item>SAMUEL I. PARKER, '17, D. S. C.</item>
+            <item>FRED M. PATTERSON, '16, Cited for Bravery</item>
+            <item>J. GRAHAM RAMSAY, '17, Croix de Guerre, Cited for D. S. C.</item>
+            <item>JOHN OLIVER RANSON, '17, D. S. C.</item>
+            <item>JOHN E. RAY, '08, Cited for Bravery</item>
+            <item>W. OLIVER SMITH, '17, Croix de Guerre</item>
+            <item>SAMUEL F. TALFAIR, '17, D. S. C.</item>
+            <item>NORMAN VANN, '13, Cited for Bravery</item>
+            <item>ISHAM ROLAND WILLIAMS, '13, D. S. C.</item>
+          </list>
+          <p>This list is necessarily an incomplete one, because of difficulty in securing reports.</p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

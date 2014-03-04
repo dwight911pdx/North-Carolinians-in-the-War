@@ -1,0 +1,1337 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+<!ENTITY yacke162 SYSTEM "yacke162.jpg" NDATA jpeg>
+<!ENTITY yackecv SYSTEM "yackecv.jpg" NDATA jpeg>
+<!ENTITY yacke163 SYSTEM "yacke163.jpg" NDATA jpeg>
+<!ENTITY yacke165 SYSTEM "yacke165.jpg" NDATA jpeg>
+<!ENTITY yacke166 SYSTEM "yacke166.jpg" NDATA jpeg>
+<!ENTITY yacke167 SYSTEM "yacke167.jpg" NDATA jpeg>
+<!ENTITY yacke168 SYSTEM "yacke168.jpg" NDATA jpeg>
+<!ENTITY yacke170 SYSTEM "yacke170.jpg" NDATA jpeg>
+<!ENTITY yacke172 SYSTEM "yacke172.jpg" NDATA jpeg>
+<!ENTITY yacke173 SYSTEM "yacke173.jpg" NDATA jpeg>
+<!ENTITY yacke183 SYSTEM "yacke183.jpg" NDATA jpeg>
+<!ENTITY yacke185 SYSTEM "yacke185.jpg" NDATA jpeg>
+<!ENTITY yacke187 SYSTEM "yacke187.jpg" NDATA jpeg>
+<!ENTITY yacke188 SYSTEM "yacke188.jpg" NDATA jpeg>
+<!ENTITY yacke5 SYSTEM "yacke5.jpg" NDATA jpeg>
+<!ENTITY yacke164a SYSTEM "yacke164a.jpg" NDATA jpeg>
+<!ENTITY yacke164b SYSTEM "yacke164b.jpg" NDATA jpeg>
+<!ENTITY yacke181a SYSTEM "yacke181a.jpg" NDATA jpeg>
+<!ENTITY yacke181b SYSTEM "yacke181b.jpg" NDATA jpeg>
+<!ENTITY yacke181c SYSTEM "yacke181c.jpg" NDATA jpeg>
+<!ENTITY yacke182a SYSTEM "yacke182a.jpg" NDATA jpeg>
+<!ENTITY yacke182b SYSTEM "yacke182b.jpg" NDATA jpeg>
+<!ENTITY yacke175c SYSTEM "yacke175c.jpg" NDATA jpeg>
+<!ENTITY yacke175a SYSTEM "yacke175a.jpg" NDATA jpeg>
+<!ENTITY yacke175b SYSTEM "yacke175b.jpg" NDATA jpeg>
+<!ENTITY yacke184c SYSTEM "yacke184c.jpg" NDATA jpeg>
+<!ENTITY yacke184a SYSTEM "yacke184a.jpg" NDATA jpeg>
+<!ENTITY yacke184b SYSTEM "yacke184b.jpg" NDATA jpeg>
+<!ENTITY yacke177c SYSTEM "yacke177c.jpg" NDATA jpeg>
+<!ENTITY yacke177b SYSTEM "yacke177b.jpg" NDATA jpeg>
+<!ENTITY yacke177a SYSTEM "yacke177a.jpg" NDATA jpeg>
+<!ENTITY yacke169a SYSTEM "yacke169a.jpg" NDATA jpeg>
+<!ENTITY yacke169b SYSTEM "yacke169b.jpg" NDATA jpeg>
+<!ENTITY yacke186a SYSTEM "yacke186a.jpg" NDATA jpeg>
+<!ENTITY yacke186b SYSTEM "yacke186b.jpg" NDATA jpeg>
+<!ENTITY yacke186c SYSTEM "yacke186c.jpg" NDATA jpeg>
+<!ENTITY yacketp SYSTEM "yacketp.jpg" NDATA jpeg>
+<!ENTITY yacke179b SYSTEM "yacke179b.jpg" NDATA jpeg>
+<!ENTITY yacke179a SYSTEM "yacke179a.jpg" NDATA jpeg>
+<!ENTITY yacke179c SYSTEM "yacke179c.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="wwi" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>The Yackety Yack 1918. [Excerpts Relating to World War I]:</emph>
+Electronic Edition.</title>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Apex Data Services, Inc.</name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Harris Henderson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name>Apex Data Services, Inc., Harris Henderson, and Jill Kuhn Sexton</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca.   50K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="title page">The Yackety Yack 1918</title>
+            <title type="cover">Yackety Yack 1918</title>
+          </titleStmt>
+          <extent>p. [1], 5-8, 162-188; ill.</extent>
+          <publicationStmt>
+            <pubPlace>[Chapel Hill]</pubPlace>
+            <publisher>Publications Board of the University of North Carolina at Chapel Hill [etc.] </publisher>
+            <date>1918</date>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number  C378 UPy 1918 (North Carolina Collection, University of North Carolina at Chapel Hill)</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been entered using double-keying and verified against the original. </p>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Running titles have not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>World War, 1914-1918 -- Education and the war.</item>
+            <item>Patriotism -- North Carolina.</item>
+            <item>University of North Carolina (1793-1962) -- Students.</item>
+            <item>College students -- North Carolina -- Chapel Hill -- Political activity.</item>
+            <item>World War, 1914-1918 -- War work -- North Carolina -- Chapel Hill.</item>
+            <item>World War, 1914-1918 -- North Carolina -- Chapel Hill.</item>
+            <item>Military training camps -- North Carolina -- Chapel Hill.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-05-10, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-04-10, </date>
+        <respStmt>
+          <name> Jill Kuhn Sexton </name>
+          <resp/>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-04-05, </date>
+        <respStmt>
+          <name>Harris Henderson</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-01-25, </date>
+        <respStmt>
+          <name>Apex Data Services, Inc.</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the text.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div1 type="cover image">
+        <p>
+          <figure id="cover" entity="yackecv">
+            <p>[Cover Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="title page image">
+        <p>
+          <figure id="title" entity="yacketp">
+            <p>[Title Page Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">The Yackety Yack 1918</titlePart>
+        </docTitle>
+        <docImprint>
+          <publisher>THE YEARBOOK OF THE <lb/> UNIVERSITY OF NORTH <lb/> CAROLINA. PUBLISHED <lb/> ANNUALLY BY THE <lb/> LITERARY SOCIETIES AND THE <lb/> FRATERNITIES</publisher>
+        </docImprint>
+        <docEdition>
+          <seg>VOLUME XVIII</seg>
+        </docEdition>
+      </titlePage>
+      <div1 type="section">
+        <pb id="p5" n="5"/>
+        <p>
+          <figure id="ill1" entity="yacke5">
+            <p>THE SPIRIT OF '61 <lb/> AND <lb/> THE SPIRIT OF '17</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="section">
+        <pb id="p6" n="6"/>
+        <head>THE UNIVERSITY AND THE WAR</head>
+        <p>LEO TOLSTOY somewhere speaks of what he calls the “female boarding school or cadet-academy” conception of a university. The university of his time, he thinks, is aloof from real life; in it boys learn “lessons,” as in the schools; attending it is “going to school.” A better conception is that of “a collection of men for the purpose of their mutual culture;” and he explains what this means by telling us that “such universities, unknown to us, spring up and exist in various corners of Russia; in the universities themselves, in the students' clubs, people come together, read and discuss, until at last rules establish themselves when to meet and how to discuss. There you have real universities!” A different idea is expressed by Matthew Arnold, in the description of Oxford that everyone knows by heart: “Beautiful City! so venerable, so lovely, so unravaged by the fierce intellectual life of our century . . . steeped in sentiment as she lies, and whispering from her towers the last enchantments of the Middle Age, who will deny that Oxford, by her ineffable charm, keeps ever calling us nearer to the true goal of all of us, to the ideal, to perfection, to beauty?” And a third conception, older than these, is expressed by Francis Bacon, pioneer of research as a university ideal, when, after speaking of the search for truth as “the sovereign good of human nature,” he quotes Lucretius: “It is a pleasure to stand upon the shore, and see ships tossed upon the sea; a pleasure to stand in the window of a castle, and to see a battle and the adventures thereof below: but no pleasure is comparable to the standing upon the vantage ground of Truth (a hill not to be commanded, and where the air is always clear and serene), and to see the errors, and wanderings, and mists, and tempests, in the vale below.” To this he adds merely that the sight of human error and suffering must be “with pity, and not with swelling or pride.”</p>
+        <p>Each of these conceptions, taken singly, is partial. Tolstoy would define his university by the group of earnest men and women, connected with an institution or not, who read and discuss serious matters for mutual culture. He has in mind the Circles of Tchaykovsky, organized in the latter part of the nineteenth century in almost every province of Russia, in which university men and women lived with peasants and artisans, and sought not only to better their circumstances but to implant in them ideals of freedom, seeking also to learn from them sincerity, truth, and their own conceptions of life. But this ideal leaves out of account both that function of the university which makes it the conserver of the accumulated riches of human experience and that not less important function which is discharged by
+<pb id="p7" n="7"/>
+great investigators, men who give themselves unweariedly to pure research, who dwell upon that hill of Truth of which Bacon wrote. Tolstoy represents the university as partaking of the life of the people; Arnold thinks of it as the preserver of ideals, a “queen of romance,” a “home of lost causes,” withdrawn from the passing clamor of an epoch of dissolution and transformation. Bacon also would have it removed from the flux of human struggle and error, in order that it may further, through research, the conquest of abstract truth.</p>
+        <p>One effect of the Great War has been that it has brought all things to test. This test is not merely of physical courage and endurance, of the spirit of heroism, of the willingness to fight and, if need be, to die for that something not ourselves that is identified with justice and right; it is also a test of our conceptions of democracy, of our fitness to champion the ideals which humanity, through a long and painful evolution, has set up against arbitrary and pitiless despotism. Men and institutions are alike tried by fire. This test the university, like other institutions, can not evade. The province of the university may be defined through combining the conceptions outlined a moment ago. It must act as custodian and interpreter of the spiritual inheritance of the ages; it must follow knowledge like a sinking star beyond the utmost bounds of human thought; and it must bring these ideals and this truth to bear on life. In the light of the first of these duties, Kultur and frightfulness, the ambition for a place in the sun, the false doctrine of the survival of the strongest, are put to a test that shrivels them and burns. In the light of the second, the investigator, untouched by the tumult and the shouting of warring hosts, adds bit by bit to the sum of knowledge that pushes back a little farther the realm of chaos and old night. In the light of the third, idealism and truth come down from the mountain top to bring the tables of the law to men.</p>
+        <p>This threefold vision the University of North Carolina has caught. Her years are the years of the American constitution. Her life is a symbol of American democracy in its best and purest form. Sometimes we think her devoid of beauty; but this ground is holy ground, these buildings sanctuary. True to her spirit, her sons have given themselves freely to make this spirit prevail. In them, her warfare on falsehood becomes concrete. True to her spirit, those who remain are preparing themselves, in mind and body, for the day when they too may be called upon to front a lie in arms, and not to yield. Thus is the first vision made flesh.</p>
+        <pb id="p8" n="8"/>
+        <p>As to the second, there are scholars here who in library and laboratory continue the research upon which the life of the University depends. This work is often unrealized by the student-body, but it is like the mountain springs at the head of a mighty river. Therefore, despite changes in courses of study necessary to fit them to the needs of the present, despite the military training that absorbs so much of the time and interest of members of the University, despite the picturesque changes in the appearance of classroom and campus because of the substitution of the garb of war for academic cap and gown, the scientific and philological societies present their records of research, the learned journals published by the University appear with stated regularity, scholarly investigation is quickened, not discouraged, by war. The spirit of the University seeks to find the facts and to face them, knowing, with Huxley, that “there is no alleviation for the suffering of mankind except veracity of thought and action, and the resolute facing of the world as it is.” From this faithfulness to the second vision, the University derives its authority.</p>
+        <p>Finally, through the series of Extension Leaflets dealing with questions of war, through the package libraries and the information service, through correspondence courses and lectures on history, science, and literature in the light of the war; most of all through the new organizations in various communities known as Extension Centers, the University brings its idealism and its truth to bear on the troubled life of an age of transformation and agony. Wherever a group of people—in a classroom on the Hill, in a country Sunday School, in an Extension Center miles away from the Old Well—are brought into contact with this idealism and this truth, there is the University in the midst of them. The student who walks a dozen miles on Sunday to tell a little class what he has learned on the Hill, the teacher who adds to his routine work the conference at the distant Center, symbolize the third vision. For the University exists not in its physical equipment of classrooms and laboratories, not in its machinery of registration and examination, not in the splendid ceremonies of Commencement. When Brand discovered that the people regarded the building that he gave them as in truth the church, he locked the door, threw away the key, and led them up the mountainside. So also the University is a spirit—invisible, intangible, yet real. In these community groups, organized for the study of the national spirit, seeking to make of the community what the members of the community would have the nation become, the University is at work, finding here high service for a time of war, helping our democracy to create, through vision and truth, its ideals.</p>
+        <closer>
+          <signed>—EDWIN GREENLAW</signed>
+        </closer>
+      </div1>
+      <div1 type="section">
+        <p>
+          <figure id="ill2" entity="yacke162">
+            <p>[Silent Sam]</p>
+          </figure>
+        </p>
+      </div1>
+    </front>
+    <body>
+      <div1 type="section">
+        <pb id="p163" n="163"/>
+        <p>
+          <figure id="ill3" entity="yacke163">
+            <p>“——<hi rend="italics">Oh, long may it wave O'er the land of the free and the home of the brave!”</hi></p>
+          </figure>
+        </p>
+        <q direct="unspecified">
+          <p/>
+        </q>
+        <pb id="p164" n="164"/>
+        <p>
+          <figure id="ill4" entity="yacke164a">
+            <p>DRUM CORPS—SPRING, 1917</p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill5" entity="yacke164b">
+            <p>PLAN OF TRENCHES. <lb/> University of North Carolina Military Department</p>
+          </figure>
+        </p>
+        <pb id="p165" n="165"/>
+        <p>
+          <figure id="ill6" entity="yacke165">
+            <p>MILITARY</p>
+          </figure>
+        </p>
+        <pb id="p166" n="166"/>
+        <p>
+          <figure id="ill7" entity="yacke166">
+            <p>THE BATTALION</p>
+          </figure>
+        </p>
+        <pb id="p167" n="167"/>
+        <p>
+          <figure id="ill8" entity="yacke167">
+            <p>JAMES STUART ALLEN <lb/> CAPTAIN PRINCESS PATRICIA'S CANADIAN LIGHT INFANTRY <lb/> <hi rend="italics">Director of Military Training</hi></p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="section">
+        <pb id="p168" n="168"/>
+        <head>MILITARY TRAINING AT THE UNIVERSITY</head>
+        <p>IT IS not the nature of the North Carolinian to remain neutral when a “first-class scrap” is in progress nearby. When his financial interests are also involved, and when his sympathies are aroused by the brutality practiced by one of the belligerents, his blood seethes with a desire to take part in the conflict.</p>
+        <p>Such was the condition confronting us during the first year of the great European war. From the beginning, our hearts have been with the Entente Allies, tho most of us for a long time agreed as to the wisdom and expediency of national neutrality. A few of us, from the first, more belligerent in nature or more far-sighted then the rest, felt that we should at once throw our swords in the balance. Some could not resist the individual call to duty, and the names of Rockwell and McConnell have been added to the long honor roll of North Carolinians who have died in the cause of Liberty and Right. But conservatism as well as sympathy is deeply ingrained in our character. The bulk of our people, tho hoping for the success of France and Britain, yet felt that we as a people lacked sufficient cause for participation. Our native love of peace, and our inherent confidence in the goodness of human kind, blinded us to the far-reaching German ambition for world domination, and to the gross brutality and conscienceless treachery of the Teuton rulers.</p>
+        <p>
+          <figure id="ill9" entity="yacke168">
+            <p>JONATHAN LEONARD <lb/> Harvard R. O. T. C. <lb/> Instructor in Military Science</p>
+          </figure>
+        </p>
+        <p>Our long immunity from foreign attack, and our own absence of desire for conquest, prevented our recognition of the danger from abroad, and obscured our appreciation of our own military weakness. But our eyes were gradually opened by the cumulative evidence of three years. The invasion of Belgium, the continued oppression of conquered territory, the deliberate devastation of farm and city, the persistent cruelty to prisoners and to civilians and, above all, the inhuman work of the submarine, steadily aroused our overwhelming indignation; and step by step came the realization of our own helplessness in case of war.</p>
+        <p>The academic atmosphere promotes an intense love of individual freedom, an acute sympathy for the oppressed, and a ready indignation against an oppressor. But it also creates an impatience of restraint and discipline. The college man is prompt to volunteer when war is on, but slow to recognize the necessity for preparation before the event. When the suggestion was made, in the fall of nineteen-fifteen, that a course in military training be introduced in the University
+<pb id="p169" n="169"/>
+of North Carolina, it met with little favor among either Faculty or students. War was not regarded as imminent, and in our ignorance we failed to realize the importance of making ready for its coming.</p>
+        <p>
+          <figure id="ill10" entity="yacke169a">
+            <p>JAMES VIVIAN WHITFIELD <lb/> <hi rend="italics">Instructor in Military Science</hi></p>
+          </figure>
+        </p>
+        <p>A few months later, a chapter of the National Security League was organized, thru the efforts of Mr. J. M. Booker; but only four or five of the Faculty and a few dozen of the students were interested. The organization languished and died, but it had prepared the ground for a further growth. A second attempt, made in the spring of nineteen-sixteen, to introduce military training in the University, met a better response; but real enthusiasm was still lacking, except among a small group who were rated as alarmists and cranks. The course was not adopted, but the changing attitude was evidenced by the fact that during the following summer three Faculty members and twelve students attended the Civilian Training Camps at Plattsburg and Fort Oglethorpe. Mr. Draper, of Charlotte, N. C., gave five hundred dollars, and Mr. Frothingham, of Worcester, Mass., gave one hundred dollars, toward defraying the expenses of students attending this Camp.</p>
+        <p>
+          <figure id="ill11" entity="yacke169b">
+            <p>FIRST ATTEMPTS—SPRING, 1917</p>
+          </figure>
+        </p>
+        <pb id="p170" n="170"/>
+        <p>This period may be regarded as the starting point of active interest in our military preparation. Every one of the men attending these Camps returned full of enthusiasm, and strongly in favor of a Training Course in the University. This spirit grew steadily, and by January, 1917, nearly one hundred of the students, and ten members of the Faculty, had made their plans to attend one of the Government Camps in the following summer. Coincidently, the sentiment for a University Department of Military Science gained momentum, and seemed destined to succeed.</p>
+        <p>At this moment the sudden severance of diplomatic relations with Germany swept away all remaining opposition. Without a dissenting vote, and with scarcely a dissenting voice, the Faculty adopted a resolution recommending the institution of this Department. At the same time, under the stimulating influence of Coach T. J. Campbell, the University Battalion was formed. A meeting of those expecting to attend the Civilian Camps was held. In half an hour more than a hundred men had agreed to drill for an hour each night. Three days later, this number exceeded five hundred. Meanwhile, President Graham had applied to the War Department for an instructor, and for the necessary equipment for a Reserve Officers' Training Corps. Unfortunately, with war imminent, the relatively small military establishment of the United States could not spare to us an instructor, nor even the modest amount of equipment we required. Nevertheless, without uniforms, and without rifles, and merely under the tutelage of students and Faculty members who had had some scant experience at Plattsburg or at preparatory schools, the drill was enthusiastically begun. This work attracted the attention of Mr. R. W. Glenn, of Greensboro, the State Secretary of the Military Training Camps Association. Thru his good offices, Mr. Julius Cone, of Greensboro, loaned to us, and afterward gave us, one hundred and eighty Civil War carbines. Tho obsolete as offensive weapons, they have served an indispensable purpose for our drill. Lieutenant (now Captain) McLendon, of the North Carolina National Guard, and Captain (now Colonel) Broadhurst, of the Regular Army, both alumni of the University, made frequent visits to the campus during the spring, and rendered valuable service by their advice and encouragement. In the latter part of the session, the battalion was badly shattered by the enlistment of many of its members in the army, and by the enrollment of more than one hundred others in the first Officers' Training Camp at Fort Oglethorpe. But those who remained continued the work until the close of the session.</p>
+        <p>
+          <figure id="ill12" entity="yacke170">
+            <p>MESSRS. HICKERSON <lb/> AND BULLITT</p>
+          </figure>
+        </p>
+        <p>In spite of President Graham's earnest efforts, it was impossible to secure from the United States Government either an officer as instructor, or equipment
+<pb id="p171" n="171"/>
+for the proposed work of the present session. But in the late summer his labors were amply rewarded by his securing from the Canadian Government the services of Capt. J. Stuart Allen, of the Princess Patricia's Canadian Light Infantry. As the head of the Department of Military Science, he has maintained at a high level the intense enthusiasm which our students felt for this preparation for patriotic service. His high record as an officer in the British Expeditionary forces, his boundless energy, and his magnetic personality, have made him an ideal leader in initiating this course, and have endeared him personally to all in the University community. His assistants have been Mr. Jonathan Leonard, who formerly held a responsible position on the teaching staff of the Harvard Reserve Officers' Training Corps, and Mr. J. V. Whitfield, (U. N. C., 1915), who for the past two years has been Commandant at Horner Military School.</p>
+        <p>The total number of students registered in the University for the fall term was 820. Of these, 565 (sixty-eight per cent.) have been taking this course, devoting twelve hours a week to the work. If we eliminate from our count the twenty-five women students, and about seventy-five men whose laboratory hours in medicine, chemistry, etc., conflicted with the drill hours, and about twenty whom the college physician disqualified for physical reasons, we have in training about eighty per cent. of those who could by any reasonable possibility take the course.</p>
+        <p>Because of the immediate national emergency, the whole University schedule of classes has been so modified as to make possible the devotion of twelve daylight hours a week to this work. Obviously this arrangement can not be permanent, but plans are now being formulated by which a Reserve Officers' course, based upon the recommendations of the War Department, may be incorporated in the regular curriculum. The details are not yet perfected, but it is purposed to place the Military Department upon the same basis as other Departments in the University.</p>
+        <p>An interesting experiment will be tried during the summer of nineteen-eighteen. Under the auspices of the University, a six-weeks' course of intensive military training will be given by Captain Allen, assisted by Mr. W. A. Blount and Mr. Bingham McKee. Colonel Bingham, of Asheville, has generously offered the use of his school (barracks, tents, and all other equipment) for this purpose. The course will be open not only to regular college students, but also to all boys and young men, from sixteen to twenty years of age. No University credit will be given, but the opportunity is offered for a delightful summer outing combined with a very valuable experience.</p>
+        <closer>
+          <signed>—J. B. B.</signed>
+        </closer>
+      </div1>
+      <div1 type="section">
+        <pb id="p172" n="172"/>
+        <p>
+          <figure id="ill13" entity="yacke172">
+            <p>“COLORS”</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="section">
+        <pb id="p173" n="173"/>
+        <p>
+          <figure id="ill14" entity="yacke173">
+            <p>THE STAFF</p>
+          </figure>
+        </p>
+        <div2 type="section">
+          <head>THE STAFF</head>
+          <p><hi rend="italics">Director of Military Science</hi> <lb/> CAPT. J. STUART ALLEN, P. P. C. L. I.</p>
+          <p><hi rend="italics">Commandant</hi> <lb/> LIEUT. JONATHAN LEONARD</p>
+          <p><hi rend="italics">Adjutant</hi> <lb/> LIEUT. J. V. WHITFIELD</p>
+        </div2>
+      </div1>
+      <div1 type="section">
+        <pb id="p174" n="174"/>
+        <head>COMPANY “A”</head>
+        <p>
+          <table rows="6" cols="2">
+            <head>OFFICERS</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">G. D. HOLDING</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Captain</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">R. B. MCKEE</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">First Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">W. W. NEAL</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">R. J. CROWELL</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">J. M. GWYNN</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">B. A. SIMMS</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">First Sergeant</hi>
+              </cell>
+            </row>
+          </table>
+        </p>
+        <p><hi rend="italics">Sergeants</hi> <lb/> EAGLE, LIIPFERT, ALLEN, LOHR, PARKER, PATTERSON, BRYANT, L. H., CRANMER</p>
+        <p>
+          <table rows="25" cols="4">
+            <row role="label">
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">First Platoon</hi>
+              </cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Platoon</hi>
+              </cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Third Platoon</hi>
+              </cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Fourth Platoon</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">PINNIX</cell>
+              <cell role="data" rows="1" cols="1">RONDTHALER</cell>
+              <cell role="data" rows="1" cols="1">BRISTOL</cell>
+              <cell role="data" rows="1" cols="1">MECUM</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">PRICE</cell>
+              <cell role="data" rows="1" cols="1">PAYNE</cell>
+              <cell role="data" rows="1" cols="1">COHN</cell>
+              <cell role="data" rows="1" cols="1">HENSON</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">PEARSON</cell>
+              <cell role="data" rows="1" cols="1">MARTIN</cell>
+              <cell role="data" rows="1" cols="1">PRESSLEY</cell>
+              <cell role="data" rows="1" cols="1">ROBERTS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HARRIS (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">HARRISON (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">VOGLER (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">STEELE (Corp.)</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">SEXTON</cell>
+              <cell role="data" rows="1" cols="1">BYERLY</cell>
+              <cell role="data" rows="1" cols="1">AUSTIN</cell>
+              <cell role="data" rows="1" cols="1">CARTER</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">BIDDLE</cell>
+              <cell role="data" rows="1" cols="1">HODGES</cell>
+              <cell role="data" rows="1" cols="1">DUNCAN</cell>
+              <cell role="data" rows="1" cols="1">JAMISON</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">MOORE</cell>
+              <cell role="data" rows="1" cols="1">PAYLOR</cell>
+              <cell role="data" rows="1" cols="1">JOLLEY</cell>
+              <cell role="data" rows="1" cols="1">WELLONS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">EDWARDS</cell>
+              <cell role="data" rows="1" cols="1">EDMUNDSON</cell>
+              <cell role="data" rows="1" cols="1">TAYLOR</cell>
+              <cell role="data" rows="1" cols="1">HOFFNER</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">KITTRELL</cell>
+              <cell role="data" rows="1" cols="1">ABERNETHY</cell>
+              <cell role="data" rows="1" cols="1">COATES</cell>
+              <cell role="data" rows="1" cols="1">SMITH</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">NEWTON</cell>
+              <cell role="data" rows="1" cols="1">HALE</cell>
+              <cell role="data" rows="1" cols="1">PATTERSON</cell>
+              <cell role="data" rows="1" cols="1">RIGLER</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">CURR</cell>
+              <cell role="data" rows="1" cols="1">GRAHAM</cell>
+              <cell role="data" rows="1" cols="1">BLAIR</cell>
+              <cell role="data" rows="1" cols="1">LEONARD</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">WOOD (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">KENNEY (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">WILSON (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">CONE (Corp.)</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">MOODY</cell>
+              <cell role="data" rows="1" cols="1">CURRIE</cell>
+              <cell role="data" rows="1" cols="1">SCHIFFMAN</cell>
+              <cell role="data" rows="1" cols="1">LINEBERGER</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HARGETT</cell>
+              <cell role="data" rows="1" cols="1">PACE</cell>
+              <cell role="data" rows="1" cols="1">AYCOCK</cell>
+              <cell role="data" rows="1" cols="1">RIVES</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">WILSON</cell>
+              <cell role="data" rows="1" cols="1">COCHRAN</cell>
+              <cell role="data" rows="1" cols="1">TAYLOR</cell>
+              <cell role="data" rows="1" cols="1">BROOKS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">EVANS</cell>
+              <cell role="data" rows="1" cols="1">BURTON</cell>
+              <cell role="data" rows="1" cols="1">COOPER</cell>
+              <cell role="data" rows="1" cols="1">O'NEAL</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HENNESSEE</cell>
+              <cell role="data" rows="1" cols="1">CUMMINGS</cell>
+              <cell role="data" rows="1" cols="1">COWAN</cell>
+              <cell role="data" rows="1" cols="1">MCKNIGHT</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HENDRICKS</cell>
+              <cell role="data" rows="1" cols="1">ARMFIELD</cell>
+              <cell role="data" rows="1" cols="1">WILSON</cell>
+              <cell role="data" rows="1" cols="1">SLUDER</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">JOHNSON</cell>
+              <cell role="data" rows="1" cols="1">BYNUM</cell>
+              <cell role="data" rows="1" cols="1">SCOT</cell>
+              <cell role="data" rows="1" cols="1">WILLIS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">SHAMBERGER (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">POWELL (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">WILLIAMS (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">TILSON (Corp.)</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">TURNBULL</cell>
+              <cell role="data" rows="1" cols="1">YELVERTON</cell>
+              <cell role="data" rows="1" cols="1">FIELDS</cell>
+              <cell role="data" rows="1" cols="1">SHINE</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">FULTON</cell>
+              <cell role="data" rows="1" cols="1">FEARINGTON</cell>
+              <cell role="data" rows="1" cols="1">LITTLE</cell>
+              <cell role="data" rows="1" cols="1">FOUNTAIN</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">PLESS</cell>
+              <cell role="data" rows="1" cols="1">HATCHER</cell>
+              <cell role="data" rows="1" cols="1">BROACH</cell>
+              <cell role="data" rows="1" cols="1">GOOCH</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">COKER</cell>
+              <cell role="data" rows="1" cols="1">BAKER</cell>
+              <cell role="data" rows="1" cols="1">HURLEY</cell>
+              <cell role="data" rows="1" cols="1">HALL</cell>
+            </row>
+          </table>
+        </p>
+        <pb id="p175" n="175"/>
+        <p>
+          <figure id="ill15" entity="yacke175a">
+            <p>COMMISSIONED OFFICERS</p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill16" entity="yacke175b">
+            <p>
+              <hi rend="italics">COMPANY “A”</hi>
+            </p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill17" entity="yacke175c">
+            <p>NON-COMMISSIONED OFFICERS</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="section">
+        <pb id="p176" n="176"/>
+        <head>COMPANY “B”</head>
+        <p>
+          <table rows="6" cols="2">
+            <head>OFFICERS</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">C. B. HOLDING</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Captain</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">U. S. BRYANT, JR.</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">First Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">E. C. GRANDIN</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">W. E. DOWD</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">N. G. GOODING</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">J. H. ERWIN, JR.</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">First Sergeant</hi>
+              </cell>
+            </row>
+          </table>
+        </p>
+        <p><hi rend="italics">Sergeants</hi> <lb/> JONES, HORNER, POAG, PEMBERTON, BARDEN, TENNENT</p>
+        <p>
+          <table rows="27" cols="4">
+            <row role="label">
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">First Platoon</hi>
+              </cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Platoon</hi>
+              </cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Third Platoon</hi>
+              </cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Fourth Platoon</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HANKINS</cell>
+              <cell role="data" rows="1" cols="1">PARKS</cell>
+              <cell role="data" rows="1" cols="1">STEPHENSON</cell>
+              <cell role="data" rows="1" cols="1">KINCAID</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">SMITH</cell>
+              <cell role="data" rows="1" cols="1">CARTER</cell>
+              <cell role="data" rows="1" cols="1">JUSTICE</cell>
+              <cell role="data" rows="1" cols="1">WRIGHT</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">CHINNIS</cell>
+              <cell role="data" rows="1" cols="1">IVES</cell>
+              <cell role="data" rows="1" cols="1">SLOAN</cell>
+              <cell role="data" rows="1" cols="1">DAWSON</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">KIMBALL (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">HENRY (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">THORNTON (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">WHITE (Corp.)</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">ROBBINS</cell>
+              <cell role="data" rows="1" cols="1">STEVENS</cell>
+              <cell role="data" rows="1" cols="1">HARRIS</cell>
+              <cell role="data" rows="1" cols="1">FOWLER</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">BOLING</cell>
+              <cell role="data" rows="1" cols="1">FALKNER</cell>
+              <cell role="data" rows="1" cols="1">THORPE</cell>
+              <cell role="data" rows="1" cols="1">GRIFFIN</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">TERRY</cell>
+              <cell role="data" rows="1" cols="1">WASHBURN</cell>
+              <cell role="data" rows="1" cols="1">HILL</cell>
+              <cell role="data" rows="1" cols="1">BATTLE</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">SPENCER</cell>
+              <cell role="data" rows="1" cols="1">ROBERSON</cell>
+              <cell role="data" rows="1" cols="1">BOND</cell>
+              <cell role="data" rows="1" cols="1">ABELL</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">WILSON</cell>
+              <cell role="data" rows="1" cols="1">BLYTHE</cell>
+              <cell role="data" rows="1" cols="1">VAN NOPPEN</cell>
+              <cell role="data" rows="1" cols="1">HARRIS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">NOE</cell>
+              <cell role="data" rows="1" cols="1">NOWELL</cell>
+              <cell role="data" rows="1" cols="1">PORTER</cell>
+              <cell role="data" rows="1" cols="1">JENKINS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">OWENS</cell>
+              <cell role="data" rows="1" cols="1">MURRAY (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">BAIN</cell>
+              <cell role="data" rows="1" cols="1">WILKINS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">LINDSAY (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">MCDONALD</cell>
+              <cell role="data" rows="1" cols="1">MANGUM (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">CRAWFORD (Corp.)</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">PHILIPS</cell>
+              <cell role="data" rows="1" cols="1">MASTIN</cell>
+              <cell role="data" rows="1" cols="1">WEST</cell>
+              <cell role="data" rows="1" cols="1">TAYLOR</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">YORK</cell>
+              <cell role="data" rows="1" cols="1">COSTNER</cell>
+              <cell role="data" rows="1" cols="1">STEMM</cell>
+              <cell role="data" rows="1" cols="1">GIBSON</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">NELSON</cell>
+              <cell role="data" rows="1" cols="1">ROBERTS</cell>
+              <cell role="data" rows="1" cols="1">STOKES</cell>
+              <cell role="data" rows="1" cols="1">SYLVESTER</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">YOUNGBLOOD</cell>
+              <cell role="data" rows="1" cols="1">WOODARD</cell>
+              <cell role="data" rows="1" cols="1">GEDDIE</cell>
+              <cell role="data" rows="1" cols="1">DUPREE</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">ANDERSON</cell>
+              <cell role="data" rows="1" cols="1">MCCAULEY</cell>
+              <cell role="data" rows="1" cols="1">HICKS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">BEERS</cell>
+              <cell role="data" rows="1" cols="1">BEASLEY</cell>
+              <cell role="data" rows="1" cols="1">TAYLOR</cell>
+              <cell role="data" rows="1" cols="1">TUCKER</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">RAY</cell>
+              <cell role="data" rows="1" cols="1"/>
+              <cell role="data" rows="1" cols="1">MILTON</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">FICKLEN (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">POINDEXTER (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">MOBLEY (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">GIBSON</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HOLT</cell>
+              <cell role="data" rows="1" cols="1">MORRISON</cell>
+              <cell role="data" rows="1" cols="1">WARD</cell>
+              <cell role="data" rows="1" cols="1">RANSOM</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">GLENN</cell>
+              <cell role="data" rows="1" cols="1">MERRITT</cell>
+              <cell role="data" rows="1" cols="1">RORERTSON</cell>
+              <cell role="data" rows="1" cols="1">WUNSCH</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">TAYLOR</cell>
+              <cell role="data" rows="1" cols="1">MCCABE</cell>
+              <cell role="data" rows="1" cols="1">EVERETT</cell>
+              <cell role="data" rows="1" cols="1">SPRY</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">NORMENT</cell>
+              <cell role="data" rows="1" cols="1">COFFEY</cell>
+              <cell role="data" rows="1" cols="1">LAY</cell>
+              <cell role="data" rows="1" cols="1">ALLEN</cell>
+            </row>
+          </table>
+        </p>
+        <pb id="p177" n="177"/>
+        <p>
+          <figure id="ill18" entity="yacke177a">
+            <p>COMMISSIONED OFFICERS</p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill19" entity="yacke177b">
+            <p>
+              <hi rend="italics">COMPANY “B”</hi>
+            </p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill20" entity="yacke177c">
+            <p>NON-COMMISSIONED OFFICERS</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="section">
+        <pb id="p178" n="178"/>
+        <head>COMPANY “C”</head>
+        <p>
+          <table rows="6" cols="2">
+            <head>OFFICERS</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">W. A. BLOUNT</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Captain</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">R. A. SPAUGH</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">First Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">D. B. COBB</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">W. Y. BICKETT</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">F. F. BRADSHAW</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">W. R. CUTHBERTSON</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">First Sergeant</hi>
+              </cell>
+            </row>
+          </table>
+        </p>
+        <p><hi rend="italics">Sergeants</hi> <lb/> THOMPSON, LINKER, HESTER, ARMSTRONG</p>
+        <p>
+          <table rows="25" cols="4">
+            <row role="label">
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">First Platoon</hi>
+              </cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Platoon</hi>
+              </cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Third Platoon</hi>
+              </cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Fourth Platoon</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">WOLFE</cell>
+              <cell role="data" rows="1" cols="1">RIMMER</cell>
+              <cell role="data" rows="1" cols="1">LENOIR</cell>
+              <cell role="data" rows="1" cols="1">FRYE</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">UMSTEAD</cell>
+              <cell role="data" rows="1" cols="1">WELCH</cell>
+              <cell role="data" rows="1" cols="1">SMITH</cell>
+              <cell role="data" rows="1" cols="1">RODDICK</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">BROWN</cell>
+              <cell role="data" rows="1" cols="1">HARDEN</cell>
+              <cell role="data" rows="1" cols="1">LONG</cell>
+              <cell role="data" rows="1" cols="1">FRYE</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">NEIMAN (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">EURE (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">MARTIN (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">SCHWARTZ (Corp.)</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">ALLEN</cell>
+              <cell role="data" rows="1" cols="1">NORRIS</cell>
+              <cell role="data" rows="1" cols="1">McNAIRY</cell>
+              <cell role="data" rows="1" cols="1">SMITH</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">SHAW</cell>
+              <cell role="data" rows="1" cols="1">STEVENSON</cell>
+              <cell role="data" rows="1" cols="1">HOLFER</cell>
+              <cell role="data" rows="1" cols="1">PERKINS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">PIPPIN</cell>
+              <cell role="data" rows="1" cols="1">HUDSON</cell>
+              <cell role="data" rows="1" cols="1">PARKS</cell>
+              <cell role="data" rows="1" cols="1">COBB</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">WRIGHT</cell>
+              <cell role="data" rows="1" cols="1">JOHNSTON</cell>
+              <cell role="data" rows="1" cols="1">CRISSMAN</cell>
+              <cell role="data" rows="1" cols="1">MAXWELL</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">POSTON</cell>
+              <cell role="data" rows="1" cols="1">ANDREWS</cell>
+              <cell role="data" rows="1" cols="1">BIZZELL</cell>
+              <cell role="data" rows="1" cols="1">BOBBITT</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">BATEMAN</cell>
+              <cell role="data" rows="1" cols="1">THOMAS</cell>
+              <cell role="data" rows="1" cols="1">RICHARDSON</cell>
+              <cell role="data" rows="1" cols="1">POWELL</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">SNYDER</cell>
+              <cell role="data" rows="1" cols="1">ROBBINS</cell>
+              <cell role="data" rows="1" cols="1">HARRINGTON</cell>
+              <cell role="data" rows="1" cols="1">DUNCAN</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">WILLIS</cell>
+              <cell role="data" rows="1" cols="1">MARTIN (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">STOCKTON (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">PATTERSON</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">MARSH</cell>
+              <cell role="data" rows="1" cols="1">STONE</cell>
+              <cell role="data" rows="1" cols="1">HOLT</cell>
+              <cell role="data" rows="1" cols="1">RUFFIN</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">FRANCIS</cell>
+              <cell role="data" rows="1" cols="1">TILSON</cell>
+              <cell role="data" rows="1" cols="1">WORTHINGTON</cell>
+              <cell role="data" rows="1" cols="1">GUARD</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">JONES</cell>
+              <cell role="data" rows="1" cols="1">STONE</cell>
+              <cell role="data" rows="1" cols="1">RHYNE</cell>
+              <cell role="data" rows="1" cols="1">KETCHIE</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">BARBER (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">WOMACK</cell>
+              <cell role="data" rows="1" cols="1">SMOOT</cell>
+              <cell role="data" rows="1" cols="1">TOPPING (Corp.)</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">MAYNARD</cell>
+              <cell role="data" rows="1" cols="1">MARSHALL</cell>
+              <cell role="data" rows="1" cols="1">SAUNDERS</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HAGOOD</cell>
+              <cell role="data" rows="1" cols="1">ROSS</cell>
+              <cell role="data" rows="1" cols="1">McKENZIE</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">NICHOLS</cell>
+              <cell role="data" rows="1" cols="1">LEWIS</cell>
+              <cell role="data" rows="1" cols="1">KERR</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">LYNCH (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">GREGORY (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">YOKELY (Corp.)</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">ABERNETHY</cell>
+              <cell role="data" rows="1" cols="1">PENCE</cell>
+              <cell role="data" rows="1" cols="1">WINSTEAD</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">CARPENTER</cell>
+              <cell role="data" rows="1" cols="1">CECIL</cell>
+              <cell role="data" rows="1" cols="1">YOUNG</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">BROOKSHIRE</cell>
+              <cell role="data" rows="1" cols="1">BABB</cell>
+              <cell role="data" rows="1" cols="1">STOKES</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">PRICE</cell>
+              <cell role="data" rows="1" cols="1">SMITH</cell>
+              <cell role="data" rows="1" cols="1">LOVE</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+          </table>
+        </p>
+        <pb id="p179" n="179"/>
+        <p>
+          <figure id="ill21" entity="yacke179a">
+            <p>COMMISSIONED OFFICERS</p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill22" entity="yacke179b">
+            <p>
+              <hi rend="italics">COMPANY “C”</hi>
+            </p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill23" entity="yacke179c">
+            <p>NON-COMMISSIONED OFFICERS</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="section">
+        <pb id="p180" n="180"/>
+        <head>COMPANY “D”</head>
+        <p>
+          <table rows="7" cols="2">
+            <head>OFFICERS</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">E. T. COOPER<lb/>W. W. NEAL</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Captain</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">R. C. DE ROSSET</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">First Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">W. CARMICHAEL</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">E. R. RUSSEL</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">J. P. SAWYER</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Lieutenant</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">W. H. HUFFIN, JR.</cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">First Sergeant</hi>
+              </cell>
+            </row>
+          </table>
+        </p>
+        <p><hi rend="italics">Sergeants</hi> <lb/> BAILEY, GANT, CRALLÉ, HESTER, BRANSON, JAMES</p>
+        <p>
+          <table rows="25" cols="4">
+            <row role="label">
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">First Platoon</hi>
+              </cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Second Platoon</hi>
+              </cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Third Platoon</hi>
+              </cell>
+              <cell role="data" rows="1" cols="1">
+                <hi rend="italics">Fourth Platoon</hi>
+              </cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">LIIPFERT</cell>
+              <cell role="data" rows="1" cols="1">DEBNAM</cell>
+              <cell role="data" rows="1" cols="1">BUTT</cell>
+              <cell role="data" rows="1" cols="1">FIELDS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">MCCAULEY</cell>
+              <cell role="data" rows="1" cols="1">KOONTS</cell>
+              <cell role="data" rows="1" cols="1">DAVIS</cell>
+              <cell role="data" rows="1" cols="1">YELVERTON</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">ERVIN</cell>
+              <cell role="data" rows="1" cols="1">CAMPBELL</cell>
+              <cell role="data" rows="1" cols="1">DICKERSON</cell>
+              <cell role="data" rows="1" cols="1">COOPER</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">OETTINGER (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">TOY (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">HAZELHURST (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">OGBURN (Corp.)</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">TOWLER</cell>
+              <cell role="data" rows="1" cols="1">MCNAIR</cell>
+              <cell role="data" rows="1" cols="1">FORNEY</cell>
+              <cell role="data" rows="1" cols="1">LINDSAY</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">COGGESHALL</cell>
+              <cell role="data" rows="1" cols="1">PORTCHETT</cell>
+              <cell role="data" rows="1" cols="1">PRINCE</cell>
+              <cell role="data" rows="1" cols="1">MOORE</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">OGBURN</cell>
+              <cell role="data" rows="1" cols="1">HEFFNER</cell>
+              <cell role="data" rows="1" cols="1">MCNAIR</cell>
+              <cell role="data" rows="1" cols="1">MCLAUGHLIN</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">REAMS</cell>
+              <cell role="data" rows="1" cols="1">DEITZ</cell>
+              <cell role="data" rows="1" cols="1">COX</cell>
+              <cell role="data" rows="1" cols="1">GROVES</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">SPAINHOUR</cell>
+              <cell role="data" rows="1" cols="1">HAYES</cell>
+              <cell role="data" rows="1" cols="1">NOBLE</cell>
+              <cell role="data" rows="1" cols="1">WILLIAMS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">WILLIAMSON</cell>
+              <cell role="data" rows="1" cols="1">PENNEY</cell>
+              <cell role="data" rows="1" cols="1">GIBSON</cell>
+              <cell role="data" rows="1" cols="1">CALLOCK</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">DANIELS</cell>
+              <cell role="data" rows="1" cols="1">LOWE</cell>
+              <cell role="data" rows="1" cols="1">HOLBROOK</cell>
+              <cell role="data" rows="1" cols="1">HARRIS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">KING, G. W. (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">COCHRAN (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">COOK (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">JARVIS (Corp.)</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">JONES</cell>
+              <cell role="data" rows="1" cols="1">MCKIMMON</cell>
+              <cell role="data" rows="1" cols="1">SMITH</cell>
+              <cell role="data" rows="1" cols="1">CROSS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HOFFLER</cell>
+              <cell role="data" rows="1" cols="1">COOPER</cell>
+              <cell role="data" rows="1" cols="1">MARSH</cell>
+              <cell role="data" rows="1" cols="1">SHAW</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">LEWIS</cell>
+              <cell role="data" rows="1" cols="1">STEPHENS</cell>
+              <cell role="data" rows="1" cols="1">STACK</cell>
+              <cell role="data" rows="1" cols="1">FOWLER</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">LANDIS</cell>
+              <cell role="data" rows="1" cols="1">TAYLOE</cell>
+              <cell role="data" rows="1" cols="1">COUCH</cell>
+              <cell role="data" rows="1" cols="1">BONNER</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">GRANT, D. L.</cell>
+              <cell role="data" rows="1" cols="1">WILSON</cell>
+              <cell role="data" rows="1" cols="1">NORBURN</cell>
+              <cell role="data" rows="1" cols="1">NAIMAN</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">COOPER</cell>
+              <cell role="data" rows="1" cols="1">SOUTHER</cell>
+              <cell role="data" rows="1" cols="1">ROURK</cell>
+              <cell role="data" rows="1" cols="1">DELAMAR</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">CARLYLE</cell>
+              <cell role="data" rows="1" cols="1">JOHN</cell>
+              <cell role="data" rows="1" cols="1">HINSON</cell>
+              <cell role="data" rows="1" cols="1">GRIFFIN</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">ROYALL (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">YOUNG, R. L. (Corp.)</cell>
+              <cell role="data" rows="1" cols="1">ANDREWS</cell>
+              <cell role="data" rows="1" cols="1">CORDON (Corp.)</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HARVEY</cell>
+              <cell role="data" rows="1" cols="1">BRINN</cell>
+              <cell role="data" rows="1" cols="1">HUNTER</cell>
+              <cell role="data" rows="1" cols="1">LLORENS</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">BREWER</cell>
+              <cell role="data" rows="1" cols="1">WARRICK</cell>
+              <cell role="data" rows="1" cols="1">CUNNINGHAM</cell>
+              <cell role="data" rows="1" cols="1">MADREY</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">ABERNATHY</cell>
+              <cell role="data" rows="1" cols="1">BUTT</cell>
+              <cell role="data" rows="1" cols="1">MONROE</cell>
+              <cell role="data" rows="1" cols="1">GARDNER</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">MCMANUS</cell>
+              <cell role="data" rows="1" cols="1">ADAMS</cell>
+              <cell role="data" rows="1" cols="1">GRANTHAM</cell>
+              <cell role="data" rows="1" cols="1">WALKER</cell>
+            </row>
+          </table>
+        </p>
+        <pb id="p181" n="181"/>
+        <p>
+          <figure id="ill24" entity="yacke181a">
+            <p>COMMISSIONED OFFICERS</p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill25" entity="yacke181b">
+            <p>
+              <hi rend="italics">COMPANY “D”</hi>
+            </p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill26" entity="yacke181c">
+            <p>NON-COMMISSIONED OFFICERS</p>
+          </figure>
+        </p>
+        <pb id="p182" n="182"/>
+        <p>
+          <figure id="ill27" entity="yacke182a">
+            <p>BAND</p>
+          </figure>
+        </p>
+        <p>BRANSON . . . . . <hi rend="italics">Drum Major</hi></p>
+        <p>PARKER . . . . . <hi rend="italics">Director</hi></p>
+        <p>
+          <figure id="ill28" entity="yacke182b">
+            <p>VESTAL AND MASSENBURG</p>
+          </figure>
+        </p>
+        <list type="simple">
+          <item>PRINCE</item>
+          <item>POLLOCK</item>
+          <item>WOMMACK</item>
+          <item>HANKINS</item>
+          <item>RONDTHALER</item>
+          <item>WILLIAMSON</item>
+          <item>PIGRAM</item>
+          <item>LANDIS</item>
+          <item>TAYLOR</item>
+          <item>BURTON</item>
+          <item>DELAMAR</item>
+          <item>BATEMAN</item>
+          <item>FIELDS</item>
+          <item>MCMANUS</item>
+          <item>WARE</item>
+          <item>DIXON</item>
+        </list>
+        <pb id="p183" n="183"/>
+        <p>
+          <figure id="ill29" entity="yacke183">
+            <p>[The Battalion]</p>
+          </figure>
+        </p>
+        <pb id="p184" n="184"/>
+        <p>
+          <figure id="ill30" entity="yacke184a">
+            <p>COLUMN OF COMPANIES</p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill31" entity="yacke184b">
+            <p>“RAIDING”</p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill32" entity="yacke184c">
+            <p>“OVER THE TOP”</p>
+          </figure>
+        </p>
+        <pb id="p185" n="185"/>
+        <p>
+          <figure id="ill33" entity="yacke185">
+            <p>AT OGLETHORPE WITH THE ALUMNI</p>
+          </figure>
+        </p>
+        <pb id="p186" n="186"/>
+        <p>
+          <figure id="ill34" entity="yacke186a">
+            <p>“ECHELON”</p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill35" entity="yacke186b">
+            <p>“TRENCH ATTACK”</p>
+          </figure>
+        </p>
+        <p>
+          <figure id="ill36" entity="yacke186c">
+            <p>“BOMBING”</p>
+          </figure>
+        </p>
+        <pb id="p187" n="187"/>
+        <p>
+          <figure id="ill37" entity="yacke187">
+            <p>“SENTRY GO”<lb/>“BATHMATS”<lb/>THE UNFINISHED PRODUCT<lb/>THE FINISHED PRODUCT</p>
+          </figure>
+        </p>
+        <pb id="p188" n="188"/>
+        <p>
+          <figure id="ill38" entity="yacke188">
+            <p>“CALISTHENICS”</p>
+          </figure>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

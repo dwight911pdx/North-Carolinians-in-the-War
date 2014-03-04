@@ -1,0 +1,242 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+<!ENTITY burrotp SYSTEM "burrotp.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="wwi" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>Conditions at Camp Greene. Speech of Hon. Sherman E. Burroughs of New Hampshire in the House of Representatives February 22, 1918:</emph>
+Electronic Edition.</title>
+        <author>Burroughs, Sherman E.</author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Apex Data Services, Inc.</name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Harris Henderson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name>Apex Data Services, Inc., Harris Henderson, and Jill Kuhn Sexton</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca.    30K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="title page">Conditions at Camp Greene. Speech of Hon. Sherman E. Burroughs of New Hampshire in the House of Representatives February 22, 1918</title>
+            <author>Burroughs, Sherman E. </author>
+          </titleStmt>
+          <extent>     8 p.</extent>
+          <publicationStmt>
+            <pubPlace>Washington</pubPlace>
+            <publisher>Government Printing Office</publisher>
+            <date>1918</date>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number  Cp970.9 B97  (North Carolina Collection, University of North Carolina at Chapel Hill)</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been entered using double-keying and verified against the original. </p>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All single right and left quotation marks are encoded as ’ and ‘ respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+            <edition/>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>World War, 1914-1918 -- North Carolina.</item>
+            <item>Camp Greene.</item>
+            <item>Military camps -- North Carolina -- Charlotte -- Sanitation.</item>
+            <item>United States. Army -- Sanitary affairs.</item>
+            <item>World War, 1914-1918 -- Health aspects -- North Carolina.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-03-12, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-03-08, </date>
+        <respStmt>
+          <name> Jill Kuhn Sexton </name>
+          <resp/>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-02-11, </date>
+        <respStmt>
+          <name>Harris Henderson</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-01-25, </date>
+        <respStmt>
+          <name>Apex Data Services, Inc.</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the text.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div1 type="title page">
+        <p>
+          <figure id="title" entity="burrotp">
+            <p>[Title Page Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">CONDITIONS AT CAMP GREENE <lb/> SPEECH <lb/> OF <lb/> HON. SHERMAN E. BURROUGHS <lb/> OF NEW HAMPSHIRE <lb/> IN THE <lb/> HOUSE OF REPRESENTATIVES <lb/> FEBRUARY 22, 1918</titlePart>
+        </docTitle>
+        <docImprint><pubPlace>WASHINGTON</pubPlace>
+<publisher>GOVERNMENT PRINTING OFFICE</publisher>
+<docDate>1918</docDate></docImprint>
+      </titlePage>
+    </front>
+    <body>
+      <div1 type="section">
+        <pb id="p2" n="2"/>
+        <head>SPEECH <lb/> OF <lb/> HON. SHERMAN E. BURROUGHS.</head>
+        <note anchored="yes">The House in Committee of the Whole House on the state of the Union had under consideration the bill (H. R. 9685) to provide for the operation of transportation systems while under Federal control, for the just compensation of their owners, and for other purposes.</note>
+        <p>Mr. BURROUGHS. Mr. Chairman, I make no apology for taking 10 minutes of the time of the committee to call attention to some matters relating to Camp Greene, near Charlotte, N. C., the condition of which has already been adverted to by my colleague, Mr. WASON.</p>
+        <p>It is easier for me and much pleasanter to praise than to blame. I realize how easy it is to criticize those in positions of heavy responsibility. It is always easier to find fault than to take hold and do the job yourself. But I feel very strongly that it is due to the Members of the House that I should now state as <sic corr="accurately">accurrately</sic> and precisely as I am able what my colleague and I actually saw at the camp at Charlotte on the occasion of our visit there on Saturday, February 16, 1918.</p>
+        <p>Camp Greene is located about 3 miles from the city of Charlotte, N. C., on somewhat rolling ground of slight elevation and having a surface soil of clay formation. This soil is almost completely impervious to water, and the effect of melting snow and recent rains there has been to make it a veritable bog. Mud is knee-deep in all the roads throughout the camp. As my colleague has stated, we had to wear rubber boots in order to get around at all. Water is standing in large pools and ponds all over the surface of the camp. No carriage or automobile could possibly get into the camp, much less make its way through it. I was informed by an officer that a few days before he had seen three mules so badly stuck in the mud that they had broken their legs trying to get out and had to be shot.</p>
+        <p>The gentleman from North Carolina  has just spoken of the many things done by the city and people of Charlotte for this camp. I want to say in reply that what I am stating is not intended in the slightest degree to be any criticism of the city of Charlotte or of the good people who live there. I have no doubt all the gentleman stated concerning Charlotte and its inhabitants is perfectly true. What I say by way of criticism of conditions at Camp Greene goes to those who were directly and immediately responsible for locating and maintaining the camp there. I say that the great War Department of this Government is <sic corr="grievously">greviously</sic> at fault for its failure to provide adequate and proper sewerage facilities in a camp where upward of 40,000 young men, the pick and pride of this country, are quartered to-day. That is what I find fault with. That is what I criticize.</p>
+        <pb id="p3" n="3"/>
+        <p>There is not now and there has never been since the camp was established last summer any sewerage system whatever at Camp Greene. Dirty water from the kitchens and refuse of all kinds are thrown into ditches, and a good part of it remains there, because it can not get away and the clay soil will not absorb it. We were told that the garbage and refuse had been burned as long as they had sufficient wood for this purpose, but that for some time the supply of fuel had been short and that for this reason, as well as on account of the knee-deep mud in the roads, which had prevented garbage removal by the contractors, there had seemed to be no other method of disposition of the refuse, garbage, and kitchen water than the method adopted. We saw a number of old discarded latrines. They are still open and exposed and are filled with 6 or 8 feet of decaying, putrid, festering animal matter. When the warm weather comes, as it is likely to come any time in this southern climate, it takes no sanitary engineer or expert to predict what is going to happen. Flies are going to breed there in enormous quantities, and typhoid fever and diphtheria are likely to break out at any time.</p>
+        <p>Now, the gentleman from North Carolina  tells us that the War Department is talking about putting in a sewerage system. That is all right, but it ought to have been done months ago. It ought to have been done, as it was done, at the northern cantonments, before the men were taken there at all. This work can not be done in a day, or a week, or a month. It is going to take a considerable length of time to install any kind of sewerage system at this camp. Meantime the warm weather will be on us, and everyone of those 40,000 men quartered in that camp will be in imminent peril of his life. I say it is up to the War Department to do something, and to do it now. If they can not install a proper sewerage system before the warm weather comes—and I am frank to say I do not see how this possibly can be done—I see nothing else to do than to remove these boys to some other camp. Certainly they must not be left there under conditions such as I have described.</p>
+        <p>What I am stating is of direct interest to pretty nearly every Member of this House, because, as I understand it, there are men at this camp from practically every State in this Union. I personally saw and talked with men from my own State, New Hampshire, from Maine, Vermont, and Massachusetts, as well as from Louisiana and many Central and Western States. They all told the same story. They are not complaining. I never saw a finer spirit amongst any body of men in all my life than I saw amongst all the men who are now living in the mud and water at Camp Greene. In this body of men there are, as I am informed, between 400 and 500 New Hampshire boys. They form the nucleus around which has been organized and built up what is now known as the First Headquarters Guard Regiment, consisting of approximately 3,300 men. They are as fine a body of men as were ever organized for military purposes. I was told by one of the officers of this regiment that about 80 per cent of them were either college graduates or came into the service from some college.</p>
+        <p>This New Hampshire regiment is located in what is obviously the most undesirable and dangerous site in the whole camp.
+<pb id="p4" n="4"/>
+They are on low land in close proximity to the ditches and latrines, which I have already referred to. No regiment ever ought to have been placed there, and there was no necessity for locating them there. I was informed that before the New Hampshire regiment was placed on this site other regiments protested against being located there and had been placed elsewhere. Certainly the New Hampshire regiment should be moved from this location without any delay. Neither they nor any other body of men ought to be compelled to live under such conditions another day, and I propose to immediately call the attention of this matter to the Secretary of War and ask for their removal.</p>
+        <p>The gentleman from North Carolina  spoke about this camp being intended to be a temporary camp. That may be so, but what of it? I do not care whether it was intended to be temporary or permanent, I know that what I am telling you is an accurate statement of what I saw there last Saturday, and I was reliably informed by officers and men that the conditions for weeks before had been much worse than they were the day my colleague and I were there. Temporary or not, the camp has been there since last summer and bids fair to continue for some considerable time to come, and the fact is that, according to the statements of the gentleman from North Carolina , the War Department is just now beginning to talk about putting in some sort of a sewer system. Suppose it was intended to be temporary, what provision, if any, did they make for disposing of their garbage and sewage? I answer, none whatever at all adequate to the conditions which they knew existed there. They knew it was not a sandy soil that would easily absorb water. On the contrary, they knew that it was a clay soil on which water would stand for days and weeks. I say that under such circumstances it was inexcusable to provide no sanitary system for disposing of this dirty water and refuse. It was certainly incumbent upon the War Department before they took those boys away from their homes and brought them to this southern camp to provide all reasonably adequate means for protecting them after they arrived there.</p>
+        <p>Mr. SNYDER. Mr. Chairman, will the gentleman yield?</p>
+        <p>Mr. BURROUGHS. Yes.</p>
+        <p>Mr. SNYDER. I want to say that a month ago the father of a young man, a constituent of mine, went down there, and he told me that after he had visited the camp he had to go to a hotel and stay five hours while he had his overcoat and trousers cleaned.</p>
+        <p>Mr. BURROUGHS. I have no doubt of it, and I should probably have had the same experience if I had not worn rubber boots, which the officers had kindly provided me. As I have already stated, I was told again and again that conditions were much worse there three or four weeks ago than the day I was there.</p>
+        <p>Mr. GILLETT. If the gentleman will allow me, when was that camp established?</p>
+        <p>Mr. BURROUGHS. Some time in the summer; I can not tell exactly when. I know that the New Hampshire boys have been there since November.</p>
+        <p>Now, let me tell you another thing. We were told, not only once, but several times, that until a few days before we were
+<pb id="p5" n="5"/>
+there these boys in the New Hampshire regiment had been sleeping on their cots, without any wooden flooring in their tents. In other words, until within a few days before we went down there they were sleeping on their cots, which stood in mud 3 to 6 inches deep. More than that, we were also told that no bathing facilities whatever had been furnished them by the Government since they came to this camp last November. I ask leave to extend my remarks in the RECORD by printing a report of the Surgeon General of the United States, which report will verify what I am saying.</p>
+        <p>The CHAIRMAN. The gentleman asks unanimous consent to extend his remarks in the RECORD. Is there objection?</p>
+        <p>There was no objection.</p>
+        <p>Mr. LUFKIN. Will the gentleman yield?</p>
+        <p>Mr. BURROUGHS. I yield to the gentleman.</p>
+        <p>Mr. LUFKIN. Are any shower baths installed there?</p>
+        <p>Mr. BURROUGHS. Absolutely no shower baths, as I am informed. Certainly the New Hampshire boys had none, and I understand there are no facilities for shower baths, or, in fact, any kind of a bath, furnished by the Government. I understood that the Maine regiment had rigged up some sort of arrangement for themselves, where they had four little pipes that they could go under and get something like a shower bath. Others may have adopted similar expedients; I do not know about that. What I mean to say is that, at least so far as the New Hampshire regiment is concerned, the Government of the United States has furnished them no bathing facilities whatever since they came to Camp Greene last November.</p>
+        <p>Mr. LUFKIN. If a man wants to get a bath, what does he do?</p>
+        <p>Mr. BURROUGHS. He goes either to the Young Men's Christian Association building at Charlotte, 3 miles away, or to some private house in the city. I want to say that my information is all to the effect that the townspeople generally have been most cordial and kind to these boys.</p>
+        <p>Mr. GANDY. Where do they get the drinking water for that camp?</p>
+        <p>Mr. BURROUGHS. Drinking water is obtained from the city of Charlotte. I understand there is no criticism whatever in regard to the drinking water or in regard to the food. So far as I can I want to praise conditions at the camp. The drinking water is all right and the food is all right. The men have plenty of it, and it seems to be good.</p>
+        <p>I found that the New Hampshire boys had not sufficient equipment. They seemed to have had sufficient clothing, including uniforms, shirts, shoes, overcoats, and other wearing apparel, but they were short in the so-called ordnance equipment, by which I mean rifles, belts, packs, pack carriers, and so forth. This regiment is organized for headquarters guard duties, and there might be some excuse for not equipping it with machine guns and other implements of modern trench warfare.</p>
+        <p>There can, however, be no excuse for not furnishing them with full equipment of rifles and the other ordnance equipment referred to. This has not been done. The men of this regiment have substantially no rifles. The captain of one company, when I asked him how many rifles he had, replied: “I have four men now doing guard duty. Each of those has a rifle, and there in
+<pb id="p6" n="6"/>
+the rear of the tent you see all the rest we have.” I looked where he pointed and counted the rifles, and there were just 14. Another captain told me he had 35 rifles for 242 men. I was informed that one battalion, consisting of about 1,000 men, had just 115 rifles. These rifles which the men have are not the modern rifles used at the front but are the old discarded and condemned Springfield rifles. They may be all right for the manual but can not be used at all for range practice. As I understand, they are not available for rifle practice. Gen. Pershing has recommended that before these men go to France they shall be instructed in range firing, and it is an utter impossibility for them to have this practice with the rifles they now have. Right here, let me say, that I feel considerable anxiety for the company commanders of this regiment, and, in fact, all regiments not suitably equipped. My understanding is that present Army regulations place entire responsibility for the training of the men upon the company commander. Also, I understand that when called to account for the lack of training of their men, it is no answer or excuse for the commander to say that he has not been supplied with adequate equipment. Especially is this likely to be the fact in view of the impression given by the Secretary of War that there are rifles enough. Whatever may be the condition with other regiments at Camp Greene, with respect to rifles, and whatever may be the condition at other camps in this regard, I state here and now, upon my own responsibility, that the men who compose the First Headquarters Regiment at Camp Greene have no adequate supply of rifles. I further state that the officers of this regiment made requisition months ago for rifles and other ordnance equipment and were informed that such equipment was already on the way and would soon be received. This was in December last. Shortly thereafter some equipment was received, but when the officials came to check it up with what they had requisitioned they found that instead the rifles, belts, packs, pack carriers, and other supplies and equipment they needed, and which had been asked for, all that had been actually sent them were mess pans and currycombs. </p>
+        <p>We also learned that men constituting the First Headquarters Guard Regiment at Camp Greene had had no opportunity for drill since sometime in December. I can not see how it would be possible for any man to drill under such conditions as I saw them at the camp last Saturday. Personally I had to have assistance in order to walk over the roads and paths of the camp, in order to maintain my footing in the mud and water.</p>
+        <p>Another matter that was forcibly brought to our attention on this visit was the overcrowding in the tents. The men all live in canvas tents about 16 feet square. Gen. Gorgas, the Surgeon General of the Army, has from the beginning repeatedly, and with great emphasis, urged and recommended in his official reports to the War Department that not more than five men be quartered in a tent. This would give them 50 square feet of floor space to each man, which he says is essential for the health and well-being of the men. Instead of that we found eight, and in one instance I counted nine cots in a single tent. My information was that this is the general condition throughout
+<pb id="p7" n="7"/>
+the camp, and I find this is confirmed by the official report made by the Surgeon General to the War Department on February 12.</p>
+        <p>I am glad to be able to state that in spite of the insanitary conditions referred to the sick rate at this camp has not been unusual. The hospitals are not overcrowded at the present time. We were informed, however, that there was a lack of medical supplies at the regimental hospital of the First Headquarters Guard Regiment. I did not, however, understand that this had been a matter of long continuance.</p>
+        <p>The only method of heating the tent is through the small field ranges, which are conical-shaped stoves about 2 feet high, and standing on a base about a foot in diameter. In these the men have been obliged to burn green wood which they have had to cut themselves, and my information is that there is a shortage even of this fuel at the present time. These ranges, as the Surgeon General states, are uneconomical and smoke indoors with any sort of wood fuel.</p>
+        <p>The great thing that I complain about at Camp Greene is the insanitary condition throughout the camp, due, in large measure, to the utter lack of any system for the disposal of sewage. This, I say, is without excuse. It is shameful. It is a disgrace to this great Government. Here are more than 40,000 men, the pick and flower of the young manhood of this country, ready to lay down their lives, if necessary, in defense of their country. All they ask is, if they have to lay down their lives, they may be allowed to do it on the field of battle under their country's flag and fronting their country's foes.  They do not want and the Government of the United States has no right to ask the boys to die ignominiously like rats in a mud pen. I can not too strongly emphasize my conviction that the conditions at Camp Greene, as my colleague and I saw them last Saturday, call loudly for instant and radical remedy. Whatever may be necessary or advisable elsewhere, there should be no further “watchful waiting” at Camp Greene.</p>
+        <p>In further substantiation of the statements I have made I present the official report of W. C. Gorgas, Surgeon General, United States Army, to the Secretary of War, dated February 12, 1918, four days before our visit to this camp. This report is taken from the Official Bulletin of February 14, 1918, and reads as follows:</p>
+        <q direct="unspecified">
+          <text>
+            <body>
+              <div1 type="letter">
+                <head>REPORT OF GEN. GORGAS.</head>
+                <head>FEBRUARY 12, 1918.</head>
+                <head>Memorandum for the Secretary of War.</head>
+                <p>The wet weather and character of the soil at Camp Greene, Charlotte, N. C., together with the temporary nature of the camp, have brought about conditions which I wish to call to your attention and which may be summarized as follows from the last two reports of sanitary inspections of the camp:</p>
+                <div2 type="section">
+                  <head>GARBAGE REMOVAL STOPPED BY MUD.</head>
+                  <p>Knee-deep mud has interfered with garbage removal by contractors, and quantities have been dumped or buried because of shortage of fuel for burning it.</p>
+                  <p>Limited facilities for heating water for bathing over a period of several months has resulted in the men becoming dirty.</p>
+                  <p>Water from the kitchens, baths, and overflowed latrines is removed by ditches, surface drainage, or stands in pools. The character of the soil will make it slow to dry out and, with the advent of warm weather, flies and other insanitary conditions may be anticipated.</p>
+                  <p>The dirt floors of the kitchens will breed flies; the field ranges in use are uneconomical and smoke indoors with any wood fuel.</p>
+                  <pb id="p8" n="8"/>
+                  <p>Shortage of supplies has held back the work on the detention camp for contacts until its overcrowded condition has led to the establishment of quarantine areas in the regiments; but reports upon this indicate that completion of the detention camp is preferable to continuation of the latter plan, especially since sufficient tent space and separate latrines and mess halls have not been available to make the regimental quarantine absolute in the areas set aside.</p>
+                  <p>Work has been held up on the additional quarters for nurses by failure of material to arrive, and the same has affected progress on reconstruction of the operating and laboratory buildings of the base hospital, which were recently destroyed by fire.</p>
+                  <p>Overcrowding to the extent of eight men to a tent, and occasionally more, is reported.</p>
+                </div2>
+                <div2 type="section">
+                  <head>SICK RATES NOT NOTABLY HIGH.</head>
+                  <p>Sick rates at Camp Greene are not notably high, and measles and pneumonia cases appeared on the decline at the last report; but the unsanitary conditions mentioned should be corrected without delay to prevent increased sickness and mortality which may result from their continuance.</p>
+                  <p>It has been recommended that additional tentage be supplied the commanding general, Camp Greene, to enable him to quarter all men on the basis of five to a tent instead of eight. It is understood that this recommendation has been approved.</p>
+                  <p>The immediate necessity, Camp Greene, is the installation of a sewer system for the entire camp, which is again urgently recommended.</p>
+                  <closer>
+                    <signed>W. C. GORGAS, <lb/> <hi rend="italics">Surgeon General, United States Army.</hi></signed>
+                  </closer>
+                </div2>
+              </div1>
+            </body>
+          </text>
+        </q>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

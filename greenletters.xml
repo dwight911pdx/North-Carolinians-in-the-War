@@ -1,0 +1,696 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite2.dtd" [
+<!ENTITY pg00-00-19-01 SYSTEM "pg00-00-19-01.jpg" NDATA jpeg>
+<!ENTITY pgsum-17-01 SYSTEM "pgsum-17-01.jpg" NDATA jpeg>
+<!ENTITY pgsum-17-02 SYSTEM "pgsum-17-02.jpg" NDATA jpeg>
+<!ENTITY pgsum-17-03 SYSTEM "pgsum-17-03.jpg" NDATA jpeg>
+<!ENTITY pgsum-17-04 SYSTEM "pgsum-17-04.jpg" NDATA jpeg>
+<!ENTITY pg06-07-19-06 SYSTEM "pg06-07-19-06.jpg" NDATA jpeg>
+<!ENTITY pg06-07-19-01 SYSTEM "pg06-07-19-01.jpg" NDATA jpeg>
+<!ENTITY pg06-07-19-02 SYSTEM "pg06-07-19-02.jpg" NDATA jpeg>
+<!ENTITY pg06-07-19-03 SYSTEM "pg06-07-19-03.jpg" NDATA jpeg>
+<!ENTITY pg06-07-19-04 SYSTEM "pg06-07-19-04.jpg" NDATA jpeg>
+<!ENTITY pg06-07-19-05 SYSTEM "pg06-07-19-05.jpg" NDATA jpeg>
+<!ENTITY pg06-07-19-07 SYSTEM "pg06-07-19-07.jpg" NDATA jpeg>
+<!ENTITY pg06-07-19-08 SYSTEM "pg06-07-19-08.jpg" NDATA jpeg>
+<!ENTITY pg06-07-19-09 SYSTEM "pg06-07-19-09.jpg" NDATA jpeg>
+<!ENTITY pg06-07-19-10 SYSTEM "pg06-07-19-10.jpg" NDATA jpeg>
+<!ENTITY pg06-07-19-11 SYSTEM "pg06-07-19-11.jpg" NDATA jpeg>
+<!ENTITY pg09-18-17-01 SYSTEM "pg09-18-17-01.jpg" NDATA jpeg>
+<!ENTITY pg09-18-17-02 SYSTEM "pg09-18-17-02.jpg" NDATA jpeg>
+<!ENTITY pg09-18-17-03 SYSTEM "pg09-18-17-03.jpg" NDATA jpeg>
+<!ENTITY pg09-18-17-04 SYSTEM "pg09-18-17-04.jpg" NDATA jpeg>
+<!ENTITY pg09-18-17-05 SYSTEM "pg09-18-17-05.jpg" NDATA jpeg>
+<!ENTITY pg09-18-17-06 SYSTEM "pg09-18-17-06.jpg" NDATA jpeg>
+<!ENTITY pg09-18-17-07 SYSTEM "pg09-18-17-07.jpg" NDATA jpeg>
+<!ENTITY pg05-13-18-01 SYSTEM "pg05-13-18-01.jpg" NDATA jpeg>
+<!ENTITY pg05-13-18-02 SYSTEM "pg05-13-18-02.jpg" NDATA jpeg>
+<!ENTITY pg05-13-18-03 SYSTEM "pg05-13-18-03.jpg" NDATA jpeg>
+<!ENTITY pg05-13-18-04 SYSTEM "pg05-13-18-04.jpg" NDATA jpeg>
+<!ENTITY pg05-13-18-05 SYSTEM "pg05-13-18-05.jpg" NDATA jpeg>
+<!ENTITY pg05-13-18-06 SYSTEM "pg05-13-18-06.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-01 SYSTEM "pg10-00-17-01.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-02 SYSTEM "pg10-00-17-02.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-03 SYSTEM "pg10-00-17-03.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-04 SYSTEM "pg10-00-17-04.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-05 SYSTEM "pg10-00-17-05.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-06 SYSTEM "pg10-00-17-06.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-07 SYSTEM "pg10-00-17-07.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-08 SYSTEM "pg10-00-17-08.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-09 SYSTEM "pg10-00-17-09.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-10 SYSTEM "pg10-00-17-10.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-11 SYSTEM "pg10-00-17-11.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-12 SYSTEM "pg10-00-17-12.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-13 SYSTEM "pg10-00-17-13.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-14 SYSTEM "pg10-00-17-14.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-15 SYSTEM "pg10-00-17-15.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-16 SYSTEM "pg10-00-17-16.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-17 SYSTEM "pg10-00-17-17.jpg" NDATA jpeg>
+<!ENTITY pg10-00-17-18 SYSTEM "pg10-00-17-18.jpg" NDATA jpeg>
+<!ENTITY pg11-22-17-09 SYSTEM "pg11-22-17-09.jpg" NDATA jpeg>
+<!ENTITY pg11-22-17-01 SYSTEM "pg11-22-17-01.jpg" NDATA jpeg>
+<!ENTITY pg11-22-17-02 SYSTEM "pg11-22-17-02.jpg" NDATA jpeg>
+<!ENTITY pg11-22-17-03 SYSTEM "pg11-22-17-03.jpg" NDATA jpeg>
+<!ENTITY pg11-22-17-04 SYSTEM "pg11-22-17-04.jpg" NDATA jpeg>
+<!ENTITY pg11-22-17-05 SYSTEM "pg11-22-17-05.jpg" NDATA jpeg>
+<!ENTITY pg11-22-17-06 SYSTEM "pg11-22-17-06.jpg" NDATA jpeg>
+<!ENTITY pg11-22-17-07 SYSTEM "pg11-22-17-07.jpg" NDATA jpeg>
+<!ENTITY pg11-22-17-08 SYSTEM "pg11-22-17-08.jpg" NDATA jpeg>
+<!ENTITY pg01-23-19-01 SYSTEM "pg01-23-19-01.jpg" NDATA jpeg>
+<!ENTITY pg01-23-19-02 SYSTEM "pg01-23-19-02.jpg" NDATA jpeg>
+<!ENTITY pg01-23-19-03 SYSTEM "pg01-23-19-03.jpg" NDATA jpeg>
+<!ENTITY pg01-23-19-04 SYSTEM "pg01-23-19-04.jpg" NDATA jpeg>
+<!ENTITY pg01-23-19-05 SYSTEM "pg01-23-19-05.jpg" NDATA jpeg>
+<!ENTITY pg01-23-19-06 SYSTEM "pg01-23-19-06.jpg" NDATA jpeg>
+<!ENTITY pg08-11-17-01 SYSTEM "pg08-11-17-01.jpg" NDATA jpeg>
+<!ENTITY pg08-11-17-02 SYSTEM "pg08-11-17-02.jpg" NDATA jpeg>
+<!ENTITY pg08-11-17-03 SYSTEM "pg08-11-17-03.jpg" NDATA jpeg>
+<!ENTITY pg08-11-17-04 SYSTEM "pg08-11-17-04.jpg" NDATA jpeg>
+<!ENTITY pg03-30-19-01 SYSTEM "pg03-30-19-01.jpg" NDATA jpeg>
+<!ENTITY pg03-30-19-02 SYSTEM "pg03-30-19-02.jpg" NDATA jpeg>
+<!ENTITY pg03-30-19-03 SYSTEM "pg03-30-19-03.jpg" NDATA jpeg>
+<!ENTITY pg03-30-19-04 SYSTEM "pg03-30-19-04.jpg" NDATA jpeg>
+<!ENTITY pg03-30-19-05 SYSTEM "pg03-30-19-05.jpg" NDATA jpeg>
+<!ENTITY pg03-30-19-06 SYSTEM "pg03-30-19-06.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-05 SYSTEM "pg08-25-18-05.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-01 SYSTEM "pg08-25-18-01.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-02 SYSTEM "pg08-25-18-02.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-03 SYSTEM "pg08-25-18-03.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-04 SYSTEM "pg08-25-18-04.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-06 SYSTEM "pg08-25-18-06.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-07 SYSTEM "pg08-25-18-07.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-08 SYSTEM "pg08-25-18-08.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-09 SYSTEM "pg08-25-18-09.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-10 SYSTEM "pg08-25-18-10.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-11 SYSTEM "pg08-25-18-11.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-12 SYSTEM "pg08-25-18-12.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-13 SYSTEM "pg08-25-18-13.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-14 SYSTEM "pg08-25-18-14.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-15 SYSTEM "pg08-25-18-15.jpg" NDATA jpeg>
+<!ENTITY pg08-25-18-16 SYSTEM "pg08-25-18-16.jpg" NDATA jpeg>
+<!ENTITY pg03-31-18-05 SYSTEM "pg03-31-18-05.jpg" NDATA jpeg>
+<!ENTITY pg01-07-19-01 SYSTEM "pg01-07-19-01.jpg" NDATA jpeg>
+<!ENTITY pg03-31-18-01 SYSTEM "pg03-31-18-01.jpg" NDATA jpeg>
+<!ENTITY pg03-31-18-02 SYSTEM "pg03-31-18-02.jpg" NDATA jpeg>
+<!ENTITY pg03-31-18-03 SYSTEM "pg03-31-18-03.jpg" NDATA jpeg>
+<!ENTITY pg03-31-18-04 SYSTEM "pg03-31-18-04.jpg" NDATA jpeg>
+<!ENTITY pg03-31-18-06 SYSTEM "pg03-31-18-06.jpg" NDATA jpeg>
+<!ENTITY pg03-31-18-07 SYSTEM "pg03-31-18-07.jpg" NDATA jpeg>
+<!ENTITY pg03-14-18-01 SYSTEM "pg03-14-18-01.jpg" NDATA jpeg>
+<!ENTITY pg03-14-18-02 SYSTEM "pg03-14-18-02.jpg" NDATA jpeg>
+<!ENTITY pg03-14-18-03 SYSTEM "pg03-14-18-03.jpg" NDATA jpeg>
+<!ENTITY pg03-14-18-04 SYSTEM "pg03-14-18-04.jpg" NDATA jpeg>
+<!ENTITY pg03-14-18-05 SYSTEM "pg03-14-18-05.jpg" NDATA jpeg>
+<!ENTITY pg03-14-18-06 SYSTEM "pg03-14-18-06.jpg" NDATA jpeg>
+<!ENTITY pg03-14-18-07 SYSTEM "pg03-14-18-07.jpg" NDATA jpeg>
+<!ENTITY pg03-14-18-08 SYSTEM "pg03-14-18-08.jpg" NDATA jpeg>
+<!ENTITY pg03-14-18-09 SYSTEM "pg03-14-18-09.jpg" NDATA jpeg>
+<!ENTITY pg05-16-19-06 SYSTEM "pg05-16-19-06.jpg" NDATA jpeg>
+<!ENTITY pg05-16-19-03 SYSTEM "pg05-16-19-03.jpg" NDATA jpeg>
+<!ENTITY pg05-16-19-01 SYSTEM "pg05-16-19-01.jpg" NDATA jpeg>
+<!ENTITY pg05-16-19-02 SYSTEM "pg05-16-19-02.jpg" NDATA jpeg>
+<!ENTITY pg05-16-19-04 SYSTEM "pg05-16-19-04.jpg" NDATA jpeg>
+<!ENTITY pg05-16-19-05 SYSTEM "pg05-16-19-05.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>Paul Eliot Green Papers (#3693). Selected letters, 1917-1919:</emph>
+Electronic Edition.</title>
+        <author>Green, Paul Eliot, 1894-1981</author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Harris Henderson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name id="ns">Melissa Meeks  and Natalia Smith</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca.    80 K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="collection"> Paul Eliot Green Papers (#3693). Selected letters, 1917-1919</title>
+            <author>Paul Eliot Green</author>
+          </titleStmt>
+          <extent>  [111]    p.,  page images.</extent>
+          <publicationStmt>
+            <pubPlace>Manuscripts Dept., Southern Historical Collection, University of North Carolina at Chapel Hill</pubPlace>
+            <publisher/>
+            <date/>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number SHC  #3693  (Manuscripts Dept., Southern Historical Collection, University of North Carolina at Chapel Hill) </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p> Transcript of the personal correspondence. Originals are in the Southern Historical Collection, University of North Carolina at Chapel Hill. </p>
+        <p>Original grammar, punctuation, and spelling have been preserved.</p>
+        <p>Letterhead information is not preserved.</p>
+        <p>Page images can be viewed and compared in parallel with the text. </p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All single right and left quotation marks are encoded as ’ and ‘ respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+            <edition/>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>United States. Army -- Military life.</item>
+            <item>United States. Army -- Officers -- Correspondence.</item>
+            <item>World War, 1914-1918 -- North Carolina.</item>
+            <item>World War, 1914-1918 -- Campaigns -- France.</item>
+            <item>World War, 1914-1918 -- Personal narratives, American.</item>
+            <item>Green, Paul, 1894-1981 -- Correspondence.</item>
+            <item>Soldiers -- France -- Correspondence.</item>
+            <item>Soldiers -- North Carolina -- Correspondence.</item>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-06-12, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog 
+record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-06-06,  </date>
+        <respStmt>
+          <name>  Natalia Smith, </name>
+          <resp>project manager, </resp>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-04-30, </date>
+        <respStmt>
+          <name>Melissa Meeks</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-04-01, </date>
+        <respStmt>
+          <name>Amy Davis</name>
+          <resp/>
+        </respStmt>
+        <item> finished comparing the transcription against the original.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 type="letter">
+        <pb id="green1" n="[1]" entity="pgsum-17-01"/>
+        <opener><dateline>[Summer 1917?]<lb/>Goldsboro N. C.</dateline>
+<salute>Dear Mary:</salute></opener>
+        <p>Possibly you think I don't care about writing to all of you. If you do think that, you almost think the truth. Everything seems so far removed and foreign to the things around home that a reminder of home affairs isn't so very pleasant as one might think. I wrote papa a short note while I was up town a day or two ago. I hope he has received it. If I don't write often you may know I don't have time, or have nothing to write.</p>
+        <p>We are leaving here for Charlotte to-morrow morning—a trip of 231 miles. We shall have to travel all to-morrow afternoon and night. You may know I dread it—all. Our job will be to aid in constructing the camp for the northern troops. So far as I know we shall have to dig trenches for the water pipes, put in sewage, etc. But we needn't care—Lloyd and I. While we eat like hogs and as much, we needn't dread
+<pb id="green2" n="[2]" entity="pgsum-17-02"/>
+anything. The boys remind us every day that nothing matters at all. The following are some of their epigrams (I suppose you would call them that):
+<q direct="unspecified"><p>“Oh, you had a good home but you left it!”</p></q>
+Another is:
+<q direct="unspecified"><lg type="verse"><l>“It's mighty d—n hard,</l><l>But I tell you it's fair;</l><l>For you had a good home</l><l>And wouldn't stay there.”</l></lg></q>
+and,
+<q direct="unspecified"><lg type="verse"><l>“I fight and I shoot,</l><l>don't give a d— m;</l><l>For I'm a-doing nine years</l><l>For old Uncle Sam.”</l></lg></q>
+An many more. You can hear the fellows singing such rhymes every day. After all, everyone is somewhat of a poet.</p>
+        <p>When I was at Chapel Hill, I thought that was a rough place; but this is the roughest place on earth. The profanity of the soldiers 
+<pb id="green3" n="[3]" entity="pgsum-17-03"/>
+is awful. Co. B. is a roaring, rough set of fellows. There is an old blacksmith that sleeps in our tent who is the roughest man, I know, that ever saw day daylight. But the truth is, every one of those pirates has a good streak in him. If you strike them in the right way, each is your friend. </p>
+        <p>The drill leaders are pretty rough on you. Some of the men have fainted each day while drilling since I came. The way they bring them to their senses is to send three men for three buckets of water. Then they dash these on them and in their faces. After doing that they grab them by the collar and shove them back into ranks. One fellow drilled beside me this morning, coughing and vomiting every few minutes. After a short time, he fell out and lay in the hot sun, slobbering like steer. After they had 
+<pb id="green4" n="[4]" entity="pgsum-17-04"/>
+poured about a barrel of water on him, he got better.</p>
+        <p>All the fellows are expecting to go to France. Everett asked me a few minutes ago why in the h—I wanted to study French, for I was going to be killed in France. Yes, but such as that will help me to keep straight.  </p>
+        <p>I was vaccinated about an hour ago. Didn't hurt much.</p>
+        <p>Say, you needn't write until you hear from me. I shall write as soon as I can.</p>
+        <closer><salute>Love to all,</salute>
+<signed>Paul</signed></closer>
+        <closer><salute>Hurriedly,</salute>
+	
+The swear words were used to give you a touch of camp life. For my part, I never am going to curse. I'm going to stay straight. It will not be hard for me to do it, for all profanity and vulgarity sickens me.</closer>
+      </div1>
+      <div1 type="letter">
+        <pb id="green5" n="[1]" entity="pg08-11-17-01"/>
+        <opener><dateline>Camp Greene,
+Aug. 11, 1917</dateline>
+<salute>Dear Buie:</salute></opener>
+        <p>Doubtless you think I haven't thought of you since leaving home. But I have. We have so many things to do that our time for writing is very small. We get up at 5:15 in the morning, and immediately go up to a high place in the field for our morning exercise, which consists in deep breathing, arm, head, back, neck, legs, and knee movements. Such work will soon make one strong. At	6:00 o'clock 
+<pb id="green6" n="[2]" entity="pg08-11-17-02"/>
+we have breakfast. Sometimes we have something good to eat and sometimes we do not. But one thing I like about this camp is the better way of eating than we had at Goldsboro. We have dining halls, well lighted and screened. I'm getting used to eating out of a tin plate now. I shouldn't be surprised if this life makes a man out of me in the long run.</p>
+        <p>When we finish breakfast, drill hours begin—from 7:00 till 11:30; and then back for dinner. After dinner we go back to drill, and then come in to supper at 6:00 o'clock. We don't drill 
+<pb id="green7" n="[3]" entity="pg08-11-17-03"/>
+so very much in the afternoon, but work at many things. I even do my own washing. You'd better be glad you haven't the chance to see me scrubbing my tough yellow clothes. I make quite a figure.</p>
+        <p>It's quite odd—unpleasant to some, too—how we sleep at night.
+Eight men stay in one tent—16'x16'. Each one sleeps on a separate cot. Of course, several of my tent-mates are not nice men, and accordingly I try to listen to their talk as little as possible. </p>
+        <pb id="green8" n="[4]" entity="pg08-11-17-04"/>
+        <p>Often at night five or six of the men in my tent will start snoring. And they surely do keep up a racket. Last night I listened to them until I had to laugh as much as they worried me. One fellow snored so peculiarly! The noise sounded as if he had a handful of fleas up his nose. But after all, this noisy lot bothers me very little. When bedtime comes I usually am so tired that I sleep quite soundly.</p>
+        <p>When you write, tell me all about your plans for going to school this fall.</p>
+        <p>It is time for dinner, and on that account I must close.</p>
+        <closer><salute>Love to all,</salute>
+<signed>Paul.</signed></closer>
+      </div1>
+      <div1 type="letter">
+        <pb id="green9" n="[1]" entity="pg09-18-17-01"/>
+        <opener><dateline>Camp Sevier <lb/>
+Greenville, S. C.<lb/>
+[18 Sept. 1917]</dateline>
+<salute>Dear Papa:</salute></opener>
+        <p>For some time I have wanted to write you, but owing to the fact that I have been so busy I have not been able to do so. But now we are not quite so overrun with accounts. Possibly we never shall have so much book work to do again, at least, not until we are mustered out. The men in charge of the supply department before us left the books in the worst tangle imaginable. That accounts for our having to do double duty during the last month and a half.</p>
+        <p>I received a card from Hugh tonight. He mentioned that he was coming to Greenville some time near the 18th instant, that is today. As yet I don't know whether he is here or not. At the earliest chance I am going to try to find out. If he has come or is to come I'm going to try to get him transferred to my company. He would do as well
+<pb id="green10" n="[2]" entity="pg09-18-17-02"/>
+— if not better—in it as he would anywhere. Doubtless such an arrangement would be beneficial to us both.</p>
+        <p>As I mentioned in my last letter, I am liking this life as well as I could like it. Grumbling is not in my line of business, and I find that the only wise method in the army is to take whatever comes along. One most throw away his own likes and dislikes, and become a part of the big whole. Of course, it is reasonable to think that the only way for any army to be effective is to have each individual lose his individuality and become, like the atoms in a driving wheel, only a part of the machinery. But I can tell you it goes against the grain for a man to have to give himself free-heartedly and unreservedly to the Government. The only thing that keeps me sound 
+<pb id="green11" n="[3]" entity="pg09-18-17-03"/>
+and with a healthy point of view towards the army is a knowledge of the fact that we are fighting a great fight, and for the principles of right living. I believe there is more of sorrow than bitterness among the men in uniform because we are compelled to fight the Germans. These boys in camp are brave, and when the time comes they will not be found wanting. I often hear them, and talk, myself, talking about the chances of getting out of the meleè alive. Most of them think we are facing certain death, tho' a long ways ahead. But despite this belief they go ahead and drill and play ball, also sing their foolish songs as if all the world was sunshine and everything was a spring 
+<pb id="green12" n="[4]" entity="pg09-18-17-04"/>
+morning in their lives. I don't care if most of our soldiers are rough and brutal in regard to the delicacies of life; they can't help it. Even tho' such is the case they deserve the respect and admiration of the rest of the world. I know that when I am mustered out I shall not be so refined nor so easy-going as once I was. But what I lack in those things doubtless will be made up in a power to push ahead and to push strongly, although such a life as I am now living is not exactly to my liking. But I argue this way, that what the god of circumstances thrusts upon a man, that will he have to endure, and on that account I am growing to like the army.</p>
+        <pb id="green13" n="[5]" entity="pg09-18-17-05"/>
+        <p>I am very glad to see cotton bringing such a good price. You doubtless will have a nice sum of money to put away after everything is cleared off. If you can, I wish you would put as much of my (nominally mine) cotton money in the bank as you could. I'm trying to save what I can. Seeing that the liberty bond investment was a good thing I bought one $200 bond, as I mentioned in my last letter. This is to be paid for in instalments. Of course, this isn't much, but it will help some. Have you bought any bonds? Another thing I want to mention. Please see that John gets the $60 I owe him. I should pay him out of my salary if I could, but my instalments amount to $20 per month.  Now if you otherwise can't out one cent away, 
+<pb id="green14" n="[6]" entity="pg09-18-17-06"/>
+take the $60 out of the cotton money for John.</p>
+        <p>We are taking special training now to make us hard. Every afternoon we have a great football game. Also boxing and baseball are required. As a result of yesterday's football game, I am limping on both legs. But I think by to-morrow I shall be O.K. We still dig trenches, build machine gun emplacements, and fortify hills with the same vim as that of a few weeks ago. In short, we try to do a little of everything.</p>
+        <p>Yesterday, our first lieutenant, Guy L. Winthrop—and by the way he is about the best friend I ever had—told me that the war department had scheduled the engineers to leave for France the 
+<pb id="green15" n="[7]" entity="pg09-18-17-07"/>
+5th of December. Col. Ferguson says that such an arrangement will necessitate our leaving for Minneola, Long Island about the middle of November. Well, for my part I shall be glad of the opportunity to go. Old Satan gets into me sometimes, and I plague the life out of Johnson, telling him about the way we are going to be killed, etc. It makes him nervous. Last night I showed him a picture of a German trench that had been captured. I told him that some day we should be in such a position, doubtless. I believe it's just as well to laugh about this thing as to cry.</p>
+        <p>Johnson certainly wants to go home, but “He's in the army now.” No passes are to be issued now except in case of “life” or deaths or something worse.</p>
+        <closer><salute>Must close.</salute>
+<salute>With love to all,</salute>
+<signed>Paul.</signed></closer>
+      </div1>
+      <div1 type="letter">
+        <pb id="green16" n="[1]" entity="pg10-00-17-01"/>
+        <opener>
+          <dateline>[Oct. 1917?]<lb/>
+Camp Sevier  <lb/>
+Greenville, S.C.<lb/>
+Sunday afternoon</dateline>
+          <salute>Dear Mary:</salute>
+        </opener>
+        <p>Your long wished-for letter came—or was awaiting me—when I came back to camp this afternoon. I enjoyed reading your short one and Gladys' long one very, very much; in fact, more than you would think. As I read about the cake —between the lines, of course—I could not doubt that the women of the world play as important part in this war, and will play, as the men. Should you believe it if I should 
+<pb id="green17" n="[2]" entity="pg10-00-17-02"/>
+say that I almost envy you your position; you have such a grand opportunity of making yourself felt. Every little thing you do—making comfort, bags, cooking cakes, and sending letters worth reading to your numerous soldier boys brings the war nearer to its end. The soldiers in camp have no joys greater than receiving letters or a box from home. If one gets any dainties from home, all the others almost invariably hear of it. The lucky one can't keep it to himself. Such a little remembrance will touch the remaining goodness in 
+<pb id="green18" n="[3]" entity="pg10-00-17-03"/>
+a soldier's soul. But you necessarily must be too busy to make anything for us. From your letter I gathered the disagreeable news that you are to teach. Why did you accept any position? You have enough to do already. But service, service to the greatest number is all that will ease that hungry spirit inside. Is Naomi Norton to help you teach? Gladys had a sentence in her letter that ran something like this: “Give my love to Naomi.” At the first reading I couldn't guess what in the world such a sentence meant; but later I decided that she must be your assistant and was to board at home. You may laugh when I say that a disagreeable
+<pb id="green19" n="[4]" entity="pg10-00-17-04"/>
+idea took possession of me for a moment. Please write me about your school, and what you intend to do.</p>
+        <p>(The above was written beside a little branch below camp. While I was writing the bugle blew for supper and I had to quit my letter.) Now I am at the Y.M.C.A. building, situated just across the road from our tents.	The house, once a school building, is full of boys in khaki writing, singing, smoking, playing checkers, the victrola, and everything else possible. On the outside a basketball game is in progress. But amid all the uproar I am as much alone as if I were out in the mountains. You have heard 
+<pb id="green20" n="[5]" entity="pg10-00-17-05"/>
+the saying that Broadway is the most secluded place in the world. I believe it. You may wonder at a basket-ball game's being played on Sunday, but when you get the point of view a soldier has you will not wonder at anything hardly. This afternoon we played a game of baseball with a company from the artillery. I played 1st base without any qualms of conscience at all. It seems that one's conscience gets a slim chance in the army for remaining intact.</p>
+        <p>Today has been the most wonderful I have had since 
+<pb id="green21" n="[6]" entity="pg10-00-17-06"/>
+enlisting nearly three months ago. In fact, this is the only Sunday I haven't worked all day in over two months. True I had to work until 9:00 o'clock. After that I was free. A crowd of us, Lloyd Johnson, Ennis, a Filipino named Thames, a Jew named Friedman, and I took the Kodak and went for a day on the mountains. Oh, it seemed good to be out and away from accounts breathing the keen October air. My feet felt light, and my heart lighter. After two hours' hard walking we came to the top of a mountain 
+<pb id="green22" n="[7]" entity="pg10-00-17-07"/>
+about four or five miles from camp. The scenery was enough to do one's heart good. Hundreds of feet below farm-houses sat scattered over the valley. For all the world they looked like birdhouses or dovecots. To the south four miles away we could see Greenville, and thirty-five miles northward Spartanburg, with its water tanks standing clearly outlined an the horizon. The mountain is about half a mile wide and runs ridgelike for several miles east and west. The top is covered in a thick undergrowth of chestnut 
+<pb id="green23" n="[8]" entity="pg10-00-17-08"/>
+and spruce pine trees. But the finest thing about the mountain was the summer homes we saw. The road winds along the side near the crest. For over a mile there are summer homes—not homes now—placed every few hundred yards apart and overlooking the road. The sites are as wild and isolated as one could wish. Just such a house and just such a place is what I want to have sometime. Every building was deserted and as silent as death. The park gates were well padlocked, but such a small thing will not
+<pb id="green24" n="[9]" entity="pg10-00-17-09"/>
+discourage a U.S.A. man. One of the houses was particularly beautiful. When we came in front of it we decided to explore the premises for a short while. After much prying and tearing of clothes we succeeded in climbing the high barbed wire fence. There were several chestnut trees in the yard and a grape vine behind the house. Of course, it didn't take us long to get well acquainted with them. (A boy is playing “Almost persuaded” as a quartet (vocal) on the victrola. Lord, what things have happened since I first heard that song in the old church at Pleasant Union!
+<pb id="green25" n="[10]" entity="pg10-00-17-10"/>
+If I ever hear it again it will be with a deeper and intenser spirit than I heard it years ago.) Well, to continue with our exploring party. One of the boys pried open a window and went into the house. Naturally all of us clambered in after him. The interior of the building was furnished with good taste. In the dining room was a well filled china closet. The parlor and sitting room, combined, were beautiful and arranged just as the family left it. From our search it appeared that the house belonged to a college professor of Kalamazoo, Mich. Upstairs we found a 
+<pb id="green26" n="[11]" entity="pg10-00-17-11"/>
+large library. I was interested. Under the bed in that particular room we found a large amount of canned fruit; the other boys were deeply interested. Also we found a collection of ore bearing rocks, etc. Apparently the owner was a geology teacher. When we left the boys bore away a dozen or more jars of fruit. It was all I could do to keep them from carrying away pillows, silverware and mattresses, these three things being wanted more than the others. The little Jew Friedman annoyed me with 
+<pb id="green27" n="[12]" entity="pg10-00-17-12"/>
+his show of greediness. I called him a Shylock and a bad representative of his race plainly enough. He is a remarkably well educated fellow, and when I called him a Shylock he retorted quickly that he didn't doubt his being a Shylock, but instead of a pound of meat he wanted a pound of something to eat. To conclude my journey I may say that we went on up the mountain, found many chestnuts, had a feast, filled our pockets and blouses, took several pictures, wandered to our hearts' content, and then returned to camp in time to 
+<pb id="green28" n="[13]" entity="pg10-00-17-13"/>
+play a game of ball. As I have mentioned, this has been my first day of freedom for a long, long time, and to-night I feel as if I have made good use of it.</p>
+        <p>Why didn't you write me in regard to Hugh's leaving. Today I received the first intimation that he was compelled to go to Columbia. I was hoping against hope that he would be spared. What will papa do now?  As for writing to Hugh that is out of the question until I shall be able to learn his address. I wish I knew his Co. now; there are many things I should like to talk over with him. When you write again—and may it be soon—tell me 
+<pb id="green29" n="[14]" entity="pg10-00-17-14"/>
+all about his associations, etc. I especially want to know whom he went away with.	Don't fail to write him often—twice as often as you do me—and advise him. Tell him how you are relying on his coming back as pure as he was when he went away. You know. He is a little inexperienced in the ways of the world. Have Caro and Erma to write him, and send him boxes often, please.</p>
+        <p>Yes, you must come to Greenville, if you can. Doubtless I shall not be able to go to Columbia with you, but I shall be glad to see you. But listen: If papa	
+<pb id="green30" n="[15]" entity="pg10-00-17-15"/>
+or John can't come with you, you'd better wait until one of them can. Perhaps you could come safely alone, but traveling isn't so unrestrained as it was once. You can come to be with Beatrice and I can ride over to see you. It will be alright for you to come to G—alone, but I shouldn't go on to C—alone if I were you. Of course, we can talk over that when you get here for I shall know whether I can go to C—with you or not. Now do come, and if there is any chance to get to see Hugh we shall do it. Write me 
+<pb id="green31" n="[16]" entity="pg10-00-17-16"/>
+when to expect you. Yes, I think the best route is by Charlotte.</p>
+        <p>How good it is that papa has a son like John to rely on in this strangely unreal hour! The whirlwind of war has sucked our home in at last, but I believe each of us will live a fuller life when it's all over—say the night when we all meet again and sit down to our first meal together. If one were an atheist he almost would believe there was a power above to ask that we might be spared for such a meeting. But there shall be pleasure after pain in every act of life and —beyond. On this the Christian's Heaven is built. Sometimes this whole preparation for war, the moving soldiers, the thundering 
+<pb id="green32" n="[17]" entity="pg10-00-17-17"/>
+trucks, and the galloping horses—all seems an unreal dream from which I soon shall wake. It's a fact that at times I have been marching along with hundreds of soldiers, and suddenly everything would turn into a great unreal dream. What causes my mind to get into such a condition I cannot imagine. This strange environment apparently absorbs my consciousness for the time being.</p>
+        <p>Tell the children I am more than gratified at their studiousness. What can I buy them Xmas that will be worthy of them. Sometimes I know I have the greatest sisters in the world. One is a Mary with all that her name implies, 
+<pb id="green33" n="[18]" entity="pg10-00-17-18"/>
+two are going to be musicians, and the other an artist.</p>
+        <p>Cousin Flossie wrote me a beautiful letter, which I am enclosing. Please send it to Gladys as that was her request.</p>
+        <p>You don't know how much I shall appreciate your sending the watch. Please mail it carefully. My address is Camp Sevier, Greenville, 105th U. S. Engineers, Co. B.</p>
+        <p>Write me about the crop. Is papa making much corn. </p>
+        <p>Don't you think the beginning of Germany has begun. It may take a year to finish her, but I believe she's started down hill never to come up again.</p>
+        <p>Tell Erma I shall write her and send the pictures we took today as soon as soon as they're made.</p>
+        <closer><salute>Love to all,</salute>
+<signed>Paul.</signed></closer>
+      </div1>
+      <div1 type="letter">
+        <pb id="green34" n="[1]" entity="pg11-22-17-01"/>
+        <opener><dateline>Camp Sevier <lb/> Nov. 22, 1917</dateline>
+<salute>Dear Papa:</salute></opener>
+        <p>Mary's good letter came to-day and under the spell of it I'm writing home.  I should write oftener, and really wish I could, but the chances for writing often are slim enough here. During day one has no time for writing, and in the night there always 
+<pb id="green35" n="[2]" entity="pg11-22-17-02"/>
+is a crowd of boys talking and standing around the stove in my tent. Even to-night there are a half-dozen in here tell telling jokes, etc. Despite this, I should write you once or twice a week, but for the fact that I'm writing for the Greenville Daily News—writing verses of little value, but they ease me inside. That takes nearly all my spare time. The verses are written under the title of “Sons of a Soldier,” and consist of some half-dozen poems, printed weekly. I'm going to try to keep this column up as long as I stay here. It will help me no little in mastering the English language, which thing I expect to do at some far off time. There are only two reasons that I especially wish to come safely through this war. One is for the sake of the homefolks; the other is 
+<pb id="green36" n="[3]" entity="pg11-22-17-03"/>
+that I may write something worthwhile. I don't love life enough to dread the shell's and a gases of Europe.  The two reasons I spoke of are all that makes me anxious about the outcome so far as I am concerned. But perhaps that point of view writers call the fatalistic (what's to be will be), which most of the soldiers believe in, is the best way for a fellow to believe after all. But somehow I can't believe such a way now.</p>
+        <p>As I mentioned, I am 
+<pb id="green37" n="[4]" entity="pg11-22-17-04"/>
+writing some, but doing very little reading. Nevertheless a few weeks ago I read a book by Mr. H. G. Wells of England, called “Mr. Britling Sees It Through.” I'm going to mail it to you. Perhaps you already have heard of the book as it is world famous. After you've read it, doubtless your idea about sacrifice in this war will be changed considerably, although there are few men in 
+<pb id="green38" n="[5]" entity="pg11-22-17-05"/>
+Harnett County paying the price for this conflict that you are paying. To be sure, you are proud of it. I am. As much as I should like to see Hugh back at home. Somehow I don't mind going through it for my part, but I don't like to see Hugh in it, although he is faring as well as I. You know how I feel, and you feel the same way about it. He always will seem young and dependent to me.</p>
+        <p>Hugh passed here this afternoon, coming from the rifle range on the mountains. The infantry has been there at rifle practice for the last week or two, and all day long we could hear a steady roar of fire. I'm getting a good idea of what a battle means. The sound of rifle fire is enough to deafen one, not taking into consideration the heavy artillery. I haven't heard any of that yet, but I shall soon as 
+<pb id="green39" n="[6]" entity="pg11-22-17-06"/>
+a heavy artillery range is being built beyond the rifle range back in the mountains.</p>
+        <p>And another touch of real war I am getting is the gas—gas exactly like that the armies are using in Europe. A doctor from Europe is here teaching the use of the gas mask. Last week Captain Boesch appointed Sgt. Cureton and myself to attend the gas school. Of course I was pleased with the honor, small tho' it 
+<pb id="green40" n="[7]" entity="pg11-22-17-07"/>
+was. Well, before the first lesson was over I was heartily sick of the whole thing. We had real gas masks like those among the Allies. Here is a crude drawing of the thing taken from from the satchel.</p>
+        <pb id="green41" n="[8]" entity="pg11-22-17-08"/>
+        <p>Now think of having to wear that thing hour after hour. The most disagreeable   thing about it is that the saliva gets all over one's face and clothes. My, I sometimes felt as I'd vomit, but there was no taking it off. They drilled us hour by hour with that thing on. Yesterday we took a test of chlorine gas. With the mask on you are safe. But the minute it is taken off, the gas almost suffocates you. When one is in a gas attack, at the word “gas!”, he stops stock still holding his breath, while he puts the mask on. The required time to take it from the satchel and place it over the face, with the mouthpiece and nose clip adjusted perfectly is 6 seconds. Very few have been able to put it on in that time. The ability to do it comes with practice, of course. I've done it only twice so far in the required time. I shall be glad when I get out teaching  other fellows how to do it.</p>
+        <pb id="green42" n="[9]" entity="pg11-22-17-09"/>
+        <p>Now for a few jerky paragraphs:</p>
+        <p>We are quarantined for an indefinite time on account of measles, pneumonia, and meningitis. Many poor boys have died, as many as six in one night. But I think I am safe from any attack. I'm trying to see after Hugh, too.</p>
+        <p>I've taken out $10,000 insurance for Caro and Erma, $5,000 each. You see there's no telling what may happen to me. This with the bonds takes nearly all my salary, but I'm wanting them to be sure of an education either way. Tell Erma and Caro I'm proud of them both. Wish I could write; too busy now.</p>
+        <p>Tell Mary I'm writing to the beautiful Miss Byrd in Greenville. Can't say how  I like her tho she writes a splendid letter.</p>
+        <p>Will you send some copies of The Daily News with my stuff in them. I'm going to try to get away Xmas. Don't know. Tell Mary to leave off the turkey for Tkg. Send other.</p>
+        <p>Am working to get into officer's training school. Slim chance. Too many old men ahead of me.</p>
+        <closer><salute>Love,</salute>
+<signed>Paul</signed></closer>
+      </div1>
+      <div1 type="letter">
+        <pb id="green43" n="[1]" entity="pg03-14-18-01"/>
+        <opener><dateline>105th U. S. Engineers<lb/>
+Camp Sevier<lb/>
+Mar. 14 : 18</dateline>
+<signed>My dear Mary:</signed></opener>
+        <p>Just a note before the other sergeants come in. For sometime I've been expecting a letter from home, but none was forthcoming it seemed during the past week. All of your 
+<pb id="green44" n="[2]" entity="pg03-14-18-02"/>
+letters—by that I mean letters from everyone at home—are wonderful to me. You see that thru them I take short trips back to the best place in the world. Now don't take this last sentence as one of complaint, for it isn't. Long ago I decided to complain no more. There is no reason, nor is there any use of doing so. 
+<pb id="green45" n="[3]" entity="pg03-14-18-03"/>
+The man who is not willing to endure this life for the end in view isn't much of a man. If ever one of my letters sounds out of humor with the world, don't take it to mean that I am homesick and weary of this sort of life. Such letters are due to that silly, melancholy nature of mine. Perhaps after a few trips over the top I shall lose this self-centeredness that plagues me so.</p>
+        <p>Well, we received our pay just a few minutes ago. The camp is happy tonight, and 
+<pb id="green46" n="[4]" entity="pg03-14-18-04"/>
+the dice are rattling in almost every tent down the line. Mary, it's easy for people to condone this gambling among soldiers, but mark my word, when the soldiers have become civilians again the old spirit will still be there. Harm
+<pb id="green47" n="[5]" entity="pg03-14-18-05"/>
+will come of it, and in no mean form. I hope and trust that none of our family will get so low that he holds as his life philosophy something like the following:
+<q direct="unspecified"><lg><l>“O the dice may roll</l><l>An' the dice may fall,</l><l>But it's each for 'isself,</l><l>An' the devil for us all.”</l></lg></q>
+Tonight I never was farther from believing 
+<pb id="green48" n="[6]" entity="pg03-14-18-06"/>
+in such a point of view, for—well I may say that Miss Byrd has just left our Camp. You may guess how great was my surprise and enjoyment upon seeing her and Beatrice come driving up about supper time. Miss Mabel's Father and Mother were along. They came over in the old mans big touring car. Let me describe the father and mother as briefly as possible. The former is somewhat like papa, only older looking. He has a hearty laugh and a strong handshake. He is plainly a first-rate american citizen. During our conversation he made use of these sentences that gave me the key to his character: “We gotta win this war; I may be too old to go, but I'm with you boys in spirit to the very 
+<pb id="green49" n="[7]" entity="pg03-14-18-07"/>
+end, doggone 'f aint. I got a nephew over to Spartanburg who is a lieutenant. The other day he asked me what I wanted him to bring me back from France. I told him I wanted the Kaiser's left eyeball. Boys we gotta have it.”</p>
+        <p>Now as to the 
+<pb id="green50" n="[8]" entity="pg03-14-18-08"/>
+latter, the mother, I must say that her character isn't so plainly evident at first sight. She is just like Miss Mabel for the world so far as looks go. Her eyes are large and dreamy, and she appears to be seeing things far away all the time. But there is no doubt as to her refinement and good breeding. Her tall slender figure and 
+<pb id="green51" n="[9]" entity="pg03-14-18-09"/>
+patrician figure remind me of characters in novels. To be frank I don't think she liked my appearance in the least. But despite this I showed her every courtesy possible. Well, well there are other things to talk about. But before leaving this subject entirely I should like to tell you that Miss Byrd and I still write to each other occasionally. There is some nameless something about her that attracts me. Perhaps anything wearing skirts would attract me now.</p>
+        <p>We are training hard, preparing for France now. We have direct information from Washington that we are going as soon as we get to be prepared. It is probable that we shall stay here all summer.</p>
+        <closer><salute>Love to all</salute>
+<signed>Paul</signed></closer>
+        <closer>Write me about the flowers, the garden, the farm, Bob and Jeff. You know —</closer>
+      </div1>
+      <div1 type="letter">
+        <pb id="green52" n="[1]" entity="pg03-31-18-01"/>
+        <opener><dateline>Camp Sevier,<lb/>
+Mar. 31, 1918</dateline>
+<salute>My dear Mary:</salute></opener>
+        <p>Since your school is drawing to a close, doubtless you will have more time to spend in writing letters. It's been quite a while since I received a real letter from you. But all the while I have understood the cause underlying this unpleasant result. Caro and Erma—Caro at least—have been writing pretty often of late. But they necessarily must be too busy also to get time to write as much as they would like. It's so with all of us—too busy.</p>
+        <p>To-day has been a pretty busy one for me—fooling 
+<pb id="green53" n="[2]" entity="pg03-31-18-02"/>
+with some old Negro songs—just to while the time away in one sense, and in another to spend the time to good advantage. Never have I seen a more beautiful day—a day that calls you out to wander around. You know. But there hardly is any use of my wandering here. Far better to stay at camp.  Already I've been going to Greenville too much of late. Day before yesterday I swore off. I'm staying in camp for most of the future. If I don't go to work I'll never get one step higher than I am. How it is for one to take the path of least resistance. I wonder why I was created with 
+<pb id="green54" n="[3]" entity="pg03-31-18-03"/>
+such a lazy spirit. I want to lie around and dream forever. Such a life as that is so pleasant.</p>
+        <p>But work is pleasant too in some ways. I like to drill, take physical exercise, build, bridges, roads, etc.; but there is a feeling that most of all this work is wasted so far as I am concerned. It doesn't fit in the category of the things aiding in my life's aim. But, then, should one have a higher aim that that of helping win the war? Could any sacrifice be bigger than yielding one's individuality to the need of the whole? Could anyone have a bigger success in life than the giving his life 
+<pb id="green55" n="[4]" entity="pg03-31-18-04"/>
+towards whipping Germany? Really I don't think he could. But despite that fact, there is the deep, dull rebellion inside of one. Now if I should spend the time on military books that I spend on English I soon would be an officer doubtless. But I don't wish to do it; so there it is. Yet I think I'll fight about as hard as any man when we get to Europe.</p>
+        <p>But it appears that we are to have a long wait before going to Europe—five weeks at least, I think. We've been fooled so many times about leaving that we have very little confidence in any reports concerning it. But for your benefit I'll say that we 
+<pb id="green56" n="[5]" entity="pg03-31-18-05"/>
+are hoping to leave near the 1st of May. Our Major—so I learned from his orderly—said privately last week that we stand scheduled now to leave within five weeks. This being true we shall make a beginning of the end on or about May 1st. But the War Dept. may change the date again, as it has done so many times.</p>
+        <p>Everything apart from tho'ts of war is very delightful here. My work is light, too light for me to rise continuing it—sketching, you know.</p>
+        <p>Hugh has just left our camp. We've been out with the Kodak for part of the afternoon. He is enjoying every hour of life as much or more than I. His going 
+<pb id="green57" n="[6]" entity="pg03-31-18-06"/>
+home is a continued uncertainty. He told me this afternoon that he was going to try for a furlough next week. It will be pretty hard for him to get one now, owing to the fact that so many boys are trying to get off. I fear Hugh doesn't use enough headwork in trying get a pass.</p>
+        <p>The Byrds at Greensboro write pretty often. How good it is to hear from them—Clara especially. She is a wonder in literature. Beside me now is lying an essay on war poetry written by her. It is good. Her language is clear and strong. And hearing from the Byrds in Greenville is a double joy—although I must confess they don't write half-often enough to please me. I call on Beatrice about 
+<pb id="green58" n="[7]" entity="pg03-31-18-07"/>
+twice a week. And, of course, I see the other lady almost every time I go. Most of the time we just meet, say a few words and part. In order to obey the rules of the college she mustn't be seen talking to a soldier without permission of the president. She's such a strange young lady—by that I mean attractive—that I hardly know how to talk about her. But I do know how to talk to her. For when she lets me call, the hours skip by so fast that we (both) forget the time that elapses. Well, after all we are good friends, I hope, nothing more. She is too good to be more than a friend to me. And you know I never could care for anybody deeply enough to mean anything other than friendship. Now what do you think of this?—Despite the fact that her father is well-to-do, some old fool uncle died the other day and left Miss Mabel a pile of spending money—$3,000 to be exact. Quite a little pocket change.  </p>
+        <closer><salute>Love to all,</salute>
+<signed>Paul.</signed></closer>
+        <closer>Please don't let anyone besides yourself read this last sheet. It's too—you know.</closer>
+        <closer>We paraded in G— last Thurs. Read the clipping enclosed. It has been carried around in my pocket until it's dirty.</closer>
+      </div1>
+      <div1 type="letter">
+        <pb id="green59" n="[1]" entity="pg05-13-18-01"/>
+        <opener><dateline>Camp Sevier, S. C.<lb/>
+May 13, 1918. </dateline>
+<salute>My Dear Father, —</salute></opener>
+        <p>Perhaps you have been thinking that both your boys were on their way to France. I have hesitated to write during the last few days, owing to the fact that everything connected with the Engineers is so uncertain—as far as the enlisted man is concerned at the present. Even tho' I am writing now, we are still in the same state of uncertainty. None of us knows when we are to leave. But all feel we shall leave this week. For more than two weeks we have kept all our belongings packed—excepting those needed from day to day. We would have left before the infantry if we could have got cars for our horses and wagons. They are not available yet, but the railroad men are pushing their resources to the limit. 
+<pb id="green60" n="[2]" entity="pg05-13-18-02"/>
+Therefore I predict that by Wednesday, May 15, we shall have begun the move.</p>
+        <p>We are under the strictest quarantine imaginable—almost. During the last few weeks not a man has been allowed to leave camp excepting married men, and they only for a short time. I haven't seen Beatrice in so long that I've forgotten how she looks. This quarantine will continue until the day we leave. But I'm not miserable. There is too much to be done. I have 53 men to look after at all times—their clothing, looks, equipment—all rests upon my shoulders. The last ten days have been the hardest of my life. I have been trying to get these 53 men equipped for over-sea service. I can't stick my head out of the tent without someone's calling, “Sgt. Greene, have you got me any leggin laces?” or shoe laces, or tent pins, as the case may	
+<pb id="green61" n="[3]" entity="pg05-13-18-03"/>
+be. But I like it all. I love the hardness of this life. I love to stick my chest out and call the men to attention. You'd laugh if you could see me one of these early mornings standing on the drill field, making my voice crack like a whip, and bellowing, “Squads, Right! March”—and the like. The officers drill the men most, of course, but occasionally the platoon leader is allowed that privilege —</p>
+        <p>And Hugh loves a soldier's life, too. I went to see him—I slipped away—the last night he was here. He was so excited over going that he couldn't be still. It was a sight to see him dressed up in his paraphernalia. First came his pack, then his rifle and bayonet, next a big belt around the chest, filled with automatic rifle ammunition, then a bell for his automatic pistol, cal. 45, and rifle ammunition. Remarking his equipment, I told him that there was no danger of a bullet's 
+<pb id="green62" n="[4]" entity="pg05-13-18-04"/>
+killing him: for it couldn't hit him. I shall never forget this last night I spent with Hugh. He seemed nearer to me than ever before. I looked at him and thought of all he was to go thru—the dangers of the sea, the firing-line, the charge of the bayonets and a hundred other things. For myself I'm glad to meet the danger, but he seems so slender and small—and yet you can't kill him. He's tough as steel. Somehow I know he's going to get thru, and in many ways I'm glad he's getting his share of life, but perhaps I was a little sentimental that night—one week ago to-night. His company were very silent during those hours I was there. Each one was writing his mother—and the folks at home. While we were talking, a ruffian from the west came into the tent and began to sing many of old songs we like, in a low, soft voice. That music seemed sweeter to me that night than any symphony orchestra I have ever heard at last I had to leave. Hugh and I walked to the end of Co. street—no farther—a guard was there—shook hands, and parted. When and where shall we meet again? Don't 
+<pb id="green63" n="[5]" entity="pg05-13-18-05"/>
+worry. Everything is brighter now, and within a few months we shall have the Kaiser licked, and licked so badly he won't know anybody every morning excepting a jailor. Just keep bearing life patiently until “the boys come home,” and then we will have enough to tell you to make you live the war with us.</p>
+        <p>Tell Mary the publishers have assured me that the little book will be ready by next Thursday. I have been disappointed more than a little in the progress made on it. Also tell her that Miss Byrd and I have quit writing to each other now. I'll explain when I get back from France. And tell Cousin Lilly Johnson I am sending her my love and best wishes. She appears to think I am angry with her. I remember Olla Faye Buie wanted a service flag. Tell her it's impossible for me to get away 
+<pb id="green64" n="[6]" entity="pg05-13-18-06"/>
+from camp to buy one.</p>
+        <p>Last night I was commander of a company of guards for the division consisting of 131 men. The reliefs had to sleep in tents that had holes in them big as cams or bigger. Now about the time I had arranged the guard on duty and the others in their sleeping quarters, it began to rain. Rain! it did—all (night). The men were wet as puppies. Some of them slept—or lay, rather—in two or three inches of water. My tent was in good condition. I felt a little tightening at my throat as one by one they crept into my tent and asked whether they might stay there. I didn't have the room, but I told them to stay. And during the night one man let his gun go off. I had to arrest him, and, to-night he is in the pen. Poor fool—but he'll live thru these little matters. During the night I had to go over the division to inspect every guard, seeing that all men were on the job. I passed by Hugh's company. Everything was as dark and silent as the grave. I stopped and thought of many things; then I went on. You can</p>
+      </div1>
+      <div1 type="letter">
+        <pb id="green65" n="[1]" entity="pg08-25-18-01"/>
+        <opener><dateline>Belgium<lb/> August 25, 1918</dateline>
+<salute>Dearest Erma:</salute></opener>
+        <p>Your letter of July 28 has just reached me. Like all the letters from home—and I've received several lately; keep writing—it was the most enjoyable feature of the day's existence. From what I gathered from your letter, the folks at home don't hear from me very often, and yet I write to them a great deal. Perhaps the censor stops them. Anyway I get pleasure from knowing I have written, but the pleasure would 
+<pb id="green66" n="[2]" entity="pg08-25-18-02"/>
+be greatly increased if I were certain of your receiving them. Here's hoping you get this short note, scribbled in haste while business is dull; that is to say, while everybody is at dinner. You understand that there is no such thing as a day off, or a Saturday afternoon at the ball game here. There are plenty of ball games, to be sure, but the balls are never caught; they just go thru and on.</p>
+        <p>You asked a few questions—and certainly you deserve to know the answers to them. Your first question was concerning 
+<pb id="green67" n="[3]" entity="pg08-25-18-03"/>
+the sort of work I'm doing. Honey, it's hard to tell you exactly what I am doing. At the present I'm a sort of bookkeeper for the whole regiment of engineers. I am what is called a Regimental Sergeant Major. Quite a long title, but full of empty sound. Yes, I look after all secret papers for the “105;” fighting orders, reports, etc., write the regimental diary every day; draw rations (we say “rations” in the army) for Hdqrs. troops, look after 50 or 60 men, etc., etc., etc., etc. The most unpleasant thing of all is the casualty list. Reporting the killed and wounded is my 
+<pb id="green68" n="[4]" entity="pg08-25-18-04"/>
+job also. And alas! I've marked up several friends whose mothers today are speaking to God about the eternal Why? But withal our losses are extremely light, it appears to me, compared to those of Germany. I must not talk tho, for there is the censor; and even the leaves have ears these days.</p>
+        <p>Now as to the hours I work—when and how long, I may answer all by saying that I never keep track of time. Scarcely ever can I give the name of the present day. It may be Monday; 
+<pb id="green69" n="[5]" entity="pg08-25-18-05"/>
+it may be Sunday, I don't know. All I'm concerned with is the day of he month, 21, 22 or 23. Foreign service already has taught me one thing—that 8 hours of sleep are not essential to good health. Yes, and I've learned another thing, I was forgetting: the poor tired earth has drunk enough blood within the last four years as to be offensive in the sight of God. Not long ago I was on an old battlefield. We were digging trenches. One could hardly push his spade into the ground without striking a 
+<pb id="green70" n="[6]" entity="pg08-25-18-06"/>
+bone of somebody's boy. Yes, horrible; but war. And a few days ago I was at another place where 54,000 men “went west” in one day. Awful! Yes, but war. Oh, I tell you the people in America never dreamed of what our brave allies endured for three long years. They were content to slide around in noiseless automobiles, alias and alike high in hope; while thousands of boys who loved the fields of England or the skies of France went down into the Valley, and went 
+<pb id="green71" n="[7]" entity="pg08-25-18-07"/>
+without a rod or staff to comfort them.</p>
+        <p>Yes, Woodrow Wilson is a great man, a king among men, but he didn't enter the war soon enough. Decide that for yourself; I have decided for myself.</p>
+        <p>Now that I have erred by speaking of the dark side, let me retrieve myself by speaking of the bright. Germany is lost! Irrevocably lost! She realizes it! Slowly but steadily the sand of her political and economical life are running down. A short while and the last golden grain will be gone. By using slang 
+<pb id="green72" n="[8]" entity="pg08-25-18-08"/>
+let me show you the difference between the Allied and German armies. Our men are just “rarin' to go,” while the enemy fights sullenly as if driven to it. And I have a strong suspicion that many a poor German boy has been shot in the back by his silver-spurred Prussian officers. Anyway, every German soldier captured appears as much pleased as if he were going home on a furlough.</p>
+        <p>Honey, I don't want you to be cold and cynical towards people, but you will please me by hating with your 
+<pb id="green73" n="[9]" entity="pg08-25-18-09"/>
+whole soul the cruel masters of Germany. Any people that will deliberately kill mothers and babies as I have seen the Germans do deserves not one thought of forgiveness at the great judgment seat of human justice. I wish I could compose a “Song of Hate” in answer to the brutal insolence of Lissauer. But whether I write it or not, I feel it! If I get time to write, I shall send you a hurriedly written piece of free verse, showing some of Germany's acts in the past. </p>
+        <p>But there were other questions in your 
+<pb id="green74" n="[10]" entity="pg08-25-18-10"/>
+little letter were there not? Yes. You wanted to know about the gas. We have had gas to endure two or three times. But our losses have been slight thru that alone, our masks proving a sure protection if ajusted correctly and in time.</p>
+        <p>You asked about my having seen old friends. No. I have seen only Hugh since I came over—saw him once a few weeks ago. But remember he is on the line with all his Green's blood crying for a German to come and face him. If the worst should happen 
+<pb id="green75" n="[11]" entity="pg08-25-18-11"/>
+to him, which God forbid!—you will agree with me in saying, “He was a man. He could not have died more gloriously. It is well.” The day he and I met, we had just returned from the front, and naturally had to tell each other our experiences up there. And when we separated I said to him,
+“Hugh, be careful. You know how they love you back home.”</p>
+        <p>He looked at me with that funny smile of his and answered,
+“Well, it don't make much difference either way. I'm no better to be knocked off than 
+<pb id="green76" n="[12]" entity="pg08-25-18-12"/>
+anybody else's boy.”</p>
+        <p>Since then I've thought a great deal about that statement He was right. But let's cheer up. There are heavy odds in favour of all the boys around home returning.</p>
+        <p>Let whatever will betide there is but one course. Forgetting all successes we have had or may have there is but one course. The premier of England hit it when he said, “Well done”—but—“Carry on.” We are doing well now, but we must keep hammering. There is no peace. There can be no peace until 
+<pb id="green77" n="[13]" entity="pg08-25-18-13"/>
+the end.</p>
+        <p>Yesterday I stood beside the grave of a daring young aviator “dead in battle.” The propellor blade of the plane he loved so well marked his resting place, and on the ground was laid a small cross with its sacred burden. He was such a youthful captain! “Age 22.” How many churchyards with their innumerable crosses—too many of them newly made—have I seen.</p>
+        <p>Now in closing this hurried letter let me enjoin you at home to realize the sacredness of our duty. All that we ask 
+<pb id="green78" n="[14]" entity="pg08-25-18-14"/>
+of you is unity of purpose and moral support. We ask that there be no more a tone of complaint anywhere. Let those who complain walk once among the ruins of Ypres, what then! . . . . Let all letters to the boys be cheery and full of fighting spirit. Every mother who has a boy in France should feel as that boy will feel when the General pins the Croix-de-Guerre upon his blouse. Let her wear that fact as a bride wears her orange blossoms. I've seen boys get a blue spell after receiving a letter from mother that lasted 
+<pb id="green79" n="[15]" entity="pg08-25-18-15"/>
+thru a week. Now when a boy falls into that condition, he is useless as a soldier as long as it lasts. We must get most of our fighting stimulus from home. We . . . must . . . have . . . your . . . support.</p>
+        <p>As for me I'm going to give my best as all the boys are. The thought of those who fought three years for us unaided makes me consecrate anew what little strength I have for the grand cause. I'd like for you girls to write all the boys from and around Lillington over here. Make them feel that they are the pride 
+<pb id="green80" n="[16]" entity="pg08-25-18-16"/>
+of their State. You understand. And if you do this, I venture to say that many a Boche will receive a knockout blow that otherwise would not.</p>
+        <p>I'm sending you something Clara sent me from Mrs. P.—Let nobody see it. Save it for me and —
+<q direct="unspecified"><lg type="poetry"><l>If deep within the earth I lay</l><l>And learned, old friends, that you had lost</l><l>Or quit the game for which we paid</l><l>Such bitter cost,</l><l>I feel that death would fail to hold</l><l>Me there in slumber with the dead,</l><l>Tho' drowsy poppies held their cups</l><l>Above my bed.</l></lg></q></p>
+        <closer><salute>Love to papa, John and the rest.</salute>
+<salute>Your foolish brother,</salute>
+<signed>Paul</signed></closer>
+        <closer>Address<lb/>
+Reg. Sgt. Major <lb/>
+P. E. Greene, Hdqrs. Co. (etc.)</closer>
+      </div1>
+      <div1 type="letter">
+        <pb id="green81" n="[1]" entity="pg00-00-19-01"/>
+        <opener><dateline>Engineer Purchasing Office,<lb/>
+Elysee Palace Hotel,<lb/>
+Paris, A.P.O. 702.<lb/>
+[1919?]</dateline>
+<salute>Dear Papa—</salute></opener>
+        <p>This morning I should like to write you a letter covering all my experiences in France. But such a thing is impossible now. Rather a book would be required to describe all I have seen and—done. And then the heart of the matter would be missing, I'm sure. I'd give almost anything to make you see the front just as it was, tho I don't doubt that Hugh will make it real enough when he gets back. And then, there is the experience of the training school with all its mud and rainy weather sticking in one's remembrance. After that comes Paris, this city that no one can describe or interpret. Here I am, and from the looks of things I shall be here for quite a long time. But being here is an opportunity that doesn't come often, especially at such a time as this, when every nation of the globe is represented on the streets, and the destiny of the whole human race is being decided right over there at the Quai d'Orsay. Yes, I wish I could describe Paris just as it is; but I cannot. Let me say, tho, that it appears to have forgotten that a war ever existed, or anything in the whole of life is worth while except ministering to one's own pleasure. Really it's the strangest place on the map. Every virtue can be found here, but for every virtue there are a dozen different sins. Even a Hugo couldn't explain Paris now.</p>
+        <p>What's the trouble with my mail? I haven't received a letter from home in the Lord knows when. And I think Mary has forgot my name.  There is a fellow, however, who stays with me by the name of Alton Johnson. From the looks of things she knows him quite well and never will forget his name. But I suppose the poor child is worked to death and has little time for writing, except to special friends.</p>
+        <p>Alton has returned from the hospital. He's in very good health, and has nothing to do but make money. Last night he and I were talking about the chances of making money in this city, and he pulled a roll out of his pocket that would choke an elephant, while I couldn't muster a dozen francs. He's a genius at that sort of game. And I predict that some day he will be a rich man if he doesn't marry a woman who will spend it all.</p>
+        <p>By the way I have received an offer of discharge, provided I will take a job with the government over here at $125 per. But I never will agree to such a proposition. When I leave the army, it's going to be for good and eternally. I think I'll be afraid to sign a check after this.</p>
+        <p>Please take care of yourself. Write me a letter sometime.</p>
+        <closer><salute>Love to all,</salute>
+<signed>Paul</signed></closer>
+      </div1>
+      <div1 type="letter">
+        <pb id="green82" n="[1]" entity="pg01-07-19-01"/>
+        <opener><dateline>Marolles, France<lb/>
+January 7, 1918 [1919]</dateline>   
+<salute>Dearest Erma: —</salute></opener>
+        <p>Early this morning before going out to drill I want to tell you that from all appearances we shall be on the way home within a few days. We are busy, very busy, now making preparations—turning over all extra clothing and equipment. And how glad we shall be to leave the everlasting rain and mud of France! And yet, there is a pang in parting from a land where so many of us first got acquainted with life. You needn't write any more until you hear from me.</p>
+        <closer><salute>Love to all,</salute>
+<signed>Paul.</signed></closer>
+      </div1>
+      <div1 type="letter">
+        <pb id="green83" n="[1]" entity="pg01-23-19-01"/>
+        <opener><dateline>Paris, France<lb/>
+Engineer Purchasing Office<lb/>
+A. P. O. 702<lb/>
+January 23, 1918 [1919]</dateline>
+<salute>Dearest Mary and Gladys: —</salute></opener>
+        <p>Now I'm going to recount fully what I've been doing, where I've been—all the news, in short, that I have gathered since I left the regiment. If in writing about Paris I shall say things that you had rather not hear, why it will just be a mistake of mine, and you'll understand.</p>
+        <p>On the night of January 17 I rolled my pack, got together all my belongings, preparatory to leaving.	Madame Marteau was very kind 
+<pb id="green84" n="[2]" entity="pg01-23-19-02"/>
+and really seemed to regret my going away. As a parting gift she brought out her best cider and cognac, but as I liked milk better she gave me plenty of that to drink. Besides Monsieur and Madame Marteau, there were the boys and Mlle. Dodier, whom I regretted to leave. They had been very kind, too kind —especially the last. There was nothing Germaine—that was her name—wouldn't do for me—make the fires, clean up the room and bring in the wood—this she'd do every night—and a thousand other things. But let me describe her more	
+<pb id="green85" n="[3]" entity="pg01-23-19-03"/>
+fully. She was an orphan, eighteen years old, and right pretty for a peasant girl. Three years before she had come to live with Madame Marteau. As I have mentioned, she was as industrious as the days are long. From the first I noticed that, and I also noticed her cheap clothing and rough chapped hands. Many a time I've heard her knocking about the room, her poor wooden shoes—sabots, they call them—clacking on the tile floor with the noise of a threshing machine. Do you wonder that I thought of you girls and compared her with you. But she did didn't seem to pity herself at all—all the peasant girls are like that. But on the 
+<pb id="green86" n="[4]" entity="pg01-23-19-04"/>
+contrary she was happy, always singing—and she could sing as well as some of her birds she used to tell me about. Especially I liked to hear her sing La Madelon. One night we were sitting before the fire in Madame Marteau's room. She was talking away in French—half of which I couldn't comprehend—when I happened to glance down at her shoes. She had straw crammed into them as usual to keep her feet warm. Ach! They were a sorry looking sight, covered with mud. As she stuck her feet out to the fire I asked her whether she had any other shoes. She shook her head. “Non, Monsieur Paul, pas autres.”</p>
+        <p>Then the Green generosity 
+<pb id="green87" n="[5]" entity="pg01-23-19-05"/>
+and lack of common sense got hold of me. I asked her whether she wanted another pair—nice ladies' shoes.  She said she had wanted a pair all her life but they were “tres chére.” Taking a 50 franc note from my pocket, I told her to take one of the “garçons” with her and go buy a pair. Well, I wish you could have seen her. She looked at me as if I were crazy. But I told her to go ahead, I meant it.—Within twenty minutes she was back with her shoes. And never, never have seen such a happy child. She'd look at them, try them on, put them back in the box; and then repeat the same 
+<pb id="green88" n="[6]" entity="pg01-23-19-06"/>
+operation. Undoubtedly the child slept with them. After this I gave her money several times. And possibly that is one reason she was so kind to me. But as a rule the French—peasant or Parisian—are a kind and polite people.</p>
+        <p>As I was saying, I packed my belongings the night of the 17th. Next morning I away without saying goodbye to Lloyd or any of the boys. You know	how I despise scenes of parting, and this would have been an unpleasant one. All of us had been to-gether so long and under so many conditions good and</p>
+      </div1>
+      <div1 type="letter">
+        <pb id="green89" n="[1]" entity="pg03-30-19-01"/>
+        <opener><dateline>Paris, France.<lb/>
+March 30, 1919.</dateline>
+<salute>Dearest Erma,</salute></opener>
+        <p>Last week I received a letter from you. Really I had begun to think that you had done with writing. But I know how busy you are, preparatory to finishing high school. Honey, I can't realize that my baby sister is a senior at Buie's Creek. Indeed, I can't. You remain in my memory as a little slip of a thing. And, oh, I wish that you always might remain that, yet you cannot—even as I write I realize that you are almost grown. When I was a boy I often wondered why the old mockingbirds made such a racket over their young ones when they were beginning to leave the old nest. Now I know exactly how and why. Even to-day Papa, Mary, John or I can hardly think of you as you used to stand in a chair and sing “Oh, lo-ey, he-hoey, and hush-a-by, baby” without the tears coming, you know. You know. This growing up must be endured, 
+<pb id="green90" n="[2]" entity="pg03-30-19-02"/>
+and may you and Caro in your womanhood make us as proud and fond of you as you did in your babyhood. Yes, it's strange that you and Caro are growing wise in books—study, study, and read and read—and then, when you have time write me a letter, just as you and Caro did this last week.</p>
+        <p>In truth I have been getting beaucoup mail during the last few days. Besides the letters, I received a book from Mary entitled “The New Poetry.” I have been reading this book much of late—especially is it my companion on the subway—But I'm hardly in a position yet to criticise it. Although I like its freshness, I fear there is little of worth in it. All this swarm of Vers librists, this motley crowd of discordant street musicians—are poor ragged illegitimate children of the powerful Walt Whitman—nothing else. Still, I enjoy reading these verses; their jaggedness makes them hang in your mind. There are a few spring poems (Let me change pens!) that are very good, and whenever I read them, I want to be home for the spring. Mary's letters telling about the flowers, sunny days and all that also make me want 
+<pb id="green91" n="[3]" entity="pg03-30-19-03"/>
+to go home worse than anybody knows.</p>
+        <p>Yes, I know that everything in the Old North State is waking to life now. I can smell the new grounds burning and see the smoke settling in the hollows. And it will not be long before the trees will be green and then the dogwoods will be blooming—and on and on. After a long time, I've learned that our farm is the prettiest place in the world. Even the Champs Elysee here in Paris with its budding acacia trees and rhododendron shrubs cannot compare with our dogwoods and grape-vined farm. The beautiful gardens all remind me of home, and I hope by the will of God to set my foot back there before many months. Do you want to see me? Do you feel my absence? Well, know this, that you don't know what it is to miss people as I miss 
+<pb id="green92" n="[4]" entity="pg03-30-19-04"/>
+everybody at home. Then you wonder why I came to Paris. Child, I came to learn something, to get a taste of beauty at first sight. And I have got it—am still getting it. I've climbed to places that made me dizzy with their terrible height.</p>
+        <p>Volumes could not hold all I've learned in these last two months. I've walked at least a thousand miles and ridden many more. To-day I stand where kings lost their heads; to-morrow where saints were massacred. One hour I see the most marvelous creations of art; the next I see the most abject misery on earth crawling along the streets. And read! I read all the time. Day in, day out, I carry a book with me. Erma, I'm just beginning to wake up, to see what there is to be learned—and I realize that my alphabet isn't learned yet. Oh, I wish I had nothing to do but read, study, read, study, and think—and think, and go to the grave with a book in my hand.</p>
+        <p>Along with learning things, I've met some of the keenest, most wide-awake minds in the world. Particularly am I thinking of a Mademoiselle 
+<pb id="green93" n="[5]" entity="pg03-30-19-05"/>
+Boislet who took me with her to see some treasures in the Louvre. She is only 25 years old, slender, young-looking, dainty, like all Parisians, and yet she has the most marvelous mind of any woman I've ever met. She knows Grecian and Roman mythology from A to Z. In the Louvre we saw Venus de Milo, Diana of the Chase, Apollo, Michael Angelo's Captives (all originals) The Winged Victory of Samothrace, and hundreds of other things by such men as Rodin, Barye, Barrias, Dubois, Bartholome, and others whom I forget just now. And the paintings! Later I shall tell you all about them. And this woman! She sees every beauty, she knows every fault. Before long think I shall be a pretty fair art critic, if I keep reading, studying, and talking with her.</p>
+        <p>This afternoon I took my first tea among the intellectuals as they style themselves. And what a time I had! Such talk. For once in my 
+<pb id="green94" n="[6]" entity="pg03-30-19-06"/>
+life I felt happy. Every person present was gifted in some way—The brilliant conversation now in English, now in French went to my head like wine and never have I talked as I did with those eight persons. From the deepest bass note to the keenest treble I ran like the fool I was. Now it was Victor Hugo, now it was Moliére; now it was Verlaine, the estaminet poet, now Richepin, and on and on.</p>
+        <p>Let me see if I remember who was present? First there were three elegant Frenchmen: one a member of the Russian Mission, another a sort of literary critic, and lastly a youth who is in charge of the Russian Library. Then there were the girls: Mademoiselle Boislet, her sister Cecile, her friends Jacqueline—and an (Alsatian) girl; Sgt. Pettit an old Latin teacher and long friend of Miss B's and myself.</p>
+        <p>Yes, we had a wonderful time talking of the gods and drinking chocolate. There is no danger of my forgetting this first soiree with the intellectuals, and there will be others. But I must close.</p>
+        <p>Oh, I hope I shall be home by June. Write me, honey, tell Papa and John to write. There's nothing like getting a letter from home.</p>
+        <closer><salute>Love to all,</salute>
+<signed>Paul</signed></closer>
+      </div1>
+      <div1 type="letter">
+        <pb id="green95" n="[1]" entity="pg05-16-19-01"/>
+        <opener><dateline>Engineer Purchasing Office. <lb/>
+Paris, France, A.P.O. 702.<lb/>
+May 16, 1919.</dateline>
+<salute>Dear Papa —</salute></opener>
+        <p>To-night I've been thinking of home, and so, I must write a note. Whenever I feel the desire strongly to see everybody back there, I usually write, and then I'm reconciled to “Gay Paree” and everything she means.</p>
+        <p>As I've told you before, my work consists of helping to pay French Government bills. During these last days, business has been slowing up, and from the outlook now, it appears that we shall have finished
+<pb id="green96" n="[2]" entity="pg05-16-19-02"/>
+everything before the fall. Now don't worry; Hugh and I will be there before the old China tree turns yellow in September. Anyway, aren't you just a little pleased with us—that we had grit enough to play the game through; that though we both wanted to go home, we realized that this was an opportunity of learning and experiencing things that would never come again? Really after every A.E.F. man has left France you can say, “Well, my boys went into it, and they stayed (of their own free will) and saw the last inning played. One helped settle the thousand and
+<pb id="green97" n="[3]" entity="pg05-16-19-03"/>
+one accounts; the other helped keep the peace of the country. Yes, they saw the whole thing through, and the pain of a few months of separation was over-balanced by the knowledge of the world they gained. Yes, as the Greens ought, they played to the last hole.” Can't you say that? Thank God, neither of us is so babyish that he dreams nightly of his bottle and nipple on the mantel-shelf back home. We wanted to see something of the world, and we're seeing it, believe me. No. I'm not praising ourselves, I hope, but I want you to let bother pass when you see
+<pb id="green98" n="[4]" entity="pg05-16-19-04"/>
+the boys coming home. Of course we want to go home, Hugh and I, but we can stick it out a little longer.</p>
+        <p>I'm having a pretty good time now—working at the office, playing ball, and studying. And how I enjoy the ball games in the Bois de Boulogne. We have a league here, and the team that wins the pennant is to tour the A.E.F. Now our team is going to win that pennant—sure. The captain already has made arrangements concerning our traveling. My, what a time I'm going to have—from the Mediterranean to
+<pb id="green99" n="[5]" entity="pg05-16-19-05"/>
+the bridgeheads of the Rhine. Oh, boy! But I shall write you about that more fully—later.</p>
+        <p>Perhaps I've never mentioned in my letters of the time I've spent studying engineering since I came into the Army. But how many hours I've pored over maps and tables no one knows. Since I knew nothing of engineering when I enlisted, I realized that I ough to know something about it, and at last I became a pretty good surveyor, and, I believe, construction man. Anyway I know how
+<pb id="green100" n="[6]" entity="pg05-16-19-06"/>
+to survey land and build any sort of military bridge needed, and a few other things.</p>
+        <p>And so, at last they sent me to a training camp. At Langres, but, as you know, I failed to capture a Saw Browne. Well on May 9, I—at last—was commissioned. Yes, Saw Browne, bars, salutes, “sirs” and 'tenshuns, are mine now. Really I don't know how to take it—funny feeling. One day, an enlisted man; the next an officer. Papa, for your sake I'm proud of this belated honor. If I had been a doughboy,</p>
+      </div1>
+      <div1 type="letter">
+        <pb id="green101" n="[1]" entity="pg06-07-19-01"/>
+        <opener><dateline>Paris<lb/>
+June 7, 1919</dateline>
+<salute>Dearest Gladys —</salute></opener>
+        <p>In a letter from Mary yesterday, she told me that you were home again, that you were as happy as a lark, that you had made a wonderful record in school, and that your playing was wonderful. All of which made me wild with longing to be there. Though I cannot tell you face to face, let me tell you in this letter that I 
+<pb id="green102" n="[2]" entity="pg06-07-19-02"/>
+am proud to call you my sister. I am proud that you did not let the name of Greene fall, as some have done. And, child, keep dreaming your high dreams. All of them cannot come true, but some of them will, and therein lies our success. Height does not mean happiness, but it means usefulness. And usefulness is excuse enough for living; so I've found after two years in the army.</p>
+        <pb id="green103" n="[3]" entity="pg06-07-19-03"/>
+        <p>Further in her letter, Mary mentioned that everything was beautiful over there, and that the farm work was going along well enough. I'm very homesick for the beauty—tho' there is a world of beauty here—and I'm hungering for a chance to help in the farm work. Yes, I'd gladly give over my bars and saw brown for a pair of plow lines and a pair of overalls. And by honkey, it will 
+<pb id="green104" n="[4]" entity="pg06-07-19-04"/>
+not be long before the exchange will be made. On June 30—yes! yes!—I'm leaving for home. Now some hot day in July you're going to see me come blowing up the lane. And in three jerks of a sheep's tail I'm going to have my armsfull of girls. Hugh will be there, too, before or soon after. Wonder how fodder-pulling will be after these months, these years, these centuries!</p>
+        <pb id="green105" n="[5]" entity="pg06-07-19-05"/>
+        <p>Mary also told me that Willie had got married. I am still in a state of surprise, but further than that, I have nothing to say.</p>
+        <p>Now come to Paris. Everything is beautiful here—at least it is to me. My work is heavy, but in the afternoons and nights I have marvelous pleasures. Now the word marvelous isn't one bit too strong. The parks, theatres, my books, and, my friend Mlle. Ronée Bourseillier 
+<pb id="green106" n="[6]" entity="pg06-07-19-06"/>
+make life a pleasure, never a burden.</p>
+        <p>May I tell you about Mlle. Bourseillier? Just a sentence or two. She is one of the most refined, intelligent, and charming girls I've ever met—yes, the most. Educated in Paris, Berlin, and London. You may know that her conversation is interesting to me. Since she is a perfect lady, and different from most girls I've met, I cannot but enjoy every minute spent with her. 'Twould 
+<pb id="green107" n="[7]" entity="pg06-07-19-07"/>
+surprise you to know how much time we spend together. Every afternoon I dress up, eat supper, and go to her home. Then we take our books and go the Bois de Boulogne. What a time we have reading English and French poetry. Tomorrow, Sunday, we are going to take lunch to the Lantern of Diogenes in the woods outside of Paris and stay all day—just we two. By the way tell Caro and Erma they will find in “Les 
+<pb id="green108" n="[8]" entity="pg06-07-19-08"/>
+Miserables” something about the Lantern of Diogenes. Among the Kodak pictures I'm sending you are three of Mlle. Bourseillier. But more of this subject when I get home. </p>
+        <p>I wish you could have been here on Memorial Day. My letter would be too long to tell of the exercises there, but you can read it in my diary some day. Mr. Wilson made a beautiful speech. Among the notables were a dozen or more peers, Marshal Foch, M. Andrew Tardieu, 
+<pb id="green109" n="[9]" entity="pg06-07-19-09"/>
+Mr. Wallace, and of course Mrs. Wilson. One time Mr. Wilson was moved to tears. If there ever was a man sincere in what he proposes, that man is our President. As I came away from the cemetery, I heard one doughboy say to another, “I'd follow that man clean to hell and back.” And we would, all of us. The other day one boy from our office met Mr. Wilson on the Champs Elysees. Of course he pulled off his best salute. But you 
+<pb id="green110" n="[10]" entity="pg06-07-19-10"/>
+could have killed him with a feather when Mr. Wilson, instead of passing by, stopped and said, “Good evening, son,” asked him how he liked the army, where he lived in the states, and a few other things. Of course Mr. Wilson could not speak to every soldier he meets, but then, he rarely walks out. Now I'm convinced that in such actions, our president is not playing the Kronprinz's game of kindness. No.</p>
+        <p>Next week, I'm going to visit the 
+<pb id="green111" n="[11]" entity="pg06-07-19-11"/>
+Somme region. Some of my friends sleep up there, Ross Matthews, Charlie Speas, Lt. Marrian, and others. I hope to get a photograph of their graves. </p>
+        <p>But it's time for supper. I must close.</p>
+        <p>Has papa ever heard from my liberty bonds. Months ago I wrote to the bank in N.Y. to send them to the Bank of Lillington.  </p>
+        <p>I'm not saving much money now. Board, room, and laundry cost me $80 per month.</p>
+        <closer><salute>Love—love,</salute>
+<signed>Paul.</signed></closer>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

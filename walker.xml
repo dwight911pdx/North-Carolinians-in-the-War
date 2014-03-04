@@ -1,0 +1,1453 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+<!ENTITY % external-entities SYSTEM "./extEntities.dtf">
+<!ENTITY % internal-entities SYSTEM "./intEntities.dtf">
+<!ENTITY walkcv SYSTEM "walkcv.jpg" NDATA jpeg>
+<!ENTITY foldout1 SYSTEM "foldout1.jpg" NDATA jpeg>
+<!ENTITY foldout2 SYSTEM "foldout2.jpg" NDATA jpeg>
+<!ENTITY foldout3 SYSTEM "foldout3.jpg" NDATA jpeg>
+<!ENTITY walktp SYSTEM "walktp.jpg" NDATA jpeg>
+<!ENTITY walkvs SYSTEM "walkvs.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="wwi" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>Official History of the 120th Infantry “3rd North Carolina” 30th Division, From August 5, 1917, to April 17, 1919. Canal Sector, Ypres-Lys Offensive, Somme Offensive:</emph>
+Electronic Edition.</title>
+        <author>Walker, John Otey, b. 1887</author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Apex Data Services, Inc.</name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Harris Henderson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name>Apex Data Services, Inc., Harris Henderson, and Jill Kuhn Sexton</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca. 170K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="title page">Official History of the 120th Infantry “3rd North Carolina” 30th Division, From August 5, 1917, to April 17, 1919. Canal Sector Ypres-Lys Offensive Somme Offensive</title>
+            <author>Major John O. Walker</author>
+            <author>Major William A. Graham</author>
+            <author>Captain Thomas Fauntleroy</author>
+          </titleStmt>
+          <extent> 56 p. 3 fold. maps</extent>
+          <publicationStmt>
+            <pubPlace>[Lynchburg, Va.]</pubPlace>
+            <publisher>[J. P. Bell company]</publisher>
+            <date>[1919]</date>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number C970.9 W18o (North Carolina Collection, University of North Carolina at Chapel Hill)</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been entered using double-keying and verified against the original. </p>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All single right and left quotation marks are encoded as ’ and ‘ respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Running titles have not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>World War, 1914-1918 -- North Carolina.</item>
+            <item>World War, 1914-1918 -- Regimental histories -- United 
+States.</item>
+            <item>World War, 1914-1918 -- Campaigns -- Belgium.</item>
+            <item>World War, 1914-1918 -- Campaigns -- France.</item>
+            <item>North Carolina -- History, Military -- 20th century.</item>
+            <item>United States. Army. Infantry Regiment, 120th -- History.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-05-21, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-04-17, </date>
+        <respStmt>
+          <name> Jill Kuhn Sexton </name>
+          <resp> </resp>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-03-28, </date>
+        <respStmt>
+          <name>Harris Henderson</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-01-25, </date>
+        <respStmt>
+          <name>Apex Data Services, Inc.</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the text.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div1 type="cover image">
+        <p>
+          <figure id="cover" entity="walkcv">
+            <p>[Cover Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="title page image">
+        <p>
+          <figure id="title" entity="walktp">
+            <p>[Title Page Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="title page image">
+        <p>
+          <figure id="verso" entity="walkvs">
+            <p>[Title Page Verso Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Official History of the 120th <lb/> Infantry <lb/> “3rd NORTH CAROLINA” 30th DIVISION <lb/> From August 5, 1917, to April 17, 1919 <lb/> CANAL SECTOR—YPRES-LYS OFFENSIVE <lb/> SOMME OFFENSIVE</titlePart>
+        </docTitle>
+        <byline>By</byline>
+        <docAuthor>Major John O. Walker, with the assistance of Major William A. Graham <lb/> and Captain Thomas Fauntleroy</docAuthor>
+      </titlePage>
+      <div1 type="dedication">
+        <pb id="piii" n="iii"/>
+        <p>DEDICATED <lb/> TO <lb/> THE MOTHERS AND WIVES <lb/> OF <lb/> THE MEN OF THIS REGIMENT WHO DIED <lb/> IN FRANCE</p>
+      </div1>
+      <div1 type="preface">
+        <pb id="piv" n="iv"/>
+        <head>PREFACE</head>
+        <p>This history has been prepared, under authority from Colonel Sidney W. Minor, as the official history of the 120th Infantry. Great care has been exercised in its preparation, and nothing has been claimed for this Regiment which can not be substantiated by records of the Division.</p>
+        <closer>
+          <signed>J. O. W.</signed>
+        </closer>
+      </div1>
+    </front>
+    <body>
+      <div1 type="section">
+        <pb id="p5" n="5"/>
+        <head>OFFICIAL HISTORY OF THE <lb/> 120th INFANTRY</head>
+        <div2 type="chapter">
+          <head>CHAPTER I</head>
+          <p>On August 5, 1917, the 3rd North Carolina Regiment, of the North Carolina National Guard, was drafted into the Federal Service. That day marks the real entrance of the Regiment into the European War, in which it was to play a glorious part, reflecting credit on the Army, the State, and the Nation.</p>
+          <p>The Regiment was commanded by Colonel Sidney W. Minor, of Durham, with Lieutenant-Colonel Claude L. McGhee, of Franklinton, second in command. The three battalions were commanded, respectively, by Major Don E. Scott, Major William A. Graham, and Major Wade H. Phillips. The companies were organized at and commanded as follows:</p>
+          <list type="simple">
+            <item>“A” Company, Lexington—Captain James A. Leonard:</item>
+            <item>“B” Company, Raleigh—Captain Walter Clark, Jr.;</item>
+            <item>“C” Company, Henderson—Captain James W. Jenkins;</item>
+            <item>“D” Company, Louisburg—Captain Samuel P. Boddie;</item>
+            <item>“E” Company, Oxford—Captain Elbert E. Fuller;</item>
+            <item>“F” Company, Franklinton—Captain James E. Whitfield;</item>
+            <item>“G” Company, Reidsville—Captain James H. Mobley;</item>
+            <item>“H” Company, Warrenton—Captain Edward C. Price;</item>
+            <item>“I” Company, Burlington—Captain James C. Freeman;</item>
+            <item>“K” Company, Ashboro—Captain Ben F. Dixon;</item>
+            <item>“L” Company, Thomasville—Captain Carleton H. Newby;</item>
+            <item>“M” Company, Durham—Captain Walter E. Page;</item>
+          </list>
+          <p>Headquarters Company, chiefly from Tennessee—organization begun by Major Don E. Scott and completed by Captain Thomas Fauntleroy, of Memphis;</p>
+          <p>Machine Gun Company, North Carolina—Captain Charles F. Lumsden, Raleigh;</p>
+          <p>Supply Company, North Carolina—Captain Stephen E. Winston; and</p>
+          <p>Sanitary Detachment, North Carolina—Major Abram R. Winston.</p>
+          <p>It is interesting to note that none of these units, with the exception of Headquarters Company, returned from overseas in command of the original commanding officer.</p>
+          <pb id="p6" n="6"/>
+          <p>Coming from the Central and Piedmont Sections of North Carolina, and being filled up later on by men from Tennessee, Kentucky, and Indiana, it was a thoroughly American organization. It inherited the best traditions of a fighting stock, who had proven their worth in the War of the Revolution and the War Between the States. The most cherished records of accomplishments had been left untarnished to the younger generation, and their sires and grandsires felt, if the opportunity was given, their sons and grandsons would add new luster and new traditions to the old.</p>
+          <p>The Regiment, with the 1st and 2nd North Carolina Infantry Regiments, composed the North Carolina Infantry Brigade, and as such had served on the Mexican Border, near El Paso. The Border service having been satisfactory it was confidently expected the Brigade would be maintained intact, but changes in sizes of units, as a result of this war, upset all expectations. When mobilized at Camp Sevier, Greenville, South Carolina, as part of the 30th Division, the 1st North Carolina was broken up, part of the personnel being assigned to this Regiment, and the 2nd and 3rd North Carolina disappeared, except in the memory of those who loved them, becoming, respectively, the 119th and 120th Infantry Regiments, composing the 60th (Tar-Heel) Brigade. The 60th Brigade was commanded by Brigadier-General Sampson L. Faison, a Regular Army officer, a North Carolinian, and the maker of the 30th Division.</p>
+        </div2>
+        <div2 type="chapter">
+          <head>CHAPTER II</head>
+          <p>Camp Sevier, Greenville, South Carolina, named after Colonel John Sevier, North Carolina Militiaman and Brigadier-General, U. S. A., afterwards becoming Governor of Tennessee, was a tented camp. The location was ideal, and there would have been no complaints provided South Carolina had lived up to its reputation of “Sunny South.” This it sadly failed to do.</p>
+          <p>The first units of the Regiment to arrive, the latter part of August, were put to work converting cleared land and cultivated fields into drill-grounds. So real training was not under way until the middle of September, and even then it was constantly interrupted by moving, due to the increased size of units under everchanging tables of organizations.</p>
+          <p>The authorized officer-strength of the Regiment was provided for by the promotion of enlisted men and by a shipment of newly graduated Reserve Officers, “Sears-Roebuck Lieutenants” they were called. These Reserve Officers expected a hostile reception, and were gratified to find that their home in the Regiment depended solely upon their individual ability to make good. They expected to find themselves in a National Guard organization, with all of the widely advertised faults of the National Guard, and they found a regiment to which these stories did not apply. They quickly
+<pb id="p7" n="7"/>
+absorbed the traditions of the Regiment, and found that the regimental idea was—for officers to be obeyed and followed: first, because they had gained the respect, confidence, and love of their men; and, secondly, because of the authority vested in them by virtue of their commission. This idea has been the constant aim of the officers of the Regiment during its entire life.</p>
+          <p>With the arrival of French and British instructors, schools were started in bayonet, bombs, scouting, etc. All ranks were pushed to their capacity. While the hours were long, the time was short, and those who were not able to stand the grind, or failed to realize the importance of their task, soon fell by the wayside.</p>
+          <p>Training was largely centered around trench-warfare, but fortunately open-fighting was not overlooked, and this forethought on the part of those in command proved of value later on and doubtless saved many lives in active operations. Much of the trench-warfare training proved of little value in active service, as conditions existing to-day are out of date to-morrow, but it all served to develop both officer and man. This was notably the case in bayonet-training, and, while there was but slight chance of bayonet combat, it developed a fighting spirit and a feeling of confidence as nothing else could have done.</p>
+          <p>Training was seriously interrupted about the middle of December by an unprecedented winter—a winter unlooked for in the South. As a result, the camp was not prepared for such a condition. Sleet and snow covered the ground—men had to spend their entire time cutting and carrying wood for heating and cooking, and the little opportunity for indoor instruction was of doubtful, if of any, value. As soon as the weather permitted, training was renewed with redoubled energy.</p>
+          <p>The first of January, Colonel Minor and Lieutenant-Colonel McGhee were sent to a Field Officers' School, in Texas, and Colonel Cochran was assigned to the Regiment, remaining in command until Colonel Minor returned in April. Colonel Cochran was a Regular Army officer, and a graduate of the Virginia Military Institute. He was an officer and a gentleman, and soon gained the admiration and confidence of all ranks. It was a pleasure to have served under him.</p>
+          <p>When the Regiment was first drafted into service its strength was slightly over 1,500 men, and this number was reduced by frequent calls for specialists of all kinds. It was, therefore, necessary to fill the Regiment up to strength before it would be fit for overseas service. The men first received were a splendid lot from the old 2nd Tennessee, which had been broken up. Most of these men went to Headquarters Company, and this company from that time on was largely a Tennessee Company both in officers and men. The Regiment was also fortunate in securing the Tennessee Band, as a unit. This band was composed of trained musicians, chiefly from Memphis, and, under the able leadership of Chief Musician Harry
+<pb id="p8" n="8"/>
+Blix, developed into one of the best bands in the A. E. F. The second lot came from Camp Jackson. The officers in charge candidly stated that they had picked the poorest men in the Division, but with the exception of those who were crippled and should never have been inducted into service, they proved by their loyalty and fighting qualities that some one at Camp Jackson was an extremely poor judge of men—at least of men who could fight. Practically all of these men were from North Carolina. The third and last lot of men the Regiment received came from Camp Taylor, chiefly Kentuckians and Indianaians. They were a splendid lot physically and mentally, and, as fighters, they had no superiors. All of these men soon took their place in the Regiment and found they stood an equal chance with the old men of the organization.</p>
+          <p>The first of May, 1918, found the Regiment ready to go. The companies were in excellent shape; the spirit of the men was high: and all were on edge, as each man knew the time was near at hand.</p>
+          <p>The special units of Headquarters Company, the 37-mms., Lieutenant Gilliland; the Trench Mortars, Lieutenant Dayton; the Pioneers, Lientenant Bunch; and the Signals, Lieutenant Ailor, were all in splendid condition, and their state of training reflected credit on their officers and on the Regiment.</p>
+          <p>The Intelligence Service, composed of specially selected men, had been organized.</p>
+          <p>Quite a few changes had been made in the Regiment. Two of the more important were: Captain Whitfield, of “F” Company, had resigned, and Lieutenant Beck was in command; and Captain Freeman, of “I” Company, had resigned, and Captain Robert C. Young was promoted to fill the vacancy.</p>
+          <p>An Advance Party, consisting of Majors Scott and Graham, Captain Boddie, Lieutenants Taylor, Williams, Richards, Dayton, Dixon, Mason, Green, and Ailor, and a number of enlisted men, were sent ahead. And on the 7th day of May, 1918, after a final clean-up of all men physically unfit, the Regiment began to move.</p>
+        </div2>
+        <div2 type="chapter">
+          <head>CHAPTER III</head>
+          <p>Movements of troops are supposed to have been shrouded with secrecy, but the thousands of visitors who had come to bid their sons a last farewell preceded the troop trains, and the news of the coming spread like wildfire. As a result, the passage through North and South Carolina was a continuous ovation. Each village, town, and city turned out to cheer the men as they passed. Half of the Regiment went north via Greenwood-Raleigh-Richmond, and the other half via Charlotte-Greensboro-Lynchburg. The Red Cross handled the feeding of the troops, at points en route, in a most satisfactory manner. The movement continued for two days, the troops detraining at Camp Merritt, a few miles north of New York City.</p>
+          <pb id="p9" n="9"/>
+          <p>It was thought that the Regiment was equipped for overseas service, but such did not prove to be the case. Practically everything the men had, in the way of clothing, was taken from them and new issued. This meant work without rest for the 1st and 2nd Battalions and Supply Company, who arrived one day and were promptly told they would leave on the next. The remaining units were kept at Camp Merritt for nearly a week, and, as there was no room for drilling, practically every man was given an opportunity to see a little of New York City. This was a great experience for most of the men.</p>
+          <p>The entire Regiment embarked for overseas at Boston—the first units leaving on H. M. T. <hi rend="italics">Bohemia,</hi> under command of Lieutenant-Colonel McGhee, and the remainder of the Regiment one week later on H. M. T. <hi rend="italics">Miltiades,</hi> under command of Brigadier-General S. L. Faison. The men were badly crowded on both boats, and the food by no means good. The latter was due, in part, to the men of the Regiment not being accustomed to eating the kind of food preferred by Australians, and, as both boats had been used in the Australian transport service, they had been provisioned to suit those troops. The voyage over for both boats was perfect, in so far as the weather was concerned, and uneventful save for the usual attacks by submarines. These attacks were unsuccessful in all cases and served to enliven what would have been a monotonous voyage. It is believed some of these submarines were accounted for. The troops on the <hi rend="italics">Bohemia</hi> were disembarked at Liverpool, going by rail to Folkestone, and from there to Calais by boat. Those on the <hi rend="italics">Miltiades</hi> were disembarked near London, going by rail to Dover, and from there to Calais by boat. The entire movement of the Regiment to France was completed on the 5th of June, 1918. On landing in England all ranks were given a facsimile of an autograph letter of welcome from His Majesty, George V.</p>
+          <p>At Calais, the troops were marched to a British Rest Camp just outside the city. Here everything, except the clothing on the men's backs, was turned in for salvage. All was piled in warehouses to be sorted out by Chinese laborers. Some of these laborers having been killed by American sentinels, at an earlier date, resulted in an order being issued requesting American soldiers to refrain from killing Chinamen. In this land of killing it seemed a little out of place, but it must be remembered a Chinaman had a greater value in shillings and pounds than an ordinary soldier.</p>
+          <p>The Regiment, having been reëquipped with British equipment throughout—helmets, gas masks, and rifles—marched to the station and entrained as part of the British Army. All ranks were much dissatisfied, at first, over the assignment to the British Army, and for a long time the constant query was “When do we go South?” but in course of time it was changed to “We don't want to go South.” At Calias the distant thunder of guns could be heard, and
+<pb id="p10" n="10"/>
+the nightly air raids with the accompaniment of bombs, taking their nightly toll of women and children, gave the first touch of war, and opened the eyes of many to the kind of enemy they were to fight.</p>
+          <p>On entraining at Calais the Regiment had its first experience with the famous French troop trains of <hi rend="italics">“40 Homme</hi> or <hi rend="italics">8 Chevaux.”</hi> Fortunately the introduction was brief—the troops detraining two hours later at Audriucq in the Eperlecques Training Area. Regimental Headquarters was located at Chateau Cocove, Headquarters Company at Grasse Payelle, 1st Battalion at Zutkerque, 2nd Battalion at La Montaire, 3rd Battalion at Nielles, Machine Gun Company at Nortleulingham, and the Supply Company at Lostrat. Once more the entire Regiment was together and training was begun again.</p>
+        </div2>
+        <div2 type="chapter">
+          <head>CHAPTER IV</head>
+          <p>In the Eperlecques Training Area, British officers and N. C. O.'s, from the 4th Bedfordshire Battalion, were assigned to the Regiment, and, under the personal direction of Lieutenant-Colonel Edwards, British Army, supervised the instruction within the Regiment, seeing that only the most recent developments were followed. The services of these officers and men were of special value in preventing the wasting of effort on nonessentials.</p>
+          <p>At this time the enemy was believed to be preparing a drive in the vicinity of Hazebrouck. Another effort to secure the Channel Ports. This Regiment, in case the attack came, was to move by force marches and occupy part of the “Terdeghem Switch Line.” This line was to be “held at all cost.” Plans were made, orders issued, and officers were sent forward to make the necessary reconnaissance, so as to be able to occupy their proper position in the line promptly and without confusion. Fortunately the attack failed to materialize and training continued.</p>
+          <p>An important part of the training in this area consisted in sending details of officers and men up for periods of a week to two weeks with the 33rd and 49th British Divisions. These Divisions were holding the Ypres Salient. The details were carried up in old London busses which had been in use since the first days of the war, and were still giving excellent service.</p>
+          <p>Each man returned with a clearer perception of the work he had to do, and a fund of stories for his less fortunate comrades. Some of the best stories of the Regiment were collected in and around Ypres. Fortunately only a few casualties resulted from these trips, as the British troops had been ordered to restrain the natural inquisitiveness of the Americans.</p>
+          <p>In this area the Regiment received British transportation, and the Regimental Supply Service was reorganized to conform with that of the British Army. This was a most important change, and, when put into practice later on, worked without a hitch.</p>
+          <pb id="p11" n="11"/>
+          <p>
+            <figure id="ill1" entity="foldout1">
+              <p>[Map]</p>
+            </figure>
+          </p>
+          <p>To 
+create 
+a feeling of confidence in the artillery is particularly desired in infantry troops, as nothing is harder on their morale than to have a feeling of uncertainty as to whether their own artillery can be depended upon to shoot where they aim. In order that all ranks might see the actual handling of a barrage a practical illustration was given, and it certainly had the desired effect on both officers and men.</p>
+          <p>Sir Douglas Haig and General Pershing both inspected part of the troops while in this area. As a result of this inspection, and the reports of his officers, the former requested this Division to be one of the two remaining with the British Army. While here a great many new officers joined the Regiment. They were part of “Pershing's Traveling Circus,” and proved to be some of the most efficient officers the Regiment had.</p>
+          <p>Before the completion of training, the Regiment was transferred as part of the Division to the II British Corps, Second Army, commanded, respectively, by Major-General Jacobs and General Plumer, moving up in close support to the 33rd and 49th British Divisions in the Ypres Salient, where an attack was expected.</p>
+          <p>On the 2nd of July, 1918, the Regiment marched from the billets to the eastern edge of the Foret D'Eperlecque, where it bivouacked for the night. On the morning of the 3rd the movement was resumed, and the night of the 3rd was spent at Rubrouck. On the morning of the 4th of July part of the Division crossed into Belgium—the first American troops in the little kingdom. This Regiment marched to Herzeele where it remained for five days in training. When the Regiment entered this village Belgian and French flags were flying from the houses in honor of the American holiday. At Herzeele the officers and men, sent from the States as an Advance Party, rejoined their organizations. Prior to this the 1st Battalion had been commanded by Captain Leonard and the 2nd Battalion by Captain Fuller.</p>
+          <p>On leaving Herzeele the Regiment marched to “Road and Ball Camps.” These two camps were two and three miles north of Watou. They would accommodate about 4,000 men in huts, each hut holding about 30 men. The huts were constructed from sheet iron and known as “Nisson huts.” After the camps had been thoroughly cleaned they made very comfortable quarters. Every precaution had to be taken in this area with lights, as enemy bombing planes were over every favorable night, and, while the entire country was believed to be infested with spies, these camps were, for some reason, never bombed, though offering an excellent target.</p>
+          <p>What was known as phase “B” of training was begun immediately upon arrival in this area. This training was arranged so as to give the Regiment the maximum amount of actual front line experience, and at the same time holding out a sufficient number of troops to complete and occupy the East Poperinghe Line, which line
+<pb id="p12" n="12"/>
+was to be held by Americans should the enemy attack about the middle of July as was expected. For the purpose of carrying on this training the 60th Brigade was attached to the 33rd British Division, commanded by General Penny, and this Regiment feels deeply indebted to the officers and men of this British Division for their never-failing willingness to render every possible assistance to this Regiment.</p>
+          <p>It was necessary, shortly after the Regiment arrived at “Road Camp,” to send the 1st and 3rd Battalions, under command of Major Phillips, back to Recques to complete their firing. The battalions moved by train from Proven to Audriucq, returning the same way, on the 19th of July.</p>
+          <p>Under phase “B” of training each battalion would spend eight days in “Road Camp,” eight days in the “Blue” or East Poperinghe Line, and eight days in the front system. During the period of eight days in the front system, for two days and nights the men were distributed among the British troops, two days and nights platoons were distributed among the British, two days and nights companies were distributed the same way, and the last two days and nights the sector was taken over by the battalion. The reserve and support battalions were used to complete the East and West Poperinghe Systems. The entire plan was carried out successfully. The 2nd, 1st, and 3rd Battalions, in order named, were sent through the course, beginning the nights of the 16th and 17th of July. While holding the “Blue Line,” momentarily expecting an attack, one of the battalions was aroused in the early hours by the bursting of grenades. Every one was “turned out” quickly, expecting to find the enemy coming through the wire, only to learn one Private Ball, having become weary on a lonely post, had gathered together a quantity of grenades, and for his own amusement was putting down, as he termed it, a “hand gunnade barrage.”</p>
+          <p>Troops were moved into the forward area by marching, guides being furnished by the British Units; when the tour was completed, the battalion was entrained on a light railway near Ypres, detraining at Remy Siding, two miles south of Poperinghe and marching to “Road Camp.” During this phase of training the Machine Gun Company was under the direction of the Division Machine Gun Officer, and was attached for training to the British Machine Gun Battalion. The Trench Mortar Battery was attached, one team at a time, to the 19th and 98th T. M. B.'s. The 37-mm. Platoon, there is no similar unit in the British Army, was attached, from August 7th to 11th, to the 33rd British Machine Gun Corps. The Pioneers was attached, for nearly a month, to the 18th Middlesex Pioneer Regiment, and took part with this Regiment in the consolidation of Scottish Woods, which had been taken by the British. The Signal Platoon, which had been reinforced by a platoon from the 105th Field Signal Battalion, under command of Lieutenant
+<pb id="p13" n="13"/>
+Workman, was divided between the battalions and trained with the battalion. The Sanitary Detachments were with their respective battalions. The Band was not permitted to go forward, musicians are too hard to replace, and of too great value in maintaining the morale of the men. The Supply Detachments of each battalion went as far forward as possible each night with food and water, and at designated points they were met by carrying parties from each platoon or company. During this phase of training units in the line were not permitted to participate in trench raids, but were permitted and encouraged to actively patrol No Man's Land at all times. Several successful skirmishes were had with the enemy, who tried on several occasions to rush the outpost line, but no prisoners were lost and none were taken.</p>
+          <p>An interesting event to American troops, while at “Road Camp,” was an inspection by King George. His coming was a profound secret, known only to a few, but the “underground route” soon spread the news. Everything was “shined up.” The men who were not to be inspected lined the road so as to have a glimpse of His Majesty. The troops were formed without arms, such being the custom, but the men believed the British were afraid some of them would take a “pot shot” at their ruler. At the time appointed a long line of motors drove up, and from one flying a miniature “Royal Standard” the King descended. Accompanied by a galaxy of British officers, the Division and Brigade commanders of the 30th Division, and the regimental commanders, who joined the party as it passed in front of the officers of the Division, the King quickly inspected the front rank of the troops in formation. It was all over in a few minutes—he came, he saw, and he departed amid the cheers of the troops.</p>
+          <p>Another memorable incident was a visit by Elsie Janis, who “put on” her “show” at Watou. Unfortunately two battalions were in the line—so only a small part of the Regiment were fortunate enough to see this “regular fellow,” who was the only entertainer not overlooking the existence of this Regiment from June to November. Those who witnessed the performance will long remember it as the only bit of cheer brought to the Regiment when it was most needed.</p>
+          <p>During this period Major-General E. M. Lewis, who had commanded the Infantry Brigade of the 2nd Division, assumed command of the Division. General Faison returned to the Brigade and Colonel Minor to the Regiment. Lieutenant-Colonel McGhee was transferred to the port of Calais. Major Phillips went to the Claims Department, Captains Mobley and Fuller to the Service of Supply, Captain Walter Clark, Jr., to the Line School, and afterwards to the Staff College. Captain Newby, Lieutenants Stegall, Gray, and McRae were returned in a higher grade to the States to assist in
+<pb id="p14" n="14"/>
+training a new Division. Captain S. P. Boddie was put in command of 3rd Battalion, and the other vacancies were filled by the senior officer with the Company.</p>
+        </div2>
+        <div2 type="chapter">
+          <head>CHAPTER V</head>
+          <p>The training of the Division was finished. It was now ready to fight alone—so arrangements were made to take over the “Canal Sector” of the Ypres Salient, or simply “The Salient,” as it is commonly called, from the 33rd British Division. This sector extended from Zillebeke Lake, which had at one time been the chief water supply for the ancient City of Ypres, but was now empty of water, and located just a little northeast of Lille Gate; hence southeast for 2,400 meters to the vicinity of the City of Voormezeele. The ground was very low, easily flooded, and the water so near the surface that each shell hole became a little pool. All of the high ground, Observatory Ridge, Passchendaele Ridge, and the famous Mont Kimmel, was held by the enemy. These points of observation enabled the enemy to detect any movement within the sector, and, as a result, daylight movement was of necessity reduced to a minimum, for even small parties would provoke instant and heavy shelling. The Salient was so deep and so narrow it was subjected to shell-fire from front, flanks, and rear. Oftentimes the men in the forward systems believed they were being shelled by their own artillery, when as a matter of fact the shells were from enemy guns on our right and rear.</p>
+          <p>The entire sector is a ghastly monument to the tenacity and courage of the British soldiers. For four long years they held it against bitter attacks by a determined enemy; to-day it is consecrated ground made sacred by the bodies of hundreds of thousands of Britain's finest sons; and the few Americans who lie “where poppies bloom” died not for humanity alone, for in dying they brought closer the bonds of blood which unite the two great nations. Knowing its history it seemed a grave responsibility for new and untried troops, though it was an honor to be considered worthy of the trust.</p>
+          <p>The relief was to be made on the night of the 17-18 of August. The 60th Brigade relieving the 33rd British Division, the 59th Brigade being in reserve. This Regiment took over from the 16th King's Royal Rifle Corps the 2nd Worcestershires, the 9th Highland Light Infantry, the Yorshire Dragoons, and the 100th Trench Mortar Battery, all of the 100th Brigade British, commanded by Brigadier-General Baird, and, on the left of the sector, the 119th Infantry taking over the right of the sector. On the afternoon of the 16th the Regiment marched from “Road and Ball Camps,” the 1st and 2nd Battalions occupying what is known as the “Yellow Line,” and the 3rd Battalion occupying the “Blue
+<pb id="p15" n="15"/>
+Line.” Both of these lines were reserve lines. Advance parties had been sent forward to familiarize themselves with the sector, and to make any detailed arrangements necessary for the relief. On the evening of the 17th the 1st and 2nd Battalions moved forward from the “Yellow Line”—the 3rd Battalion occupying the vacated position. British guides met the relieving troops at Vlamertinghe Mill at 7:15 P. M.; at 9:00 P. M. Regimental Headquarters closed at Chateau Elizabeth, near Poperinghe, and reopened a short while after at “Pulse Farm.” The night was frightfully dark, and it would have been no surprise if the relief had not been completed that night, but, thanks to careful arrangements, 1:00 A. M. saw the last of the British depart. The “Bloody Salient,” so long British, was now American in part.</p>
+          <p>The 1st Battalion was on the right—headquarters at Belgian Battery Corner; 2nd Battalion on the left—headquarters near Kruistraat; both battalions with one company in front and outpost line—one company in support and two companies in reserve. This disposition was later changed to the one shown on map. The 3rd Battalion, as part of the Brigade Reserve, in “Yellow Line,” with headquarters at Erie Farm. The Trench Mortars and observers took over the positions held by the British. The Pioneers and Signals were apportioned between the battalions. The Machine Gun Company relieved the British Machine Gun Company under the direction of the Divisional Machine Gun Officer.</p>
+          <p>The policy of the Regiment was to be one of aggression. Supremacy in No Man's Land was to be secured and held. To this end the entire front was covered with strong patrols each night. No prisoners had been taken for quite a number of weeks, in spite of every effort, and as a result no one knew exactly the condition in front of the Regiment. The enemy system of defense was one of machine gun outpost, which were shifted every night, and a few fixed positions fortified and strongly held. The defense of the sector was based on two contingencies: First, in case an attack was expected; second, in case of a surprise attack. Should an attack be expected all of the troops were to be withdrawn from the front system to the support lines, with the exception of certain strong points or centers of resistance such as “Bedford House” and “Swan Chateau.” These centers were to hold on until counter attacks could be organized and launched from the support line. Should the attack be in the nature of surprise each line was to be held until every man was killed. The British Artillery, covering the front, was active at all times, shelling the enemy back-areas and engaged in counter battery work both day and night.</p>
+          <p>Beyond skirmishes between patrols and outpost everything in the sector was normal. On the 20th the troops were withdrawn from the outpost system to enable the heavy artillery to put down a destructive fire on certain strong positions of the enemy which
+<pb id="p16" n="16"/>
+were uncomfortably near the line. Airplane photos, taken after the shelling, revealed considerable damage. The lines were reoccupied without opposition. On the night of August 22-23 the 3rd Battalion relieved the 1st Battalion—the latter going to the “Yellow Line.”</p>
+          <p>Shortly after the 3rd Battalion took over they sent in the first prisoner captured by the Division—a Chinaman, and from the excitement produced at Army Headquarters one would have thought the Chinese Army had been identified on the Western Front. No information could be obtained, as his English vocabulary was limited to “Yes” and “Calais,” so he was sent to the rear accompanied by the following note from the Battalion Commander: “Here is a Chinaman, captured near Post No. 5. He is either on leave or A. W. O. L. In either case he picked a damn bad place to spend it. BODDIE.”</p>
+          <p>On the night of August 28-29 the 1st Battalion relieved the 2nd Battalion—the latter moving to the position vacated by the 1st Battalion.</p>
+          <p>On the night of August 26th a cloud gas attack was made on the front of this Regiment. The attack was handled by the 105th Engineer Regiment. This Regiment furnished 400 men to assist. 2,520 cylinders of gas, phosgene, and chlorine on nine trains of seven three-ton truck each were conveyed by Light Railway to Trois Rois Spur. From here the cars were pushed by hand to positions just behind the outpost line. All troops were withdrawn from the outpost line. At 3:00 A. M., with the wind blowing about four miles per hour directly towards the enemy lines, the gas was released simultaneously from all cylinders. The enemy immediately sent up hundreds of lights of every description and opened fire with machine guns over the entire front. These latter gradually died out as the gas cloud rolled over them. It was a beautiful sight and a successful attack, but prisoners taken later on stated there were no casualties beyond a few horses. The outpost line was reoccupied the following night.</p>
+          <p>All arrangements had been completed for the relief of this Regiment by the 117th Infantry on the night of September 1-2, but, on account of increased activity on this front, the relief was cancelled. On August 31st the enemy was reported as withdrawing on the front of the II British Corps. All troops forming a part of this corps were directed to establish touch with the enemy at once and ascertain if this report was true. Two strong combat patrols were sent over about the middle of the day from each battalion. They were ordered to proceed as far as Middlesex Road, and if the enemy was not in strength to establish a new outpost line along that road; but, most important of all, prisoners for identification and information were desired. The enemy was developed in strength along the entire front so the patrols returned with few casualties to
+<pb id="p17" n="17"/>
+the original lines. One of the patrols from the 1st Battalion, under command of Lieutenant Boyd, secured 14 prisoners—the first taken by the Regiment. These prisoners furnished a great deal of valuable information and identified the unit on the front.</p>
+          <p>On the morning of September 1st an attack was made by the Second British Army. The 1st and 3rd Battalions, this Regiment, was ordered to push forward 100 to 1,000 yards, establishing a new line from Lock No. 8 on Canal, running north of Lankhof Farm to Zillebeke Lake. The principal objective was Lankhof Farm, a strongly fortified position surrounded by a moat. The fighting was very bitter, but, with the coöperation of the artillery, who maintained close liaison with the commanding officer of the 1st Battalion, the new line was taken and consolidated, for the consolidation troops were sent up from the 2nd Battalion and from the engineers. The 119th Infantry made a successful advance on the right, taking Voormezeele.</p>
+          <p>On the night of September 4-5 the Regiment was relieved by the 105th and part of the 104th British Brigades. On the completion of the relief the Regiment proceeded by marching to Dirty Bucket Camp.</p>
+          <p>While in the line the trench mortars fired from 100 to 200 projectiles daily on known and suspected enemy positions, provoking prompt and heavy retaliation, much to the disgust of the infantry, who have no love for trench mortars.</p>
+          <p>In advance of September 1-2 emplacements were established well forward and covered the consolidation of the new line. The 37-mms. were kept in reserve, but on the day of the advance two guns were sent forward in command of Lieutenant Lowry, but did not become engaged. The Pioneers were divided between the battalions and aided in the consolidation. Prior to that time they were engaged in the construction of dugouts and shelters. The Signals in this and future operations maintained excellent communications at all times. The Regimental Machine Gun Company covered the front of the Regiment for the first eight days—<sic corr="harassing">harrassing</sic> the enemy lines at night. The day of the advance two guns were ordered forward from the rear to cover consolidation. The Intelligence Service, both battalion and regimental, functioned well at all times.</p>
+        </div2>
+        <div2 type="chapter">
+          <head>CHAPTER VI</head>
+          <p>September 5th and 6th were devoted to cleaning up. The entire Regiment was deloused and bathed at “Kill Bug Station and Hop Factory,” each man receiving a clean suit of underwear. After a period in the line the little bugs were plentiful.</p>
+          <p>On September 3rd, prior to the relief, orders had been issued for the transfer of this Regiment as part of the Division to the 3rd British Army. This Army was holding the sector in the vicinity of Arras and was commanded by General Byng.</p>
+          <pb id="p18" n="18"/>
+          <p>The movement began on the evening of September the 6th, continued all night, and was completed on the morning of the 7th. Troops and transports marched from Dirty Bucket Camp to Proven where they entrained. It was a distinction to have been part of the first American Division in Belgium; it was a privilege to have held and fought in the Ypres Salient, which with Verdun is the most famous spot in the World-War, but it was with a decided feeling of relief the salient was turned back to the British and there were no regrets, save the 1st Battalion who have failed to find “The Lady of Ypres,” when Flanders' mud was left behind. The journey by train lasted twelve hours—troops detraining at Wavrans west of St. Pol, and marching to a billeting area east of St. Pol; Regimental Headquarters, Headquarters and Machine Gun Companies to Herlincourt, 1st Battalion to Petit Houvin, 2nd Battalion to Framecourt, and 3rd Battalion to Croisette. On detraining at Wavrans the 1st Battalion established a record by unloading all troops and transportation in nineteen minutes.</p>
+          <p>This was by far the most beautiful and comfortable area in which the Regiment was ever billeted. Here an opportunity was given to apply in training what had been learned by experience. Fortunately there was a tank school in this area, so all ranks had an opportunity of seeing how troops should work in connection with heavy tanks—Companies “A,” “E,” and “K” giving a practical demonstration. Such an opportunity as this was rarely had by American troops, and the knowledge gained here was doubtless of great value in future operations when tanks were used.</p>
+          <p>On the 17th and 18th of September the Division was moved to the Puchevillers Area, near Albert. This Regiment entrained on the 17th at Petit Houvin—the transport going by road, and staging for the night of the 17th at Bouque-Maison, and detrained about six hours later near Acheux, Regimental Headquarters—Headquarters and Machine Gun Companies and 1st Battalion going to Acheux, 2nd and 3rd Battalions to Forceville, and the Supply Company to Rosel.</p>
+          <p>This area, until a few weeks before the arrival of the Regiment, had been under shell fire. A few of the inhabitants were just beginning to return. The entire country was filled with wire entanglements, trenches, and unsalvaged ammunitions of every description. A perfect training ground; no crops, no houses, no hedges to bother about, trenches dug, wire up, and ammunition to be had on every hand. All worked hard to profit by this wonderful opportunity, and the training was concluded in this area by a regimental problem on the 23rd of September, which, strange to say, fitted nearly exactly the big attack the Regiment was to take part in on the 29th of September.</p>
+          <p>While in these two areas the following changes were made in the officer personnel: Captains Fuller, Price, and Page were transferred</p>
+          <pb id="p19" n="19"/>
+          <p>
+            <figure id="ill2" entity="foldout2">
+              <p>[Map]</p>
+            </figure>
+          </p>
+          <p>to the Service of Supply, 
+Captain 
+Byrd was assigned to “G” Company, Captain St. John was assigned to “M” Company, Captain Mays was assigned to “D” Company, Captain Chapman, the Regiment's only Regular Army officer, reported and was assigned to “F” Company. Those who knew Captain Chapman while at Camp Sevier felt the Regiment was to be congratulated on his assignment, and it was the source of genuine regret when he was killed in the first action with the Regiment. Major Scott was promoted to Lieutenant-Colonel, but requested permission to remain in command of his battalion until after the approaching operation.</p>
+        </div2>
+        <div2 type="chapter">
+          <head>CHAPTER VII</head>
+          <p>On the night of September 23, 1918, the Division was transferred to the 4th British Army, commanded by General Rawlinson. No one knew what was to take place, but each man in the Regiment felt the time had come for the Regiment to prove its worth. The Regiment was formed in columns of two's on the road between Acheux and Forceville. Lorry after lorry rolled into place, and at 8:00 P. M. all troops were embussed and ready to move into the night. All night long the movement continued through Albert, Peronne, Doingt, and along the marshy Somme. With the sky growing lighter in the east the Regiment debussed at Cartigny and marched to Tincourt. Once more the flash of guns and the burst of “Very lights” could be seen. The same day the Regiment was joined by a detail of Australian officers and men, who were to give whatever assistance the Regiment might need; and from these Australians more was learned in the short period they were with the Regiment, particularly as regards the rationing of troops in the line, than in the entire period of training. In the afternoon the Regiment marched to Hervilly. Regimental Headquarters was in the side of a sunken road. The troops were scattered wherever room could be found, the mass of artillery, infantry, and cavalry filling the entire country.</p>
+          <p>The Regiment learned that in front of it lay the hitherto impregnable positions of the Hindenburg Line, against which many fruitless attacks had been made; that the British Army had been given the task of fighting the only decisive battle in the World-War; that the place of honor in this attack between Cambria and St. Quentin had been given the 4th British Army; that the 30th Division, as part of the 4th British Army, would attack in the center with the 46th British on the right and the 27th American on the left; that the 119th and 120th Infantry Regiments had been selected to do the job, with the 117th Infantry to follow and attack to the right after crossing the Canal, and 118th Infantry as Divisional Reserve.</p>
+          <pb id="p20" n="20"/>
+          <p>This Regiment's sector of the Hindenburg System consisted: First, of three rows of heavy barbed wire, woven so thick as to resemble a mass of vines and briars intermingled—each row was from thirty to forty feet in depth, and to which the artillery fire did but little damage; second, three rows of the Hindenburg trenches, on which four years of work had been spent; third, the backbone of the entire system, Bellicourt, the St. Quentin Canal Tunnel. This Canal passed for a distance of 6,000 yards underground from Le Catlet on the north to Recquval on the south. It had been built by the Great Napoleon, and in some places was 193 feet underground. The Germans filled the Canal with barges, lighted it with electric lights, and fitted it with dressing stations. On the barges accommodations were provided for a division of troops, where they could rest secure from any shell-fire. The end of the tunnel had been closed with ferro-concrete walls with openings left for machine gun. To the trench system and to the town of Bellicourt, overhead, ran concrete tunnels through which troops could move to reinforce the front line or to occupy the prepared positions in Bellicourt; third, the Catlet-Nauroy Line, a supporting system; and, fourth, the village of Nauroy, which had been prepared for defense. Over the entire area were machine guns without number, not only the probable approaches, but every inch of front was covered by one or more guns. The Germans believed the position could not be taken, and even when lost prisoners would not believe it to be possible, and laughed at those who would tell them.</p>
+          <p>As fast as information was secured it was passed on to unit commanders in conference. Later on this same information was published in memorandums and distributed down to and including platoon commanders. Some of the most interesting of these memorandums, together with the attack order, are given in the sequence issued.</p>
+          <div3 type="section">
+            <head>LIQA <lb/> (Code name of Regiment)</head>
+            <opener>
+              <dateline>September 26, 1918.</dateline>
+            </opener>
+            <p>MEMORANDUM:</p>
+            <p>1. “Mopping up” parties, as soon as designated, will submit a plan for mopping up areas allotted to them. They will provide themselves with a plentiful supply of phosphorus bombs in addition to hand grenades.</p>
+            <p>2. Battalion Commanders will provide themselves with signal rockets, size No. 32, <hi rend="italics">white</hi> over <hi rend="italics">white</hi> over <hi rend="italics">white.</hi> These will be fired when objective is reached.</p>
+            <p>3. Message carrying rockets will be drawn.</p>
+            <p>4. Metal disk will be fastened on the inside of gas mask, on flap, to be shown on call from aircraft. Only men in the front line should show same. All ranks will be provided with this signal.</p>
+            <p>
+              <figure id="ill3" entity="foldout3">
+                <p>[Map]</p>
+              </figure>
+            </p>
+            <pb id="p21" n="21"/>
+            <p>5. Red flares will be drawn for attacking troops which will be lit to indicate the new line. Four or five should be lighted in a group, not more than 30 yards apart, and only on signal.</p>
+            <p>6. Men will be cautioned to keep as close to the barrage as possible—possibly within 25 yards of tanks—as only by keeping close to barrage can casualties be avoided.</p>
+            <p>7. See that signal lamps are ready, and that message maps are on hand before going over.</p>
+            <p>8. <hi rend="italics">Tanks:</hi> Helmet stuck on bayonet attracts attention of tank, and it should be pointed in direction of machine gun or nest. Tank will stop to let you know he has seen signal. <hi rend="italics">Green</hi> and <hi rend="italics">white</hi> flag from tank shows that enemy has been cleaned up and advance may continue. <hi rend="italics">Yellow</hi> and <hi rend="italics">red</hi> flag indicates that tank is in trouble—advance will continue without tank. Tanks coming out of action fly <hi rend="italics">red, white</hi> and <hi rend="italics">blue</hi> flag. Five (5) men will be selected from each battalion to go with tanks. Good men will be selected, and they will report the day before attack. Some Infantry may be required to proceed tanks to look out for mines—select men in case they should be called for. Regimental and Company stretcher bearers will take care of tank wounded. Send message by D. R. to Tank Commander about same. All men will be cautioned to look out for tanks so as to avoid being run over. Infantry will assist tanks by rushing strong points.</p>
+            <p>9. Caution men again about Boche traps, and, if necessary, use Boche to open doors of dugouts and to go in first.</p>
+            <p>10. Prisoners will be sent to Battalion Headquarters. Officers and N. C. O.'s will be promptly searched and separated from other ranks. A very few men can handle a large number of Boche prisoners.</p>
+            <p>11. Two or three men will be designated on the flanks of each battalion who will be responsible for direction. These men will carry prismatic compasses.</p>
+            <p>12. Packs will probably be put in dumps. Each man going over only carries rations and slicker. These packs should be properly made and tagged.</p>
+            <p>13. Each unit commander will keep in touch with his next higher commander.</p>
+            <p>14. Impress upon all men that speed is essential to success. Clean up as the advance is made, and leave an open road for the Australian coming behind.</p>
+            <closer>
+              <signed>JOHN O. WALKER, <lb/> <hi rend="italics">Capt., Operating Officer, for <lb/> Commanding Officer.</hi></signed>
+            </closer>
+          </div3>
+          <div3 type="section">
+            <pb id="p22" n="22"/>
+            <head>LIQA</head>
+            <opener>
+              <dateline>September 27, 1918.</dateline>
+            </opener>
+            <p>SECRET:</p>
+            <p>FIELD ORDER NO. 30.</p>
+            <p>MAPS 62-B N. W., 1/20,000, <lb/> 62-C N. E., 1/20,000.</p>
+            <p>1. INFORMATION:</p>
+            <p>(a) “Zed” day and “H” hour this Regiment will attack the enemy's positions in the Hindenburg Line. The 46th British Division will attack on our right; the 119th Infantry will attack on our left.</p>
+            <p>(b) Attack will be made after a preliminary bombardment under a creeping barrage, and supported by tanks.</p>
+            <p>(c) This Regiment will be followed by the 117th Infantry, who will attack south and east of the Canal.</p>
+            <p>(d) The 117th Infantry will be followed by the 5th Australian Division, which will pass through this Regiment when final objective has been taken, and go forward to their objective.</p>
+            <p>2. PLAN:</p>
+            <p>(a) This Regiment will attack with the 3rd Battalion on the right, 2nd Battalion on the left, and 1st Battalion in support.</p>
+            <p>(b) <hi rend="italics">Regimental Boundaries:</hi></p>
+            <p>Southern limit—G 20 b 4.4 to G 12 d 0.0.</p>
+            <p>Northern limit—From G 8 c central, along Sentinel Ridge and Sunken Road through center of Bellicourt to railroad G 4 d 0.3, along railroad to Sunken Road G 5 d 7.6, east to objective.</p>
+            <p>(c) <hi rend="italics">Inter-Battalion Boundary:</hi> From G 14 c 6.2, along Ridge to G 10 c 5.6 on Canal Tunnel, up Riqueval Ravine to Sunken Road, and east along trench to objective.</p>
+            <p>(d) <hi rend="italics">Regimental Objective:</hi> G 6 a 6.0 to G 6 d 4.4 to G 12 b 5.5 to G 12 b 0.0 to G 12 d 0.0.</p>
+            <p>(e) Line taken will not be consolidated.</p>
+            <p>3. DISPOSITIONS:</p>
+            <p>(a) <hi rend="italics">3rd Battalion:</hi> 3rd Battalion will attack with two Companies in the front line and two in support. A Company from the 117th Infantry will attack on the right of the 3rd Battalion as far as Canal Bank. This Company will be under the command of the C. O. 3rd Battalion until the attack is launched. This Company will be supported by a Company of M. G.'s.</p>
+            <p><hi rend="italics">2nd Battalion:</hi> 2nd Battalion will attack on the left with two Companies in the front line and two Companies in support.</p>
+            <p><hi rend="italics">1st Battalion:</hi> 1st Battalion will detail one Company to “mop up” Bellicourt, one Company to “mop up” trenches in the Hindenburg Line, one-half Company to seize and hold the southern exit of the Canal Tunnel, and remainder of this Company to seize and hold exits on Tunnel. Units
+<pb id="p23" n="23"/>
+to seize and hold all known exits from Canal will be detailed at once, and will go straight to objective. The remaining Company will be disposed of by the Battalion Commander. All troops not otherwise used, and can be spared from mopping up trenches, will assist in mopping up Bellicourt.</p>
+            <p>(b) Attacking Battalions will attack with first wave in skirmish lines, with 30 yards between lines. The second wave of the Attacking Battalions will be in combat groups, 30 yards in rear of first wave. The Support Companies of Attacking Battalions will follow second wave at 50 yards. Support Companies will be in combat groups. Support Battalion will follow Support Companies of Attacking Battalions at 50 yards, and will be in combat groups.</p>
+            <p>(c) <hi rend="italics">Special Units:</hi></p>
+            <p>(1) <hi rend="italics">Trench Mortars:</hi> Two T. M.'s will report to each battalion commander on Zed minus one day. Remaining two T. M.'s will go forward with the first wave, and are assigned the special task of covering the southern exist of Canal Tunnel.</p>
+            <p>(2) <hi rend="italics">Machine Guns:</hi> Two M. G.'s will report on Zed minus one day to each battalion commander for the purpose of protecting his flanks. Two M. G.'s will report to left battalion commander, and will move forward between the Attacking Battalions. The remaining M. G.'s, under the command of the M. G. Officer, will move forward in the rear of the Support Battalion, and will be used to replace guns knocked out or on special targets.</p>
+            <p>(3) <hi rend="italics">37-mm. Guns:</hi> One 37-mm. gun will report on Zed minus one day to each battalion commander.</p>
+            <p>(4) <hi rend="italics">Pioneer Platoon:</hi> Pioneer Platoon will follow Support Battalion, and will place sign-boards indicating routes forward to Battalion Head-quarters. They will also prepare crossings necessary to get transports forward. When Support Battalion halts at their objective they will push forward and mark routes to Attacking Battalion Headquarters.</p>
+            <p>(d) Jumping-off line will be tapes on Zed minus one night. Troops will be on tape at H, minus one hour. Covering parties will be withdrawn at H, minus 15 minutes. Tanks should be in place at H, minus 10 minutes, and troops will immediately close up on tanks. If tanks fail to arrive when barrage is put down, troops will close up to barrage.</p>
+            <p>(e) Creeping barrage will lift 100 yards every 3 minutes until Canal Tunnel is passed. Barrage will halt 15 minutes 500 yards east of Canal Tunnel. When advance is resumed creeping barrage will move at rate of 100 yards in 4 minutes, until final objective is reached. Beyond final objective it will be put down for a period.</p>
+            <p>(f) <hi rend="italics">Tanks:</hi> Instructions previously given in regard to tanks will be followed. Guides will be furnished each tank to bring them to their position on the tape.</p>
+            <p>4. (a) Liaison will be from right to left. All units will send liaison agents to the unit on their left. Each Attacking Battalion will send one
+<pb id="p24" n="24"/>
+officer to Regimental Headquarters on Zed minus one day, for liaison purposes. Each battalion will send 7 men to Regimental Headquarters on Zed minus one day, as runners.</p>
+            <p>(b) An advance report center will be established in dugouts G 14 d 4.6, where wire communication will be found. Final objective taken, center of information will be found in Sunken Road near G 11 a 1.1.</p>
+            <p>(c) Liaison with aircraft as previously instructed.</p>
+            <p>(d) Attacking troops will be equipped according to instructions previously issued.</p>
+            <p>(e) Troops will be especially warned to keep out of dugouts until they have been investigated by special troops.</p>
+            <p>(f) Guides to maintain direction will be on the right, left, and center of each Attacking Battalion. Guides will be cautioned that in smoke screen flaming shells will be fired to indicate position of barrage, but this can not be relied upon. Compasses must be used. Compasses will be checked on Zed minus one day.</p>
+            <p>(g) Administrative instructions follow:</p>
+            <p>5. Regimental Headquarters at L 23 b 7.6, moving to G 14 d 4.6 final objective taken. Will move forward to Hindenburg Line when Bellicourt has been mopped up.</p>
+            <closer>
+              <signed>JOHN O. WALKER, <lb/> <hi rend="italics">Capt., Operation Officer, for <lb/> Commanding Officer.</hi></signed>
+            </closer>
+          </div3>
+          <div3 type="section">
+            <head>LIQA</head>
+            <opener>
+              <dateline>September 27, 1918.</dateline>
+            </opener>
+            <p>MEMORANDUM:</p>
+            <p>1. Moppers up will take care of prisoners, forward battalions to send no one back.</p>
+            <p>2. Notify men about sound of machine bullets in barrage. Also caution them that shells, apparently coming from the rear, are long range German shells from the flanks.</p>
+            <p>3. Don't call for S. O. S. barrage 15 minutes before zero hour—you won't get it. Zero hour not to be written by any one.</p>
+            <p>4. All officers and N. C. O.'s will get all the rest possible on the 28th. All men must keep out of sight during the day. Scatter troops as much as possible.</p>
+            <p>5. Tape line will be occupied by 4:30 A. M. on zero day. Covering detachments will be withdrawn 15 minutes before zero.</p>
+            <p>6. One officer from each battalion to join tanks about 2,500 yards in rear and guide them to tape line or jumping off place. Tank should reach jumping off place about 10 minutes before zero hour.</p>
+            <p>7. Barrage will advance at rate of 3 minutes per 100 yards, until after Canal is crossed, where it will halt 500 yards away for 15 minutes. When movement is resumed advance will be at rate of 100 yards in 4 minutes.
+<pb id="p25" n="25"/>
+Attacking Battalions must not forget this 500 yards is to be closed up. It will take 3 hours and 34 minutes for barrage to reach final objective.</p>
+            <p>8. Don't mistake heavy counter battery work for barrage.</p>
+            <p>9. On day before attack watches will be synchronized three times, and officers required to check watches so they will know exact time of zero hour.</p>
+            <p>10. Men must not leave holes and dugouts they are assigned to guard, except on orders from an officer. These details are to be made beforehand.</p>
+            <p>11. Attacking Battalions are responsible for mopping up beyond Canal.</p>
+            <p>12. Entire town of Bellicourt will be <hi rend="italics">taken</hi> and mopped up by one Company from this Regiment. Details will be made by mopping up battalion to seize and hold mouth of Tunnel and all exits. When Company mopping up trenches has finished its job, located and left guards at each exit, they will join Company in town and help out there. Detail for mouth of Tunnel should consist one-half Company, Lewis guns, and two machine guns. Two trench mortars will also be used.</p>
+            <p>13. Moppers up must have plenty of phosphorus grenades.</p>
+            <p>14. Remind men after tanks stop to follow barrage, otherwise keep in rear of tanks. Infantry will be ready to drop in trench as soon as tanks cross.</p>
+            <p>15. Leading elements are to go through and around obstacles, leaving cleaning up to rear parties.</p>
+            <p>16. Americans—keep off of roads leading to rear; they must be kept open for Australian Artillery. When artillery is captured a guard must be placed on guns so sights can not be removed. We want the guns to fire on the Germans.</p>
+            <p>17. Scouts will be placed in front of tanks to look out for mines and traps up to Canal.</p>
+            <p>18. If artillery moves forward, nearest battalion commander will furnish guard of one platoon for protection, if called on by the artillery commander.</p>
+            <p>19. Water bottles to every other man. Caution men to get water bottles, ammunition, and food from the dead.</p>
+            <p>20. Get prisoners out in groups as rapidly as possible.</p>
+            <p>21. Put guard on any aircraft which may come down.</p>
+            <div4 type="section">
+              <head>SUMMARY</head>
+              <p>(a) Assaulting troops keep as close as possible to barrage.</p>
+              <p>(b) Mopping up should be complete.</p>
+              <p>(c) Keep information coming to the rear promptly and accurately. Time of event should be in body of message.</p>
+              <p>(d) All men will be given all information in regard to the attack at once.</p>
+              <closer>
+                <signed>JOHN O. WALKER, <lb/> <hi rend="italics">Capt., Operation Officer, for <lb/> Commanding Officer.</hi></signed>
+              </closer>
+            </div4>
+          </div3>
+          <div3 type="section">
+            <pb id="p26" n="26"/>
+            <head>LIQA</head>
+            <opener>
+              <dateline>September 28, 1918.</dateline>
+            </opener>
+            <p>MEMORANDUM: To Battalion and Separate Unit Commanders.</p>
+            <p>1. Zero hour will be ——. When your units are lined up and in place one hour before zero hour, notify these Headquarters by code word “Pork.”</p>
+            <p>2. The 27th Division failed in its mission yesterday, and will fight its way to its jumping off place to-morrow morning.</p>
+            <p>3. The barrage will fall at the designated place at zero hour.</p>
+            <p>4. Time table is changed as follows, and will remain on the original barrage line 4 minutes instead of 3:</p>
+            <p>Each successive leap will be 4 minutes. It will halt for 15 minutes on line previously designated.</p>
+            <p>Change your time tables accordingly.</p>
+            <p>5. The commanding officer of 3rd Battalion will notify attached units as to location of clearing stations.</p>
+            <p>By order of Colonel Minor.</p>
+            <closer>
+              <signed>JOHN O. WALKER, <lb/> <hi rend="italics">Capt., Operation Officer.</hi></signed>
+            </closer>
+          </div3>
+        </div2>
+        <div2 type="subchapter">
+          <p>The change in the rate of advance by the barrage, one minute slower in each 100 yards up to the Canal, required 4 hours instead of 3 hours and 34 minutes for it to cross final objective.</p>
+          <p>Prior to the attack the gallant Captain Dixon, who was instantly killed while leading his men after having been previously wounded three times, called the men of his company together, and they solemnly pledged themselves to carry through to the objective, though only one man be left. Captain Leonard counted his eggs and entrusted them to “Peter,” who so far forgot the war as to chase crippled quail in the midst of the enemy counter barrage. Major Graham, who in this and future actions called loudly and successfully for hot coffee at each halt, saw to his coffee and his coffee-pot. Mr. Ritter, the “Y” man, collected thousands of francs from the men, either to keep until they came out of the line or to send to some one at home. Each officer and man was intent on making the job a success, but each one could not help but wonder if the morrow spelt “safety,” “blighty,” or “gone west” for him.</p>
+          <p>The attack was to be launched at 5:50 A. M. on the morning of the 29th, so on the night of the 27-28 this Regiment relieved the 118th Infantry in the right of the Divisional Sector. For 48 hours prior to the attack the enemy defenses were under a continuous bombardment. Prisoners taken later stated the shell-fire was so terrible it was impossible to bring up food and supplies. Prisoners
+<pb id="p27" n="27"/>
+also stated that the attack was expected, as a British plane with a barrage map had been shot down, but the zero hour was not known.</p>
+          <p>At 4:30 A. M. all troops were reported on the tape—the 3rd Battalion on the right, the 2nd Battalion on the left, and the 1st Battalion in support. All troops were moved away from the trenches, as the enemy counter barrage was expected to come down promptly on the trench system, the tanks lumbered into position—everything was ready. Promptly at 5:50 A. M. the barrage from fourteen brigades of artillery, in addition to the heavies, came down. To this was added the machine gun barrage of all guns of the three battalions of machine guns. The machine gun barrage started a second ahead of the artillery. The troops who had closed up as close as safety permitted to the barrage shook themselves out as they moved away. All was going well when there settled over the entire area a fog so dense, which, combined with the smoke in the barrage, made it impossible to see more than six yards away. Officers lost all control over their troops. The success of the attack now depended upon the individual, and the advantage of giving each man as much information as possible was clearly seen, for without hesitation the men moved on and on. At 7:25 A. M. the main Hindenburg System had been crossed, and the mopping up battalion was maintaining a constant flow of prisoners to the rear. At 11:30 A. M. Nauroy was occupied, the Regiment was on the objective, and the Australians had passed through. At 11:45 A. M. the cleaning up of Bellicourt was completed. A part of the 117th Infantry crossed the Canal, and attacked to the right and along the east side of the Canal.</p>
+          <p>This Brigade was the first unit on the entire British front to break through the Hindenburg Line; this Regiment was the only unit taking all of its objectives in this great attack <hi rend="italics">on time.</hi> German officers captured, when convinced the line was broken, said in despair, “All is lost—there is nothing between you and the Rhine.” The piles of empty shells at each machine gun emplacement, and the casualty list, testified to the bitterness of the fighting. The Regiment had proven its fighting worth, and had earned the confidence of its allied comrades. The spoils captured were enormous, but were left for salvage, uncounted.</p>
+          <p>After the fight was over the units were assembled in a support position, and all expected the Regiment would pass through the Australians for another attack, but instead of attacking the Division was withdrawn from the line for a few days.</p>
+        </div2>
+        <div2 type="chapter">
+          <pb id="p28" n="28"/>
+          <head>CHAPTER VIII</head>
+          <p>On October the 1st, when the Division was withdrawn from the line, this Regiment moved by marching to the Tincourt Area. On October the 2nd the movement continued, the Regiment marching to Belloy, west of Peronne. This area had been fought over for four years, changing hands time and again; as a result, it was a perfect example of destruction—of many villages nothing remained, no one would have known a house had ever existed but for the signboard marking the site. It was hard to realize that this, the Somme Country, had at one time been the most productive part of France. On October the 5th the Regiment returned to the Tincourt Area, and on October the 6th the movement continued to Villeret.</p>
+          <p>On the night of the 4-5 of October the Division, with the 59th Brigade in line, relieved the 2nd Australian Division. The 59th Brigade, which had an easy time on the 29th, was to attack on the morning of the 8th from the vicinity of Montbrehain. The 27th American Division composed the reserve for the 2nd American Corps. On the afternoon of the 8th of October this Regiment, less the 1st and 2nd Battalions, moved to Joncourt.</p>
+          <p>The 1st and 2nd Battalions were sent forward on the 8th as reserve battalions for the 59th Brigade. Two companies, “A” and “B,” were used in the front line near Premont, and “D” Company was used in the taking and mopping up of Brancourt.</p>
+          <p>On the night of October 8-9 orders were received at 2:00 A. M. for this Regiment to follow the 118th Infantry of the 59th Brigade, holding the general line Premont-Brancourt in an attack to be launched at 5:30 A. M. Three hours and a half is an exceedingly short time in which to prepare orders and distribute them to the troops under the best of conditions. The orders were quickly prepared and distributed to the 3rd Battalion, Machine Gun Company, and Headquarters Company, who were well in hand. Officers, who fortunately had the use of the Brigade Commander's car, left to get in touch with the 1st and 2nd Battalions. At the 59th Brigade Headquarters they were told that they, the 59th Brigade, had not notified the battalions of this Regiment that the command had returned to the 60th Brigade, and, furthermore, they only had time to notify their own units. In spite of the lack of assistance given by this Brigade the battalions were located, and the battalion commanders by almost superhuman effort collected their companies and followed the 118th Infantry—the 2nd Battalion on the right, the 1st Battalion on the left, and the 3rd Battalion in support. In this and in future engagements the 3rd Battalion, in support, was engaged shortly after the attacking battalions went into action. This Regiment was to pass through the 118th Infantry, when it reached its objective, and should have done so about 10:00 A. M.
+<pb id="p29" n="29"/>
+The 118th was held up, however, by machine gun fire from the right, and this Regiment did not pass through and take its objective until 4:00 P. M. The villages of Becquigny and La Haie Meneresse and the Bois De Busigny were taken, and a platoon from the 3rd Battalion was diverted to assist in taking the town of Bohain, where the unit on the right was held up.</p>
+          <p>The Commanding Officer of “G” Company, as usual, went in with sword in one hand and spade in the other—close on his heels came his orderly, Turner, with an S. O. S. rocket, which neither one knew how to use.</p>
+          <p>On the morning of the 10th the advance continued, and after severe fighting the town of Vaux Andigny was taken. This position was enfiladed from the Bellvue Farm on the right, and, as the right of the Regiment was nearly 3,000 yards in the air, the troops were withdrawn a few hundred yards to the western edge of Vaux Andigny. On the morning of the 11th the 118th Infantry, who had come up too late to take care of the right of this Regiment, attacked through this Regiment, but was unable to advance more than 200 yards. On the evening of the 11th the line was established east of Vaux Andigny, and the 2nd and 3rd Battalions, this Regiment, established touch with the 6th British Division on the right. On the night of the 11th this Regiment was relieved by a regiment from the 27th Division and proceeded by marching to Brancourt. On the morning of the 10th Major Boddie was wounded, and Captain Stone took command of the 3rd Battalion.</p>
+          <p>In this and future engagements the Machine Gun Company and the special units were divided between the three battalions, and advanced with them.</p>
+          <p>The country fought over was hilly, with many woods and plenty of hedges, making an ideal country for the effective use of machine guns. The enemy gave up no ground without a fight, and was apparently making a desperate effort to hold the line of the La Selle River.</p>
+        </div2>
+        <div2 type="chapter">
+          <head>CHAPTER IX</head>
+          <p>At Brancourt the men were given as much rest as possible, about the only detail work done was to bury dead horses and Boches. Improvised bathing facilities were made and every one had a bath of a kind.</p>
+          <p>On the night of October 15-16 orders were received for an attack by the Division on the morning of the 17th. The 59th Brigade took over the line in the same place it had been turned over to the 27th Division, and the entire divisional front was the front of this Regiment in the last operation.</p>
+          <p>On the afternoon of the 16th the Regiment moved from Brancourt to a wooded area on west of railroad and west of Becquigny; during the night the woods were shelled by the enemy, and
+<pb id="p30" n="30"/>
+some casualties were inflicted. On the morning of the 17th the Regiment was formed up with the 2nd Battalion on the right, the 1st Battalion on the left, and the 3rd Battalion in support. The 59th Brigade attacked at zero hour behind a creeping barrage, and supported by tanks storming the heights of the La Selle River. This Regiment, following the 118th at 2,000 yards, was to pass through and carry on when they reached their objective, but as the 118th Infantry did not reach their objective this Regiment did not pass through. On the night of the 17th the line held by the 118th Infantry was taken over by this Regiment; the 119th taken over from the 117th Infantry on the right, the 27th Division (American) being on the left of this Regiment. At 5:30 A. M. on the mornings of the 18th and 19th the Regiment attacked successfully, taking the town of Mazinghein, and advancing to heights west of Caillon and overlooking the Sambre Canal. The country fought over was very similar to that in the vicinity of Vaux Andigny, and the desperate resistance of the enemy resulted in but few prisoners being taken—practically all of the enemy having to be killed.</p>
+          <p>One battalion of the 118th Infantry was furnished this Regiment as a reserve, but it never became necessary to use it, so during the entire fighting it followed this Regiment at about 1,000 yards.</p>
+          <p>The Division had now become so depleted in strength it was withdrawn to be refilled and refitted, the line being taken over by the 1st British Division on the night of October 19-29; this Regiment on relief going to St. Souplet; on the 20th the movement continued to Busigny; on the 21st to Nauroy; on the 22nd to Tincourt; and on the 23rd the Regiment entrained at Tincourt, detraining at Heilly and marching to a billeting area about 10 miles north of Amiens. Headquarters 1st and 2nd Battalions going to Montigny, 3rd Battalion and Headquarters and Machine Gun Companies to Brancourt Sur L'Hallue, and Supply Company to Lahoussoye.</p>
+        </div2>
+        <div2 type="chapter">
+          <head>CHAPTER X</head>
+          <p>Shortly after reaching the Montigny area the Regiment received about 300 replacements, these were the first replacements received by the Regiment, also a good many men who had been wounded at Ypres were returned to their organizations.</p>
+          <p>While at Montigny the first and only Regimental Party was held. It was given to the officers of the Regiment by those officers who had been promoted while in France, a great many escaped by being wounded. The only outside officers were the Colonel of the 119th Infantry, the Chief of Staff, and G 1. The Brigade Commander was greatly opposed to the party, expressing the belief it would be nothing but a “caribou wallow.” While it was not known exactly
+<pb id="p31" n="31"/>
+what he meant, it was gathered that a “caribou wallow” was quite a function in the Old Regular Army. The party was a great success, only one casualty, and two missing. It was hoped to have had another, but an opportunity never offered itself, much to the regret of all.</p>
+          <p>Training was started as soon as the men were given a very brief rest, every effort being made to correct errors developed in actual combat. While every man felt the end was not far distant, the Regiment fully expected to jump off at least once more before the collapse came—so the morning of the 11th of November found the Regiment engaged in a problem preparing for an attack the latter part of the week. Just as the problem was about to begin, at 10:00 A. M., a message was received announcing the signing of the Armistice. The troops were told the good news, the problem called off, and a holiday declared.</p>
+          <p>After the Armistice, until the Regiment embarked for home, work was carried on, but now the incentive was lacking, and it became more and more difficult to maintain interest or enthusiasm in doing “impossible problems on impassable roads.”</p>
+          <p>A week after the Armistice the Division was transferred from the British to the American Army in the Le Mans Embarkation Area. This Regiment marched to Corbie where it entrained, detraining at Beaumont and marching to billets; Regimental Headquarters, Headquarters and Supply Companies to Segrie; 3rd Battalion to Vernie, 2nd Battalion to Meseziers, and Machine Gun Company to Asse Le Riboul. The villages of St. Christopher, St. Sabine, and Sille were also used later on. This area was in every respect the most unsatisfactory in which the Regiment was ever billeted.</p>
+          <p>The Division was reviewed and inspected by General Pershing, Commander-in-Chief, on January 21, 1919. A few days later it moved by marching to the Forwarding Camp at Le Mans, stopping for one night en route in the Montbizot area.</p>
+          <p>While in the Montigny area Major Graham was sent home to command new troops as a Lieutenant-Colonel, but his promotion was stopped by the Armistice. Major Comstock was assigned to the Regiment and placed in command of the 2nd Battalion. Captain Leonard, who had been in command of the 1st Battaliion, and Captain Jenkins were promoted to Majors, the latter going to the 3rd Battalion. A new lot of most excellent Lieutenants were also assigned to the Regiment. At Segrie and Forwarding Camp a great many changes were made, many officers going to the Army of Occupation and were replaced by officers from the 3rd Division, most of whom were later sent home with casual troops from Bordeaux. Several officers left to take advantage of the courses offered at British and French Universities. Lieutenant-Colonel Scott, now Colonel Scott, took command of the Regiment—Colonel
+<pb id="p32" n="32"/>
+Minor assuming command of the Brigade. Major McClintock was given the 3rd Battalion and Major Walker the 2nd Battalion.</p>
+          <p>Early in March the Regiment was moved by rail from the Forwarding Camp to the Embarkation Camp at St. Nazaire. This camp was the best in every respect in which this Regiment had been located and was a credit to those in charge. The final decision to land the Division in Charleston instead of New York delayed the sailing, and it was not until the 1st of April that the last of this Regiment cleared for home. The Regiment had been broken into detachments after having been filled to strength, and now every state in the Union was represented, except three, so each one felt when half of the Regiment with the Regimental Commander sailed on U. S. Transport <hi rend="italics">Powhatan</hi> that he was bidding his friends a last farewell. Fortunately two days later the remainder of the Regiment embarked on U. S. Transport <hi rend="italics">Martha Washington,</hi> and the Regiment was together again at Camp Jackson before being mustered out.</p>
+          <p>The voyage over was uneventful. The naval officers and men endeavored to make the return home as pleasant as possible; the troops were landed at Charleston, where they were well taken care of by the Red Cross. An hour after landing the first train pulled out for Camp Jackson, Columbia, South Carolina.</p>
+          <p>On the 16th of April the Regiment paraded in Charlotte, North Carolina. The people of this Carolina city gave the Regiment a royal welcome, and their unstinted hospitality will always be a cherished memory to all ranks.</p>
+          <p>On the 17th practically every man had received his little red chevron and his Honorable Discharge—men who had lived, suffered, and fought together were going home. There was many a tear in many an eye as hands were clasped for the last time. They had written the history of their Regiment, a record of their successes—a record that needs no explanation or apology.</p>
+          <p>For our British comrades in arms the Regiment has the highest regard. We often disagreed, but they accepted us and treated us as one of their own. They gave us their splendid Australian Artillery, they fed us, they equipped us, they clothed us, they protected us in the air, and we profited by their four years of experience in warfare. We feel honored in having been selected to serve with them; we feel their Generals are our Generals, their armies our armies, and their successes our successes.</p>
+          <p>To our French interpreters—the “Duke,” the “Count,” and M. Jacques Rouilly, who was killed in action—we express our thanks. Their services were honest, faithful, and efficient. The interest of the Regiment was safe in their hands.</p>
+        </div2>
+        <div2 type="chapter">
+          <pb id="p33" n="33"/>
+          <head>CHAPTER XI</head>
+          <p>The only places in France which hold the affections and loving memory of this Regiment are those little bits of hallowed ground in Flanders' Fields, and the desolate country of the Somme, where those of this Regiment who gave their lives heroically for humanity sleep side by side with the brave men of many lands—in the most glorious death that comes to man.</p>
+          <lg type="poem">
+            <l>“Sleep, Soldiers! Still in honored rest,</l>
+            <l>Your truth and valor wearing;</l>
+            <l>The bravest are the tenderest—</l>
+            <l>The loving are the daring.”</l>
+          </lg>
+        </div2>
+      </div1>
+    </body>
+    <back>
+      <div1 type="appendix">
+        <head>APPENDIX “A”</head>
+        <p>The Battle Casualties of the Regiment, with dates, were as follows:</p>
+        <p>
+          <table rows="12" cols="4">
+            <row role="label">
+              <cell role="data" rows="1" cols="1">Date</cell>
+              <cell role="data" rows="1" cols="1">Killed</cell>
+              <cell role="data" rows="1" cols="1">Wounded</cell>
+              <cell role="data" rows="1" cols="1">Prisoners</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">YPRES SECTOR— July 4th to Sept. 5th, 1918</cell>
+              <cell role="data" rows="1" cols="1">3 Officers</cell>
+              <cell role="data" rows="1" cols="1">6 Officers</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">YPRES SECTOR— July 4th to Sept. 5th, 1918</cell>
+              <cell role="data" rows="1" cols="1">31 Men</cell>
+              <cell role="data" rows="1" cols="1">210 Men</cell>
+              <cell role="data" rows="1" cols="1">1 Man</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HINDENBURG LINE— Sept. 29th to Oct. 1st, 1918</cell>
+              <cell role="data" rows="1" cols="1">8 Officers</cell>
+              <cell role="data" rows="1" cols="1">22 Officers</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">HINDENBURG LINE— Sept. 29th to Oct. 1st, 1918</cell>
+              <cell role="data" rows="1" cols="1">194 Men</cell>
+              <cell role="data" rows="1" cols="1">737 Men</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">October 7th to October 12th, 1918</cell>
+              <cell role="data" rows="1" cols="1">2 Officers</cell>
+              <cell role="data" rows="1" cols="1">12 Officers</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">October 7th to October 12th, 1918</cell>
+              <cell role="data" rows="1" cols="1">36 Men</cell>
+              <cell role="data" rows="1" cols="1">307 Men</cell>
+              <cell role="data" rows="1" cols="1">1 Man</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">October 16th to October 20th, 1918</cell>
+              <cell role="data" rows="1" cols="1">2 Officers</cell>
+              <cell role="data" rows="1" cols="1">2 Officers</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">October 16th to October 20th, 1918</cell>
+              <cell role="data" rows="1" cols="1">26 Men</cell>
+              <cell role="data" rows="1" cols="1">216 Men</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Totals</cell>
+              <cell role="data" rows="1" cols="1">15 Officers</cell>
+              <cell role="data" rows="1" cols="1">42 Officers</cell>
+              <cell role="data" rows="1" cols="1"/>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Totals</cell>
+              <cell role="data" rows="1" cols="1">287 Men</cell>
+              <cell role="data" rows="1" cols="1">1,470 Men</cell>
+              <cell role="data" rows="1" cols="1">2 Men</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Grand totals</cell>
+              <cell role="data" rows="1" cols="1">302</cell>
+              <cell role="data" rows="1" cols="1">1,512</cell>
+              <cell role="data" rows="1" cols="1">2</cell>
+            </row>
+          </table>
+        </p>
+        <p>The Wounded were classified as follows in the latest available information:</p>
+        <p>
+          <table rows="7" cols="3">
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Died of wounds</cell>
+              <cell role="data" rows="1" cols="1">3 Officers</cell>
+              <cell role="data" rows="1" cols="1">23 Men</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Severely wounded</cell>
+              <cell role="data" rows="1" cols="1">4 Officers</cell>
+              <cell role="data" rows="1" cols="1">183 Men</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Slightly wounded</cell>
+              <cell role="data" rows="1" cols="1">24 Officers</cell>
+              <cell role="data" rows="1" cols="1">809 Men</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Gassed</cell>
+              <cell role="data" rows="1" cols="1">0 Officers</cell>
+              <cell role="data" rows="1" cols="1">74 Men</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Shell shock</cell>
+              <cell role="data" rows="1" cols="1">3 Officers</cell>
+              <cell role="data" rows="1" cols="1">16 Men</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Wounds undetermined</cell>
+              <cell role="data" rows="1" cols="1">8 Officers</cell>
+              <cell role="data" rows="1" cols="1">365 Men</cell>
+            </row>
+            <row role="data">
+              <cell role="data" rows="1" cols="1">Totals</cell>
+              <cell role="data" rows="1" cols="1">42 Officers</cell>
+              <cell role="data" rows="1" cols="1">1,470 Men</cell>
+            </row>
+          </table>
+        </p>
+        <div2 type="section">
+          <pb id="p34" n="34"/>
+          <head>CAPTURES BY REGIMENT</head>
+          <p>PRISONERS, 1,253; MACHINE GUNS, 132; ARTILLERY, 10 guns; TRENCH MORTARS, 4; CIVILIANS RELEASED, 375.</p>
+          <p>The German Divisions, with date identified on the divisional front and their quality, are given below:</p>
+          <p>
+            <table rows="18" cols="3">
+              <row role="label">
+                <cell role="data" rows="1" cols="1">Division</cell>
+                <cell role="data" rows="1" cols="1">Date Identified</cell>
+                <cell role="data" rows="1" cols="1">Quality</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">236th Div.</cell>
+                <cell role="data" rows="1" cols="1">Aug. 31-Sept. 1</cell>
+                <cell role="data" rows="1" cols="1">Average</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">75th Res. Div.</cell>
+                <cell role="data" rows="1" cols="1">September 27-28</cell>
+                <cell role="data" rows="1" cols="1">Average</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">185th Div.</cell>
+                <cell role="data" rows="1" cols="1">September 28-29</cell>
+                <cell role="data" rows="1" cols="1">Average</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">20th Div.</cell>
+                <cell role="data" rows="1" cols="1">October 8th</cell>
+                <cell role="data" rows="1" cols="1">Very Good</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">34th Div.</cell>
+                <cell role="data" rows="1" cols="1">October 8th</cell>
+                <cell role="data" rows="1" cols="1">Very Good</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">21st Div.</cell>
+                <cell role="data" rows="1" cols="1">October 10th</cell>
+                <cell role="data" rows="1" cols="1">Average</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">21st Res. Div.</cell>
+                <cell role="data" rows="1" cols="1">October 10th</cell>
+                <cell role="data" rows="1" cols="1">Average</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">38th Div.</cell>
+                <cell role="data" rows="1" cols="1">October 10th</cell>
+                <cell role="data" rows="1" cols="1">Very Good</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">119th Div.</cell>
+                <cell role="data" rows="1" cols="1">October 10th</cell>
+                <cell role="data" rows="1" cols="1">Average</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">121st Div.</cell>
+                <cell role="data" rows="1" cols="1">October 10th</cell>
+                <cell role="data" rows="1" cols="1">Average</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">187th Sharpshooter Section</cell>
+                <cell role="data" rows="1" cols="1">October 10th</cell>
+                <cell role="data" rows="1" cols="1">Very Good</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">204th Div.</cell>
+                <cell role="data" rows="1" cols="1">October 10th</cell>
+                <cell role="data" rows="1" cols="1">Average</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">208th Div.</cell>
+                <cell role="data" rows="1" cols="1">October 10th</cell>
+                <cell role="data" rows="1" cols="1">Average</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">3rd Naval Div.</cell>
+                <cell role="data" rows="1" cols="1">October 11th</cell>
+                <cell role="data" rows="1" cols="1">Very Good</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">15th Res. Div.</cell>
+                <cell role="data" rows="1" cols="1">October 11th</cell>
+                <cell role="data" rows="1" cols="1">Average</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">221st Div.</cell>
+                <cell role="data" rows="1" cols="1">October 19th</cell>
+                <cell role="data" rows="1" cols="1">Average</cell>
+              </row>
+              <row role="data">
+                <cell role="data" rows="1" cols="1">243rd Div.</cell>
+                <cell role="data" rows="1" cols="1">October 19th</cell>
+                <cell role="data" rows="1" cols="1">Average</cell>
+              </row>
+            </table>
+          </p>
+          <p>This Regiment advanced as a front line attacking unit 16,000 meters out of a total advance of 29,500 meters by the Division.</p>
+          <p>This Regiment marched, as a regiment, a total of 330 kilometers while in France.</p>
+          <p>Each man in the Regiment is entitled to wear a star on the Service Ribbon for each of the following official engagements:</p>
+          <list type="simple">
+            <item>CANAL SECTOR</item>
+            <item>YPRES-LYS OFFENSIVE</item>
+            <item>SOMME OFFENSIVE</item>
+          </list>
+        </div2>
+      </div1>
+      <div1 type="appendix">
+        <head>APPENDIX “B”</head>
+        <p>The letters and orders which follow should be of interest to all, particularly the one from the Commander-in-Chief, which establishes beyond question to which Division the credit of breaking the Hindenburg Line is due:</p>
+        <pb id="p35" n="35"/>
+        <p>No. 1.</p>
+        <p>“HEADQUARTERS II CORPS, <lb/> AMERICAN EXPEDITIONARY FORCES, <lb/> FRANCE, October 4, 1918.</p>
+        <p><hi rend="italics">From:</hi> Adjutant-General.</p>
+        <p><hi rend="italics">To:</hi> Commanding General, 30th Division, American E. F.</p>
+        <p><hi rend="italics">Subject:</hi> Operation against Hindenburg Line of September 29, 1918.</p>
+        <p>Following letter is received from the Commanding General Australian Corps:</p>
+        <q direct="unspecified">
+          <text>
+            <body>
+              <div1 type="letter">
+                <opener><dateline>‘AUSTRALIAN CORPS, <lb/> CORPS HEADQUARTERS, <lb/> 2nd October, 1918.</dateline>
+<salute>MY DEAR GENERAL:</salute></opener>
+                <p>As the Second American Corps has now been withdrawn from the line, and my official association with you and your troops has been, for the time being, suspended, I desire to express to you the great pleasure that it has been to me and to the troops of the Australian Army Corps to have been so closely allied to you in the recent very important battle operations which have resulted in the breaking through of the main Hindenburg Line on the front of the Fourth British Army.</p>
+                <p>Now that the fuller details of the work done by the 27th and 30th American Divisions have become available, the splendid gallantry and devotion of the troops in these operations have won the admiration of their Australian comrades. The tasks set were formidable, but the American troops overcame all obstacles, and contributed in a very high degree to the ultimate capture of the whole tunnel system.</p>
+                <p>I shall be glad if you will convey to your Division Commanders my appreciation of and thanks for the work done, and to accept my best wishes for every possible success in the future.</p>
+                <closer><salute>Yours very sincerely,</salute>
+<signed>(sd) JOHN MONASH.</signed>
+<signed>MAJOR-GENERAL G. W. READ, N. A., <lb/> <hi rend="italics">Commanding Second American Corps.</hi>’</signed></closer>
+              </div1>
+              <div1 type="letter">
+                <p>No. 2.</p>
+                <p>In communicating to you this expression of the sentiments of the Commander of the Australian Corps, the Corps Commander desires to make known to you his appreciation of the splendid fighting qualities of your Division, and of the results they accomplished in their part in breaking this formidable portion of the Hindenburg Line. It is undoubtedly due to the troops of this Corps that the line was broken and the operations now going on made possible.</p>
+                <p>The unflinching determination of these men, their gallantry in battle, and the results accomplished are an example for the future. They will have their place in history and must always be a source of pride to our people.</p>
+                <closer>
+                  <signed>STEPHEN C. CLARK, <lb/> <hi rend="italics">Adjutant-General.</hi>”</signed>
+                </closer>
+              </div1>
+              <div1 type="letter">
+                <pb id="p36" n="36"/>
+                <p>No. 3. Message from Commander-in-Chief:</p>
+                <p>“The Commander-in-Chief desires to convey to the officers and soldiers of your Corps his appreciation of the magnificent qualities which have enabled them, against powerful resistance, to advance more than ten miles and to take more than six thousand prisoners since September twenty-seven.</p>
+                <closer>
+                  <signed>(Signed) MCANDREWS, <lb/> <hi rend="italics">Addressed 27th and 30th Divisions.</hi>”</signed>
+                </closer>
+              </div1>
+              <div1 type="letter">
+                <p>No. 4. From the Mayor of Busigny to the Commanding General, under date of 17th October, 1918:</p>
+                <p>“Acting as a representative of the commune and in its name, consequently in the name, too, of a part of France, I take the liberty to come and express to our liberator, and to the gallant troops under your command, our feelings of deepest and eternal gratitude.</p>
+                <p>For those who have not been submitted, as we have, for four years to the intolerable and abhorred German yoke, it is difficult to realize how great were the relief, the joy, the well-being, or, in a word, the unexpressible happiness we all felt when the first allied troops made their way through our village. And this great event has been for us like a dawn of a resurrection.</p>
+                <p>I should be very thankful to you if you would convey to all your officers, N. C. O.'s, and men under your command our deep feelings of admiration and eternal gratitude.</p>
+                <p>Please, sir, accept the expression of my highest consideration, and believe me,</p>
+                <closer><salute>Your most devotedly,</salute>
+<signed><hi rend="italics">The Mayor,</hi> <lb/> E. MAIRIS.”</signed></closer>
+              </div1>
+              <div1 type="letter">
+                <p>No. 5. From the Commander-in-Chief of the British Armies to the Comanding General II Corps, published in G. O. No. 44, II Corps, November 18, 1918:</p>
+                <p>“Now that the American II Corps is leaving the British zone, I wish once more to thank you and all officers, non-commissioned officers, and men under your command, on behalf both of myself and all ranks of the British Armies in France and Flanders, for the very gallant and efficient service you have rendered during the period of your operations with the Fourth British Army.</p>
+                <p>On the 29th of September you took part with distinction in the great and critical attack which shattered the enemy's resistance in the Hindenburg Line, and opened the road to final victory. The deeds of the 27th and 30th American Divisions, who on that day took Bellicourt and Nauroy, and so gallantly sustained the desperate struggle for Bony, will rank with the highest achievements of this war. They will always be remembered by the British Regiments that fought beside you.</p>
+                <pb id="p37" n="37"/>
+                <p>Since that date, through three weeks of almost continuous fighting, you advance from one success to another, overcoming all resistance, beating off numerous counter attacks, and capturing several thousand prisoners and many guns. The names of Brancourt, Premont, Busigny, Vaux Andigny, St. Souplet, and Mazinghein testify to the dash and energy of your attacks.</p>
+                <p>I rejoice at the success which has attended your efforts, and am proud to have had you under my command.</p>
+                <closer>
+                  <signed>(Signed) D. HAIG, <lb/> <hi rend="italics">Field Marshal.</hi>”</signed>
+                </closer>
+              </div1>
+              <div1 type="letter">
+                <p>No. 6. Message received at 10:00 A. M., 11th of November, 1918, by phone:</p>
+                <p>“Hostilities will cease at eleven hours to-day, November 11th. Troops will stand fast on line which will be reported to Advance Army Headquarters as soon as possible. Defence precautions will be maintained. There will be no intercourse of any description with the enemy until receipt of instructions from Army Headquarters. Further instructions follow.”</p>
+              </div1>
+              <div1 type="letter">
+                <p>No. 7. Regimental Commander's message to his troops on the 11th, November:</p>
+                <p>
+                  <hi rend="italics">“To all Officers and Enlisted Men of the 120th Infantry:</hi>
+                </p>
+                <p>1. I am happy to inform you that the war officially ended to-day at eleven o'clock</p>
+                <p>2. The part we have played in Europe will always remain a glorious chapter in American History, and you have every cause to be proud. Our hearts are saddened only by our brave comrades who have fallen on the field of battle.</p>
+                <p>3. The Commanding Officer of the Regiment is particularly proud to be at the head of such an organization, and he has never appealed to them in vain.</p>
+                <p>4. In the days to come of patient waiting before it will come our turn to return to our beloved States, it is recognized that it is harder to be a true soldier than under actual war conditions. We may be called upon to perform various duties, but, whether we are called on or not, the Commanding Officer of this Regiment expects each officer and enlisted man to remember that he is a citizen of a great and glorious country and a member of a splendid Regiment.</p>
+                <p>5. Let us at all times think of our loved ones at home, and use our utmost endeavor to go home to them with clean hands, clean hearts, and clean bodies.</p>
+                <p>6. This notice will be read at retreat roll call and posted on the bulletin board of each organization.</p>
+                <closer>
+                  <signed>(sgd) S. W. MINOR, <lb/> <hi rend="italics">Col., Inf., U. S. A., <lb/> Commanding.”</hi></signed>
+                </closer>
+              </div1>
+              <div1 type="letter">
+                <pb id="p38" n="38"/>
+                <p>No. 8. From the Commander-in-Chief:</p>
+                <p>“AMERICAN EXPEDITIONARY FORCES, <lb/> OFFICE OF THE COMMANDER-IN-CHIEF, <lb/> FRANCE, February 19, 1919.</p>
+                <p>MAJOR-GENERAL EDWARD M. LEWIS, <lb/> <hi rend="italics">Commanding 30th Division, A. E. F.</hi></p>
+                <p>MY DEAR GENERAL LEWIS:</p>
+                <p>It gives me much pleasure to extend to you and the officers and men of the 30th Division my sincere compliments upon their appearance at the review and inspection on the 21st of January, southwest of Teille, which was excellent, and is just what would be expected in a command with such a splendid fighting record.</p>
+                <p>After its preliminary training the Division entered the line on July 16th, where it remained almost continuously until the end of October. In that time it was in the actual battle from 30th of August, and took part in the Ypres-Lys and Somme offensives. On September 29th, the Division broke through both the Hindenburg and the Le Catelet-Nauroy lines, capturing Bellicourt and Nauroy, an operation on which all subsequent action of the 4th British Army depended. From October 7th to October 20th, the Division advanced 23 kilometers in a continued series of attacks, capturing 2,352 of the enemy. Brancourt, Premont, Busigny, St. Bernin, St. Souplet and Escaufort, La Haie Mineresse, and Vaux Andigny are names which will live in the memories of those who fought in the 30th Division. But its especial glory will always be the honor you won by breaking the Hindenburg Line on September 29th. Such a record is one of which we are all proud.</p>
+                <p>It is gratifying to see your troops in such good physical shape, but still more so to know that this almost ideal condition will continue to the end of their service and beyond, as an exemplification of their high character and soldierly qualities.</p>
+                <p>I inspected the artillery brigade of the Division later, and found the same high standard of personnel that marks the rest of the Division.</p>
+                <closer><salute>Very sincerely yours,</salute>
+<signed>JOHN J. PERSHING.”</signed></closer>
+              </div1>
+              <div1 type="letter">
+                <p>No. 9. The Regimental Commander's farewell message, March 9, 1919:</p>
+                <p>
+                  <hi rend="italics">“To the Officers and Men of the 120th Infantry:</hi>
+                </p>
+                <p>1. A few more days and we shall embark for home. No one knows how the detachments will be handled, but the chances are many of us will never meet again.</p>
+                <p>2. This Regiment came into the service as a National Guard unit from North Carolina, augmented later by national guardsmen from South Carolina and Tennessee, and still later by selective draft men from several camps, the principal units now being as follows: North Carolina, 1,558;
+<pb id="p39" n="39"/>
+Tennessee, 406; Indiana, 281; Kentucky, 259; and many other detachments, until to-day every state in the Union is represented except four. North Carolina will claim us as her own, and we are justly proud of the record her sons have made, but we owe a debt of gratitude to the other loyal sons from many states, who helped to make our glorious record, that we can never repay, and which can never be forgotten.</p>
+                <p>3. To-day this Regiment and its record belongs to the individual men who compose it, as a priceless heritage, wherever you may go. Its achievements must ever remain a brilliant chapter in American Military History, and particularly so in the 30th Division, in which splendid Division you have played the leading part.</p>
+                <p>4. How you were moulded into an efficient fighting unit, that knew no North, South, East or West; how you bore the first shock of battle, and then with thinner ranks pressed on and on, laughing at dangers, with never a murmur and never a complaint, is a story too long to be told here.</p>
+                <p>5. In parting with you it is my one desire to let you know how your efforts are appreciated and admired, and I hope that your pleasant associations with the 120th Infantry may linger in your memories long after your hardships have been forgotten. That you may return to your homes stronger men, more loyal citizens, and more devoted husbands, sons, and brothers is the earnest prayer of one who counts it the glory and privilege of a lifetime to have commanded such men.</p>
+                <closer>
+                  <signed>S. W. MINOR, <lb/> <hi rend="italics">Col., Inf., U. S. A., <lb/> Commanding.</hi>”</signed>
+                </closer>
+              </div1>
+              <div1 type="letter">
+                <p>No. 10.</p>
+                <p>“HEADQUARTERS 120TH INFANTRY, <lb/> AMERICAN EXPEDITIONARY FORCES, <lb/> FRANCE, September 28, 1918.</p>
+                <p>
+                  <hi rend="italics">To Officers and Men of the 120th Infantry:</hi>
+                </p>
+                <p>We have worked and labored together for the past sixteen months, and to-morrow comes our supreme trial. Remember, the eyes of the world are upon us and our native States expects us to do our duty.</p>
+                <closer>
+                  <signed>S. W. MINOR, <lb/> <hi rend="italics">Col., Inf., U. S. A., <lb/> Commanding.</hi>”</signed>
+                </closer>
+              </div1>
+              <div1 type="letter">
+                <p>No. 11.</p>
+                <p>“HEADQUARTERS 30TH DIVISION, <lb/> AMERICAN EXPEDITIONARY FORCES, <lb/> FRANCE, March 11, 1918.</p>
+                <p><hi rend="italics">From:</hi> Major-General E. M. Lewis, Commanding 30th Division, A. E. F.</p>
+                <p><hi rend="italics">To:</hi> The Commanding Officer, 120th Infantry.</p>
+                <p><hi rend="italics">Subject:</hi> Service of the 120th Infantry.</p>
+                <p>I have already endeavored to express verbally to your officers my high appreciation, as Division Commander, of the loyalty and support uniformly given by them. As you are now about to return to the United States, it
+<pb id="p40" n="40"/>
+is desired to bear further testimony to the excellent service rendered by the Regiment as a whole throughout all of the experiences in Europe of the Division.</p>
+                <p>During the preparatory period it set itself seriously and industriously to the task of training, and when called upon for offensive action, both in Belgium and France, acquitted itself admirably, and won the full approbation of its superiors. It can lay down its arms with just pride in its achievements, and a feeling of satisfaction that its merit has been fully recognized and appreciated.</p>
+                <p>May you as individuals realize your reasonable expectations of a tremendous welcome and every evidence of a peoples' gratitude.</p>
+                <closer>
+                  <signed>E. M. LEWIS, <lb/> <hi rend="italics">Major-General, U. S. A.</hi>”</signed>
+                </closer>
+              </div1>
+              <div1 type="letter">
+                <p>No. 12. General Sir John Monash's speech, July 4, 1918, London, extract:</p>
+                <p>General Monash had under his command in the closing days of the war the whole Second American Army Corps, more than 60,000 men of the 27th and 30th American Divisions. This army, he said, overthrew the Hindenburg defense system at its “most strongly defended point.”</p>
+                <p>The share of the American Divisions in these operations was characterized by General Monash as “probably the greatest single American feat of arms achieved in the whole war.” The operations were completed on October 5th, he said, and it was on that night that “the Germans threw up the sponge and declared their willingness to make peace on our own terms.”</p>
+              </div1>
+            </body>
+          </text>
+        </q>
+      </div1>
+      <div1 type="appendix">
+        <head>APPENDIX “C”</head>
+        <p>Decorations awarded men of this Regiment for acts of gallantry, both British and American, up to time of going to press. There are a considerable number not yet reported on and these will doubtless be heard from at a later date.</p>
+        <div2 type="section">
+          <head>BRITISH DISTINGUISHED SERVICE ORDER</head>
+          <byline>MAJOR ABRAM R. WINSTON</byline>
+          <div3 type="section">
+            <head>MILITARY CROSS</head>
+            <list type="simple">
+              <item>CAPTAIN JOHN F. WILLIAMS</item>
+              <item>CAPTAIN JOHN B. MAYS</item>
+              <item>FIRST LIEUTENANT EDWARD T. FOGO</item>
+              <item>FIRST LIEUTENANT HARVEY S. HESTER</item>
+            </list>
+          </div3>
+          <div3 type="section">
+            <head>MILITARY MEDAL</head>
+            <list type="simple">
+              <item>PRIVATE JAMES W. ROLLINS</item>
+              <item>PRIVATE CLAUDE WILLIAMS</item>
+            </list>
+          </div3>
+        </div2>
+        <div2 type="section">
+          <pb id="p41" n="41"/>
+          <head>AMERICAN DISTINGUISHED SERVICE CROSS <lb/> (In order awarded)</head>
+          <div3 type="section">
+            <head>LAWRENCE STANFIELD, Color Sergeant, Headquarters Company.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 28, 1918. While attached to the Regimental Intelligence Service he was severely gassed, but, after receiving first aid treatment, he insisted on returning to duty. Gassed a second time and relieved for a short period he personally made a search for wounded men, and finding a large number went to aid station and brought stretcher bearers. He continued this work until he was blinded by the effects of the gas.”</p>
+          </div3>
+          <div3 type="section">
+            <head>BEN F. DIXON, Captain, Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. He was severely wounded during the early part of the operations against the Hindenburg Line; his company having only one officer, he remained on duty. Shortly afterwards he received a second wound, and again refused to leave his men. When he saw that the front waves of his company were getting into a barrage he at once went forward to stop them, and while doing so he was killed.”</p>
+          </div3>
+          <div3 type="section">
+            <head>ROBERT MARSHALL TEACHEY, Private, Company “B.”</head>
+            <p>“For extraordinary heroism in action near Ypres, Belgium, August 2, 1918. He volunteered to accompany an officer on a daylight patrol to destroy an enemy pill-box. With great courage under heavy shell and machine-gun fire they rushed the pill-box, killed or wounded the occupants, and accomplished their mission.”</p>
+          </div3>
+          <div3 type="section">
+            <head>JOHN F. WILLIAMS, JR., First Lieutenant, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Ypres, Belgium, August 2, 1918. He volunteered to destroy an enemy pill-box which had caused many casualties in his battalion. With much skill and daring he led a daylight <sic corr="patrol">partol</sic>, under heavy shell and machine-gun fire, rushed the pill-box, killed or wounded the occupants, and accomplished his mission.”</p>
+          </div3>
+          <div3 type="section">
+            <head>ELMER PENDELL, First Lieutenant, 120th Infantry, Observer 168th Aero Squadron.</head>
+            <p>“For extraordinary heroism in action November 4, 1918. As observer in a De Haviland 4-plane, he flew an infantry contact mission over the line of the 7th Division. Because of exceedingly adverse weather conditions, he disregarded the danger of fire from the ground and crossed the lines at 1,000 feet altitude. While thus flying he was wounded in the shoulder by an explosive bullet fired from the ground. Disregarding his wound, he came down to an altitude as low as 500 feet. After securing the desired information, he wrote out his message with great effort and dropped it to the Division.”</p>
+          </div3>
+          <div3 type="section">
+            <pb id="p42" n="42"/>
+            <head>JAMES W. HUDNALL, Sergeant, Company “G,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. After being twice wounded, Sergeant Hudnall continued to lead his platoon in attack, capturing two machine guns. In later action he received additional wounds which caused his death.”</p>
+          </div3>
+          <div3 type="section">
+            <head>ROBERT R. RASCOE, Sergeant, Sanitary Detachment, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Becquigny, France, October 10, 1918. Going forward to establish an aid post, Sergeant Rascoe, finding that the advance had already started, took his position in the front line, and, exposed to terrific fire, cared for the wounded until the medical department was brought up. Later, while bringing up rations, he encountered shell-fire, and, although wounded and knocked down, he quickly regained his feet and completed his mission.”</p>
+          </div3>
+          <div3 type="section">
+            <head>JESSE LUNSFORD, Corporal, Company “G,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. He attacked, single handed, a machine-gun post from which a destructive fire was being directed against his company. While he was approaching the nest the machine gun shot the butt off his rifle and cut a hole in his breeches, but he succeeded in getting close enough to the nest to throw four hand grenades into it and then killed the gunner with his bayonet.”</p>
+          </div3>
+          <div3 type="section">
+            <head>EDGAR L. COX, Private, First Class, Machine Gun Company, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. With five other soldiers Private Cox succeeded in breaking up three machine-gun nests and capturing eight prisoners under heavy artillery and machine-gun fire. After his platoon had reached its objective he and four others volunteered and made a reconnaissance, 600 yards in front of the line, to make sure that the valley beyond was clear of the enemy. Private Cox has since been killed in action.”</p>
+          </div3>
+          <div3 type="section">
+            <head>LEWIS K. FOWLER, Private, First Class, Company “B,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Busigny, France, October 19, 1918. He remained at his post, covering the withdrawal of his company with his automatic rifle, in order that the company might take up a better position. He was instantly killed while in the performance of this mission.”</p>
+          </div3>
+          <div3 type="section">
+            <head>ERNEST HYMAN, Private, Machine Gun Company, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. Becoming separated from his organization in the smoke and fog, Private Hyman joined another soldier and was instrumental in breaking up three machine-gun nests and capturing four prisoners. After reaching the objective he volunteered and accompanied a reconnaissance patrol 600 yards beyond the line to the enemy. He has since been killed in action.”</p>
+          </div3>
+          <div3 type="section">
+            <pb id="p43" n="43"/>
+            <head>HENRY A. STROBEL, Private, Company “D,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. With eight other soldiers, comprising the company headquarters detachment, Private Strobel assisted his company commander in cleaning out enemy dugouts along the canal and capturing 242 prisoners.”</p>
+          </div3>
+          <div3 type="section">
+            <head>HARVEY S. HESTER, First Lieutenant, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Vaux Andigny, France, October 10, 1918. Although severely wounded in the back by shrapnel, he led his platoon forward, covering a flank of his battalion, which was exposed to heavy enemy fire.”</p>
+          </div3>
+          <div3 type="section">
+            <head>EDGAR S. W. DRAUGHON, Private, Sanitary Detachment, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near St. Quentin, France, September 29 to October 20, 1918. Throughout this period Private Draughon labored unceasingly in evacuating the wounded from the front lines to the battalion aid post. On October 19th, with complete disregard for his personal safety, he advanced under heavy shell and machine-gun fire beyond the front line, rendered first aid to a wounded officer, and assisted him to the rear.”</p>
+          </div3>
+          <div3 type="section">
+            <head>OLIVER ROBINSON, Sergeant, Company “A,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Vaux Andigny, France, October 10, 1918. Although severely wounded, he displayed remarkable coolness in extricating his platoon from an extremely dangerous position under terrific shell and machine-gun fire, thereby saving it from almost certain annihilation. Being wounded a second time, he refused to go to the rear until ordered to do so by his company commander.”</p>
+          </div3>
+          <div3 type="section">
+            <head>LOUIS E. JOHNSTON, Corporal, Machine Gun Company, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Mazinghien, France, October 18-19, 1918. When his platoon became separated from the battalion to which it was attached Corporal Johnston proceeded under heavy shell-fire along a road with which he was unfamiliar and established liaison with his battalion.”</p>
+          </div3>
+          <div3 type="section">
+            <head>CARLTON STEPHENSON, Corporal, Company “B,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Catillon, France, October 18, 1918. Severely wounded, he remained with his automatic rifle section in an exposed position, covering the withdrawal of his company. Although almost surrounded, he inflicted severe losses on the enemy and held his position throughout the day.”</p>
+          </div3>
+          <div3 type="section">
+            <head>HENRY E. ZAX, Corporal, Company “B,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Vaux Andigny, France, October 11, 1918. Having been sent on a dangerous liaison patrol, he was severely wounded soon after he had located the unit, on the right of his
+<pb id="p44" n="44"/>
+own. He nevertheless went forward to battalion headquarters immediately after securing first aid, and made a complete report to his battalion commander before going to the rear.”</p>
+          </div3>
+          <div3 type="section">
+            <head>ZONA McKIDDY, Private, Machine Gun Company, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. When his platoon had suffered heavy casualties and the runners had been killed by heavy artillery fire, Private McKiddy volunteered to carry a message, calling for reinforcements. Making his way through a dense smoke barrage, he succeeded in reaching company headquarters and returning, despite the intense bombardment.”</p>
+          </div3>
+          <div3 type="section">
+            <head>GEORGE L. WILES, Private, Machine Gun Company, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. After his own gun had been knocked out, he assisted another soldier in breaking up an enemy machine-gun nest and turning the captured gun on the enemy, firing about a thousand rounds. When this gun jammed he procured grenades and the rifle of a dead soldier and continued on to the objective.”</p>
+          </div3>
+          <div3 type="section">
+            <head>BRADLEY LAWSON, Private, First Class, Machine Gun Company, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. Having been wounded by a bursting shell immediately after the opening of the attack, he refused to go to the rear, but remained with his corporal, who had been severely wounded by the same shell. For two hours, under an intense enemy barrage, he continued to minister to his wounded comrade until another shell burst near-by, by which he was fatally wounded.”</p>
+          </div3>
+          <div3 type="section">
+            <head>JOHN B. MAY, JR., Captain, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. Captain May with eight other soldiers, comprising his company headquarters detachment, cleaned out enemy dugouts along the banks of a canal, capturing 242 prisoners.”</p>
+          </div3>
+          <div3 type="section">
+            <head>EDWARD T. FOGO, First Lieutenant, Company “C,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near La Selle River, France, October 18, 1918. When his company had received orders to advance from the front line, he, then in command, led the company to its objective, despite severe wounds he had received prior to the start of the attack. He refused<sic corr="treatment"> tratment</sic> until the mission was complete, when he went to the dressing station. He returned as soon as possible and remained with his company during the entire operations.”</p>
+          </div3>
+          <div3 type="section">
+            <head>JOSEPH N. ROBERTSON, First Sergeant, Company “D,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. With eight other soldiers, comprising the company headquarters
+<pb id="p45" n="45"/>
+detachment, he assisted his company commander in cleaning out enemy dugouts along a canal and capturing 242 prisoners.”</p>
+          </div3>
+          <div3 type="section">
+            <head>ROBERT P. COOK, Sergeant, Company “G,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. When his platoon was held up by machine-gun fire during an advance, although suffering from a painful machine-gun bullet wound in the hand, he personally killed the gunner and put the gun out of action, thus permitting the further advance of his platoon.”</p>
+          </div3>
+          <div3 type="section">
+            <head>JOHN H. GILL, Sergeant, Headquarters Company, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. After being twice wounded during the attack, Sergeant Gill, with his trench mortar section men, who had become lost from other companies, and stragglers, attacked a strong machine-gun position at the junction of the tunnel and canal and was wounded the third time. During the attack he was wounded in thirteen places by machine-gun bullets and shrapnel, but continued the attack with the utmost coolness and bravery.”</p>
+          </div3>
+          <div3 type="section">
+            <head>WALTER S. KORN, Sergeant, Company “G,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. He continued to lead his platoon in attack on the Hindenburg Line after he had received a wound from shrapnel. He was later knocked down by a rock thrown by a shell explosion, twice more wounded by shrapnel, but continued to lead his platoon until he received a severe wound, which necessitated his evacuation. He personally captured two prisoners in the attack.”</p>
+          </div3>
+          <div3 type="section">
+            <head>WILLIE HIGSON, Corporal, Company “C,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. He showed extraordinary heroism and courage in leading men under heavy shrapnel and enfilading machine-gun fire during the attack on the Hindenburg Line. During a temporary halt he acted as runner through this fire and attempted to return after being severely wounded.”</p>
+          </div3>
+          <div3 type="section">
+            <head>JOHN W. BERRYHILL, Private, First Class, Company “D,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. With eight other soldiers, comprising the company headquarters detachment, he assisted his company commander in cleaning out enemy dugouts along a canal and capturing 242 prisoners.”</p>
+          </div3>
+          <div3 type="section">
+            <head>ALVIN O. BRIDGES, Private, First Class, Company “D,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. With eight other soldiers, comprising the company headquarters detachment, he assisted his company commander in cleaning out enemy dugouts along a canal and capturing 242 prisoners.”</p>
+          </div3>
+          <div3 type="section">
+            <pb id="p46" n="46"/>
+            <head>WILLIAM L. CLARK, Private, First Class, Company “D,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. With eight other soldiers, comprising the company headquarters detachment, he assisted his company commander in cleaning out enemy dugouts along a canal and capturing 242 prisoners.”</p>
+          </div3>
+          <div3 type="section">
+            <head>JAMES LAKE, Private, Company “B,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. With eight other soldiers, comprising the company headquarters detachment, Private Lake assisted his company commander in cleaning out enemy dugouts along a canal and capturing 242 prisoners.”</p>
+          </div3>
+          <div3 type="section">
+            <head>WILLIAM B. LYERLY, Private, Company “D,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. With eight other soldiers, comprising the company headquarters detachment, he assisted his company commander in cleaning out enemy dugouts along a canal and capturing 242 prisoners.”</p>
+          </div3>
+          <div3 type="section">
+            <head>OLLIE POPE, Private, Company “C,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action between St. Quentin and Cambrai, France, October 9, 1918. He was wounded in action between St. Quentin and Cambrai, France, and, after having his wounds dressed, he was unable to locate his company. He returned, however, to the front line, and fought throughout the day, locating and returning to his own organization after dark.”</p>
+          </div3>
+          <div3 type="section">
+            <head>GEORGE RIGGLE, Private, Company “D,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. With eight other soldiers, comprising the company headquarters detachment, he assisted his company commander in cleaning out enemy dugouts along a canal and capturing 242 prisoners.”</p>
+          </div3>
+          <div3 type="section">
+            <head>HERMAN S. SEIBEL, Private, Company “D,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. With eight other soldiers, comprising the company headquarters detachment, he assisted his company commander in cleaning out enemy dugouts along a canal and capturing 242 prisoners.”</p>
+          </div3>
+          <div3 type="section">
+            <head>HARVEY H. SHIVELY, Private, 2nd Battalion, Intelligence Section, 120th Infantry.</head>
+            <p>“For repeated acts of extraordinary heroism in action near Bellicourt, France, September 29, 1918, and near Becquigny, France, October 9, 1918. Near Bellicourt, Private Shively, with an Australian soldiers, captured 42 of the enemy, including two officers. On October 9th, near Becquigny, he accompanied another soldier in penetrating the enemy's outpost line and captured two enemy machine gunners, putting the gun out of action.”</p>
+          </div3>
+          <div3 type="section">
+            <pb id="p47" n="47"/>
+            <head>HERBERT L. MAYS, Sergeant, Company “G,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. Sergeant Mays, with one other soldier, attacked a machine-gun post which was causing much damage. They captured the post, taking prisoner one officer and eight men, and put the gun out of action.”</p>
+          </div3>
+          <div3 type="section">
+            <head>WILSON D. BROOKSHIRE, Private, Company “G,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. Private Brookshire, with one other soldier, attacked a machine-gun post which was causing much damage. They captured the post, taking prisoner one officer and eight men, and put the machine-gun out of action.”</p>
+          </div3>
+          <div3 type="section">
+            <head>ELIJAH A. CAPPS, Private, Company “G,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. In the face of heavy machine-gun fire, Private Capps, with two other soldiers, attacked and put out of action an enemy machine-gun post, capturing a German officer and three soldiers.”</p>
+          </div3>
+          <div3 type="section">
+            <head>JOHNNIE LAMM, Private, Company “G,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. In the face of heavy machine-gun fire, Private Lamm, with two other soldiers, attacked and put out of action an enemy machine-gun post, capturing a German officer and three soldiers.”</p>
+          </div3>
+          <div3 type="section">
+            <head>DEWIE H. LAWHORNE, Private, Company “G,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. In the face of heavy machine-gun fire, Private Lawhorne, with two other soldiers, attacked and put out of action an enemy machine-gun post, capturing a German officer and three soldiers.”</p>
+          </div3>
+          <div3 type="section">
+            <head>GRAHAM W. HARRIS, Sergeant, Machine Gun Company, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. Becoming separated from his platoon in the dense smoke and fog with five other soldiers, Sergeant Harris kept his men together and continued the advance under heavy artillery and machine-gun fine. Upon reaching the objective he made a personal reconnaissance 600 yards to the front, capturing several prisoners, and assisting in breaking up three machine-gun nests. He remained in this advanced position until he was ordered back.”</p>
+          </div3>
+          <div3 type="section">
+            <head>WILLIAM H. POWELL, Sergeant, Machine Gun Company, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. Sergeant Powell, then a private, took charge of four other soldiers who had become separated from their platoon and led them forward toward the objective. Attacking a machine-gun nest, they captured seven prisoners and a Maxim gun, which they immediately put into action and fired 2,000 rounds at the enemy. They then continued to advance under heavy artillery and machine-gun fire.”</p>
+          </div3>
+          <div3 type="section">
+            <pb id="p48" n="48"/>
+            <head>CHARLES W. THOMPSON, Sergeant, Machine Gun Company, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Vaux Andigny, France, October 11, 1918. When his machine-gun position on the flank of the line became untenable, he crawled 20 yards in front of the position and opened fire with his rifle, covering the withdrawal of the crew and thereby saving both gun and crew from capture.”</p>
+          </div3>
+          <div3 type="section">
+            <head>ANDREW IRRGANG, Corporal, Machine Gun Company, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. After he had become separated from the rest of the platoon, Corporal Irrgang kept his squad together and broke up a machine-gun post, capturing the gunners and the gun. As his own gun had become disabled, he turned the captured gun around and fired 1,000 rounds from it, covering the advance of the infantry. He then continued to lead his squad forward under terrific artillery and machine-gun fire.”</p>
+          </div3>
+          <div3 type="section">
+            <head>DAVID H. LOVELACE, Private, Machine Gun Company, 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. His left arm having been rendered useless by a shrapnel wound, Private Lovelace continued to carry ammunition with his other arm until the objective was reached, when, against his protests, he was ordered to the rear for medical treatment.”</p>
+          </div3>
+          <div3 type="section">
+            <head>ARCHIE RIDDIC, Private, Company “F,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Vaux Andigny, France, October 19, 1918. When the position of his company had become untenable because of enemy machine-gun and artillery fire, Private Riddic, with another soldier, the sole survivors of a Lewis machine-gun team, covered the retreat of their company. Clinging to their advance post throughout the day, they took up the advance with the company at dusk that evening.”</p>
+          </div3>
+          <div3 type="section">
+            <head>GILBERT D. SHORT, Private, Company “F,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Vaux Andigny, France, October 19, 1918. When the position of his company had become untenable because of enemy machine-gun and artillery fire, Private Short, with another soldier, the sole survivors of a Lewis machine-gun team, covered the retreat of their company. Clinging to their advanced post throughout the day, they took up the advance with the company at dusk that evening.”</p>
+          </div3>
+          <div3 type="section">
+            <head>CLYDE SHELTON, Sergeant, Company “L,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Mazinghien, France, October 19, 1918. Sergeant Shelton, who was in command of a platoon, was ordered to post an automatic rifle so as to protect the right flank of his battalion, and in order to do this it was necessary to advance his line beyond a hedge and wire fence. Halting his platoon, he went forward himself, and under heavy fire, in clear view of the enemy, he cut an opening in the barrier. His courageous act permitted a patrol to pass through, and the line was subsequently established with a minimum of casualties.”</p>
+          </div3>
+          <div3 type="section">
+            <pb id="p49" n="49"/>
+            <head>JOHN A. CRAFTS, Private, Company “C,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. After being wounded in the right arm to such an extent that he could not continue his duties as stretcher-bearer, and after being ordered back for treatment, Private Crafts continued throughout the day and night, under heavy shell-fire, to assist such wounded as were able to walk.”</p>
+          </div3>
+          <div3 type="section">
+            <head>JOHN C. BYRUM, First Sergeant, Company “E,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. Although he was wounded at the very start of the attack, Sergeant Byrum continued with the advance, reorganizing scattered units and leading them back to the line. Later his arm was shot off, but he steadfastly refused evacuation until loss of blood so weakened him that he was taken to the rear.”</p>
+          </div3>
+          <div3 type="section">
+            <head>PETE McCOY, Private, Company “B,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Bellicourt, France, September 29, 1918. Unexpectedly encountering seven of the enemy, Private McCoy, single-handed, killed them all with his bayonet and a hand grenade. As a result of this feat he captured four hostile machine-gun emplacements and took seventeen prisoners out of a dugout near-by. Upon advancing farther he found a wounded officer, whom he sent to the rear in charge of another soldier, and continued on to the objective. Home address: Harrison McCoy (father), Thomas, Ky.”</p>
+          </div3>
+          <div3 type="section">
+            <head>WILLIAM M. WALLACE (Serial No. 1320330), Private, First Class, Company “E,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Mazinghien, France, October 19, 1918. With another soldier, Private Wallace volunteered and rescued a wounded comrade from an exposed position in front of the line, after two other men had lost their lives in attempting to do so. Home address: Mrs. Mary Wallace (mother), Othello, N. C.”</p>
+          </div3>
+          <div3 type="section">
+            <head>JAMES R. WILLIAMS (Serial No. 2002920), Private, First Class, Company “E,” 120th Infantry.</head>
+            <p>“For extraordinary heroism in action near Mazinghien, France, October 19, 1918. With another soldier, Private Williams volunteered and rescued a wounded comrade from an exposed position in front of the line after two other men had lost their lives in attempting to do so. Home address: Richard E. Williams (father), Peytonburg, Ky.”</p>
+          </div3>
+        </div2>
+      </div1>
+      <div1 type="appendix">
+        <head>APPENDIX “D”</head>
+        <p>Roster of officers 120th Infantry, showing names, rank, unit to which attached or assigned, with rank since Regiment was called into service, and known address.</p>
+        <pb id="p50" n="50"/>
+        <list type="simple">
+          <head>COLONELS</head>
+          <item>1.   Minor, Sidney W.   Durham, N. C.</item>
+          <item>2.   Scott, Don E. (Capt. Adj., Major 1st Bn., Lt.-Col.) . . . . . Graham, N. C.</item>
+          <item>3.   Cochran, William B.   U. S. A.</item>
+        </list>
+        <list type="simple">
+          <head>LIEUTENANT-COLONEL</head>
+          <item>4.   McGhee, Claude L.   Franklinton, N. C.</item>
+          <item> . . . . . MAJORS . . . . . </item>
+          <item>5.   Boddie, Samuel P. (Capt. “D” Co., Major 3rd Bn., wounded in action) . . . . . Louisburg, N. C.</item>
+          <item>6.   Comstock, Hilliard (Major 2nd Bn.) . . . . . Santa Rosa, Cal.</item>
+          <item>7.   Barnard, J. J. (Major 1st Bn.) . . . . . Raleigh, N. C.</item>
+          <item>8.   Graham, William A. (Capt. “H” Co., Major 2nd Bn.), . . . . . Warrenton, N. C.</item>
+          <item>9.   Jenkins, James W. (Capt. “C” Co., Major 3rd Bn.), . . . . . Henderson, N. C.</item>
+          <item>10.   Leonard, James A. (Capt. “A” Co., Major 1st Bn.) . . . . . Lexington, N. C.</item>
+          <item>11.   McCullen, Alpheus (Chaplain) . . . . . Durham, N. C.</item>
+          <item>12.   Newby, Carelton H. (Capt. “L” Co., Major in States), . . . . . Thomsville, N. C.</item>
+          <item>13.   McClintock, Charles A. (Major 3rd Bn.), . . . . . 6407 5th Ave., Pittsburgh, Pa.</item>
+          <item>14.   Phillips, Wade H. (Major 3rd Bn.) . . . . . Lexington, N. C.</item>
+          <item>15.   Walker, John O. (2nd Lt. “G” Co., 1st Lt. Hdqs. Co., Capt. Operations, Major 2nd Bn.) . . . . . Lynchburg, Va.</item>
+          <item>16.   Winston, Abram R. (Major M. C.) . . . . . Franklinton, N. C.</item>
+        </list>
+        <list type="simple">
+          <head>CAPTAINS</head>
+          <item>17.   Beck, Hampton S. (1st Lt. &amp; Capt. “E” Co.) . . . . . Winston-Salem, N. C.</item>
+          <item>18.   Byrd, Thomas B. (2nd Lt. &amp; 1st Lt. “H” Co., Capt. “G” Co.), . . . . . Winchester, Va.</item>
+          <item>19.   Burgess, Milo D. (2nd Lt. &amp; 1st Lt. “F” Co., Capt. “H” Co., wounded in action) . . . . . Maiden Rock, Wis.</item>
+          <item>20.   Boyson, Charles C. (Capt. “H” Co.) . . . . . Unknown</item>
+          <item>21.   Brennan, Arthur W. (Capt. M. C.) . . . . . 117 Snyder St., Syracuse, N. Y.</item>
+          <item>22.   Buchannan, Sidney E. (Capt. M. C.) . . . . . Concord, N. C.</item>
+          <item>23.   Cooke, George L. (1st Lt. Adj. 2nd Bn., Capt. Personnel Adj.), . . . . . Franklinton, N. C.</item>
+          <item>24.   Clark, Walter, Jr. (Capt. “B” Co.) . . . . . Raleigh, N. C.</item>
+          <item>25.   Craft, James C. (Capt. “D” Co.) . . . . . 4 W. 33rd St., New York City</item>
+          <item>26.   Chapman, Henry R. (Capt. “F” Co., killed in action), . . . . . 28 Rider Ave., Potchange, N. Y.</item>
+          <item>27.   Copeland, William V. (1st Lt. &amp; Capt. “I” Co., wounded in action), . . . . . Burlington, N. C.</item>
+          <pb id="p51" n="51"/>
+          <item>28.   Carter, Paul C. (1st Lt. &amp; Capt. M. C.) . . . . . Holly Springs, N. C.</item>
+          <item>29.   Dickens, Albert O. (2nd Lt. &amp; Capt. Adj.) . . . . . Louisburg, N. C.</item>
+          <item>30.   DeMalignon, Harry R. (Capt. M. G. Co.) . . . . . Aberdeen, S. Dak.</item>
+          <item>31.   Dixon, Ben F. (Capt. “K” Co., killed in action) . . . . . Raleigh, N. C.</item>
+          <item>32.   Fauntleroy, Thomas (Capt. Hdqs. Co.) . . . . . Memphis, Tenn.</item>
+          <item>33.   Fuller, Elbert E. (Capt. “E” Co.) . . . . . Oxford, N. C.</item>
+          <item>34.   Freeman, James C. (Capt. “I” Co.) . . . . . Burlington, N. C.</item>
+          <item>35.   Fenner, Edwin (Capt. “M” Co.) . . . . . Henderson, N. C.</item>
+          <item>36.   Huffman, George L. (Capt. “K” Co.) . . . . . Hickory, N. C.</item>
+          <item>37.   Jarvis, Culcus (Capt. “F” Co.) . . . . . Wilksboro, N. C.</item>
+          <item>38.   Kearney, Isaac H. (Capt. “F” Co.) . . . . . Franklinton, N. C.</item>
+          <item>39.   Lumsden, Charles F. (Capt. M. G. Co.) . . . . . Raleigh, N. C.</item>
+          <item>40.   Morrison, William L. (Capt. “B” Co.) . . . . . Unknown</item>
+          <item>41.   Mayes, John B. (1st Lt. M. G. &amp; “D” Co., Capt. “D” Co.), . . . . . Stem, N. C.</item>
+          <item>42.   Muldrow, Elmer (Capt. “F” Co.) . . . . . Florence, S. C.</item>
+          <item>43.   Murray, Edwin J. (Capt. “E” Co.) . . . . . Niagara Falls, N. Y.</item>
+          <item>44.   Mobley, James H. (1st Lt. &amp; Capt. “G” Co.) . . . . . Reidsville, N. C.</item>
+          <item>45.   Millner, Wallace B. (Capt. “G” Co.) . . . . . Reidsville, N. C.</item>
+          <item>46.   Poorman, Arthur G. (1st Lt. “A” &amp; “E” Cos., Capt. “A” &amp; “E” Cos., wounded in action) . . . . . Marshall, Ill.</item>
+          <item>47.   Price, Edward C. (Capt. “H” Co.) . . . . . Warrenton, N. C.</item>
+          <item>48.   Page, Walter E. (Capt. “M” Co.) . . . . . Durham, N. C.</item>
+          <item>49.   Powell, Claude M. (1st Lt. “M” Co., Capt. in States), . . . . . West Durham, N. C.</item>
+          <item>50.   Ray, Carl L. (Capt. Hdqs. &amp; “E” Cos.) . . . . . Brownsville, Texas</item>
+          <item>51.   Rau, John F. (Capt. “C” Co.) . . . . . Seattle, Wash.</item>
+          <item>52.   St. John, Frank L. (1st Lt. “M” Co. &amp; R. I. O., Capt. “M” Co., wounded in action) . . . . . Johnson City, Tenn.</item>
+          <item>53.   Sams, Ferrol A. (2nd Lt. “B” Co., 1st Lt. “A” Co., Capt. “B” Co., wounded in action) . . . . . Woosley, Ga.</item>
+          <item>54.   Steggall, James I. (1st Lt. “E” Co., Capt. in States) . . . . . Oxford, N. C.</item>
+          <item>55.   Stone, Wallace B. (1st Lt. &amp; Capt. “L” Co.) . . . . . Thomasville, N. C.</item>
+          <item>56.   Wooten, James G. (Capt. Hdqs. Co.) . . . . . Winston-Salem, N. C.</item>
+          <item>57.   Eastman, H. H. (Capt. Operations) . . . . . Vermont</item>
+          <item>58.   Winston, Stephen E. (Capt. Supply Co.) . . . . . Youngsville, N. C.</item>
+          <item>59.   Williams, John F. (2nd Lt., 1st Lt. &amp; Capt. “B” Co., wounded in action) . . . . . Charlotte, N. C.</item>
+          <item>60.   Whitfield, James E. (Capt. “F” Co.) . . . . . Franklinton, N. C.</item>
+          <item>61.   Young, Robert C. (1st Lt. Adj. 1st Bn., Capt. “I” Co., wounded in action) . . . . . Swannanoa, N. C.</item>
+          <item>62.   Zimpleman, Albert N. (2nd Lt., 1st Lt. &amp; Capt. Supply Co., . . . . . 3541 Perdue St., Cincinnati, Ohio</item>
+          <item>63.   Worsham, Adolphus E. (Capt. D. C.) . . . . . Ruffin, N. C.</item>
+        </list>
+        <list type="simple">
+          <pb id="p52" n="52"/>
+          <head>FIRST LIEUTENANTS</head>
+          <item>64.   Aughtry, Paul C. (“B” Co.) . . . . . Lykesland, S. C.</item>
+          <item>65.   Bryan, Robert E. (2nd Lt. “C” Co., 1st Lt. Supply Co.), . . . . . Henderson, N. C.</item>
+          <item>66.   Bunch, Henry C. (2nd &amp; 15th Lt. Hdqs. Co.), . . . . . 2119 E. Vine St., Knoxville, Tenn.</item>
+          <item>67.   Burrow, Lyle (“F” Co. &amp; A. D. C., wounded in action), . . . . . Bristol, Tenn.</item>
+          <item>68.   Bohannon, Shirley D. (“G” Co., killed in action) . . . . . Nashville, Tenn.</item>
+          <item>69.   Boyd, Gordon (“B” Co., killed in action) . . . . . New York City</item>
+          <item>70.   Boddie, Sterling G. (“C” Co.) . . . . . Henderson, N. C.</item>
+          <item>71.   Bing, Arden E. (“B” &amp; “C” Cos., wounded in action), . . . . . West Virginia</item>
+          <item>72.   Buckley, John W. (“A” &amp; “D” Cos.) . . . . . Washington, D. C.</item>
+          <item>73.   Clark, Fred E. (“M” Co., died of wounds) . . . . . Chicago, Ill.</item>
+          <item>74.   Cecil, Joe K. (“A” Co.) . . . . . Lexington, N. C.</item>
+          <item>75.   Cox, Alfred R. (“G” Co.) . . . . . Ashboro, N. C.</item>
+          <item>76.   Dickens, Sammie W. (2nd Lt. “D” Co., Asst. Lt. Adj. 3rd Bn.), . . . . . Enfield, N. C.</item>
+          <item>77.   Dayton, Julian (2nd Lt. “D” Co., Hdqs. Co.) . . . . . Memphis, Tenn.</item>
+          <item>78.   Dixon, Wright T. (M. G. Co.) . . . . . Raleigh, N. C.</item>
+          <item>79.   Ellington, James M. (2nd &amp; 1st Lt. “E” Co., wounded in action), . . . . . Oxford, N. C.</item>
+          <item>80.   Edwards, Emmett M. (“F” C.) . . . . . Franklinton, N. C.</item>
+          <item>81.   Ellis, Lewis C. (Hdqs. Co.) . . . . . Grover, N. C.</item>
+          <item>82.   Everett, Albert D. (Hdqs. &amp; “G” Cos.) . . . . . Nashville, Tenn.</item>
+          <item>83.   Francis, Hugh H. (“G” Co. &amp; Bn., I. O., wounded in action), . . . . . Bloomer, Wis.</item>
+          <item>84.   Fogo, Edward T. (“C” Co., wounded in action), . . . . . 720 Broadway, Wellsville, Ohio</item>
+          <item>85.   Freeland, Robert C. (2nd &amp; 1st Lt. “F” Co.) . . . . . Bahama, N. C.</item>
+          <item>86.   Fox, William F. (“K” Co., wounded in action) . . . . . Unknown</item>
+          <item>87.   Earnhardt, Raymond P. (2nd &amp; 1st Lt. “A” Co.) . . . . . Lexington, N. C.</item>
+          <item>88.   Gilliland, Frank M. (Hdqs. Co.) . . . . . 313 S. Pauline St., Memphis, Tenn.</item>
+          <item>89.   Gillespie, Gordon (2nd Lt. “D” Co., 1st Lt. M. G. &amp; “L” Cos., killed in action) . . . . . Greenwood, Miss.</item>
+          <item>90.   Glover, Gary I. (2nd Lt. M. G. Co., 1st Lt. “L” Co.), . . . . . Roanoke Rapids, N. C.</item>
+          <item>91.   Gross, H. A. (M. G. Co., killed by accident) . . . . . Unknown</item>
+          <item>92.   Goss, Edward C. (“M” Co.) . . . . . Winchester, Va.</item>
+          <item>93.   Hervey, Henry J. (Adj. 3rd Bn. &amp; Supply Co.) . . . . . Raleigh, N. C.</item>
+          <item>94.   Heald, Thomas J. (2nd &amp; 1st Lt. Co. “E,” Adj. 2nd Bn.), . . . . . Washington, D. C.</item>
+          <item>95.   Harvey, Alfred (2nd &amp; 1st Lt. “F” Co., Bn. I. O., killed in action), . . . . . Radford, Va.</item>
+          <item>96.   Honeycutt, Adolph (“M” Co.) . . . . . Durham, N. C.</item>
+          <item>97.   Harrison, Ralph W. (2nd Lt. “C” Co., 1st Lt. “B” &amp; “C” Cos.), . . . . . 80 Prospect St., East Orange, N. J.</item>
+          <pb id="p53" n="53"/>
+          <item>98.   Harris, George M. (2nd &amp; 1st Lt. “C” Co., wounded in action), . . . . . Henderson, N. C.</item>
+          <item>99.   Holliday, Floyd T. (M. G. Co.) . . . . . Gary, Ind.</item>
+          <item>100.   Hester, Harvey S. (2nd Lt. “F” Co., 1st Lt. “A” &amp; “B” Cos., wounded in action) . . . . . Asheville, N. C.</item>
+          <item>101.   Hardy, Marvin W. (2nd &amp; 1st Lt. “H” Cos.) . . . . . Norlina, N. C.</item>
+          <item>102.   Hamilton, John W. (“H” Co., wounded in action) . . . . . Pleasanton, Kan.</item>
+          <item>103.   Homsher, Leroy P. (“I” &amp; “M” Cos., died of disease), . . . . . Box 1351, Tulsa, Okla.</item>
+          <item>104.   Huntzinger, Frank E. (“I” &amp; “E” Cos., killed in action), . . . . . Nobleville, Ind.</item>
+          <item>105.   Hendley, J. Helmis (“E” Co.) . . . . . Columbia, S. C.</item>
+          <item>106.   Juden, Lewis K. (“D” Co., Bn. I. O., Regt. I. O., died from gas), . . . . . 2207 &amp; 17th St., Oklahoma City, Okla.</item>
+          <item>107.   Jennings, Robert E. (“G” Co.) . . . . . Orangeburg, S. C.</item>
+          <item>108.   Gant, Minter (2nd &amp; 1st Lt. “D” Co., wounded in action), . . . . . Columbia, Tenn.</item>
+          <item>109.   Grey, Ben H. (2nd Lt. “D” Co., 1st Lt. in States), . . . . . Winston-Salem, N. C.</item>
+          <item>110.   Gardner, Lewis W. (“D” Co.) . . . . . Statesville, N. C.</item>
+          <item>111.   Gold, Thomas B. (M. C.) . . . . . Shelby, N. C.</item>
+          <item>112.   Kirkman, Hugh C. (“D” Co.) . . . . . Hermitage Club, Knoxville, Tenn.</item>
+          <item>113.   Keith, Marshall J. (“L” Co., wounded in action) . . . . . Unknown</item>
+          <item>114.   Kennedy, Henry B. (“M” Co.) . . . . . Camden, S. C.</item>
+          <item>115.   Lovett, Clarence J. (2nd &amp; 1st Lt. “K” Co., Bn. I. C.), . . . . . Ashboro, N. C.</item>
+          <item>116.   Lindsay, Evans W. (“G” &amp; “H” Cos.) . . . . . Richmond, Va.</item>
+          <item>117.   Limer, Archibald W. (2nd &amp; 1st Lt. “H” Co., killed in action), . . . . . Afton, N. C.</item>
+          <item>118.   Loomis, Stanley D. (2nd &amp; 1st Lt. “I” Co., wounded in action), . . . . . Messhopin, Pa.</item>
+          <item>119.   Luck, Everett J. (“K” Co.) . . . . . Ashboro, N. C.</item>
+          <item>120.   Landis, William T. (2nd Lt. “E” Co., 1st Lt. “K” Co., wounded in action) . . . . . Oxford, N. C.</item>
+          <item>121.   Little, Robert O. (2nd &amp; 1st Lt. “L” Co., gassed), . . . . . Thomasville, N. C.</item>
+          <item>122.   Long, Frank M. (“L” Co.) . . . . . Unknown</item>
+          <item>123.   Moore, Carlton R. (2nd &amp; 1st Lt. “G” Co., wounded in action), . . . . . Richmond, Va.</item>
+          <item>124.   Mason, Elmer B. (2nd &amp; 1st Lt. “K” Co., wounded in action), . . . . . Yale Club, New York City</item>
+          <item>125.   Marshall, Thomas B. (“L” Co., wounded in action) . . . . . Columbia, S. C.</item>
+          <item>126 . . . . . McCullen, William L. (2nd &amp; 1st Lt. “H” Co., killed in action), . . . . . Durham, N. C.</item>
+          <item>127.   McConnell, Fred Y. (2nd Lt. “A” Co., 1st Lt. “E” Co., killed in action) . . . . . Concord, N. C.</item>
+          <item>128.   McCaskey, Clare P. (“L” &amp; “K” Cos., killed in action) . . . . . Chicago, Ill.</item>
+          <item>129.   McMichael, John (“C” Co.) . . . . . New Jersey</item>
+          <pb id="p54" n="54"/>
+          <item>130.   McRae, Donald C. (2nd Lt. “L” &amp; M. G. Cos., 1st Lt. in States), . . . . . Thomasville, N. C.</item>
+          <item>131.   McGeachey, Robert S. (M. C.) . . . . . Raleigh, N. C.</item>
+          <item>132.   McKay, William P. (M. C.) . . . . . Red Springs, N. C.</item>
+          <item>133.   Nolen, Beverly T. (M. C.) . . . . . Franklin, Tenn.</item>
+          <item>134.   Perry, Charles W. (2nd Lt. “M” Co., 1st Lt. Adj. 1st Bn.), . . . . . Durham, N. C.</item>
+          <item>135.   Probst, William L. (2nd Lt. “A” Co., 1st Lt. Bn. I. O.), . . . . . Lexington, N. C.</item>
+          <item>136.   Pouch, Harold E. (“E” Co., killed in action) . . . . . New York</item>
+          <item>137.   Parish, Edward B. (“B” Co.) . . . . . Raleigh, N. C.</item>
+          <item>138.   Pindell, Elmer (2nd Lt. “B” Co., 1st Lt. “F” &amp; “L” Cos.) . . . . . Unknown</item>
+          <item>139.   Richards, Charles O. (2nd &amp; 1st Lt. “A” Co., wounded in action), . . . . . Little Rock, Ark.</item>
+          <item>140.   Richardson, William B. (“G” Co.) . . . . . Reidsville, N. C.</item>
+          <item>141.   Ricks, Garland A. (“D” Co.) . . . . . Louisburg, N. C.</item>
+          <item>142.   Peters, Hugh L. (“D” Co.) . . . . . Knoxville, Tenn.</item>
+          <item>143.   Phillips, Hubert L. (M. C.) . . . . . Clifton, Tenn.</item>
+          <item>144.   Stanley, William L. (M. C.) . . . . . Yantley, Ala.</item>
+          <item>145.   Scott, Walter W. (M. C.) . . . . . Jackson, Miss.</item>
+          <item>146.   Sturdavant, James N. (M. C.) . . . . . Marshville, N. C.</item>
+          <item>147.   Topping, Howard E. (D. C.) . . . . . Roanoke, Va.</item>
+          <item>148.   Smith, Wilbert L. (“D” Co.) . . . . . Unknown</item>
+          <item>149.   Sparrow, Evans C. (2nd &amp; 1st Lt. “M” Co.) . . . . . Lowell, N. C.</item>
+          <item>150.   Swann, Nathaniel H. (“M” Co.) . . . . . Pelham, N. C.</item>
+          <item>151.   Toy, Harry S. (M. G. Co.) . . . . . Chicago, Ill.</item>
+          <item>152.   Taylor, Hames A. (2nd &amp; 1st Lt. “E” Co., D. A. O., R. I. O.), . . . . . Oxford, N. C.</item>
+          <item>153.   Vantubergen, Elmer D. (2nd &amp; 1st Lt. “A” Co.) . . . . . East Orange, N. J.</item>
+          <item>154.   Veach, Milton W. (2nd &amp; 1st Lt. “I” Co.) . . . . . Thomasville, N. C.</item>
+          <item>155.   Walker, Hal W. (2nd &amp; 1st Lt. “K” Co., wounded in action), . . . . . Ashboro, N. C.</item>
+          <item>156.   Wilson, Rufus D. (2nd &amp; 1st Lt. “I” Co., wounded in action), . . . . . Burlington, N. C.</item>
+          <item>157.   Woolford, Henry E. (“D” Co., died of wounds), . . . . . 119 S. Washington St., Green Bay, Wis.</item>
+          <item>158.   Williams, Clyde P. (“D” Co.) . . . . . Fulton, Ky.</item>
+          <item>159.   Wilson, Russell B. (M. C.) . . . . . Gates, Tenn.</item>
+        </list>
+        <list type="simple">
+          <head>SECOND LIEUTENANTS</head>
+          <item>160.   Ailor, Thurman (Hdqs. Co.) . . . . . Sugginsville, Tenn.</item>
+          <item>161.   Anderson, Edgar M. (Supply Co.) . . . . . Unknown</item>
+          <item>162.   Bigelow, Lee H. (“G” Co.) . . . . . Columbus, Ohio</item>
+          <item>163.   Brisbine, Dawes E. (“H” Co.) . . . . . Spooner, Wis.</item>
+          <item>164.   Boston, John R. (“K” &amp; “I” Cos., wounded in action) . . . . . Chicago, Ill.</item>
+          <item>165.   Blanknik, Clarence (M. G. &amp; “H” Cos.) . . . . . Lena, Wis.</item>
+          <pb id="p55" n="55"/>
+          <item>166.   Bogar, Basil E. (“E” Co.) . . . . . Creston, Iowa</item>
+          <item>167.   Belville, Eugene (“F” Co.) . . . . . St. Louis, Mo.</item>
+          <item>168.   Blackley, Walter G. (“F” Co.) . . . . . Richmond, Va.</item>
+          <item>169.   Brown, Carrol H. (“F” Co.) . . . . . Luling, Texas</item>
+          <item>170.   Berry, Paul B. (“A” Co.) . . . . . Saginaw, Mich.</item>
+          <item>171.   Bull, Frank H. (“A” Co.) . . . . . Brooklyn, N. Y.</item>
+          <item>172.   Blackmon, King H. (“M” Co.) . . . . . Timpson, Texas</item>
+          <item>173.   Cane, Charles S. (“B” &amp; “D” Cos.) . . . . . Alexander, Neb.</item>
+          <item>174.   Couch, William A. (“M” Co.) . . . . . Durham, N. C.</item>
+          <item>175.   Carpenter, Earl W. (“I” Co.) . . . . . Guide Rock, Neb.</item>
+          <item>176.   Culbert, Daniel C. (“D” &amp; “L” Cos., killed in action), . . . . . Thomasville, N. C.</item>
+          <item>177.   Chase, James A. (“L” Co.) . . . . . Denver, Colo.</item>
+          <item>178.   Craft, John T. (Hdqs. Co., wounded in action) . . . . . Holly Springs, Miss.</item>
+          <item>179.   Crawford, Harry A. (Hdqs. Co.) . . . . . Memphis, Tenn.</item>
+          <item>180.   Crumblish, William J. (M. G. Co.) . . . . . Buffalo, N. Y.</item>
+          <item>181.   Daugherty, George W. (“C” Co.) . . . . . Laclata, Mo.</item>
+          <item>182.   Disney, Albert B. (“L” Co.) . . . . . Baltimore, Md.</item>
+          <item>183.   Donovan, Percy J. (“E” &amp; “H” Cos.) . . . . . Detroit, Mich.</item>
+          <item>184.   Eggert, Leslie F. (“L” Co., wounded in action) . . . . . Unknown</item>
+          <item>185.   Edwards, Evans (“G” &amp; Supply Cos.), . . . . . 3809 Chatham Road, Baltimore, Md.</item>
+          <item>186.   Flippen, Erie B. (Hdqs. Co.) . . . . . Memphis, Tenn.</item>
+          <item>187.   Freistead, Willis D. (“F” Co., wounded in action), . . . . . 2906 Sheridan Road, Chicago, Ill.</item>
+          <item>188.   Green, Andrew H. (“F” Co., Act. Adj. 2nd Bn., wounded in action), . . . . . Raleigh, N. C.</item>
+          <item>189.   Gravenskemper, Charles W. (“G” &amp; Hdqs. Co.) . . . . . Cincinnati, Ohio</item>
+          <item>190.   Gallishaw, John (“F” Co., Act. Adj. 2nd Bn., wounded with B. A.), . . . . . Chauncey St., Cambridge, Mass.</item>
+          <item>191.   Hummil, Leslie R. (M. G. Co.) . . . . . Wilmington, N. C.</item>
+          <item>192.   Hoefer, John J. (“E” Co.) . . . . . Elmira, N. Y.</item>
+          <item>193.   Holmes, Harold J. (“F” &amp; “I” Cos.) . . . . . Franklinton, N. C.</item>
+          <item>194.   Hundley, Robert G. (“F” Co.) . . . . . Farmville, Va.</item>
+          <item>195.   James, Thomas J. (“B” Co., killed in action) . . . . . Ferguson, N. C.</item>
+          <item>196.   Loudon, Roy V. (Hdqs. Co.) . . . . . Denver, Colo.</item>
+          <item>197.   Mackin, James G. (“L” Co.) . . . . . Montrose, Pa.</item>
+          <item>198.   Mitchell, Robert L. (“M” Co.) . . . . . Durham, N. C.</item>
+          <item>199.   Murphy, Robert E. (“M” Co.) . . . . . Unknown</item>
+          <item>200.   Mitchell, James L. (“G” Co.) . . . . . Winston-Salem, N. C.</item>
+          <item>201.   Mason, Joseph T. (“H” Co.) . . . . . White Station, Tenn.</item>
+          <item>202.   Miller, Clyde R. (Supply Co.) . . . . . Scottsdale, Pa.</item>
+          <item>203.   Morey, Edward J. (“E” Co.) . . . . . Omaha, Neh.</item>
+          <item>204.   McNulty, Frank J. (M. G. Co.) . . . . . Unknown</item>
+          <item>205.   Oppenheim, Morris C. (M. G. Co.) . . . . . Unknown</item>
+          <item>206.   Portwood, Thomas B. (M. G. Co., wounded in action), . . . . . Bell Plains, Kan.</item>
+          <pb id="p56" n="56"/>
+          <item>207.   Pretlow, Barclay (“E” Co.) . . . . . Franklin, Va.</item>
+          <item>208.   Prescott, Oliver W. (“C” &amp; “K” Cos., killed in action), . . . . . 1626 N. 6th St., Sheboygan, Wis.</item>
+          <item>209.   Perrin, James W. (“H” Co.) . . . . . South Carolina</item>
+          <item>210.   Parker, William S. (Hdqs. Co.) . . . . . 300 Decatur St., Memphis, Tenn.</item>
+          <item>211.   Quimby, Edward M. (“M” Co.) . . . . . Wooster, Ohio</item>
+          <item>212.   Reynolds, DeWitt (“K” Co.) . . . . . Star, N. C.</item>
+          <item>213.   Rumble, Lester (M. G. Co.) . . . . . Unknown</item>
+          <item>214.   Robertson, Owen S. (“C” Co., wounded in action) . . . . . North Carolina</item>
+          <item>215.   Sharpe, John B. (M. G. Co., wounded in action) . . . . . Columbia, Miss.</item>
+          <item>216.   Shea, Francis R. (M. G. Co.) . . . . . Pennsylvania</item>
+          <item>217.   Sly, Henry O. (M. G. Co.) . . . . . Unknown</item>
+          <item>218.   Singleton, William C. (“F” Co.) . . . . . Florence, S. C.</item>
+          <item>219.   Shaw, John T. (“A” &amp; “H” Cos., wounded by accident), . . . . . Memphis, Tenn.</item>
+          <item>220.   Snyder, Irving T. (“M” Co.) . . . . . Denver, Colo.</item>
+          <item>221.   Smith, Dalton E. (“M” Co., killed in action) . . . . . Trinity, N. C.</item>
+          <item>222.   Skinner, Dwight L. (“M” Co.) . . . . . Denver, Colo.</item>
+          <item>223.   Syrup, S. C. (“K” Co.) . . . . . New York City</item>
+          <item>224.   Sinclair, Ike A. (“H” Co.) . . . . . Dyersburg, Tenn.</item>
+          <item>225.   Taylor, Miner M. (“D” Co.) . . . . . Rochester, N. Y.</item>
+          <item>226.   Talcott, Edward (“C” &amp; “D” Cos.) . . . . . New York City</item>
+          <item>227.   Turner, Thomas H. (“G” Co., wounded in action) . . . . . Mayodan, N. C.</item>
+          <item>228.   Sharp, John B. (“L” Co.) . . . . . Unknown</item>
+          <item>229.   Underwood, Robert E. (“D” &amp; Supply Cos.) . . . . . Youngsville, N. C.</item>
+          <item>230.   Underwood, Albert F. (“L” Co.) . . . . . Unknown</item>
+          <item>231.   Weed, Lee H. (“A” &amp; “B” Cos., wounded in action) . . . . . Memphis, Tenn.</item>
+          <item>232.   Woehlke, William (“K” Co.) . . . . . Unknown</item>
+          <item>233.   Worsham, A. D. (“K” Co.) . . . . . Unknown</item>
+          <item>234.   Ward, Ervin L. (M. G. Co.) . . . . . Belvedere, N. C.</item>
+          <item>235.   Wrenn, William J. (M. G. Co.) . . . . . Knoxville, Tenn.</item>
+          <item>236.   Walker, Alfred H. (“M” Co.) . . . . . Reidsville, N. C.</item>
+          <item>237.   Whyte, Lincoln D. (“M” Co., wounded in action), . . . . . 518 W. 145th St., New York City</item>
+          <item>238.   Wesson, Lowell T. (“M” Co., first officer killed in action) . . . . . Unknown</item>
+          <item>239.   Yarborough, Grady R. (“A” Co.) . . . . . Lexington, N. C.</item>
+        </list>
+        <list type="simple">
+          <head>CHAPLAINS</head>
+          <item>240.   McClellan, George H. (1st Bn. Lt.) . . . . . New York City</item>
+          <item>241.   Turner, James (2nd Bn. Lt.) . . . . . Wake Forest, N. C.</item>
+          <item>242.   Baker, Arthur G. (3rd Bn. Lt.) . . . . . Chicago, Ill.</item>
+          <item>243.   Ritter, Mr. (Y. M. C. A.) . . . . . Unknown</item>
+        </list>
+      </div1>
+    </back>
+  </text>
+</TEI.2>

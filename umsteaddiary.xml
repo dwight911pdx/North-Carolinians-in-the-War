@@ -1,0 +1,449 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite2.dtd" [
+<!ENTITY umsteadviii SYSTEM "umsteadviii.jpg" NDATA jpeg>
+<!ENTITY umsteadv SYSTEM "umsteadv.jpg" NDATA jpeg>
+<!ENTITY umsteadvii SYSTEM "umsteadvii.jpg" NDATA jpeg>
+<!ENTITY umstead03 SYSTEM "umstead03.jpg" NDATA jpeg>
+<!ENTITY umstead02 SYSTEM "umstead02.jpg" NDATA jpeg>
+<!ENTITY umstead01 SYSTEM "umstead01.jpg" NDATA jpeg>
+<!ENTITY umstead04 SYSTEM "umstead04.jpg" NDATA jpeg>
+<!ENTITY umstead05 SYSTEM "umstead05.jpg" NDATA jpeg>
+<!ENTITY umstead06 SYSTEM "umstead06.jpg" NDATA jpeg>
+<!ENTITY umstead07 SYSTEM "umstead07.jpg" NDATA jpeg>
+<!ENTITY umstead08 SYSTEM "umstead08.jpg" NDATA jpeg>
+<!ENTITY umstead09 SYSTEM "umstead09.jpg" NDATA jpeg>
+<!ENTITY umstead11 SYSTEM "umstead11.jpg" NDATA jpeg>
+<!ENTITY umstead10 SYSTEM "umstead10.jpg" NDATA jpeg>
+<!ENTITY umstead12 SYSTEM "umstead12.jpg" NDATA jpeg>
+<!ENTITY umstead13 SYSTEM "umstead13.jpg" NDATA jpeg>
+<!ENTITY umstead14 SYSTEM "umstead14.jpg" NDATA jpeg>
+<!ENTITY umstead15 SYSTEM "umstead15.jpg" NDATA jpeg>
+<!ENTITY umstead16 SYSTEM "umstead16.jpg" NDATA jpeg>
+<!ENTITY umstead17 SYSTEM "umstead17.jpg" NDATA jpeg>
+<!ENTITY umstead18 SYSTEM "umstead18.jpg" NDATA jpeg>
+<!ENTITY umstead19 SYSTEM "umstead19.jpg" NDATA jpeg>
+<!ENTITY umstead20 SYSTEM "umstead20.jpg" NDATA jpeg>
+<!ENTITY umstead21 SYSTEM "umstead21.jpg" NDATA jpeg>
+<!ENTITY umstead22 SYSTEM "umstead22.jpg" NDATA jpeg>
+<!ENTITY umstead23 SYSTEM "umstead23.jpg" NDATA jpeg>
+<!ENTITY umstead24 SYSTEM "umstead24.jpg" NDATA jpeg>
+<!ENTITY umstead25 SYSTEM "umstead25.jpg" NDATA jpeg>
+<!ENTITY umstead26 SYSTEM "umstead26.jpg" NDATA jpeg>
+<!ENTITY umsteadiii SYSTEM "umsteadiii.jpg" NDATA jpeg>
+<!ENTITY umsteadvi SYSTEM "umsteadvi.jpg" NDATA jpeg>
+<!ENTITY umsteadcv SYSTEM "umsteadcv.jpg" NDATA jpeg>
+<!ENTITY umsteadii SYSTEM "umsteadii.jpg" NDATA jpeg>
+<!ENTITY umsteadiv SYSTEM "umsteadiv.jpg" NDATA jpeg>
+<!ENTITY umsteadix SYSTEM "umsteadix.jpg" NDATA jpeg>
+<!ENTITY umsteadi SYSTEM "umsteadi.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>William Bradley and Merle Davis Umstead papers (#4529). My Diary. A Soldier's Record. 16 August 1917-4 July 1918:</emph>
+Electronic Edition.</title>
+        <author>Umstead, William Bradley, 1895-1954</author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Diary transcribed by </resp>
+          <name> Amy Davis </name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Harris Henderson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name id="ns">Melissa Meeks  and Natalia Smith</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca.     40 K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="title page"> My Diary</title>
+            <title type="cover"> My Diary:   A Soldier's Record</title>
+            <author id="wbu">William B. Umstead</author>
+          </titleStmt>
+          <extent>    36  p., page images</extent>
+          <publicationStmt>
+            <pubPlace/>
+            <publisher/>
+            <date/>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes"/>
+            <note anchored="yes">Call number   SHC #4529 (Manuscripts Dept., Southern Historical Collection, University of North Carolina at Chapel Hill)</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p> Transcript of the diary. The original is in the Southern Historical 
+Collection, University of North Carolina at Chapel Hill. </p>
+        <p>Page images can be
+viewed and compared in parallel with the text.</p>
+        <p>Original 
+grammar, punctuation, and spelling have been preserved. </p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+            <edition/>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>United States. Army -- Military life.</item>
+            <item>North Carolina -- Social life and customs.</item>
+            <item>Soldiers -- North Carolina -- Diaries.</item>
+            <item>World War, 1914-1918 -- North Carolina.</item>
+            <item>World War, 1914-1918 -- Personal narratives, American.</item>
+            <item>United States. Army -- Officers -- Diaries.</item>
+            <item>Umstead, William Bradley, 1895-1954 -- Diaries.</item>
+            <item>Soldiers -- Religious life.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-06-13, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog 
+record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-05-29,  </date>
+        <respStmt>
+          <name>  Natalia Smith, </name>
+          <resp>project manager, </resp>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-05-20, </date>
+        <respStmt>
+          <name>Melissa Meeks</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-04-10, </date>
+        <respStmt>
+          <name/>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing   the  manuscript.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div1 type="cover">
+        <pb id="umsteadcv" n="Cover" entity="umsteadcv"/>
+        <head>MY DIARY<lb/>
+A SOLDIER'S RECORD</head>
+        <pb id="umsteadi" n="cover verso" entity="umsteadi"/>
+        <list type="simple">
+          <item>PROPERTY OF  Wm. B. Umstead</item>
+          <item>GRADE  2nd Lt.       No. ____</item>
+          <item>COMPANY   A</item>
+          <item><del resp="wbu">REGIMENT</del>   317 M. G. Bat.</item>
+        </list>
+      </div1>
+      <div1 type="half-title page">
+        <pb id="umsteadii" n="half-title" entity="umsteadii"/>
+        <head>MY DIARY</head>
+        <p/>
+      </div1>
+      <div1 type="introductory material">
+        <pb id="umsteadiii" n="[iii]" entity="umsteadiii"/>
+        <head>DIARY HINTS</head>
+        <list type="simple">
+          <item>USE SNAPSHOTS TO ILLUSTRATE<lb/>
+ENTRIES IN THIS BOOK.</item>
+          <item>IN THE BACK OF THIS DIARY,<lb/>
+SPACE IS ALLOTTED FOR PRESS<lb/>
+CLIPPINGS AND ACCOUNTS</item>
+          <item>IN PASTING CLIPPINGS, PUT PASTE<lb/>
+ALONG LEFT EDGE AND THEN <lb/>
+AFFIX TO A PERPENDICULAR LINE<lb/>
+—WHEN PAGE IS FULL, CLIPPINGS WILL OVERLAP.</item>
+          <item>KEEP ACCOUNT OF YOUR RE-<lb/>
+CEIPTS AND EXPENDITURES.</item>
+          <item>PERSEVERE WITH YOUR DIARY —<lb/>
+WHEN THE TOIL OF THE GAME<lb/>
+IS OVER, THE BOOK WILL BE A <lb/>
+SOURCE OF PLEASURE NEVER <lb/>
+ENDING.</item>
+        </list>
+      </div1>
+      <titlePage rend="italics">
+        <pb id="tp" n="title page" entity="umsteadiv"/>
+        <docTitle>
+          <titlePart type="main">MY DIARY</titlePart>
+        </docTitle>
+        <titlePart type="main">
+          <hi rend="italics">Paste your photo here</hi>
+        </titlePart>
+        <docImprint><docDate>1917</docDate>
+<publisher>MOFFAT, YARD&amp; COMPANY</publisher>
+<pubPlace>New York</pubPlace>
+<pb id="umsteadv" n="verso" entity="umsteadv"/><docDate>Copyright 1917</docDate>
+<publisher>By
+MOFFAT, YARD&amp; COMPANY</publisher></docImprint>
+      </titlePage>
+      <div1>
+        <pb id="umsteadvi" n="[vi]" entity="umsteadvi"/>
+        <list type="simple">
+          <head>STATISTICS</head>
+          <item>FULL NAME   Wm. B. Umstead</item>
+          <item>DATE OF BIRTH   May 13, 1895</item>
+          <item>PLACE OF BIRTH   Durham Co. N. Car.</item>
+          <item>MY WEIGHT  150    MY HEIGHT  5 ft. 9 1/2 in.</item>
+          <item>DATE OF ENLISTMENT IN U.S. ARMY _____</item>
+          <item>ENLISTED AT _____________________</item>
+          <item>REGIMENT _______________________</item>
+          <item>COMPANY ________________________</item>
+          <item>DATE OF ENLISTMENT IN NATIONAL GUARD
+REGIMENT ______________</item>
+          <item>COMPANY _______________________________</item>
+          <item>MUSTERED INTO FEDERAL SERVICE __________</item>
+          <item>TRANSFERS AND PROMOTIONS ______________</item>
+          <item>MY NEAREST RELATIVE   Mr. J. W <lb/>Umstead</item>
+          <item>ADDRESS Bahama N. Car.</item>
+        </list>
+        <q direct="unspecified">
+          <p>IN CASE OF MY DEATH, SEND THIS BOOK TO
+ABOVE.</p>
+        </q>
+        <pb id="umsteadvii" n="[vii]" entity="umsteadvii"/>
+        <list type="simple">
+          <item>MY FIRST COMPANY COMMANDER ________________________________________________</item>
+          <item>MY PRESENT CAPTAIN _________________________</item>
+          <item>REGIMENTAL COMMANDER ____________________</item>
+          <item>BATTALION COMMANDER ______________________</item>
+          <item>I AM A MEMBER OF __________________ SQUAD</item>
+          <item>THE CORPORAL IS ______________________________</item>
+          <item>THE OTHER MEMBERS ARE—
+______________________   ___________________<lb/>
+______________________   ___________________<lb/>
+______________________   ___________________</item>
+          <item>WE LEFT ___________________________ ON THE<lb/>
+PRESENT TOUR OF SERVICE ___________  191 </item>
+          <item>TIME __________________</item>
+          <item>FIRST STOP AT ____________________________</item>
+          <item>DATE ________________________ TIME __________</item>
+        </list>
+      </div1>
+      <div1>
+        <pb id="umsteadviii" n="[viii]" entity="umsteadviii"/>
+        <p>
+          <table>
+            <head>AUTOGRAPHS</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1"> NAME   </cell>
+              <cell role="data" rows="1" cols="1"> MET AT </cell>
+              <cell role="data" rows="1" cols="1">  DATE </cell>
+            </row>
+          </table>
+        </p>
+        <pb id="umsteadix" n="[ix]" entity="umsteadviii"/>
+        <p>
+          <table>
+            <head>AUTOGRAPHS</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1"> NAME   </cell>
+              <cell role="data" rows="1" cols="1"> MET AT </cell>
+              <cell role="data" rows="1" cols="1">  DATE </cell>
+            </row>
+          </table>
+        </p>
+        <pb id="umsteadx" n="[x]" entity="umsteadviii"/>
+        <p>
+          <table>
+            <head>AUTOGRAPHS</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1"> NAME   </cell>
+              <cell role="data" rows="1" cols="1"> MET AT </cell>
+              <cell role="data" rows="1" cols="1">  DATE </cell>
+            </row>
+          </table>
+        </p>
+        <pb id="umsteadxi" n="[xi]" entity="umsteadviii"/>
+        <p>
+          <table>
+            <head>AUTOGRAPHS</head>
+            <row role="data">
+              <cell role="data" rows="1" cols="1"> NAME   </cell>
+              <cell role="data" rows="1" cols="1"> MET AT </cell>
+              <cell role="data" rows="1" cols="1">  DATE </cell>
+            </row>
+          </table>
+        </p>
+      </div1>
+      <div1>
+        <pb id="umsteadxii" n="[xii]" entity="umsteadix"/>
+        <head>HEALTH HINTS</head>
+        <list type="simple">
+          <item>Take care of your feet. They are<lb/>
+your best friends. Keep them clean<lb/>
+and dry.</item>
+          <item>Nightly washing prevents aching<lb/>
+feet.</item>
+          <item>Puncture blisters but leave loose<lb/>
+skin in place, covering blister spot<lb/>
+with adhesive tape. Apply tape to<lb/>
+an aching spot and you'll never have<lb/>
+a blister.</item>
+          <item>Shun lewd women.</item>
+          <item>Bathe whenever possible.</item>
+          <item>Keep your teeth in good condition.</item>
+          <item>When on the march, take full<lb/>
+advantage of halts. Remember, the<lb/>
+first stop is longest so that you can<lb/>
+obey demands of nature and also ad-<lb/>
+just your pack. Use this time for<lb/>
+your own comfort.</item>
+          <item>Familiarize yourself with the prin-<lb/>
+ciples of First Aid.</item>
+          <item>If you feel “off color,” swallow<lb/>
+your false pride and report the fact.</item>
+          <item>Avoid all alcoholic beverages.</item>
+          <item>Never fail to wash your hands <hi rend="italics">before</hi><lb/>
+eating and after soiling them in any<lb/>
+manner.</item>
+        </list>
+      </div1>
+    </front>
+    <body>
+      <div1 type="section">
+        <pb id="umstead01" n="[1]" entity="umstead01"/>
+        <head>Aug. 16, 1917</head>
+        <p>After three months<lb/>hard and intense<lb/>training at Ft. Ogle-<lb/>thorpe Ga, I was<lb/>commissioned as<lb/>a second Lt. Inf.<lb/>O. R. C. I was<lb/>appointed Aug. 15<lb/>1917, and was<lb/>ordered into active<lb/>Service on that<lb/>date, with orders<lb/>to report at Camp<lb/>Jackson, Columbia<lb/>S. C. Aug. 29, 1917.</p>
+      </div1>
+      <div1 type="section">
+        <pb id="umstead02" n="[2]" entity="umstead02"/>
+        <head>Aug. 29, 1917</head>
+        <p>My leave of absense<lb/>is past. Reported<lb/>this morning at<lb/>Camp Jackson. The <lb/>past ten days have<lb/>been pleasant ones<lb/>for me. Went to Kinston<lb/>on Sun. night, Aug 19.<lb/>and stayed until<lb/>Wed. night Aug. 22.<lb/>Saw there many<lb/>dear friends and<lb/>the handshake of<lb/>each made my heart<lb/>glad. Spent Sun.<lb/>night with Mac Lewis.<lb/>and took breakfast<lb/>there also Mon. A fine<lb/>home, and always<lb/>nice to me. Took<lb/>dinner that day with<lb/>Red Allen, son of Judge<lb/>O. H. Allen, one of the
+<pb id="umstead03" n="[3]" entity="umstead03"/>most godly men I<lb/>have ever seen. Took<lb/>supper, and spent<lb/>the night with Mr.<lb/>and Mrs. Hines, in<lb/>whose home I lived<lb/>while teaching in<lb/>Kinston. I always<lb/>will love them, and<lb/>feel at ease in their<lb/>home. Robert and Willis<lb/>are still my partners.<lb/>Took breakfast there.<lb/>Took dinner Tues. Aug<lb/>21, at Frank Hooker's. <lb/>Met his father, mother, <lb/>and sisters. The<lb/>hospitality of their<lb/>home was delightful.<lb/>Frank was a pupil<lb/>of mine, and very<lb/>near to me. Am ex-<lb/>tremely interested in <lb/>him.<ref id="ref1" n="1" target="note1" targOrder="U">(over)</ref></p>
+        <p>Tues night I went <lb/>to Red Allens to a
+<pb id="umstead04" n="[4]" entity="umstead04"/>
+<note id="note1" anchored="yes" target="ref1"><p>Tuesday afternoon I went<lb/>out to Kelley's mill with<lb/>Nannie, Sallie, and M. Marian<lb/>Stanley, Frank Hooker and<lb/>Bevsie Stanley and Ida<lb/>Asttenger. I am very fond<lb/>of Ida, Sallie and Nannie.<lb/>They were pupils of mine<lb/>and fine girls. Went in<lb/>swimming, and on the<lb/>whole, spent a de-<lb/>lightful afternoon.</p></note>
+<pb id="umstead05" n="[5]" entity="umstead05"/>
+brunswick stew and<lb/>immediately afterwards<lb/>went to Leah Hine's dinner<lb/>party. Those present<lb/>were— Melly Lewis and<lb/>Josephine Copeland —John<lb/>Duffy and Leah Hines —<lb/>Reynold Allen and Pauline<lb/>Hood and William B.<lb/>Umstead and Katherine<lb/>Copeland. After the dinner<lb/>which was delightful in<lb/>every way, we took a<lb/>long automobile ride.</p>
+        <p>Spent Tues. night with<lb/>Ely Perry. The Perry<lb/>home is a delightful place.<lb/>So homelike, and hospitable.<lb/>Suse, her mother and<lb/>Ely have always been<lb/>especially nice to me,<lb/>and Noah also. Took<lb/>breakfast there.</p>
+        <p>Weds. for dinner I<lb/>went to Mr. George<lb/>Parrotts to a barbecue.<pb id="umstead06" n="[6]" entity="umstead06"/>As usual at that home<lb/>the eats were abundant,<lb/>and served in a way in<lb/>which all could enjoy it.<lb/>The Parrott girls are<lb/>charming, and preside<lb/>with equal grace over<lb/>the table and the parlor.<lb/>Both Mildred and Julia were<lb/>very intertaining. Nowhere<lb/>will the hospitality of that<lb/>home be excelled. Those<lb/>present will never meet<lb/>again in my opinion.<lb/><list type="simple"><item>James McDaniel</item><item>Mueser Parrott</item><item>Red Allen</item><item>Melly Lewis</item><item>Harry Lewis</item><item>Robert Rouse</item><item>John Duffy</item><item>Mr. Bornes</item><item>Prof. Lewiston</item></list></p>
+        <p>Took supper at the<lb/>Perrys' home, and left<lb/>on the 7.38 train for home.<lb/>Wanted to stay over to<lb/>the danse that night, but<lb/>wanted to get home. A good<lb/>number were down at the<pb id="umstead07" n="[7]" entity="umstead07"/>Station to tell me good<lb/>bye. On a whole the<lb/>visit was a pleasant<lb/>one, and will live in<lb/>my memories far into<lb/>the future.</p>
+        <p>I arrived home safely<lb/>Thurs. morning.</p>
+        <p>I spent Fri. in Roxboro.<lb/>Lucille went with me.<lb/>We took dinner at the<lb/>Newell home. Was delightful.<lb/>Met Miss Francis Sessons<lb/>from Lillington. Very<lb/>attractive. Took supper<lb/>at Sue Langs. Think she<lb/>is one of the finest women<lb/>I have ever seen. A fine<lb/>physique, attractive personality,<lb/>and a head full of sense.<lb/>The man who weds her<lb/>will be lucky, and unless<lb/>an unusual man, will<lb/>not be worthy of her.<lb/>Mr. Will brought us<lb/>home that night. Mary<lb/>Houres came with us.<lb/>Mr. Will is a fine man,<lb/>and one whom I like<lb/>very much. His kindness<pb id="umstead08" n="[8]" entity="umstead08"/>to me have been many.</p>
+        <p>From then until Mon-<lb/>day night, I stayed<lb/>at home, where I enjoy<lb/>being above all places<lb/>in the world. Sun. night<lb/>Aug. 26. I made a talk<lb/>at, and conducted prayer<lb/>meeting at Mt. Bethel<lb/>church. Enjoyed it, and<lb/>received much benefit<lb/>from it.</p>
+        <p>Probably the saddest<lb/>time I have ever spent<lb/>was Mon. night. Aug 27.<lb/>when I left home. I<lb/>left father and mother<lb/>in tears, and it almost<lb/>wrung my heart from<lb/>within me. To leave<lb/>them, old and feeble at<lb/>home alone was the<lb/>most difficult task<lb/>of my life. It is easy<lb/>enough to go to the execu-<lb/>tion of one's duty, when<lb/>that duty may mean<lb/>death, when there is<lb/>no one but yourself,<lb/>but to leave parents<pb id="umstead09" n="[9]" entity="umstead09"/>whose joy in life rests<lb/>in their paternal interest<lb/>in you, is the saddest and<lb/>most trying of all tasks.</p>
+        <p>I sometimes think that <lb/>the lives lost in war <lb/>are trivial in comparison <lb/>with the grief and sorrows <lb/>their deaths leave in the <lb/>aching hearts of their <lb/>dear ones. I left with <lb/>a heavy heart, trying <lb/>to bear up manly<lb/>under a burden which<lb/>almost broke me down.<lb/>That parting picture<lb/>will be clear in my mind's<lb/>eye as long as I live.</p>
+        <p>It is hard to render one's <lb/>duty to one's country when <lb/>it seems to conflict with<lb/>duty to parents. I chose<lb/>my course, after trying<lb/>to select the right course.<lb/>God knows I did what<lb/>I think is right, and<lb/>may God care for those<lb/>I left behind.</p>
+      </div1>
+      <div1 type="section">
+        <pb id="umstead10" n="[10]" entity="umstead10"/>
+        <head>Aug. 30, 1917</head>
+        <p>Columbia, with its many <lb/>colonial style homes and<lb/>buildings seems on first<lb/>acquaintance to be a large<lb/>country like town. I think<lb/>it is fairly pretty, and<lb/>at present it has the<lb/>appearance of being a <lb/>very clean town both <lb/>from sanitary and moral<lb/>standpoints. However, I<lb/>fear that it will not<lb/>stay so in the latter respect<lb/>long.</p>
+        <p>Went out to camp this<lb/>morning, and found<lb/>that I had been assigned<lb/>to the 317 Machine Gun Bat-<lb/>talion. Didn't like it much<lb/>on first thought, but<lb/>after thinking it over I don't<lb/>know that it makes much<lb/>difference. One's best is<lb/>one's best, just as “pigs is<lb/>pigs,” and the branch of <lb/>the service makes little<lb/>difference in the long run.<lb/>I know nothing about<lb/>it, but guess I can learn.<pb id="umstead11" n="[11]" entity="umstead11"/>Mac Lewis and myself<lb/>are staying in the Pres-<lb/>byterian Theological Seminary<lb/>because we could not<lb/>get room at the hotel. Not<lb/>a bad place to stay at that!</p>
+        <p>Met a young preacher<lb/>named Brown. Talked<lb/>philosophy with him a little,<lb/>and found him to be as<lb/>narrow as most preachers<lb/>are in regard to philosophy.</p>
+      </div1>
+      <div1 type="section">
+        <head>Sept. 5, 1917.</head>
+        <p>Came out to camp to stay<lb/>on Monday Sept 3.</p>
+        <p>First drafted men<lb/>came in today. Regular<lb/>Duke's mixture as I ex-<lb/>pected. Men from all<lb/>social castes, professions,<lb/>and walks of life, brought<lb/>together for a common<lb/>purpose which many<lb/>of them do not understand.<lb/>It is both pitiful and<lb/>inspiring to look at<lb/>them. God knows they<lb/>have my sympathy espe-<pb id="umstead12" n="[12]" entity="umstead12"/>cially during the first few<lb/>days. Thoughts of loved<lb/>ones; of business left<lb/>behind; the task of adjust-<lb/>ing themselves to a new life,<lb/>new duties, and new<lb/>habits all together at once<lb/>will be hard for them to<lb/>handle. The officer who<lb/>is not considerate at first<lb/>must have a heart of stone,<lb/>and should not have author-<lb/>ity unless tempered<lb/>by justice and patience.</p>
+      </div1>
+      <div1 type="section">
+        <head>Sept 8, 1917</head>
+        <p>Heard from John today<lb/>saying that the district<lb/>board failed to exempt<lb/>him. God only knows what<lb/>Sallie and the child (soon<lb/>children) will do. I have<lb/>worried over it a great<lb/>deal. I can't see how it<lb/>is possible for them to<lb/>fail to exempt him under<lb/>the circumstances. God<lb/>knows he has my sym-<lb/>pathy. I wrote him<lb/>at once offering my<pb id="umstead13" n="[13]" entity="umstead13"/>every resource to him<lb/>if he had to come. As long<lb/>as I am able, no one else<lb/>shall support his family.<lb/>I can save enough to<lb/>support Sallie &amp; the babies (?)<lb/>I have worked out a<lb/>plan today. They shall<lb/>live by themselves, and<lb/>be dependent on no one<lb/>but John and I. I do<lb/>not want Frank Graham<lb/>to grow up under obliga-<lb/>tions to anyone else for <lb/>his raising. It must<lb/>sting John to the quick<lb/>to think of leaving Sallie<lb/>and the little curly headed<lb/>kid behind. May God<lb/>in his providence save<lb/>him from having it<lb/>to do. I shall not see<lb/>many happy hours until<lb/>I hear definitely about<lb/>it. All I have is his in<lb/>this his hour of trouble.<lb/>May he go to God for help<lb/>and may he find solace there.<pb id="umstead14" n="[14]" entity="umstead14"/>All that I have to offer them<lb/>shall go through him as<lb/>though he were doing it.</p>
+      </div1>
+      <div1 type="section">
+        <head>Sept. 17, 1917</head>
+        <p>Sat. afternoon the 15th<lb/>I went to Greensboro<lb/>to see John. Much to my<lb/>pleasure when he met<lb/>me at the Station at 11.20<lb/>he told me he had just<lb/>heard he had been exempt-<lb/>ed. He and I talked late<lb/>into the night. I found<lb/>Sallie doing fine, and<lb/>the little baby, born a<lb/>few days before, was<lb/>doing nicely.</p>
+        <p>Sunday morning I<lb/>went out to the Normal to<lb/>see the girls from Kinston<lb/>who I taught last year.<lb/>I saw Hortense Moseley<lb/>Kathleen Moseley, and<lb/>Nannie Stanley. I also<lb/>saw Gladys. They<lb/>seemed glad to see me,<lb/>and I was equally as<lb/>glad to see them. I think<lb/>they were a little home-<lb/>sick but that was nat-<pb id="umstead15" n="[15]" entity="umstead15"/>ural as they had been away<lb/>from home only a week. They<lb/>are fine girls, and will<lb/>make good anywhere.</p>
+        <p>I got back here about<lb/>eleven o'clock Sun night.<lb/>Had a tooth pulled Mon-<lb/>day, and found that it<lb/>still hurts in spite of<lb/>painless inventions.</p>
+      </div1>
+      <div1 type="section">
+        <head>Sept. 19, 1917</head>
+        <p>Our Battalion moved Mon.<lb/>to section J. our permanent<lb/>quarters. Today we<lb/>started our company<lb/>Mess, and I have been ap-<lb/>pointed Mess Officer for<lb/>the battalion. I have a<lb/>fine job preparing menus<lb/>for about 200 men, driv-<lb/>ing rations from the<lb/>commissary, keeping<lb/>things clean, and above<lb/>all see that nothing is<lb/>wasted. Absolutely new to<lb/>me, but I intend to do it<lb/>by sticking to it. Rather<lb/>a responsible job, for<lb/>men to be satisfied, must<pb id="umstead16" n="[16]" entity="umstead16"/>be well fed.</p>
+      </div1>
+      <lb/>
+      <div1 type="section">
+        <head>Oct. 6, 1917.</head>
+        <p>It has been a good<lb/>while since I have had<lb/>time to write any in this<lb/>book. Things are moving<lb/>on rapidly here. Work on<lb/>the Camp continues, and they<lb/>are rapidly whipping things<lb/>into tip top shape. The second<lb/>increment of drafted men<lb/>are coming in. Our bat-<lb/>talion now has over four<lb/>hundred men in it.</p>
+        <p>Got along fine with <lb/>my mess. Saved over $250<lb/>feeding 185 men for 10 days.<lb/>Started Company Messes<lb/>Oct. 2, and now the Messes<lb/>are under direct supervision<lb/>of the company commanders.<lb/>I still draw the rations<lb/>and look after them in<lb/>a general way.</p>
+        <p>I am also running our<lb/>Officers Mess, and it is more<lb/>trouble than one would<lb/>imagine. Some men are born <lb/>belly akers or grumblers, and<lb/>of course always find plenty<pb id="umstead17" n="[17]" entity="umstead17"/>to complain at.</p>
+        <p>Today I received a<lb/>box of candy from the little<lb/>girls who were in my<lb/>room last year at Kinston.<lb/>No one knows how I appreciated<lb/>it. It touched me deeply to<lb/>think that I was remem-<lb/>bered by so many sweet,<lb/>pure, and lovable souls.<lb/>The following ones sent<lb/>me candy —<list type="simple"><item>Edna Pittman</item><item>Sarah Nochaunson</item><item>Jessie Mae Hoskins</item><item>Elizabeth Brooks</item><item>Mary Eliza Sutton</item><item>Edith Rountree</item><item>Christine Williams</item><item>Arlena Stroud</item><item>Allene Brinkly</item><item>Mildred Elliott</item><item>Hattie Cunningham</item><item>Virginia Smith</item><item>Verna Belle Hoskins</item><item>Grace Wilson</item><item>Gladys Mewborne</item></list></p>
+        <p>I shall never forget <lb/>the children in that grade<lb/>with whom I worked and<lb/>learned to love last<lb/>year.</p>
+        <p>During the past<pb id="umstead18" n="[18]" entity="umstead18"/>week I received a knit<lb/>sweater from Katherine<lb/>Copeland. She is a very sweet<lb/>girl, and it was certainly<lb/>sweet of her to send me<lb/>a sweater. She was extremely<lb/>nice to me while I was in<lb/>Kinston, and I shall not<lb/>forget her kindness.</p>
+        <p>Elizabeth Canady sent me<lb/>a beautiful muffler. One of<lb/>the finest specimens of knit-<lb/>ting I have ever seen. She<lb/>is also a fine girl. Very at-<lb/>tractive and I like her<lb/>very much.</p>
+        <p>My friends in Kinston<lb/>have certainly been nice<lb/>to me, and I feel very<lb/>grateful to them for<lb/>their many kindnesses<lb/>to me.</p>
+      </div1>
+      <div1 type="section">
+        <head>Oct. 8, 1917</head>
+        <p>Went to church last<lb/>night in Columbia, and<lb/>heard a good sermon<lb/>by the Methodist Minister<lb/>A. N. Brunson, taken from<lb/>the tragic death and<lb/>downfall off Sampson, or<lb/>rather his downfall and<lb/>death. Sampson was<pb id="umstead19" n="[19]" entity="umstead19"/>thoughtless for a moment<lb/>and it cost him everything.<lb/><list type="simple"><item>1. Never forget the friends and<lb/>associations of childhood, the<lb/>home and parents which you<lb/>left behind, nor the God which<lb/>your mother taught you to love.</item><item>2. Never go to sleep on any job, es-<lb/>pecially the one of living right.</item><item>3. Never misjudge the effect of evil<lb/>upon your life, nor misjudge<lb/>the results.</item><item>4. Always remember that you<lb/>can come back if you will.</item></list></p>
+        <p>The above are my own ex-<lb/>pressions concerning the things<lb/>which Sampson's downfall<lb/>illustrates. I wrote these<lb/>from memory after the<lb/>sermon.</p>
+      </div1>
+      <div1 type="section">
+        <head>Jan 11. [1918]</head>
+        <p>It has been some<lb/>time since last I<lb/>opened this book<lb/>for the purpose<lb/>of writing anything.<lb/>I have been very<lb/>busy during the<pb id="umstead20" n="[20]" entity="umstead20"/>time which has elapsed<lb/>since last I wrote,<lb/>and then I have<lb/>not yet learned<lb/>to make the most<lb/>of my spare moments.</p>
+        <p>Since Oct. 8 1917<lb/>I have been quite<lb/>well most of the<lb/>time. Have had <lb/>slight colds, and<lb/>was confined to my<lb/>room one day on that<lb/>account. I am<lb/>still acting as<lb/>Mess Officer, and<lb/>do not know when<lb/>I will be relieved<lb/>of it, but sometime<lb/>soon I hope. I have<lb/>proceeded rather<lb/>well with it, but all<lb/>kinds of difficulties<lb/>are constantly<lb/>arising, such as<pb id="umstead21" n="[21]" entity="umstead21"/>cooks, wood, failure<lb/>in deliveries from town,<lb/>unreliable cooks &amp;<lb/>waiters, lack of<lb/>clenliness, and<lb/>worst of all, thinking<lb/>up something to eat.</p>
+        <p>I have been holding<lb/>Sunday School class<lb/>in my company on<lb/>Sunday Mornings, and<lb/>I get a great deal<lb/>of help out of it. The<lb/>class sent the Baptist<lb/>Orphanage at Thomas-<lb/>ville, N. Car a check<lb/>for $20 Xmas. A <lb/>fine example of<lb/>helpfulness and<lb/>charity.</p>
+        <p>My progress with<lb/>the men who can't read<lb/>and write in the company<lb/>has been rather slow.<lb/>Yet all of them can<pb id="umstead22" n="[22]" entity="umstead22"/>now write their names,<lb/>and can read simple<lb/>sentences very well. I<lb/>hope that I may be able<lb/>to teach them enough to<lb/>break the veil of igno-<lb/>rance so that they can<lb/>add to their intelligence.</p>
+        <p>Christmas has come<lb/>and gone, and I can<lb/>hardly realize it. It was<lb/>my good fortune to<lb/>be able to go home<lb/>for a short stay. Got<lb/>there on the morning<lb/>of Dec 23, and had<lb/>to leave on the morn-<lb/>ing of Dec 26. Father<lb/>was sick, and I stayed<lb/>at home with him the<lb/>entire time except<lb/>one afternoon when<lb/>I went over to Durham<lb/>to see if I could hire<lb/>Uncle Henry Harris<pb id="umstead23" n="[23]" entity="umstead23"/>to go out and stay with<lb/>father. I saw him but<lb/>as I had figured, he<lb/>would not go. It hurt<lb/>me to leave home with<lb/>father sick and mother<lb/>feeble with no one<lb/>to help them.</p>
+      </div1>
+      <div1 type="section">
+        <pb id="umstead24" n="[24]" entity="umstead24"/>
+        <head>May 12, 1918. <lb/>Camp Hancock</head>
+        <p>Yesterday, May 11th, I was<lb/>made B'n supply Officer<lb/>by Maj. Smith. I know<lb/>little about it, but I<lb/>can hold it down by<lb/>working hard. Every-<lb/>thing is in an awful<lb/>mess, and the responsibility<lb/>is what I dread<lb/>most of all. I feel that<lb/>Maj. Smith knows it<lb/>is a hard place to <lb/>fill, and I think<lb/>he thinks I can do it,<lb/>and I will. Tomorrow<lb/>is my birthday, and I<lb/>will be 23 years old.<lb/>On Xmas day Maj.<lb/>recommended me for<lb/>promotion, which<lb/>was indeed a fine<lb/>Xmas present. However<lb/>I must say I am<lb/>afraid he has given me<pb id="umstead25" n="[25]" entity="umstead25"/>an awful birthday<lb/>present. A supply<lb/>officer's work is<lb/>without end aggre-<lb/>vating and unap-<lb/>preciated, with all<lb/>kinds of chances to<lb/>get into trouble when<lb/>one is doing one's best.</p>
+      </div1>
+      <div1 type="section">
+        <head>July 4, 1918</head>
+        <p>It has been some<lb/>time since I opened<lb/>this little book. My<lb/>time and energy have<lb/>been taken up by my<lb/>work. After a week's in-<lb/>cessant preparation<lb/>we left Camp Jackson<lb/>for Camp Hancock<lb/>on May 20, 1918. Since<lb/>arriving here, I have<lb/>worked day and<lb/>night. I have a nice<lb/>tent next to Maj's.<pb id="umstead26" n="[26]" entity="umstead26"/>This is a hot camp,<lb/>and the hottest place I<lb/>have ever seen is my<lb/> Supply House no. 1.</p>
+        <p>We seem to be more or less undesirables<lb/>in this camp. We are<lb/>not a part of the M. T.<lb/>C. and our Div is<lb/>at Greenville. This<lb/>fact makes my <lb/>work that much<lb/>harder.</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

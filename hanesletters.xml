@@ -1,0 +1,1902 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite2.dtd" [
+<!ENTITY h-sep10-17-03 SYSTEM "h-sep10-17-03.jpg" NDATA jpeg>
+<!ENTITY h-sep10-17-04 SYSTEM "h-sep10-17-04.jpg" NDATA jpeg>
+<!ENTITY h-oct28-18-01 SYSTEM "h-oct28-18-01.jpg" NDATA jpeg>
+<!ENTITY h-oct28-18-02 SYSTEM "h-oct28-18-02.jpg" NDATA jpeg>
+<!ENTITY h-oct28-18-03 SYSTEM "h-oct28-18-03.jpg" NDATA jpeg>
+<!ENTITY h-oct14-18-01 SYSTEM "h-oct14-18-01.jpg" NDATA jpeg>
+<!ENTITY h-oct14-18-02 SYSTEM "h-oct14-18-02.jpg" NDATA jpeg>
+<!ENTITY h-oct14-18-03 SYSTEM "h-oct14-18-03.jpg" NDATA jpeg>
+<!ENTITY h-oct14-18-04 SYSTEM "h-oct14-18-04.jpg" NDATA jpeg>
+<!ENTITY h-may11-18-env SYSTEM "h-may11-18-env.jpg" NDATA jpeg>
+<!ENTITY h-nov11-18-01 SYSTEM "h-nov11-18-01.jpg" NDATA jpeg>
+<!ENTITY h-nov11-18-02 SYSTEM "h-nov11-18-02.jpg" NDATA jpeg>
+<!ENTITY h-nov11-18-03 SYSTEM "h-nov11-18-03.jpg" NDATA jpeg>
+<!ENTITY h-nov11-18-04 SYSTEM "h-nov11-18-04.jpg" NDATA jpeg>
+<!ENTITY h-jun15-18-env SYSTEM "h-jun15-18-env.jpg" NDATA jpeg>
+<!ENTITY h-aug30-17-01 SYSTEM "h-aug30-17-01.jpg" NDATA jpeg>
+<!ENTITY h-aug30-17-02 SYSTEM "h-aug30-17-02.jpg" NDATA jpeg>
+<!ENTITY h-may20-18-env SYSTEM "h-may20-18-env.jpg" NDATA jpeg>
+<!ENTITY h-may28-18-01 SYSTEM "h-may28-18-01.jpg" NDATA jpeg>
+<!ENTITY h-may28-18-02 SYSTEM "h-may28-18-02.jpg" NDATA jpeg>
+<!ENTITY h-may28-18-03 SYSTEM "h-may28-18-03.jpg" NDATA jpeg>
+<!ENTITY h-may28-18-04 SYSTEM "h-may28-18-04.jpg" NDATA jpeg>
+<!ENTITY h-aug9-18-04 SYSTEM "h-aug9-18-04.jpg" NDATA jpeg>
+<!ENTITY h-aug9-18-01 SYSTEM "h-aug9-18-01.jpg" NDATA jpeg>
+<!ENTITY h-aug9-18-02 SYSTEM "h-aug9-18-02.jpg" NDATA jpeg>
+<!ENTITY h-aug9-18-03 SYSTEM "h-aug9-18-03.jpg" NDATA jpeg>
+<!ENTITY h-aug9-18-05 SYSTEM "h-aug9-18-05.jpg" NDATA jpeg>
+<!ENTITY h-aug9-18-06 SYSTEM "h-aug9-18-06.jpg" NDATA jpeg>
+<!ENTITY h-aug29-18-env SYSTEM "h-aug29-18-env.jpg" NDATA jpeg>
+<!ENTITY h-sep30-18-env SYSTEM "h-sep30-18-env.jpg" NDATA jpeg>
+<!ENTITY h-aug4-18-02 SYSTEM "h-aug4-18-02.jpg" NDATA jpeg>
+<!ENTITY h-aug4-18-01 SYSTEM "h-aug4-18-01.jpg" NDATA jpeg>
+<!ENTITY h-aug4-18-03 SYSTEM "h-aug4-18-03.jpg" NDATA jpeg>
+<!ENTITY h-aug4-18-04 SYSTEM "h-aug4-18-04.jpg" NDATA jpeg>
+<!ENTITY h-may25-18-env SYSTEM "h-may25-18-env.jpg" NDATA jpeg>
+<!ENTITY h-jun15-18-04 SYSTEM "h-jun15-18-04.jpg" NDATA jpeg>
+<!ENTITY h-sep16-18-03 SYSTEM "h-sep16-18-03.jpg" NDATA jpeg>
+<!ENTITY h-sep16-18-01 SYSTEM "h-sep16-18-01.jpg" NDATA jpeg>
+<!ENTITY h-sep16-18-02 SYSTEM "h-sep16-18-02.jpg" NDATA jpeg>
+<!ENTITY h-sep16-18-04 SYSTEM "h-sep16-18-04.jpg" NDATA jpeg>
+<!ENTITY h-jun15-18-01 SYSTEM "h-jun15-18-01.jpg" NDATA jpeg>
+<!ENTITY h-jun15-18-02 SYSTEM "h-jun15-18-02.jpg" NDATA jpeg>
+<!ENTITY h-jun15-18-03 SYSTEM "h-jun15-18-03.jpg" NDATA jpeg>
+<!ENTITY h-jul05-18-env SYSTEM "h-jul05-18-env.jpg" NDATA jpeg>
+<!ENTITY h-sep02-18-05 SYSTEM "h-sep02-18-05.jpg" NDATA jpeg>
+<!ENTITY h-sep02-18-02 SYSTEM "h-sep02-18-02.jpg" NDATA jpeg>
+<!ENTITY h-aug30-17-env SYSTEM "h-aug30-17-env.jpg" NDATA jpeg>
+<!ENTITY h-sep02-18-01 SYSTEM "h-sep02-18-01.jpg" NDATA jpeg>
+<!ENTITY h-sep02-18-03 SYSTEM "h-sep02-18-03.jpg" NDATA jpeg>
+<!ENTITY h-sep02-18-04 SYSTEM "h-sep02-18-04.jpg" NDATA jpeg>
+<!ENTITY h-sep02-18-06 SYSTEM "h-sep02-18-06.jpg" NDATA jpeg>
+<!ENTITY h-may30-18-envbk SYSTEM "h-may30-18-envbk.jpg" NDATA jpeg>
+<!ENTITY h-sep22-18-env SYSTEM "h-sep22-18-env.jpg" NDATA jpeg>
+<!ENTITY h-oct26-18-env SYSTEM "h-oct26-18-env.jpg" NDATA jpeg>
+<!ENTITY h-sep10-17-envbk SYSTEM "h-sep10-17-envbk.jpg" NDATA jpeg>
+<!ENTITY h-may30-18-env SYSTEM "h-may30-18-env.jpg" NDATA jpeg>
+<!ENTITY h-nov09-18-04 SYSTEM "h-nov09-18-04.jpg" NDATA jpeg>
+<!ENTITY h-nov09-18-01 SYSTEM "h-nov09-18-01.jpg" NDATA jpeg>
+<!ENTITY h-nov09-18-02 SYSTEM "h-nov09-18-02.jpg" NDATA jpeg>
+<!ENTITY h-nov09-18-03 SYSTEM "h-nov09-18-03.jpg" NDATA jpeg>
+<!ENTITY h-nov04-18-env SYSTEM "h-nov04-18-env.jpg" NDATA jpeg>
+<!ENTITY h-nov04-18-01 SYSTEM "h-nov04-18-01.jpg" NDATA jpeg>
+<!ENTITY h-nov04-18-02 SYSTEM "h-nov04-18-02.jpg" NDATA jpeg>
+<!ENTITY h-nov04-18-03 SYSTEM "h-nov04-18-03.jpg" NDATA jpeg>
+<!ENTITY h-nov04-18-04 SYSTEM "h-nov04-18-04.jpg" NDATA jpeg>
+<!ENTITY h-nov04-18-05 SYSTEM "h-nov04-18-05.jpg" NDATA jpeg>
+<!ENTITY h-may9-18-01 SYSTEM "h-may9-18-01.jpg" NDATA jpeg>
+<!ENTITY h-may9-18-02 SYSTEM "h-may9-18-02.jpg" NDATA jpeg>
+<!ENTITY h-may9-18-03 SYSTEM "h-may9-18-03.jpg" NDATA jpeg>
+<!ENTITY h-oct22-18-env SYSTEM "h-oct22-18-env.jpg" NDATA jpeg>
+<!ENTITY h-nov09-18-env SYSTEM "h-nov09-18-env.jpg" NDATA jpeg>
+<!ENTITY h-sep10-17-env SYSTEM "h-sep10-17-env.jpg" NDATA jpeg>
+<!ENTITY h-may25-18-02 SYSTEM "h-may25-18-02.jpg" NDATA jpeg>
+<!ENTITY h-may25-18-03 SYSTEM "h-may25-18-03.jpg" NDATA jpeg>
+<!ENTITY h-may25-18-01 SYSTEM "h-may25-18-01.jpg" NDATA jpeg>
+<!ENTITY h-may25-18-04 SYSTEM "h-may25-18-04.jpg" NDATA jpeg>
+<!ENTITY h-jul05-18-01 SYSTEM "h-jul05-18-01.jpg" NDATA jpeg>
+<!ENTITY h-jul05-18-02 SYSTEM "h-jul05-18-02.jpg" NDATA jpeg>
+<!ENTITY h-jul05-18-03 SYSTEM "h-jul05-18-03.jpg" NDATA jpeg>
+<!ENTITY h-jul05-18-04 SYSTEM "h-jul05-18-04.jpg" NDATA jpeg>
+<!ENTITY h-aug30-17-envbk SYSTEM "h-aug30-17-envbk.jpg" NDATA jpeg>
+<!ENTITY h-may11-18-03 SYSTEM "h-may11-18-03.jpg" NDATA jpeg>
+<!ENTITY h-may11-18-01 SYSTEM "h-may11-18-01.jpg" NDATA jpeg>
+<!ENTITY h-may11-18-02 SYSTEM "h-may11-18-02.jpg" NDATA jpeg>
+<!ENTITY h-sep30-18-01 SYSTEM "h-sep30-18-01.jpg" NDATA jpeg>
+<!ENTITY h-sep30-18-02 SYSTEM "h-sep30-18-02.jpg" NDATA jpeg>
+<!ENTITY h-nov05-18-env SYSTEM "h-nov05-18-env.jpg" NDATA jpeg>
+<!ENTITY h-may20-18-01 SYSTEM "h-may20-18-01.jpg" NDATA jpeg>
+<!ENTITY h-may20-18-02 SYSTEM "h-may20-18-02.jpg" NDATA jpeg>
+<!ENTITY h-may20-18-03 SYSTEM "h-may20-18-03.jpg" NDATA jpeg>
+<!ENTITY h-sep19-18-env SYSTEM "h-sep19-18-env.jpg" NDATA jpeg>
+<!ENTITY h-nov05-18-03 SYSTEM "h-nov05-18-03.jpg" NDATA jpeg>
+<!ENTITY h-nov05-18-01 SYSTEM "h-nov05-18-01.jpg" NDATA jpeg>
+<!ENTITY h-nov05-18-02 SYSTEM "h-nov05-18-02.jpg" NDATA jpeg>
+<!ENTITY h-nov05-18-04 SYSTEM "h-nov05-18-04.jpg" NDATA jpeg>
+<!ENTITY h-may28-18-unif SYSTEM "h-may28-18-unif.jpg" NDATA jpeg>
+<!ENTITY h-oct14-18-env SYSTEM "h-oct14-18-env.jpg" NDATA jpeg>
+<!ENTITY h-may9-18-env SYSTEM "h-may9-18-env.jpg" NDATA jpeg>
+<!ENTITY h-aug29-18-01 SYSTEM "h-aug29-18-01.jpg" NDATA jpeg>
+<!ENTITY h-aug29-18-02 SYSTEM "h-aug29-18-02.jpg" NDATA jpeg>
+<!ENTITY h-aug29-18-03 SYSTEM "h-aug29-18-03.jpg" NDATA jpeg>
+<!ENTITY h-oct26-18-01 SYSTEM "h-oct26-18-01.jpg" NDATA jpeg>
+<!ENTITY h-oct26-18-02 SYSTEM "h-oct26-18-02.jpg" NDATA jpeg>
+<!ENTITY h-oct26-18-03 SYSTEM "h-oct26-18-03.jpg" NDATA jpeg>
+<!ENTITY h-oct26-18-04 SYSTEM "h-oct26-18-04.jpg" NDATA jpeg>
+<!ENTITY h-sep22-18-01 SYSTEM "h-sep22-18-01.jpg" NDATA jpeg>
+<!ENTITY h-sep22-18-02 SYSTEM "h-sep22-18-02.jpg" NDATA jpeg>
+<!ENTITY h-sep22-18-03 SYSTEM "h-sep22-18-03.jpg" NDATA jpeg>
+<!ENTITY h-sep22-18-04 SYSTEM "h-sep22-18-04.jpg" NDATA jpeg>
+<!ENTITY h-sep22-18-05 SYSTEM "h-sep22-18-05.jpg" NDATA jpeg>
+<!ENTITY h-sep22-18-06 SYSTEM "h-sep22-18-06.jpg" NDATA jpeg>
+<!ENTITY h-nov10-18-env SYSTEM "h-nov10-18-env.jpg" NDATA jpeg>
+<!ENTITY h-oct28-18-env SYSTEM "h-oct28-18-env.jpg" NDATA jpeg>
+<!ENTITY h-jul25-18-env SYSTEM "h-jul25-18-env.jpg" NDATA jpeg>
+<!ENTITY h-may30-18-01 SYSTEM "h-may30-18-01.jpg" NDATA jpeg>
+<!ENTITY h-may30-18-02 SYSTEM "h-may30-18-02.jpg" NDATA jpeg>
+<!ENTITY h-may30-18-03 SYSTEM "h-may30-18-03.jpg" NDATA jpeg>
+<!ENTITY h-may30-18-04 SYSTEM "h-may30-18-04.jpg" NDATA jpeg>
+<!ENTITY h-sep19-18-06 SYSTEM "h-sep19-18-06.jpg" NDATA jpeg>
+<!ENTITY h-sep19-18-04 SYSTEM "h-sep19-18-04.jpg" NDATA jpeg>
+<!ENTITY h-sep02-18-env SYSTEM "h-sep02-18-env.jpg" NDATA jpeg>
+<!ENTITY h-sep19-18-01 SYSTEM "h-sep19-18-01.jpg" NDATA jpeg>
+<!ENTITY h-sep19-18-02 SYSTEM "h-sep19-18-02.jpg" NDATA jpeg>
+<!ENTITY h-sep19-18-03 SYSTEM "h-sep19-18-03.jpg" NDATA jpeg>
+<!ENTITY h-sep19-18-05 SYSTEM "h-sep19-18-05.jpg" NDATA jpeg>
+<!ENTITY h-sep28-18-01 SYSTEM "h-sep28-18-01.jpg" NDATA jpeg>
+<!ENTITY h-sep28-18-02 SYSTEM "h-sep28-18-02.jpg" NDATA jpeg>
+<!ENTITY h-may28-18-env SYSTEM "h-may28-18-env.jpg" NDATA jpeg>
+<!ENTITY h-nov10-18-01 SYSTEM "h-nov10-18-01.jpg" NDATA jpeg>
+<!ENTITY h-nov10-18-02 SYSTEM "h-nov10-18-02.jpg" NDATA jpeg>
+<!ENTITY h-nov10-18-03 SYSTEM "h-nov10-18-03.jpg" NDATA jpeg>
+<!ENTITY h-nov10-18-04 SYSTEM "h-nov10-18-04.jpg" NDATA jpeg>
+<!ENTITY h-oct22-18-01 SYSTEM "h-oct22-18-01.jpg" NDATA jpeg>
+<!ENTITY h-oct22-18-02 SYSTEM "h-oct22-18-02.jpg" NDATA jpeg>
+<!ENTITY h-oct22-18-03 SYSTEM "h-oct22-18-03.jpg" NDATA jpeg>
+<!ENTITY h-oct22-18-04 SYSTEM "h-oct22-18-04.jpg" NDATA jpeg>
+<!ENTITY h-aug4-18-env SYSTEM "h-aug4-18-env.jpg" NDATA jpeg>
+<!ENTITY h-sep16-18-env SYSTEM "h-sep16-18-env.jpg" NDATA jpeg>
+<!ENTITY h-nov11-18-env SYSTEM "h-nov11-18-env.jpg" NDATA jpeg>
+<!ENTITY h-jul25-18-01 SYSTEM "h-jul25-18-01.jpg" NDATA jpeg>
+<!ENTITY h-jul25-18-02 SYSTEM "h-jul25-18-02.jpg" NDATA jpeg>
+<!ENTITY h-jul25-18-03 SYSTEM "h-jul25-18-03.jpg" NDATA jpeg>
+<!ENTITY h-jul25-18-04 SYSTEM "h-jul25-18-04.jpg" NDATA jpeg>
+<!ENTITY h-aug9-18-env SYSTEM "h-aug9-18-env.jpg" NDATA jpeg>
+<!ENTITY h-sep10-17-02 SYSTEM "h-sep10-17-02.jpg" NDATA jpeg>
+<!ENTITY h-sep10-17-01 SYSTEM "h-sep10-17-01.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>Robert March Hanes Papers (#4534). Selected letters, 1917-1918:</emph>
+Electronic Edition.</title>
+        <author>Hanes, Robert March, 1890-1959</author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Amy  Davis</name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Tampathia Evans, Melissa Meeks, and Leslie Sult</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name id="ns">Melissa Meeks and Natalia Smith</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca.   130  K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="collection"> Robert March Hanes Papers (#4534). Selected letters, 1917-1918</title>
+            <author> Robert March Hanes</author>
+          </titleStmt>
+          <extent>   113   p., page images.</extent>
+          <publicationStmt>
+            <pubPlace>Manuscripts Dept., Southern Historical Collection, University of North Carolina at Chapel Hill</pubPlace>
+            <publisher/>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number SHC #4534  (Manuscripts Dept., Southern Historical Collection, University of North Carolina at Chapel Hill) </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p> Transcript of the personal correspondence. Originals are in the Southern Historical Collection, University of North Carolina at Chapel Hill. </p>
+        <p>Original grammar, punctuation, and spelling have been preserved.</p>
+        <p>Letterhead information is  preserved.</p>
+        <p>Page images can be viewed and compared in parallel with the text. </p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All single right and left quotation marks are encoded as ’ and ‘ respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+            <edition/>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>United States. Army -- Military life.</item>
+            <item>United States. Army -- Officers -- Correspondence.</item>
+            <item>World War, 1914-1918 -- North Carolina.</item>
+            <item>World War, 1914-1918 -- Campaigns -- France.</item>
+            <item>World War, 1914-1918 -- Personal narratives, American.</item>
+            <item>Soldiers -- France -- Correspondence.</item>
+            <item>Soldiers -- North Carolina -- Correspondence.</item>
+            <item>World War, 1914-1918 -- France.</item>
+            <item>Hanes, Robert March, 1890-1959 -- Correspondence.</item>
+            <item>Hanes, Mildred Borden -- Correspondence.</item>
+            <item>United States. Army. Field Artillery, 113th. Battery A.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-06-27, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog 
+record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-06-12,  </date>
+        <respStmt>
+          <name>  Natalia Smith, </name>
+          <resp>project manager, </resp>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-06-06, </date>
+        <respStmt>
+          <name>Tampathia Evans, Melissa Meeks, and Leslie Sult</name>
+          <resp/>
+        </respStmt>
+        <item> finished scanning page images.</item>
+      </change>
+      <change>
+        <date>2002-04-24, </date>
+        <respStmt>
+          <name>Melissa Meeks</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-04-01, </date>
+        <respStmt>
+          <name>Amy Davis</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the original.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 type="letter">
+        <head>August 30, 1917</head>
+        <div2 type="section">
+          <head>[Envelope w/ 2cent stamp]</head>
+          <p>
+            <figure id="envelope1" entity="h-aug30-17-env">
+              <p>Envelope postmarked Chattanooga, Tenn.
+Aug 30 12-M 1917</p>
+            </figure>
+          </p>
+          <p><address><addrLine>Mr. A.L. Butner</addrLine><addrLine>Forsyth Roller Mills</addrLine><addrLine>Winston-Salem</addrLine><addrLine>N.C.</addrLine></address>
+<name>From Robert Hanes</name></p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes2" n="[1]" entity="h-aug30-17-01"/>
+          <head>[Letter]</head>
+          <byline>War Work Council<lb/>
+Army and Navy<lb/>
+Young Men's Christian Association<lb/>
+“With the colors”</byline>
+          <opener><dateline>Wednesday 1917</dateline>
+<salute>Dear Mr. Butner,</salute></opener>
+          <p>I started in here Monday morning and have been
+going pretty steadily ever since. I am now in the Field Artillery
+and I think I am going to like it fine when once I learn something
+about it. At present I am as ignorant of it as it is possible for
+anyone to be. I feel lost at this drilling business but I hope to
+learn something about it within the next few months.</p>
+          <p>We are kept going, except for enough time to eat meals, about
+<pb id="hanes3" n="[2]" entity="h-aug30-17-02"/>
+all the time from six in the morning until nine at night. If we aren't taking physical exercise we are kept studying.</p>
+          <p>My address is: Battery #1,<lb/>
+Field Artillery, R.O.T.C. Military<lb/>
+Branch, Chattanooga, Tenn.</p>
+          <p>Give my best to all the boys at the plant and at the office. I miss you all very much.</p>
+          <p>Write me if anything at all turns up that you don't understand. I hope things wont bother you too much.</p>
+          <closer><salute>Sincerely,</salute>
+<signed>Robert</signed></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>September 10, 1917</head>
+        <div2 type="section">
+          <head>[Envelope w/ 2cent stamp]</head>
+          <p>
+            <figure id="envelope2" entity="h-sep10-17-env">
+              <p>Envelope postmarked Chattanooga, Tenn.
+Sep 10 8 AM 1917</p>
+            </figure>
+          </p>
+          <p>
+            <address>
+              <addrLine>Mr. A.L. Butner</addrLine>
+              <addrLine>Forsyth Roller Mills</addrLine>
+              <addrLine>Winston-Salem</addrLine>
+              <addrLine>N.C.</addrLine>
+            </address>
+          </p>
+          <p>
+            <figure id="envelopeback2" entity="h-sep10-17-envbk">
+              <p>[Envelope Back]</p>
+            </figure>
+          </p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes5" n="[1]" entity="h-sep10-17-01"/>
+          <head>[Letter]</head>
+          <byline>War Work Council<lb/>
+Army and Navy<lb/>
+Young Men's Christian Association<lb/>
+“With the colors”</byline>
+          <opener><dateline>Sunday P.M. 1917</dateline>
+<salute>Dear Mr. Butner,</salute></opener>
+          <p>I have just received your letter and thoro'ly enjoyed every word of it. It was more news than I have heard from Winston all together since I have been away. I was hungry for news from the business too and the statements in regard to it makes my heart glad. If the weather keeps up there like it has been here ever since I came I know things are going well with Crystal Ice.</p>
+          <p>I have completed my second week and altho' I haven't started
+good yet to cover the mass of ground we have got to cover I have got the military attitude of mind and am trying to get the physical bearing.</p>
+          <p>In this artillery we have got to <pb id="hanes6" n="[2]" entity="h-sep10-17-02"/>
+know everything in the world most. We have to know both infantry and artillery drilling, care, feeding, shoeing and riding of horses, all
+the army regulations, the semaphore and morse signal systems, French a lot of Mathematics and several other things. They are giving us a written quiz of an hour every Saturday at noon on the past weeks work and you have got to keep up to the notch to stay here. They are throwing them out every day. The boys on the last camp got thru here without a single quiz and had a cinch as compared with what we are going to get. We shall know the stuff when we do finish tho' that is one consolation.</p>
+          <p>We start at 5 A.M. wash, shave and dress, Reville 5:30, 5:40 to
+6:00 make up bunks clean up tent <pb id="hanes7" n="[3]" entity="h-sep10-17-03"/>
+and street, 6 A.M. breakfast, 7 assemble for drill, infantry drill until about 10 or 10:30, artillery drill until 12, lunch 12, lectures 1 to 3, drills on horseback exercises 3 to 5:30, supper 6, lecture 7 to 8 study 8 to 10, lights out at 10. You can see from this that Sundays are the only days that I have a spare moment. I am always glad to see Sundays come too.</p>
+          <p>They put me in as Captain, Mr. Butner, after I had only drilled five days. I never have been as scared in my life. I made one or two bulls but on the whole, considering my experience I guess I got by with it in passable shape. It will help me this much anyway that all the officers know me now where they didn't at all before. On top
+<pb id="hanes8" n="[4]" entity="h-sep10-17-04"/>
+of giving the regular drilling and marching commands the Captain made me take the company out for a physical drill or “setting up exercise” for half an hour. It was the longest half hour I ever spent. I showed them I was willing to try anything they told me to and I hope that will help some.</p>
+          <p>I am anxious to hear the results at Winston and Statesville. I hope
+they will both prove satisfactory.</p>
+          <p>If there is anything at all turns up that you do not understand in anyway please write me.</p>
+          <p>With every good wish for yourself and the business. I am</p>
+          <closer>
+            <salute>Sincerely yours</salute>
+            <signed>Robert.</signed>
+          </closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>May 9, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope3" entity="h-may9-18-env">
+              <p>[Envelope postmarked May 11 1918]</p>
+            </figure>
+          </p>
+          <p>
+            <name>Robt. Hanes<lb/>
+113th F.A.<lb/>
+A.E.F.<lb/>
+C.O.B.</name>
+            <address>
+              <addrLine>Mrs. Robt. M. Hanes</addrLine>
+              <addrLine>103 George St.</addrLine>
+              <addrLine>Goldsboro</addrLine>
+              <addrLine>N.C.</addrLine>
+            </address>
+          </p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes10" n="[1]" entity="h-may9-18-01"/>
+          <head>[Letter]</head>
+          <byline>The Vanderbilt Hotel<lb/>
+Thirty Fourth Street East at Park Avenue<lb/>
+New York</byline>
+          <opener><date>May, 1918</date>
+<salute>Darling, </salute></opener>
+          <p>We are now on our first day out and are having the usual uneventful voyage of a “Peace Time” trip. But for the fact that only soldiers are visible and, that we have to take our turns on watch there is no difference in this and any other trip. There is a great deal of routine work to be done in every organization that
+keeps you fairly busy when you <pb id="hanes11" n="[2]" entity="h-may9-18-02"/>
+aren't on watch. I haven't felt the least bit sea-sick so far and if the weather continues as calm as it now is I don't anticipate any trouble at all.</p>
+          <p>I received your letter with Mrs. Whitaker's card in it yesterday and also the handkerchiefs from Mary and Alex. Thank you so much for getting handkerchiefs, you couldn't have got anything I should have enjoyed more.</p>
+          <p>I enjoyed hearing from you so much darling. It seemed so long since I had seen you and the letter made me feel as if I had had a talk with you. You have the harder part of this war in staying at home, my precious, and I symphathize with you every day for the part you have to play. Don't worry about me at all, darling, I am all right all the time so don't let my safety bother you. It will be a long time yet before I shall see any fighting and in the mean time I am
+<pb id="hanes12" n="[3]" entity="h-may9-18-03"/>
+perfectly safe.</p>
+          <p>I was so sorry to hear that Grandpa Borden had gone. I know it is a 
+hard blow to your father and family.</p>
+          <p>Give my dearest love to all of them.</p>
+          <p>I love and think of you every
+minute sweetheart.</p>
+          <closer><salute>Devotedly</salute>
+<signed>Rob</signed></closer>
+          <closer>My address is.
+<address><addrLine>Capt. Robt. M. Hanes</addrLine><addrLine>Battery A 113 F.A.</addrLine><addrLine>Advanced School Detachment</addrLine><addrLine>American Expeditionary Forces, Via New YK.</addrLine></address></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>May 11, 1918</head>
+        <div2 type="section">
+          <head>[Envelope, YMCA
+“with the colors”]</head>
+          <p><figure id="envelope4" entity="h-may11-18-env"><p>[Envelope]</p></figure>
+</p>
+          <p>Soldiers Mail<lb/>
+Capt Hanes<lb/>
+113th F.A.<lb/>
+A.E.F.<lb/>
+COB<date>May 11</date><address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro</addrLine><addrLine>N.C.</addrLine></address></p>
+          <p>[stamped PASSED May 11 1918 CENSOR]</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes14" n="[1]" entity="h-may11-18-01"/>
+          <head>[Letter]</head>
+          <byline>The Vanderbilt Hotel<lb/>
+Thirty Fourth Street East at Park Avenue<lb/>
+New York</byline>
+          <opener><date>May 11, 1918</date>
+<salute>Darling,</salute></opener>
+          <p> Another uneventful day has passed. I hope they will keep just this way until we land. I should like to see a little action if I was sure the submarine would get the worst of it but as you can't count on this, I am perfectly satisfied to let them alone and they wont make me a bit mad if they pass us by.</p>
+          <p>I guess you are in Baltimore today if you carried out your original
+<pb id="hanes15" n="[2]" entity="h-may11-18-02"/>
+plans. I hope Lucy isn't bothered much by the operation. I know she is glad to have you there with her.</p>
+          <p>There are about a <gap reason="word blacked out by censors" extent="six letters"/> negreoes on here from <gap reason="word blacked out by censors" extent="2 words "/>. They are scared to death all the time. It is a funny sight to watch their expressions and hear them talk. Their only redeeming trait is that they will absolutely do anything you tell them at any time.</p>
+          <p>The weather has been wonderful so far. The ocean is as quiet as a mill pond. I never have seen it so wonderfully smooth. We haven't been troubled with sea-sickness at all so far with the exception of McLendon. He put a few meals from him but has been the only one so far.</p>
+          <p>We aren't allowed to write anything but facts concerning the weather and the abstract. I can't give any names of anything. This
+makes a letter absolutely devoid of interest
+<pb id="hanes16" n="[3]" entity="h-may11-18-03"/>
+except that it lets you know I am getting along finely and love you
+with all my heart.</p>
+          <closer><salute>Devotedly</salute>
+<signed>Rob</signed></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>May 20, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope5" entity="h-may20-18-env">
+              <p>[Envelope postmarked May 21, 1918]</p>
+            </figure>
+          </p>
+          <p>U.S. Army<lb/>
+May 21<lb/>
+Postal Service</p>
+          <p>Capt. Robt. M. Hanes<lb/>
+Advanced School Detachment<lb/>
+30 Division—Amer. Ex. Forces<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro</addrLine><addrLine>N.C.</addrLine><addrLine>U.S.A.</addrLine></address></p>
+          <p>American <lb/>
+Y.M.C.A.</p>
+          <p>[stamped] Passed as censored [written in seal] O.K.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes18" n="[1]" entity="h-may20-18-01"/>
+          <head>[Letter]</head>
+          <byline>American<lb/>
+Y.M.C.A.<lb/>
+On Active Service<lb/>
+With The<lb/>
+AMERICAN EXPEDITIONARY FORCES</byline>
+          <opener><date>May 20, 1918.</date>
+<salute>Darling, </salute></opener>
+          <p>we have been in a rest camp since we landed but I expect we shall eave here for some school very shortly. I hope we shall this thing of doing nothing gets very tiresome and I am anxious to get on at the work and learn something. I guess the method of teaching and matter taught will be absolutely different from our schools and I am expecting a pretty stiff course and plenty of hard work.</p>
+          <p>A dirigible has just passed over my tent. They look fine from the ground but I think that is as close contact as I should want with them. The air service must be great sport to anyone after he has become used to it but I shall take my fighting on the ground. I read a piece by an artillery observer the other day who had been observing for six months and had not once had an accident or been in a fight with the Germans. Tell Mother about this as it will
+<pb id="hanes19" n="[2]" entity="h-may20-18-02"/>
+cheer her up on Kennon's account. He said the work was very interesting, but changed to a fighting plane because he didn't come in close enough contact with the Germans.</p>
+          <p>I hope you got the card I left in New York telling of the safe arrival of our boat. I found out after we had got to sea I could have left a telegram to be sent and I have worried ever since that I didn't do this. I am always finding out things when it is too late. I am awfully sorry I didn't spare you the day or two of anxiety that I may have by doing this.</p>
+          <p>I wanted to send you a cable when we landed but I had charge of the men and had to come straight to camp and have not had a chance to get out since. All the officers had to come straight out, however, so it would have been the same if I had been with them.</p>
+          <p>The weather here is very hot now in the day but the nights get very chilly—I think our next camp will be in a much higher altitude and I imagine a great deal cooler both day and night.</p>
+          <p>From what we saw of the town near which we are there are practically no young men who aren't in the army. There were lots of women lining the streets thru which we marched bearing testimony of the fact that they had lost someone in the war. We don't know how to appreciate the conditions that this war has brought about in far off America. I hope we never shall have to have it brought home to us as these people 
+<pb id="hanes20" n="[3]" entity="h-may20-18-03"/>
+have. I have no doubt but that the German people have suffered a great deal more and worse.</p>
+          <p>You may get this all cut up by some sensor but I hope not. They are very strict about everything you write as they rightfully should be.</p>
+          <p>Darling, I am living to hear from you to know all you are doing, where you are etc. I don't feel that we are so far apart, dearest, because love like ours wont separate no matter what the distance. I know you are with me all the time in thought and prayers and this helps out a lot. I can never tell you, sweetheart, how happy you
+have made me and how much you have done for me. No man ever had so wonderful a wife and I hope it will not be long that I shall have to be separated from you.</p>
+          <p>Please give my love to all the family.</p>
+          <p>With dearest love to you. You are everything to me sweetheart. I love you more than I can ever tell you. </p>
+          <closer>
+            <salute>Devotedly</salute>
+            <signed> Rob.</signed>
+          </closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>May 25, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope6" entity="h-may25-18-env">
+              <p>Envelope postmarked May 27, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+Advanced School Detachment<lb/>
+30 Division—Amer. Exp. Forces<address><addrLine>Mrs. R. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro</addrLine><addrLine>N.C.</addrLine><addrLine>U.S.A.</addrLine></address><note anchored="yes"><p> American<lb/>Y.M.C.A.</p></note>
+</p>
+          <p>[postmarked]<lb/>
+U.S. Army<lb/>
+May 27<lb/>
+6 AM<lb/>
+Postal Service<lb/>
+1918
+</p>
+          <p>Soldier's Mail<lb/>
+704</p>
+          <p>[stamped]
+Censored <gap reason="illegible" extent="five letters"/></p>
+          <p>Robt. M. Hanes<lb/>
+Capt. Adv. Sch. Det.<lb/>
+30 Div.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes22" n="[1]" entity="h-may25-18-01"/>
+          <head>[Letter]</head>
+          <byline>American<lb/>
+Y.M.C.A.<lb/>
+On Active Service<lb/>
+With The<lb/>
+AMERICAN EXPEDITIONARY FORCES</byline>
+          <opener><date>May 25 1918.</date>
+<salute>My Darling,</salute></opener>
+          <p>We have arrived at our instruction camp after several days and nights on the train. We came through one of the prettiest parts of France. I am determined when it is all over that you and I shall come back here for a trip and a rest. It is the loveliest country in the world I believe. We saw all kinds of architecture from cave
+dwellings built into the sides of the hills to the most beautiful country homes and castles. The weather was perfect all the way so our view was unrestricted. It seems a shame that such a lovely country should have to be torn up and pillaged by war.</p>
+          <p>The camp where we are now is perfect. It is said to be the best in France, and I can <pb id="hanes23" n="[2]" entity="h-may25-18-02"/>
+well believe it as it is impossible to have a better I know. It is located in a high altitude so the air is clean and fresh all the time. We have wonderful brick and stone barracks with every accomidation. The bath looks like the N.Y. Athletic club. tile floors and white tile partitions for the showers and bath attendants standing around to regulate the water for you, it is too good to be true. Then best of all is the food. We have a wonderful big, bright dining room and food that is unsurpassed. This sounds as if I am raving, and I myself am afraid half the time it isn't true, but it is all so. I have had to let my belt out one notch now and if this food keeps up as it has started I shall have to let out several more.</p>
+          <p>We have lots of guns and plenty of horses here so I think our chances for a wonderful<pb id="hanes24" n="[3]" entity="h-may25-18-03"/>
+course of instruction are as bright as could be asked for. We start in tomorrow and I am looking forward to it with keen anticipation. I am anxious to be about it and learn what I can from these instructers.</p>
+          <p>Our balloon and airplane observers are being sent today to another camp for special instruction in their line of work. They get to go thru Paris on the way so they are tickled to death at the prospect. I am perfectly willing to stay here. If this is war, as Brown would say “I want to fight until I am as bloody as a hog.” The come down when we leave here and actually go to it tho is going to be fierce. I understand the course here lasts about ten weeks so we shall be here for some time provided the regiment doesn't come over in the meantime. In this case we 
+<pb id="hanes25" n="[4]" entity="h-may25-18-04"/>
+we leave here and go with the regiment.</p>
+          <p>We are going to try to get some horses and go for a ride this afternoon but I don't know yet whether we shall be able to get them or not. I am crazy to get out in the country some and see the conditions hereabout.</p>
+          <p>Darling, if you were only here and we could go about together this would be ideal. I miss and long for you every minute of every day. I hope it won't be long before it will all be over and we shall be able to settle down in our own home. I don't see any prospects for any early stoppage now however.</p>
+          <p>Please thank Julia for the things she gave me when I left you never did tell me what they were.</p>
+          <p>Dearest love to all the family and a heart full for you.</p>
+          <closer>
+            <salute>Devotedly</salute>
+            <signed>Rob.</signed>
+          </closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>May 28, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope7" entity="h-may28-18-env">
+              <p>Envelope postmarked May 29, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>Advanced School Detachment<lb/>30 Division—Amer. Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine><addrLine>U.S.A.</addrLine></address>
+</p>
+          <p>[postmarked]<lb/>
+U.S. Army<lb/>
+May 29<lb/>
+6 AM<lb/>
+Postal Service<lb/>
+1918
+</p>
+          <p>Officer's Mail.<lb/>
+704 [stamped]</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 317 <lb/>
+O.K.<lb/>
+Robt. M. Hanes<lb/>
+Capt. Adv. Sch. Det.<lb/>
+30 Div.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes27" n="[1]" entity="h-may28-18-01"/>
+          <head>[Letter]</head>
+          <opener><date>May 28, 1918.</date>
+<salute>Darling, </salute></opener>
+          <p>I intended writing you last night but I got a nasty headache and went to bed with it right after supper. It is all gone today and I feel fine.</p>
+          <p>We had a most wonderful trip yesterday. Grantland Rice, Trumbull, Stewart, Bev Royster, Bowman and I went to a town about 18 miles from our camp. I don't believe we are in the army at all. We went to the Quartermaster told him we wanted to make the trip. He phoned to the U. S. garage for a government car to take us. Presently a big seven passenger French Peugot with a chauffeur came up. We had this from 9:30 A.M. to 5:30 P.M. and not a cent of cost to us. We had one of the most lovely rides I have ever had. The day was all that could be asked and the scenery
+<pb id="hanes28" n="[2]" entity="h-may28-18-02"/>
+as beautiful as I have ever seen. The Quarter Master had the chauffeur take us in a round about trip for the benefit of the scenery and it was beautiful. We rode all over the historic old town, had lunch at the Officer's Club, I ordered a peach of a uniform and we then had a fine ride home. Tell those boys over there they don't know what it means to be an officer until they get over here. Everyone is as nice to you as they can be and artillery stands “ace high” everywhere. If you were only here, sweet-heart and we could stay where we now are I wouldn't care if the war lasted forever. (That of course isn't true as much as I would like to have you but it really is fine.)</p>
+          <p>We have had our first day of instruction. The work is wonderful. Most all practical and intensely interesting. We are getting the real stuff that we shall use and have passed thru most of all the drudgery
+<pb id="hanes29" n="[3]" entity="h-may28-18-03"/>
+<q direct="unspecified"><p>28 May 1918</p></q>
+work we shall have. A lot that we are to have is going to be hard digging but you feel that everything you get now is worth while
+and you can see the use of it so much more than ever before.</p>
+          <p>The food continues excellent and the climate fine. The whole surrounding is ideal. The whole school is of picked men from several different divisions so the class of men we are in contact with is much above the average.</p>
+          <p>
+            <figure id="uniform" entity="h-may28-18-unif">
+              <p>“The larger piece is the blouse material while the smaller one pinned to it is the breeches.” (page 3.)</p>
+            </figure>
+          </p>
+          <p>I am going in Saturday for a “try-on” of my suit. I think it is going to be a dandy. I am enclosing samples of it. The larger piece is the blouse material while the smaller one pinned to it is the breeches. I am getting this for a good suit. The breeches one to have the leather inserts
+<pb id="hanes30" n="[4]" entity="h-may28-18-04"/>
+at the knees. I am going to keep this in good shape to come home in someday.</p>
+          <p>I haven't heard a word from you yet, darling, I am so anxious to hear all you are doing. It has been about three weeks since I left you. It seems like three years, and so much longer since I can't hear from you and know all about you. The pictures are a constant source of pleasure to me. I don't know what I should do at all without them.</p>
+          <p>I guess you have my address correct: Advanced School Detachment, 30th Division, American Exp. Forces, Via N.Y.City.</p>
+          <p>All my love to you my darling. Don't worry about me. You are the dearest girl in this world, I know.</p>
+          <p>Please let me know if you don't get your allotment of $100.00 per month thru the Wayne Natl. Bank that I made to you from my pay.</p>
+          <closer>
+            <salute>Devotedly</salute>
+            <signed>Rob.</signed>
+          </closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>May 30, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope8" entity="h-may30-18-env">
+              <p>Envelope postmarked  June 1, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+Advanced School Detachment<lb/>
+30 Division—Amer. Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro</addrLine><addrLine>N.C.</addrLine><addrLine>U.S.A.</addrLine></address></p>
+          <p>[postmarked]<lb/>
+U.S. Army<lb/>
+Jun 1<lb/>
+6 AM<lb/>
+Postal Service<lb/>
+1918</p>
+          <p>Soldier's Mail.<lb/>
+704 [stamped]</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored <lb/>Robt. M. Hanes<lb/>
+Capt. Adv. Sch. Det.<lb/>
+30 Div.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes32" n="[1]" entity="h-may30-18-01"/>
+          <head>[Letter]</head>
+          <byline>On Active Service<lb/>
+with the<lb/>
+AMERICAN EXPEDITIONARY FORCES<lb/>
+American<lb/>
+Y.M.C.A.</byline>
+          <opener><dateline>May 30, 1918.</dateline>
+<salute>Darling, </salute></opener>
+          <p>We are having a holiday today for Memorial Day and I have been taking advantage of it to catch up on some points I am not so familiar with about the new guns we have. I would have given anything had you been here today so we could have taken a nice trip somewhere together. It would have been too wonderful for anything.</p>
+          <p>I sent you a small apron this morning that I picked up in a store here. I hope you will get it alright. It isn't very pretty but it was the best I could find and I was obliged to let you know I was thinking of you anyway, sweetheart—</p>
+          <pb id="hanes33" n="[2]" entity="h-may30-18-02"/>
+          <p>I have not heard a word from you yet. Some of our enlisted men got letters yesterday for the first time but I don't think any of our officers have yet received any mail. I hope when it does start it will continue steadily. I am crazy to hear from you. It would help a lot to calm this longing for you, darling that I have constantly.</p>
+          <p>From the papers I see the Germans have started another drive. They are fighting desperately to get a decisive engagement before the Americans can get fully into it I believe. They will have to hurry tho' as they are getting them over here in large numbers now. This means the finish of the Germans I believe when the Americans get enough men in the field to 
+<pb id="hanes34" n="[3]" entity="h-may30-18-03"/>
+properly go after them.</p>
+          <p>I am going in Saturday to have my new uniform tried on. I think it is going to be a dandy. This will fix me up with all the clothes I shall have to have now for some time. I am out of the market on everything when I get this suit. I have more stuff now than I shall ever get about with me. As soon as I get it I am going to send you a picture of myself in it and the new caps we are wearing. They are very much like the French caps with no brim at all and come up to a point in the middle. They are very foxy.</p>
+          <p>I have never felt better or eaten more fiendishly than now. The food is so deliciously prepared that I can't resist any of it. I am eating string beans and carrots like an old timer and rhubarb is my pet dish.
+<pb id="hanes35" n="[4]" entity="h-may30-18-04"/>
+I guess I shall be pretty well broken in to any and all sort of dishes by the time I get back home.</p>
+          <p>I have been thinking of bringing a French cook back with me but I am afraid you would not understand that I am bringing her back just for you so I guess I had better not try it. How about the French orphan tho', do you want one of them?</p>
+          <p>With a heart full of love to you I am</p>
+          <closer><salute>Devotedly yours</salute>
+<signed>Rob</signed></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>June 15, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope9" entity="h-jun15-18-env">
+              <p>Envelope postmarked June 17, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.</p>
+          <p>
+            <address>
+              <addrLine>Mrs. Robt. M. Hanes</addrLine>
+              <addrLine>103 George St.</addrLine>
+              <addrLine>Goldsboro, N.C.</addrLine>
+              <addrLine>U.S.A.</addrLine>
+            </address>
+          </p>
+          <p>[postmarked]<lb/>
+U.S. Army<lb/>
+Jun 17<lb/>
+6 AM<lb/>
+Postal Service<lb/>
+1918</p>
+          <p>Officer's Mail.<lb/>
+704 [stamped]</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 317 <lb/>
+O.K.<lb/>
+Robt. M. Hanes<lb/>
+Capt. 113 F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes37" n="[1]" entity="h-jun15-18-01"/>
+          <head>Letter # 4</head>
+          <opener><dateline>June 15, 1918.</dateline>
+<salute>Darling,</salute></opener>
+          <p> we have got our orders to proceed to the regiment and we had expected to leave here today or tomorrow but I think now it will be sometime next week before we shall get away. We are detained on account of transportation. There are some troops expected in here and I guess we shall go out on the trains they came in on. I heard today they would not be in until Wednesday. I never have been able to get my suit so if we go on Monday I shall have to pass it up. The tailor promised it to me last Tuesday and again by today but I haven't been able to get it yet. These French are the slowest  people in the world to get to do anything. They would be fighting this war for the next century if someone doesn't come in 
+<pb id="hanes38" n="[2]" entity="h-jun15-18-02"/>
+and win it for them.</p>
+          <p>The news in the papers looks very fine for the past few days. They seem to have the Germans pretty well in hand. The Americans are still fighting well and bravely. They are making wonderful records.</p>
+          <p>I hear the next camp that we go to is a very good one altho not so good as is this one. I am anxious to get there and get settled down since we have to go. You can never get down to work when you have the possibility of moving always staring you in the face. I guess we shall not get time to breath even when we once get back.</p>
+          <p>Billy Joyner is back with the regiment I am glad to hear. I shall be awfully glad to see him again as the majority of this crowd we have with us is very poor company to be with. We have a pretty sorry bunch from the 113th taken as a whole. The best of our officers are to come with the regiment. I hope 
+<pb id="hanes39" n="[3]" entity="h-jun15-18-03"/>
+<q direct="unspecified"><p>15 June 1918</p></q>
+they will show up better than most of these do anyway.</p>
+          <p>One captain from a Reserve outfit was shipped home the other night for getting drunk and raising the Dickens at a little café near the camp. We have some who are very lucky in not having been shipped. They will probably get it later.</p>
+          <p>We are firing all the time now. It is fine. The most fascinating thing in the world to change the guns about from one target to another and close in on the target until you hit it or “bracket” it.</p>
+          <p>Darling I never shall get over missing you and longing for you. It is the one thing first above all things now,—seeing you again. I hope we shall see the end of the war this summer. I doubt that we shall altho' I 
+<pb id="hanes40" n="[4]" entity="h-jun15-18-04"/>
+believe we shall certainly see the climax of it. How long it will take it to wane and die out is something yet to be seen.</p>
+          <p>I feel as well as I possibly can all the time. The cough has long since left as I wrote you before and my only ailment now is an infernal Rose cold that keeps me sneezing whenever I get in the dust or grass seed.</p>
+          <closer><salute>With all my love believe me always</salute><salute>Devotedly yours</salute>
+<signed>Rob</signed></closer>
+          <closer>Censored<lb/>
+Capt. Robt. M. Hanes<lb/>
+113 F.A.</closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>July 5, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope10" entity="h-jul05-18-env">
+              <p>Envelope postmarked July 6, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. R. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. R. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine><addrLine>U.S.A.</addrLine></address></p>
+          <p>[postmarked]<lb/>
+U.S. Army<lb/>
+July 6<lb/>
+<gap reason="illegible" extent="two words"/></p>
+          <p>Officer's Mail.<lb/>
+71- [stamped]</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 1476 <lb/>
+O.K.<lb/>
+Capt. R. M. Hanes</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes42" n="[1]" entity="h-jul05-18-01"/>
+          <head>[Letter]</head>
+          <head> # 10</head>
+          <byline>On Active Service<lb/>
+with the<lb/>
+AMERICAN EXPEDITIONARY FORCE<lb/>
+American<lb/>
+Y.M.C.A.</byline>
+          <opener><dateline>July 5 1918.<lb/>
+Camp Coequidon,<lb/>
+Guer France.</dateline>
+<salute>Darling, </salute></opener>
+          <p>we had a great celebration here yesterday. A French General was here to review us. We marched past his reviewing stand with great pomp. Bands were playing everywhere and our flags were flying high. We had a massed assembly on one of the fields here where an ovation was delivered along the usual Fourth of July lines. Then a certain number of officers were invited to dinner with General G. and the French general. We had a fine meal decorated with every kind of wine you can think of. We toasted the President of the United States, President of France, French and American Republics, French and American soldiers and finally each individual of each country. We had a band outside the 
+<pb id="hanes43" n="[2]" entity="h-jul05-18-02"/>
+dining hall to furnish music and a quartette inside. Several speaches were delivered and the more wine brought in the more fervent the speaches. It was a great time. I enjoyed it very much.</p>
+          <p>I don't know whether I wrote you before or not that Major Bulwinkle is here. He failed a Fort Sill  and was sent back to the Regiment but the General kept him. Billy Joyner is his adjutant and will probably pull him thru alright but he can't do much for himself. He is a fine old fellow personally but I am afraid he will never make it in artillery.</p>
+          <p>I think I thanked you for the picture you sent me before, darling. It is a wonder and is a great comfort to me. I enjoy looking at it every day and it will be a constant source of pleasure to me.</p>
+          <p>I realize perfectly, darling, that you that one left at home have by far the hardest part of this war. You have a much worse time
+<pb id="hanes44" n="[3]" entity="h-jul05-18-03"/>
+of it than do I and I sympathize with you in it. I know however no woman is braver or more courageous in her part than are you sweetheart, and I know you will make all the rest appear badly in the way you carry out your part.</p>
+          <p>My face is burned to a crisp from this sun here. These little old caps give absolutely no protection to your face and the sun just burns it up. I guess mine is burned now about as badly as it can be so I am looking for better days with it.</p>
+          <p>Our trunks and bedding roles came in today. We have been in this camp almost two weeks now and the car in which they were shipped from our last camp has been lost ever since. We have been tracing it and raising sand for it all the while. I shall be glad to get at my clothes again.</p>
+          <p>I have seen a lot of boys with whom I was at Oglethorpe here. I see one or 
+<pb id="hanes45" n="[4]" entity="h-jul05-18-04"/>
+two new ones almost every day.</p>
+          <p>I didn't censor Dortch's letter. I don't know who did it.</p>
+          <p>Lucy wrote me she and Mama were going to take “Son” to Asheville and that they wanted you to go with them. I wish you would go. I know they would enjoy having you so much and I believe it would help you a lot to get to the mountains for awhile. It would do Mother good to get up there too I believe. I hope
+she is better now and that she will not have any more trouble. She has had a siege lately. Please give my dearest love to her.</p>
+          <p>All my love to you my sweetheart. You are dearer than all the world to me.</p>
+          <closer><salute>Devotedly</salute>
+<signed>Rob</signed></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>July 25, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope11" entity="h-jul25-18-env">
+              <p>Envelope postmarked  July 25, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. R. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.</p>
+          <p>American<lb/>
+Y.M.C.A.
+</p>
+          <p>
+            <address>
+              <addrLine>Mrs. Robt. M. Hanes</addrLine>
+              <addrLine>103 George St.</addrLine>
+              <addrLine>Goldsboro, N.C.</addrLine>
+              <addrLine>U.S.A.</addrLine>
+            </address>
+          </p>
+          <p>[postmarked]<lb/>
+U.S. Army<lb/>
+July 25<lb/>
+2 PM<lb/>
+Postal Service<lb/>
+1918</p>
+          <p>Officer's Mail.<lb/>
+711 [stamped]</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 1476 <lb/>
+O.K.<lb/>
+Capt. Robt. M. Hanes</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes47" n="[1]" entity="h-jul25-18-01"/>
+          <head>[Letter]</head>
+          <byline>On Active Service<lb/>
+with the<lb/>
+AMERICAN EXPEDITIONARY FORCE<lb/>
+American<lb/>
+Y.M.C.A.</byline>
+          <opener><date>July 25 1918</date>
+<salute>Sweetheart </salute></opener>
+          <p>you will have to handle this letter lightly as to comments on the writing or construction as I am writing it with a gas mask on. This doesn't mean that I am in gas but that it is a part of our daily life to ware it now so that we shall be ready to use it when we get to the front. You should try one of them for an hour or so, hell, Germans or nothing has any terrors for you after wearing it.</p>
+          <p>We have one more week of instructn here and then about one more to get everything ready to leave in and we are off to the big show. If the Allies keep going as they are now there wont be any show long. The news has been wonderful for the past few days. I don't hope for too much but it is great the 
+<pb id="hanes48" n="[2]" entity="h-jul25-18-02"/>
+recent progress that has been made. The Germans have evidently been taken very much by surprise and are very hard pressed in their present positions. It would certainly be wonderful if we could get the whole thing finished up this summer.</p>
+          <p>We had a very nice time Sunday afternoon at the Red Cross fète we attended. It was at some Countess' house or chateau in the country. It was a very pretty old place but nothing wonderful at all. The grounds were very pretty and they had two or three right attractive girls there. The whole scene was laid for a huge drunk which it finally turned out to be. Your husband got the fullest he has been in years, and by the way the sickest next day. Billy Joyner, Creighton and I went out together on horseback, a ride of about six or eight miles. We got a table and sat down, there was nothing to do but go to drinking, as the girls were waiting 
+<pb id="hanes49" n="[3]" entity="h-jul25-18-03"/>
+to serve you and you had to spend some money some way for the Red Cross. We went to it and about six o'clock in the afternoon we decided we had better mount and beat it before we got so we couldn't mount. Some of the crowd who came back in trucks passed away completely. Frank Fuller got pretty tight and went up to the Colonel, who was standing in a crowd looking very dignified, cracked his heels together saluted and said, “Sir, I wish to report Major Pridgen is out in the field under a hay stack, fast asleep.” They say it was very comical altho' very embarrassing to the Colonel. Major Pridgen is the Doctor we used to ride in
+sometimes, you know. I got my fill of wine on this trip, no more. I was too sick next day to bother it again soon.</p>
+          <p>We have two boys in the battery who
+<pb id="hanes50" n="[4]" entity="h-jul25-18-04"/>
+are pretty good musicians. One of my new lieutenants plays a mandolin so with the guitar and violin of the other two we have some great playing and singing in my room every night after supper. It helps out a lot after a hard day to forget it all and sing awhile.</p>
+          <p>We have a very congenial crowd in my battery now and we get on
+famously together.</p>
+          <p>Give my dearest love to all the family. I hope mother's health
+is improving.</p>
+          <p>All my love to you my precious you mean more than all the world
+to me, I truly hope I may soon be permitted to return to you.</p>
+          <closer>
+            <salute>Devotedly</salute>
+            <signed>Rob</signed>
+          </closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>August 4, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope12" entity="h-aug4-18-env">
+              <p>Envelope postmarked August 5, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine><addrLine>U.S.A.</addrLine></address></p>
+          <p>[postmarked]<lb/>
+U.S. Army<lb/>
+Aug 5<lb/>
+2 PM<lb/>
+Postal Service<lb/>
+1918</p>
+          <p>Officer's Mail.<lb/>
+711</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 1476 <lb/>
+O.K.<lb/>
+Capt. Robt. M. Hanes.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes52" n="[1]" entity="h-aug4-18-01"/>
+          <head>[Letter]</head>
+          <byline>“With the Colors”<lb/>
+YMCA</byline>
+          <opener><dateline>Camp Coëtquidan<lb/>
+Guer France.<lb/>
+Aug. 4, 1918.</dateline>
+<salute>Darling,</salute> </opener>
+          <p>I have not heard from you since I last wrote you a couple days ago but I cannot complain as I had about ten letters from you last week. They were all wonderful too, especially the one written on our anniversary. I love to re-read it and then re-read it again. The happiest and best thing in my life, my precious, is your love and I shall always cherish it as such. It is a wealth that nothing can take from me no matter what my future fortunes may be. I realize I am totally unworthy of it, darling, but I am supremely happy in it.</p>
+          <p>I had a letter from Captain Pack today in which he said he was very delighted to have heard from you. I think your letters are a great pleasure to him and he appreciates them very much. He is still with the Division, he says, altho' Johnny, Batchelor and Woods have all left. I hope he will still be there when we join it as I should like very much to see him again. He is a nice fellow. He said Lt. Turner who was his assistant at Sevier is instruction was killed a few days ago and that they had had several casualties. That is usually a
+<q direct="unspecified"><p> Help your country by saving. Write on BOTH sides of this paper</p></q>
+<pb id="hanes53" n="[2]" entity="h-aug4-18-02"/>
+very quiet sector they are on but they must have stirred up something. He said he was trying to get Ralph back into a machine gun company but I think Ralph had better hold to what he has. His job is very safe as compared with a machine gun captain's and since he has been put into it if I were he I should hold it. He spoke of Uncle Remus and his “heroic son” in his letter. He is bent on going back to America when the war is over. I think he is hoping they will get me over here and that he can go back for you, but no such luck, I shall beat him there by a long while.</p>
+          <p>My battery went all to pieces on the last two contests we have had. We lead the Brigade on tow of them and did very well on two others but in the last two we did miserably. I am going to work their tongues out this next week but what they do better in the next contest. The next will probably be our last.</p>
+          <p>I hope you get the kodak pictures I sent you last week. They were pretty good I think and will probably be the last I shall be able to get as they have ordered all kodaks taken up.</p>
+          <p>I drew a new horse yesterday in place of the one I had to turn in on account of her being so sick. My stable sergeant got on him to ride him to the corral and he began to bucking like 
+<pb id="hanes54" n="[3]" entity="h-aug4-18-03"/>
+a broncho. They put a saddle on him then and a boy got on him, he started off but only got about four steps before he bucked and threw him winding. I shall probably be humiliated a great many
+times by being thrown before the battery but I am going to try him anyway as he is a good horse. He travels like the wind and looks as if he will be a good tough animal.</p>
+          <p>We shall be pretty busy this week as we do a lot of night firing and finish our firing instruction up. We can't be much busier in the day than we have been but this night work will keep us a little harder at it. When Saturday afternoon comes, after a week such as we have,
+I am so tired I can't do a thing but go to bed and sleep. I have worked pretty hard at times I have thought in the past but nothing like this I have done over here.</p>
+          <p>I am very anxious to see Kennon. I hope he will soon get over here. I know he is anxious to come too.</p>
+          <p>I received a letter from Elsie yesterday
+<pb id="hanes55" n="[4]" entity="h-aug4-18-04"/>
+which I enjoyed and appreciated very much. Tell her I shall answer it very shortly now.</p>
+          <p>All my love to you my sweetheart. I love you very, very dearly.</p>
+          <closer>
+            <salute>Devotedly, </salute>
+            <signed>Rob</signed>
+          </closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>August 9, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope13" entity="h-aug9-18-env">
+              <p>Envelope postmarked August <gap reason="illegible"/>, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine></address></p>
+          <p>[postmarked]<lb/>
+U.S. Army<lb/>
+Aug <gap reason="illegible" extent="two numbers"/><lb/>
+2 PM<lb/>
+Postal Service<lb/>
+1918</p>
+          <p>Soldier's Mail.</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 1476 <lb/>
+O.K.<lb/>
+Capt. Robt. M. Hanes</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes57" n="[1]" entity="h-aug9-18-01"/>
+          <head>[Letter]</head>
+          <opener><dateline>Camp Coëtquidan<lb/>
+Guer France<lb/>
+Aug. 9, 1918.</dateline>
+<salute>My darling, </salute></opener>
+          <p>I am very much ashamed that I have let a whole week pass by without writing you once. If you could but have seen me during this week tho' you would have known that the fault isn't altogether mine. Since last Sunday I have hardly had a moment's rest at all. We have been on the range day and night almost since then, sleeping in “pup” tents and eating when and where we could. This next week's schedule calls for about the same sort but I am going to sneak some time for writing you someway. I feel very badly that I
+<pb id="hanes58" n="[2]" entity="h-aug9-18-02"/>
+haven't written you more all along but the pace we have been going for the past several weeks has left very little time for even sleep and eating. I never have been thru so strenuous a time in all of my young life.</p>
+          <p>We are losing a lot of officers from our Regiment now. some are being sent back to the States as instructors some left here, some sent away as observers and so on. I don't know how we shall ever get to the front.</p>
+          <p>“Billy” Joyner is the only Captain who is left, he goes back to the States and will be made a Major, Frank Fuller, John Moore and Rod Guion all go back to be made Captains and come over with other outfits. The rest are all second Lieutenants. We shall all be sent back sooner or later I expect if they increase the army to as large as they are now thinking of. However, we shall get some wonderful experience in the mean time that these others wont have had.</p>
+          <p>Our time for leaving here seems to have been delayed some for some reason. We have another weeks instruction mapped out for us, so I don't know when we shall leave. I think however this week will be our last. You can't tell however what plans will be made for you in this army or how soon they will be changed —</p>
+          <p>I had a letter from Capt. Pack yesterday in which he said he was leaving the 30th Division
+<pb id="hanes59" n="[3]" entity="h-aug9-18-03"/>
+and was going back to the British. He seemed pretty well mowed down about his departure. He doesn't think a thing of getting back on that front again. I think he hoped to stay out of if for the rest of the war and I don't blame him for it at all. I guess by the time I have been at it as long as he has I shall feel the same.</p>
+          <p>Darling, I had two letters from you yesterday that were wonderful. They each enclosed some of “Bill's letters to Mabel” which are very funny.. I haven't read all of them yet but what I have read are fine. Thank you so much for sending them. I wish you would go
+<pb id="hanes60" n="[4]" entity="h-aug9-18-04"/>
+light on this talk about peach ice cream, fried chicken&amp;c. in your letters. I feel like breaking something down to get back there for one mouthful of any of them. I wouldn't know how to address a piece of fried chicken at all now.</p>
+          <div3 type="section">
+            <head>Tuesday.</head>
+            <p>I didn't finish this Sunday and as we went out on a bivouac Monday morning early and only returned late this afternoon I have had no chance to finish it until now.</p>
+            <p>We had a very successful and profitable camp. I learned a lot that I didn't know before and got a fine fund of experience out of it. We have only one more day of firing and then our course is finished.</p>
+            <pb id="hanes61" n="[5]" entity="h-aug9-18-05"/>
+            <p>Our orders have come for leaving for the front and I guess this week or the first of next will see us off. We are going to a very quiet sector however and I don't think we shall see any very serious fighting for a long while yet. We shall probably spend the winter in our first position and that will preclude our doing much. The sector is very comfortable and nice and I think we shall be fixed up finely there. We are very lucky I think to get started off in a quiet way and then work into something hotter.</p>
+            <p>We have a lot of little cards to write home on, on which we can say we are well, in a hospital&amp;c. but cannot
+<pb id="hanes61-2" n="[6]" entity="h-aug9-18-06"/>
+write letters I understand but I am going to do my best to get some to you anyway. Don't think anything strange however if you don't get any letters but the cards instead because we may not be allowed to write.</p>
+            <p>I may get a chance to go back to the horse lines some and if I do I shall try to write you then anyway. You will know I am alright at any event as there is very little danger I understand where we are going.</p>
+            <p>Give my dearest love to all the family.</p>
+            <p>All my heart to you my dearest. I love you better than I can even attempt to tell you.</p>
+            <closer>
+              <salute>Devotedly yours</salute>
+              <signed>Rob.</signed>
+            </closer>
+          </div3>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>August 29, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope14" entity="h-aug29-18-env">
+              <p>Envelope postmarked <gap reason="illegible"/>, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+113 Field Artillery<lb/>
+Amer. Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine></address></p>
+          <p>[postmarked]
+<gap reason="illegible" extent="five letters"/> Army</p>
+          <p>10 AM<lb/>
+1918<lb/>
+Bordeaux</p>
+          <p>Officer's Mail</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 1476 </p>
+          <p>Censored by<lb/>
+Capt. R. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes63" n="[1]" entity="h-aug29-18-01"/>
+          <head>[Letter]</head>
+          <opener><dateline>Somewhere in France<lb/>
+Aug. 27th 1918.</dateline>
+<salute>My darling,</salute></opener>
+          <p> one year ago today I first entered the army but it seems like a much longer time as I look back on it. So much of it I have had to spend away from you accounts for this. I hope one year from today will find us happily settled together again with the war all behind us and only the happy future before us. Nothing that I can ever wish will equal this my sweetheart. It is the sublime desire of my heart and one that I hope will be fulfilled.</p>
+          <p>We had a very uneventful trip to our present location, and one now awaiting in rear of the line for all the Regiment to arrive. When we are all assembled again we shall very shortly go into our positions and get down to real business. I shall be glad when we are settled once in our positions and can feel that we are actively engaged in defeating the scoundrels who oppose us.</p>
+          <p>I felt very important as the commander of a whole train coming up here. I really wasn't because one of our Majors was with us but I acted as such. It takes a whole train to transport 
+<pb id="hanes64" n="[2]" entity="h-aug29-18-02"/>
+a battery and I really had charge of it. We had our rolling kitchen on one of the flat cars and had our meals cooked as we came along. It was great fun. We had one first class coach for the officers and as there was only two of us to a compartment we could stretch out and sleep finely.</p>
+          <p>I went up to a French battery today and watched the first fire at the Germans. I could see the German trenches and the territory they held very plainly. Returning the German fired on a road just to our right. It was great business to hear the shells come whizzing over and burst. They are evidently very good artillarists the way they were plugging this road.</p>
+          <p>Bev Royster went up today to stay with a French Battery for a few days to observe and learn all he can.</p>
+          <p>It is all most interesting and I know I shall be crazy about it when I get my own battery into it. I went into the French dug outs and battering positions and saw their whole arrangement. The camouflage they
+<pb id="hanes65" n="[3]" entity="h-aug29-18-03"/>
+have is most wonderful. You can be riding right along a road and there will be a battery right beside you that you can't see until you are right on it and sometimes not even then.</p>
+          <p>We have been changed to another division so I guess that means we shall not go to our Infantry at all. We are cut loose from the 30th altogether. I hate it very much in a way because I hoped we could operate with our own people but I guess this isn't to be. We didn't have much to have with the Division officers anyway so we have never felt so much a part of it as have the Infantry possibly.</p>
+          <p>I guess I shall have to stop for this time as it is getting dark and we aren't allowed to have lights here at all.</p>
+          <p>All my heart to you the dearest of all.</p>
+          <closer>
+            <signed>Rob.</signed>
+          </closer>
+          <closer>Censored by<lb/>
+Capt. R.M. Hanes<lb/>
+113 F.A.</closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>September 2, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope15" entity="h-sep02-18-env">
+              <p>Envelope postmarked September, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine><addrLine>U.S.A.</addrLine></address>
+</p>
+          <p>[postmarked]<lb/>
+U.S. Army Post Office<lb/>
+MPES<lb/>
+181<lb/>
+18</p>
+          <p>Soldier's Mail.</p>
+          <p>The Salvation army</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 1476</p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes67" n="[1]" entity="h-sep02-18-01"/>
+          <head>[Letter]</head>
+          <opener><dateline>Somewhere in France.<lb/>
+Sept. 2, 1918</dateline>
+<salute>My darling </salute></opener>
+          <p>I haven't had time to write you for the past several days as I have had to move into position and get straight and that has kept me pretty well going. I have about got settled down now facing the Germans but I think we shall be moved shortly again. Our position isn't a very good one and I shall not be a bit sorry to leave it. We shall be kept pretty much on the move for a while I imagine from all the plans I can learn of now. We have moved three times already since coming to the front and I know of one more move we have now. It keeps you hustling to keep up with your property in all this moving. It is hard to keep the men from losing half of the battery property at each stop.</p>
+          <p>I have fired my first shots at the Germans with my battery and have been fired on by them. Yesterday afternoon I was at an observation post registering my battery
+<pb id="hanes68" n="[2]" entity="h-sep02-18-02"/>
+and just as I finished the Germans started dropping shells just across the road from me. You should have seen me dive into a dug out and flatten out against the wall until the firing was over. It is anything but a comfortable feeling. Last night the Germans fired at us but their range was very long so they didn't bother us any. It is a great life but pretty strenuous at times. It is intensely interesting however as we are getting a chance to put into practice the things we have been learning for so long.</p>
+          <p>I haven't had time to write to Capt. Pack, Johnnie or Ralph Faison lately so I don't know what is going on with them. I guess they are
+having plenty to interest them and keep them busy tho' even more than am I. I should like very much to see them all and have a good talk with them.</p>
+          <p>I haven't seen a paper in the past several days so I haven't the slightest idea what is going on but I hope the Allied successes continue
+<pb id="hanes69" n="[3]" entity="h-sep02-18-03"/>
+as they have been going. They have been doing wonderful fighting lately and I hope they can augment it so that when winter comes on
+we shall be well on toward ending the whole affair. The Allies have had greater successes this summer than they have ever had at
+any one period since the beginning of the war and I am very hopeful that we are on the final road to success and home. It will be a long time yet until it is all over but as long as we can keep taking a bit of territory and a few hundred prisoners we are certainly getting on.</p>
+          <p>I have enjoyed the letters to Mabel a lot. I am looking forward to the others with a great deal of pleasure. I haven't received a letter from you since I last wrote you but I know I have a lot of them on the way so that encourages me.</p>
+          <p>I hope you are receiving my letters better now. I am so sorry you have not been getting them. Don't worry when you
+<pb id="hanes70" n="[4]" entity="h-sep02-18-04"/>
+don't hear from me, darling, as there are days at a time when I don't get a chance to take off my clothes, we are firing day and night sometimes so we do not have time to eat hardly on some days. I shall write you every chance I get but when you don't hear don't worry as there is no danger here unless all luck and fate is against you and if that is true you would get in trouble at home as well as here.</p>
+          <p>I hope you are enjoying your trips to Beaufort. I never would have thought one could go there in an automobile. I certainly hope that Mother will improve greatly there and that she will return home fully recovered. Give her my dearest love. I have intended writing her ever since I have been over here but I haven't yet got to it. Tell her this is a standing threat tho and I shall make her suffer with a letter 
+yet.</p>
+          <p>I hope you have gone or are going to
+<pb id="hanes71" n="[5]" entity="h-sep02-18-05"/>
+Asheville too, sweetheart. I know the mountains would do you good and the change would set you up too.</p>
+          <p>You should see me cutting around on a motorcycle now. We have one in our battallion for the Major and he sent me out on it for some work the other day. I am a cut up on it. I never realized before how fast the things would run.</p>
+          <p>When is Kennon coming over? I hope to be able to see him when he gets over here. I will have had four months foreign service on the 8th of this month and should be entitled to a leave of seven days then but there is no chance of getting it at present and I don't know when there will be. I hope to get one tho' when Kennon and Fred both get over so I can go to see them.</p>
+          <p>Give my love to all the family.</p>
+          <p>All my heart to you my love. You are the dearest thing in life to me and my one greatest desire is to be able to
+<pb id="hanes72" n="[6]" entity="h-sep02-18-06"/>
+get back home with you for the home and life we have so long planned. Know always that I am constantly thinking of you and loving you and that you are always first and foremost in my thoughts. I love you more than I can even tell you but I hope to be able to show you when I get back home.</p>
+          <closer><salute>Devotedly all yours</salute>
+<signed>Rob</signed></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>September 16, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope16" entity="h-sep16-18-env">
+              <p>Envelope postmarked U.S. Military Postal.</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.
+<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine><addrLine>U.S.A.</addrLine></address>
+</p>
+          <p>[postmarked]<lb/>
+U.S. Military Postal
+<lb/><gap reason="illegible" extent="two words"/></p>
+          <p>Soldier's Mail.</p>
+          <p>Y.M.C.A.</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 1476 </p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes74" n="[1]" entity="h-sep16-18-01"/>
+          <head>[Letter]</head>
+          <opener><dateline>Somewhere in France<lb/>
+Sept. 19 [written over as 16], 1918.</dateline>
+<salute>My Precious One, </salute></opener>
+          <p>I have not had a chance to write you before in over a week I guess. I have no idea of time now at all. Someone said it was the 16th so I am taking their word for it. We came from the position that I last wrote you from to take our place in the line for a big offensive. I say big, it was small, but the first All American offensive so I was very proud to take part in it. My battery was the most forward one of our Regiment when the attack began. We were only a short distance behind the Infantry. It was a wonderful experience, we fought all night and all day then moved up again right behind the Infantry to go at it again.</p>
+          <pb id="hanes75" n="[2]" entity="h-sep16-18-02"/>
+          <p>We drove the Germans back about five miles and in following up the Infantry we went right through and over the battle fields. I have often read and heard of how battle fields looked but I had not the slightest idea of how it all was until I saw these. The roads were lined with German prisoners being brought back, the battle fields were covered with all kinds of shell holes, wreckage and some dead. Wounded men were being brought back and the whole scene was very picturesque. Our troops suffered very slight casualties. My battery did not have a single one but we have had several in the Regiment. We have had several very sad things to happen but we must of course expect this. I am sending you some newspaper clippings of the drive. I guess the censor will let them thru as we have left that sector now and are on our way to another front.</p>
+          <p>We have been travelling all night for several nights and horses and men are pretty well done up but a day or so of rest will straighten us out again.</p>
+          <p>I got six German horses the other day, two cows and several other small things. Several of our horses died so I had to
+<pb id="hanes75-2" n="[3]" entity="h-sep16-18-03"/>
+have some to take their place.</p>
+          <p>I have seen a little of every thing now. Airplane fights, balloons
+brought down, we have been shelled with gas, have been bombed by airplanes on the road and most everything else. It is a very exciting life and a wonderful experience.</p>
+          <p>I shall write you as often as I can but my letters will necessarily 
+be far between now as we are on the move all the time and I can't mail them even if I get them written half the time.</p>
+          <pb id="hanes75-3" n="[4]" entity="h-sep16-18-04"/>
+          <p>I love you, my precious, with all my heart and you know that you are the dearest, sweetest thing in all the world to me. You are always in my thoughts and dreams and I long for the time when it will all be over and we can settle down to a good long life of love and happiness.</p>
+          <p>I have got to stop to get ready for the nights' move.</p>
+          <closer><salute>All my love to you.</salute>
+<salute>Devotedly</salute>
+<signed>Rob</signed></closer>
+          <closer>Please save newspaper</closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>September 19, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope17" entity="h-sep19-18-env">
+              <p>Envelope postmarked  September 26, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine><addrLine>U.S.A.</addrLine></address></p>
+          <p>[postmarked]<lb/>
+Rec'd from Army<lb/>
+Sep 26<lb/>
+6 PM<lb/>
+1919<lb/>Bordeaux</p>
+          <p>Soldier's Mail.</p>
+          <p>American<lb/>
+Y.M.C.A.</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 1476 </p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes77" n="[1]" entity="h-sep19-18-01"/>
+          <head>[Letter]</head>
+          <byline>“With the Colors”<lb/>
+YMCA</byline>
+          <opener><dateline>Sept. 19, 1918.</dateline>
+<salute>Darling </salute></opener>
+          <p>I wrote you yesterday and dated it the twentieth but found out today is only the 19th so possibly I have dated some of my other letters to you wrongly. I have lost all sense of time. We travel all night and rest in the day and I am all mixed with my dates and happenings. I don't know how much further we have to go but I hope not far. They seem to be using us as Corps Artillery, that is we go into a drive and stay until it is well along then switch to another sector where they intend starting a drive. I hate like smoke to stop in these drives when they are going good, I had very much rather stay with them while things are going good. It is wonderful when you can get them on the run and most interesting when you follow up a drive and see just how the Germans are living and what they are doing back of their lines. We saw some very interesting things in the last one as the Germans left in a terrible hurry and most all of their equipment was in place when we got to it.</p>
+          <p>I have just had six letters from you, and I feel
+<q direct="unspecified"><p>[Help your country by saving. Write on BOTH sides of this paper]</p></q>
+<pb id="hanes78" n="[2]" entity="h-sep19-18-02"/>
+almost hilarious. It has been raining all night and most of the day, my tent has blown over on me about six times and we are in mud to our shoe tops but everything looks good to me now since getting your letters. Nothing bothers me at all.</p>
+          <p>You certainly have a varied lot of war activities you are looking into but I believe the war will be over before you get to work on any of them if these Americans keep coming over as they now are and keep fighting as they doubtless will. All the people over here are crazy about the Americans and admire their fighting greatly. They are showing up wonderfully as everyone knew they would.</p>
+          <p>I had a letter from Sister today and one from Lucy. They are both awfully good about writing to me and I love dearly to hear from them. Lucy says Fred was in New York to sail so I guess he is probably over here somewhere now. I hope to be able to see him soon but I doubt it.</p>
+          <p>You certainly are the handy person with the typewriter now. I enjoy reading your letters written on it so much because I can imagine how you have labored over them. You are the sweetest thing in the world to write me so often as you do but when you take the time and labor to write on a typewriter I know you love me, sweetheart.</p>
+          <pb id="hanes79" n="[3]" entity="h-sep19-18-03"/>
+          <p>I hear the new age bill has passed so I guess Edwin Lee and Brown will soon be over here carrying a gun and going after the Boche. They are certainly sending them over with very little training now so I shouldn't be surprised to hear of their being over at most any time. I may get one or both of them yet as there is no telling where they will be sent. I am getting new men all along as some get sick and have to be sent to the hospital.</p>
+          <p>I hope Mother didn't come home too soon. Hot weather will be very hard on her but in your last letters you said it was cooler and I hope it will stay that way. Make her take good care of herself. I certainly hope she will continue to improve now.</p>
+          <p>I hope my letters have been arriving better of late. We are on the move so much that for weeks we don't get near a Post Office so my letters don't get mailed very often. I hope you have received a lot of them since your last <q direct="unspecified"><p>[Help your country by saving. Write on BOTH sides of this paper]</p></q>
+<pb id="hanes80" n="[4]" entity="h-sep19-18-04"/>
+letter to me. We aren't as stationary as the Infantry are and so don't get as much chance at Post Offices and writing as do they. We get just as much chance to write but not so much chance at the P.O.'s I guess would be more nearly true.</p>
+          <p>I know you are having a great time fixing the house over. Mr. Borden will probably not enjoy it so much but I'll bet he will when it is over. Get all the ideas and experience you can at it precious as we have a little house work to do some day and I hope it isn't so long off.</p>
+          <p>These Germans certainly fix themselves up behind their lines. We found the other day they had moving picture shows, tailor shops, wine shops and most everything you can think of. We spent one night in a German camp as we followed up the Infantry which they  [the Germans] had just left the night before and they left almost everything behind them. In some of the dug outs food was even on the table and they seemed to be living well. One dug out, must have been the Commanding Officers was still burning where they had set fire to the records and whole 
+<pb id="hanes81" n="[5]" entity="h-sep19-18-05"/>
+works. Shoes, guns, clothing and equipment were strewn everywhere.</p>
+          <p>The prisoners as they came back seemed to be very well satisfied. Some of the Infantrymen said when they captured them they shook hands with each other laughed and seemed to be most pleased that they had been captured. I guess they were proud not to have been killed after the amount of shelling we gave them.</p>
+          <p>You can never imagine the amount of noise made when the artillery opens up in one of these drives. It had been raining for two days steadily and we were all wet and muddy from head to foot. I had fallen down on an average of every ten minutes for the two days as the ground was so slick I couldn't stand. My men had been carrying ammunition to the guns for two of the blackest nights you have ever seen when suddenly everything was made light by the blazing of hundreds of guns all over the sector. We poured thousands of shells
+<q direct="unspecified"><p>[Help your country by saving. Write on BOTH sides of this paper]</p></q>
+<pb id="hanes82" n="[6]" entity="h-sep19-18-06"/>
+into the bloody rascals for about four hours and then started our barage for the Infantry to advance under. They say it was a dandy
+and it certainly did the work as the Infantry met very little resistance and took thousands of scared and bewildered prisoners. One German officer was found dressed in his dress uniform, bag packed and orderly waiting with him to surrender.</p>
+          <p>We got orders to follow up the Infantry and did so in the afternoon. We stopped right behind three of the Infantry lines and started pumping lead at them again. They found where we were and shelled us pretty heavily for a night and day and then we got orders to move to another sector and here we are on the way.</p>
+          <p>One of the Lieutenants who was with me, but had transferred to another battery, you don't know him but he is in the picture I sent you of my officers, was killed and a couple of men in his battery was also. The Regiment had about twelve or fifteen casualties in all. My battery only had one horse wounded so I feel we are very lucky.</p>
+          <p>I shall write you more soon—</p>
+          <p>All my love to you my precious.</p>
+          <closer>
+            <salute>Devotedly</salute>
+            <signed>Rob.</signed>
+          </closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>September 22, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope18" entity="h-sep22-18-env">
+              <p>Envelope postmarked September 28, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine><addrLine>U.S.A.</addrLine></address>
+</p>
+          <p>[postmarked]<lb/>
+U.S. Army Post Office MPES Army<lb/>
+9 28<lb/>
+18<lb/>
+763</p>
+          <p>Officer's Mail.</p>
+          <p> [stamped]<lb/>
+A.E.F. Passed as Censored A. 1476 </p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes84" n="[1]" entity="h-sep22-18-01"/>
+          <head>[Letter]</head>
+          <byline>“With the Colors”<lb/>
+YMCA</byline>
+          <opener><dateline>Sept. 22, 1918</dateline>
+<salute>My darling, </salute></opener>
+          <p>I am 28 whole years old today but I don't feel any older than I did 28 years ago. I believe I am a great deal more serious than I was even last year this time but other than that I don't believe there is much change in me. I certainly hope when my next natal day turns up I shall be able to spend it with you as also I hope to spend your
+next one with you altho' I am afraid this latter is not very probable. I am afraid next spring and summer will still find us find us fighting here but I hope it will end with that.</p>
+          <p>We have again halted in rear of the lines for a few days rest before we go into position again but I expect the next day or so will find us again set and at them. I hope so anyway, we can't lick the Germans and rest too. We have halted here more on account of the horses than the men. Feed has been very scanty for them and the poor things are just about starved. We have a good lot of feed here and I hope a few days will put them on their feet again. They are pityful to look at now.</p>
+          <p>For the past few days, since arriving here, we have
+<q direct="unspecified"><p>[Help your country by saving. Write on BOTH sides of this paper]</p></q>
+<pb id="hanes85" n="[2]" entity="h-sep22-18-02"/>
+been lucky enough to eat at a French officer's mess. I have eaten like a glutton. They have the most delicious things to eat I have ever seen. Everything is wonderfully prepared and about five courses at every meal. We had been living on canned goods and a pretty scanty lot at that for two weeks or more and you can imagine how it felt to sit down to a dinner of about four kinds of hors d'oeuvres, wonderful steak, delicious string beans and potatoes, egg plant, the first I have ever been able to eat but this was wonderful, delicious cake with custard between the layers, coffee, cheese and with the whole, wine, white, red and champaigne. I have hardly been able to realize it is true. The officers with whom we were messing left however this morning and we are again back on corn beef and hard tack. I am fed up for a few days however and can make it on almost nothing for awhile after all I have eaten with the French.</p>
+          <p>These Frenchmen are certainly a wonderful lot. They go ahead and enjoy themselves just as if nothing at all was happening. They eat, drink, laugh, play and go on just the same. They of course feel very deeply the situation they and their country are in but they show it very little. They are most cordial to Americans and say they like us much better than they do the English. The English are too serious for them.</p>
+          <pb id="hanes86" n="[3]" entity="h-sep22-18-03"/>
+          <p>One of the Lieutenants at the mess was a regular circus. He was a perfect comedian, a ventriloquist spelling very doubtful) and a good actor. He kept us laughing almost all the time. Two of our officers speak French very well and one of their Sergeants speaks very good English so we got along famously with them. I hope to run in with another lot of them soon.</p>
+          <p>I don't think I told you in my last letter of a very funny experience we had with a cow. When we followed the Infantry up in the Drive we got two German cows. One of them we ate and the other we were saving when the order came for us to move out. We put a man in charge of the cow to see her thru. Pretty shortly after we started the Germans opened up on the road we were on first with gas shells,
+everyone put on his mask and also the masks were put on the horses. This fellow leading the cow ran about frantically looking for a mask for the cow. About this time the Boche opened up with high explosive shells and we struck a trot to get out of the fire. Down the road went this man and cow running into everything and everybody. He couldn't <q direct="unspecified"><p>[Help your country by saving. Write on BOTH sides of this paper]</p></q>
+<pb id="hanes87" n="[4]" entity="h-sep22-18-04"/>
+manage her at all. Everyone would curse him and kick at the cow. Finally a horse was killed ahead and fell right in the road here came the man and the cow on a dead run, hit the horse and both fell all over the road. We lost the cow right there but the man had worked so faithfully with her that we couldn't say anything to him. It was very funny after it was all over. We had one horse wounded and another battery had one killed so you can see they were picking after us pretty closely.</p>
+          <p>I was billetted a few nights ago in the house of a very funny old woman. She was 87 she told me and a horrible looking old thing. She gave me a bed stacked almost to the ceiling with feathers, and she was very much surprised when I dumped the majority of them on the floor. She took her stand then while I proceeded to get ready to go to bed and if the candle hadn't burned out I would have put her on a show right. I was too tired to hold off that bed and she was would up on conversation I could just get enough of what she was saying to get the meaning of her conversation and then to put in a word or so at odd times. She finally withdrew after the candle burned out and I was left to retire alone.</p>
+          <p>I have yet to see a really pretty woman in France. Of course we have been in the rural 
+<pb id="hanes88" n="[5]" entity="h-sep22-18-05"/>
+districts mostly and have had no chance to see many of the really élite but even at that we should have seen some passably fair ones but not so. I think the most of these stories written back about experiences with French women are false except probably in the larger cities. We don't get to any of these so we are perfectly safe from any temptation whatever.</p>
+          <p>My sweetheart no woman in the world can tempt me much. I could never see her at all for looking at you. I know how beautiful, sweet and lovely you are and any other woman would appear so sordid and commonplace that I couldn't  think of going with her. You are my one thought and joy in life and I should never ruin this by
+outside complications. I love you more than I can ever tell you, my precious, and I long for the day when I can be with you again and tell you personally all about it. You are the sweetest thing in all this world to me.</p>
+          <p>Give my dearest love to all the family and keep a heart full for yourself.</p>
+          <closer>
+            <salute>Devotedly</salute>
+            <signed>Rob</signed>
+          </closer>
+          <closer>[Help your country by saving. Write on BOTH sides of this paper]</closer>
+          <closer>(over)
+<pb id="hanes89" n="[6]" entity="h-sep22-18-06"/>
+P.S. I sent you a cablegram yesterday which
+I hope you received all right.<signed>R.</signed></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>September 28, 1918</head>
+        <div2 type="section">
+          <head>[Postcard front]</head>
+          <p>
+            <figure id="postcard" entity="h-sep28-18-01">
+              <p>Field Service<lb/>
+Post Card.</p>
+            </figure>
+          </p>
+          <p>U.S. Army Post Office MPES 763<lb/>
+<gap reason="illegible" extent="two spaces"/> -8<lb/>
+18</p>
+          <p>The address only to be written on this side. If anything else
+is added the post card will be destroyed.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro N.C.</addrLine><addrLine>U.S.A.</addrLine></address></p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes91" n="[1]" entity="h-sep28-18-02"/>
+          <head>[Second Side of Card]</head>
+          <byline>NOTHING is to be written on this side except the date and signature of the sender. Sentences not required may be erased. If anything else is added the post card will be destroyed.</byline>
+          <opener>[Postage must be prepaid on any letter or post card
+addressed to the sender of this card.]</opener>
+          <opener>
+            <dateline>Sept. 28, 1918</dateline>
+          </opener>
+          <p>I am quite well.</p>
+          <p rend="italics">
+            <hi>I have been admitted into hospital
+<gap reason="optional choices" extent="sick  or wounded"/>  and am going on well.</hi>
+          </p>
+          <p>
+            <hi>I have been admitted into hospital <gap reason="optional choices" extent="sick  or wounded"/> and hope to be discharged soon.</hi>
+          </p>
+          <p>
+            <hi>I am being sent down to the base.</hi>
+          </p>
+          <p>
+            <hi>I have received your letter dated <gap reason="blank" extent="ten spaces"/></hi>
+          </p>
+          <p>
+            <hi>I have received your telegram <gap reason="blank" extent="ten spaces"/></hi>
+          </p>
+          <p>
+            <hi>I have received your parcel <gap reason="blank" extent="ten spaces"/></hi>
+          </p>
+          <p>Letter follows at first opportunity</p>
+          <p>
+            <hi>I have received no letter from you
+<gap reason="optional choice" extent="lately or for a long time."/>.</hi>
+          </p>
+          <closer><salute>Signature<lb/>
+only</salute>
+Date  <gap reason="blank" extent="five spaces"/><signed>Robt. M. Hanes<lb/>
+Capt. F.A.</signed></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>September 30, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope19" entity="h-sep30-18-env">
+              <p>Envelope postmarked October 8, 1918</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro</addrLine><addrLine>N.C.</addrLine><addrLine>U.S.A.</addrLine></address></p>
+          <p>[postmarked]<lb/>
+U.S. Army Post Office MPES Army<lb/>
+10 -8<lb/>
+18<lb/>
+763</p>
+          <p>Soldier's Mail.p</p>
+          <p> [stamped]<lb/>
+A.E.F. Passed as Censored A. 1476</p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes93" n="[1]" entity="h-sep30-18-01"/>
+          <head>[Letter]</head>
+          <byline>The Waldorf-Astoria<lb/>
+New York</byline>
+          <opener><dateline>Some day the last of<lb/>
+September I know not what.</dateline>
+<salute>My Precious,</salute></opener>
+          <p> Here is a sheet of paper that came in one of your letters to me the other day that was not used and as paper is very scarce with me I am using it. You have never thought you would get a letter from  me in France written of Waldorf paper have you?</p>
+          <p>We have been in another drive now for about four days and are steadily moving forward. The Germans are fighting much more persistently than they did in the last drive we had and the progress isn't so rapid but we are going forward and that is a great satisfaction. We have been in three different positions since we started and expect to move to a fourth today. We are all pretty tired and hardworked but so long as we can keep the fiendish Huns moving backward we don't care and are glad to go on.</p>
+          <p>I saw a beautiful airplane battle this morning. Two American planes encountered a Boche right in front of my battery. They went after him with a vengeance and after about ten minutes fighting they brought him down not two hundred yards from my battery. His plane was smashed all to pieces and the pilot was completely mashed to pieces. I was certainly glad to see them get him as he was trying to find us so he could direct the fire of his guns on us. About half an hour after this a German plane came over and set fire to a captive balloon just to the right of my battery. The observer had to jump in a parachute as the balloon came down in flames. Just after that about twenty tanks came across the field in front of us beating it for the front, so with all I feel as if I have been to some kind of a show this morning.</p>
+          <pb id="hanes94" n="[2]" entity="h-sep30-18-02"/>
+          <p>I am feeling fine and am in the best of health. This life agrees with me physically all right. I don't think I can even get back to civilized life again without a great effort to restrain some of the animal instincts that have develloped very strongly in me. You will be greatly mortified many times when I get back at my manners and mode of living I suspect.</p>
+          <p>Just after I had last written you I received six letters from you. One
+of them from New York which Kennon brought over and mailed. They were all wonderful and I enjoyed them immensely. You would never regret the time spent in writing them, my darling, did you but know the vast amount of pleasure they gave me.</p>
+          <p>You are wonderful to me every day, sweetheart, and I am counting every minute until I can see and be with you again. Until then every one is lost so far as real pleasure to me is concerned. I had a letter from Fred and one from Kennon the same time that I received yours. Both of them written on this side. I hope I shall get a chance to see them both before long. We should be able to get a little leave after this drive is over but I doubt if we shall. We shall most probably be shot to some other front and put at another job. I hope however they will send us to our Division as this life is most too strenuous for a steady thing.</p>
+          <p>Give my dearest love to all the family and keep a heart full for your
+dear self. You are the most adorable thing in the world to me.</p>
+          <closer>
+            <salute>Devotedly</salute>
+            <signed>Rob—</signed>
+          </closer>
+          <closer>P.S. Please excuse this scribbling with a pencil but I am in the field all the time and have to write in driblets and in most uncomfortable circumstances.
+<signed>R.</signed></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>October 14, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope20" entity="h-oct14-18-env">
+              <p>Envelope postmarked 1918.</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine><addrLine>U.S.A.</addrLine></address></p>
+          <p>[postmark]
+<gap reason="illegible" extent="five letters"/>-press Service<lb/>
+1918</p>
+          <p>Soldier's Mail.</p>
+          <p>American<lb/>
+Y.M.C.A.</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 3073 </p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes96" n="[1]" entity="h-oct14-18-01"/>
+          <head>[Letter]</head>
+          <byline>Y.M.C.A.<lb/>
+On Active Service<lb/>
+with the<lb/>
+American Expeditionary Forces</byline>
+          <opener><dateline>Oct. 14, 1918.</dateline>
+<salute>My Precious, </salute></opener>
+          <p>I have had a pretty strenuous day today. I have had a lot of map work to do and at the same time I have been building some dug outs. I am building or rather digging a wonderful kitchen, it will have all the modern conveniences besides being proof against any ordinary shelling. I wish you could see it you would be so carried away with it that you couldn't resist being a cook I know. I think I told you that we have discovered a couple of new cooks in the battery, one of them used to be a hotel cook and they are both proving fine. Our food has picked up wonderfully and we are living high at the present. If they just leave us here awhile we shall all get fat as pigs. We are drawing much better rations than we did on the road and at our former positions and everything is going lovely with us. I eat like a glutton but I am due some as I lost a little on the food we had for about six weeks.</p>
+          <p>I am kept pretty busy now altho' we are
+<pb id="hanes97" n="[2]" entity="h-oct14-18-02"/>
+not doing much firing. One of my Lieutenants is away doing liason with the Infantry, another is sick here and Bev Royster is in the hospital. He isn't seriously sick, just a stomach disorder but it leaves me with the whole battery to handle. I hope they will all get back soon as I am about ready to rest some myself and let them “put out” a little.</p>
+          <p>I have just heard that Germany has answered the President's reply to them stating that she accepted all the terms as laid down by the President and that she wanted an armistice in order to move her troops all back to Germany. This certainly sounds fine and I believe now peace will surely come. I don't see how they can keep from getting together on some sort of platform. Maybe by the time you get this everything will have been settled up and we shall be getting ready to go home again. I sincerely hope so altho' it is too good to be true and I am afraid all the time that the whole thing is only a dream and that nothing will turn of it at all. It would 
+<pb id="hanes98" n="[3]" entity="h-oct14-18-03"/>
+be too wonderful for anything if we should be able to get home for Christmas and have the whole thing over with. I should give about all I have if this could be assured.</p>
+          <p>Grantland Rice and I were talking about you and Mrs. Rice coming over in case we were held here after peace was declared. He says he understands that the same passport regulations will be in force that now are and that wives will not be allowed to come over. He however stated that he thought he could arrange to get you and Mrs. Rice thru and if he can and you would come I shouldn't mind being held over here so badly altho' of course it would be much nicer to get on back home and be with you there.</p>
+          <p>I am afraid to let myself grow too optomistic over the situation but I certainly hope for the best with all my heart.</p>
+          <p>I can hardly wait to see you again, my darling, and this thought of getting back almost sets me wild. As long as I kept it out
+<pb id="hanes99" n="[4]" entity="h-oct14-18-04"/>
+of my mind altogether when I saw no possibility of seeing you it bothered me much less.</p>
+          <p>I love you more all the time, my sweetheart, and I trust we may soon be reunited for a long happy life that I know will be ours.</p>
+          <p>Dearest love to all the family and all that I have to you.</p>
+          <closer>
+            <salute>Devotedly</salute>
+            <signed>Rob</signed>
+          </closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>October 22, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope21" entity="h-oct22-18-env">
+              <p>Envelope postmarked 1918.</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine><hi>Goldsboro, N.C.</hi></addrLine><addrLine>Winston-Salem</addrLine><addrLine>U.S.A.</addrLine><addrLine>c/o Mr. Jim Hanes</addrLine><addrLine>Winston-Salem N.C.</addrLine></address></p>
+          <p>[postmark for Goldsboro, N.C.]</p>
+          <p>Soldier's Mail.</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 3073 </p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes101" n="[1]" entity="h-oct22-18-01"/>
+          <head>[Letter]</head>
+          <opener><dateline>October 22, 1918</dateline>
+<salute>My sweetheart, </salute></opener>
+          <p>I didn't get a chance to write you yesterday, I went down to a town
+near here to see what I could find that the Germans had left. The majority of the things had been picked over and got by others who preceded me but I got a few things that will come in good I think. We have complete sets of china, eating utensils of all sorts and have been getting some wonderful vegetables from the gardens that the Boche left behind. The green things go especially good as the men haven't had any in a long while.</p>
+          <p>I saw yesterday the officer's barracks, the German General's quarters, the stables for the officer's horses and they were all fixed up wonderfully. These Boche certainly had themselves fixed up most comfortably. They have the world beat when it comes to getting comfortable and well put. They had porcelain tubs wonderful dining 
+<pb id="hanes102" n="[2]" entity="h-oct22-18-02"/>
+rooms, lounging rooms and everything else you can think of almost. Every place, whether an office or what not had a kitchen attached to it. They must have been eating something all the time. What infuriated us most was that a whole case of wine had been made way with by someone.</p>
+          <p>They had treated the French civilian property most shamefully.
+Large rooms of clothes and various things had been ransacked and thrown under foot. Everything was trodden under foot and messed up generally. Everything of any value had been torn out of the houses and carried off.</p>
+          <p>It makes me almost sick to think of what these poor French
+soldiers, weary and worn by four <pb id="hanes103" n="[3]" entity="h-oct22-18-03"/>
+years hard fighting, have got to look forward to in returning
+to homes such as I saw. They have got everything to start
+over, even their houses to build lots of them. I am certainly thankful that our people will never have to suffer this part of the war anyway.</p>
+          <p>I saw several old women and men in the town who had come back since the Boche had been run out and they were pitiful to see. They were living in the best houses the village afforded but at that it was a sad lot of homes they had. They certainly ought not talk of ending this war until Germany has had to pay for every bit of the damage she has done to these poor French people. She ought to have to suffer for years to make good the suffering she has caused the world and especially the French.</p>
+          <p>All the news looks good in the papers. Those we see are several days old but it is
+<pb id="hanes104" n="[4]" entity="h-oct22-18-04"/>
+a joy to read of the Germans falling back all the time. They are certainly in close quarters now and I hope will soon be squeezed out entirely.</p>
+          <p>Darling, I hope all the time for the earliest possible ending of the war so I can return to you and get some of the sweetness of life that I have been cheated out of. It will bee too wonderful to think of and I truly hope it will come soon.</p>
+          <p>My dearest love to you, my precious. You are all in all to me.</p>
+          <closer>
+            <salute>Devotedly</salute>
+            <signed>Rob</signed>
+          </closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>October 26, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope22" entity="h-oct26-18-env">
+              <p>Envelope postmarked October 30, 1918.</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+113 Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine><addrLine>U.S.A.</addrLine></address></p>
+          <p>[postmarked]<lb/>
+U.S. Army Post <gap reason="illegible" extent="five letters"/>
+-10 30<lb/>
+18<lb/>
+750</p>
+          <p>Soldier's Mail.</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 3073 </p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes106" n="[1]" entity="h-oct26-18-01"/>
+          <head>Letter</head>
+          <byline>American<lb/>
+Y.M.C.A.<lb/>
+On Active Service<lb/>
+with the<lb/>
+American Expeditionary Force</byline>
+          <opener><dateline>Oct. 26 1918.</dateline>
+<salute>My sweetheart,</salute></opener>
+          <p> I have been busy all day building and hiding. All my men have enlarged, cleaned and bettered in general the quarters that the French left us. After this was done I had to see to the camouflaging and hiding of their buildings. The camouflage man says we have done the best job in the Regiment. He brought another camouflage man up with him a few days ago and walked right in front of my guns and the fellow never did find them until they were pointed out to him.</p>
+          <p>I have finished the most up to date kitchen you have ever seen. We found a wonderful big Boche range yesterday which we are now using, a big boiling kettle set on a special fine box for cooking coffee and then we have our regular field range. We have a world of pots and pans of all sorts that we have collected so you would think we were 
+<pb id="hanes107" n="[2]" entity="h-oct26-18-02"/>
+running a New York hotel from the looks of the kitchen. I know we shall be leaving soon as we never stay long after we finish a kitchen.</p>
+          <p>I am enclosing a menu that the cook brought in a few nights ago when we had Ben Lacy for dinner with us. He is a great wag as you can see from this. It tickles him to death to have company and to fix up for them. He was very highly elated a few nights ago when we had the Major for dinner. (You compris” this dinner “stuff” don't you? That's a high toned word for supper and as my cook always uses it I have to keep up with him.) The next time you hear from me I shall be eating grub consisting of corned beef and hard tack I expect. That's about all we get when we are moving and fighting.</p>
+          <p>I sent one of my lieutenants out today with the old one horse shay to get up some things for the boys to eat and smoke and I have just had word from him that he is on his way back. There will be a happy crowd here when 
+<pb id="hanes108" n="[3]" entity="h-oct26-18-03"/>
+he gets in if he happens to have got a little chocolate and some cigars. They will work a week now for the promise of a bar of
+chocolate at the end of it.</p>
+          <p>There is a fellow in the battery now who used to be a newspaper  man. I never have read more interesting letters than the ones he writes home. He is an awfully nice fellow, a drafted man that we got about two months ago, and he is wonderful at expressing himself. I have a hard time recognizing some of the places and conditions he places the battery in, but after he gets thru picturing the scenes I almost believe myself we have been in some tight places. We have had several horses killed by shell, a spoke has been shot out of one of our guns and we have been covered with dirt seveveral times but from his descriptions you would imagine us all but killed.</p>
+          <p>I am so glad you have decided to go to Winston for a visit. They will enjoy
+<pb id="hanes109" n="[4]" entity="h-oct26-18-04"/>
+having you so much and I believe the change will do you good. Write me all the news there.</p>
+          <p>All my love to you. I never get through thinking of you and picturing the future that I hope will be ours when this is all over.</p>
+          <closer><salute>Devotedly</salute>
+<signed>Rob</signed></closer>
+          <closer>P.S. save the menu for me. I am sending you a couple of shell cases that I got fixed up for you. They aren't pretty ones but I couldn't get them fixed better at this time. They represent lead that has been poured into the Huns anyway.
+<signed>R.</signed></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>October 28, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope23" entity="h-oct28-18-env">
+              <p>Envelope postmarked November 3, 1918.</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine><hi>103 George St.</hi></addrLine><addrLine><hi>Goldsboro, N.C.</hi></addrLine><addrLine>U.S.A.</addrLine><addrLine>c/o Mr. Jas. G. Hanes</addrLine><addrLine>Winston-Salem</addrLine><addrLine>N.C.</addrLine></address></p>
+          <p>[postmarked]
+U.S. Army <gap reason="illegible" extent="five letters"/> Service<lb/>
+10 PM<lb/>
+Nov 3<lb/>
+1918</p>
+          <p>Officer's Mail.</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 3073 </p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes111" n="[1]" entity="h-oct28-18-01"/>
+          <head>[Letter]</head>
+          <byline>American<lb/>
+Y.M.C.A.<lb/>
+On Active Service<lb/>
+with the<lb/>
+American Expeditionary Force</byline>
+          <opener><dateline>Oct. 28 1918.</dateline>
+<salute>Darling, </salute></opener>
+          <p>I am spending tonight, I suppose, my last night in this place. Tomorrow we are on the move to the same position from which we came here. I went up today to look them over and someone has been in there and torn them all to pieces. The kitchen that I labored over so is entirely destroyed. Only the hole in the ground is left. It's sickening this switching, moving, tearing up, building and all for the lack of some definite plan of action it seems. I wish they would take us out of here altogether and put us in some other sector.</p>
+          <p>The Boche got busy with a few shells last night and dropped one of them squarely on an anti aircraft gun which is only a few yards in front of my battery. It was torn up pretty badly but I guess will get in shape for
+<pb id="hanes112" n="[2]" entity="h-oct28-18-02"/>
+work again in a few days.</p>
+          <p>I am crazy for some mail again. We haven't had any now in some time and I am getting very anxious to hear from you again.</p>
+          <p>We are awaiting with great interest the outcome of the German's peace talk and to see what their next move will be. They are so terribly crafty that it is extremely hard to tell what they will attempt next.</p>
+          <p>I have just been reading in Everybody's for September a piece called the War of 1938 in which is depicted what will happen
+if Germany isn't beaten completely before the Allies let up this time. Lots of it is very much overdrawn but I think there
+is a lot of truth in it. Germany will certainly start war again if she isn't beaten entirely before peace is made this time. She must be whipped until she can't possibly come back again for another scrap, at least not for many years.</p>
+          <p>How is Elsie getting along? Give her my
+<pb id="hanes113" n="[3]" entity="h-oct28-18-03"/>
+love and tell her I hope she will soon be able to use the old limb again. It is a shame to have all that bone and flesh hung to one and then not be able to use it. I should love to have one of our old party's again with her and Ralph wouldn't you?</p>
+          <p>I have about two minutes more candle left so I must close and get in bed before it gives out. Light at night is a precious thing with us now—</p>
+          <closer><salute>Devotedly your sweetheart</salute>
+<signed>Rob</signed></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>November 4, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope24" entity="h-nov04-18-env">
+              <p>Envelope postmarked 1918.</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine><hi>103 George St.</hi></addrLine><addrLine><hi>Goldsboro, N.C.</hi></addrLine><addrLine><hi>U.S.A.</hi></addrLine><addrLine>563 Glade St.</addrLine><addrLine>Winston-Salem</addrLine><addrLine>N.C.</addrLine></address>
+</p>
+          <p>[postmarked]<lb/>
+U.S. Military Postal Express Service<lb/>
+1918</p>
+          <p>Goldsboro N.C.<lb/>
+Nov. 26<lb/>
+1:30 PM<lb/>
+1918</p>
+          <p>Soldier Mail.</p>
+          <p>American<lb/>
+Y.M.C.A.</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 3073 </p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes115" n="[1]" entity="h-nov04-18-01"/>
+          <head>[Letter]</head>
+          <byline>On Active Service<lb/>
+with the<lb/>
+American Expeditionary Force<lb/>
+American<lb/>
+Y.M.C.A.</byline>
+          <opener>
+            <dateline>Nov. 4 1918.</dateline>
+          </opener>
+          <p>Austria fell by the wayside today, my darling, and Germany must follow soon. It cannot last long I believe. The noose is tightening about her and she must soon go. She is bound to realize this and must soon give in as she cannot long withstand the Allied Armies. The whole thing is about over I believe. There will no doubt be quite a bit more fighting but it will be only the convulsive efforts of a dying man that will resist us now. I hope there can be no serious stop to our advances everywhere. The Kaiser will have to abdicate very shortly and then if some responsible form of government is set up the Allies will be pretty apt to grant Germany a peace hearing that she desires so greatly. These are wonderful days for the Allied cause.</p>
+          <p>We heard a rumor today that Woodrow Wilson had been assassinated but I hope this isn't true. It would be a very serious blow to the Americans if it were true. There is no one in American who 
+<pb id="hanes116" n="[2]" entity="h-nov04-18-02"/>
+could in any way fill his place and least of any the Vice President. It would be an awful crime to have him in the seat at this time when so much is at stake for America.</p>
+          <p>My sweetheart, I can hardly await the time when we are reunited and allowed to live together again. It will be a most wonderful time, my darling, nothing can be finer than the anticipation of the meeting with you and the thought that we can be together all the time. You are too wonderful for me to have but no one could appreciate having you more than do I.</p>
+          <p>I am enclosing one of the propaganda sheets the German planes dropped on us this week. They have been busy with all sorts of them recently, all along this line. They all argue that Americans have no business in this war and that all they will get out of it is a tomb stone in France, so the best thing to do is to quit and go back home or come across and surrender. They are all so puerile and foolish that our men only laugh at them and take them as jokes. It is funny how the 
+<pb id="hanes117" n="[3]" entity="h-nov04-18-03"/>
+Germans can seriously take any stock in such stuff.</p>
+          <p>We saw three balloons brought down in flames this afternoon. A German came across and got one of our balloons. A short while after two Allied planes set out and each went for a German balloon. They were met by heavy anti-aircraft and machine gun fire but went thru it all and presently we saw both balloons burst into flames and come falling to earth. It was great to see it. We were pretty close up to the German lines at the time and got a wonderful view of it all. Both Allied planes came back safely.</p>
+          <p>They are at last granting leaves to us but I guess I shall not get one any time soon. I haven't asked for one yet but there is no chance until I get some officers to help with the battery. The second lieutenant I have is pretty sorry and I should hate to turn the battery over to him to look after. I want them to fall into better hands than his even for a short while.</p>
+          <pb id="hanes118" n="[4]" entity="h-nov04-18-04"/>
+          <p>I wrote to Elsie a few days ago. I am sorry I waited so long to answer her letter but I just neglected answering it sooner.</p>
+          <p>Give my dearest love to all the family and keep a heart full for yourself. I love you most dearly.</p>
+          <closer>
+            <salute>Your devoted sweetheart</salute>
+            <signed>Rob</signed>
+          </closer>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes118-2" n="[5]" entity="h-nov04-18-05"/>
+          <head>HOW TO STOP THE WAR.</head>
+          <p>Do your part to put an end to the war! Put an end to your part of it. Stop fighting! That's the simplest way. You can do it, you soldiers, just stop fighting and the war will end of its own accord. You are not fighting for anything anyway. What does it matter to you who owns Metz or Strassburg, you never saw those towns nor knew the people in them, so what do you care about them? But there is a little town back home in little old United States you would like to see and if you keep on fighting here in the hope of getting a look at those old German fortresses you may never see home again.</p>
+          <p>The only way to stop the war is to stop fighting. That's easy. Just quit it and slip across “No Man's Land” and join the bunch that's taking it easy there waiting to be exchanged and taken home. There is no disgrace in that. That bunch of American prisoners will be welcomed just as warmly as you who stick it out in these infernal trenches. Get wise and get over the top.</p>
+          <p>There is nothing in the glory of keeping up the war. But think of the increasing taxes you will have to pay the longer the war lasts the larger those taxes at home will be. Get wise and get over.</p>
+          <p>All the fine words about glory are tommy rot. You haven't got any business fighting in France. You would better be fighting the money trust at home instead of fighting your fellow soldiers in grey over here where it doesn't really matter two sticks to you how the war goes.</p>
+          <p>Your country needs you, your family needs you and you need your life for something better than being gassed, shot at, deafened by cannon shots and rendered unfit physically by the miserable life you must live here.</p>
+          <p>The tales they tell you of the cruelties of German prison camps are fairy tales. Of course you may not like being a prisoner of war but anything is better than this infernal place with no hope of escape except by being wounded after which you will only be sent back for another hole in your body.</p>
+          <p>Wake up and stop the war! You can if you want to. Your government does not mean to stop the war for years to come and the years are going to be long and dreary. You better come over while the going is good.</p>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>November 5, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope25" entity="h-nov05-18-env">
+              <p>Envelope postmarked November 9, 1918.</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine><hi>103 George St.</hi></addrLine><addrLine><hi>Goldsboro, N.C.</hi></addrLine><addrLine>U.S.A.</addrLine><addrLine>c/o Mr. Jm. G. Hanes</addrLine><addrLine>Winston-Salem</addrLine><addrLine>N.C.</addrLine></address>
+</p>
+          <p>[postmarked]<lb/>
+U.S. Army Post Office MPES 750<lb/>
+Nov 9<lb/>
+18</p>
+          <p>Officer's Mail.</p>
+          <p>American<lb/>
+Y.M.C.A.</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 3073 </p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes120" n="[1]" entity="h-nov05-18-01"/>
+          <head>[Letter]</head>
+          <byline>On Active Service<lb/>
+with the<lb/>
+American Expeditionary Force<lb/>
+American<lb/>
+Y.M.C.A.</byline>
+          <opener>
+            <dateline>Nov. 5 1918.</dateline>
+          </opener>
+          <p>We have just learned, my sweetheart, of the abdication of the Kaiser. His downfall is complete and the disgrace of it must be almost unbearable to a man so strong as he is. He has laid this up for himself tho' and can blame no one else. If the people of Germany only put a responsible party in at the head of their government now and elect a good man as the head of the government they stand a good chance of getting a favorable peace from the Allies otherwise overwhelming defeat and humiliation will certainly come to them. They should know that they can't withstand the whole world but it seems hard for them to get this thru their beans. They can hold out for a good bit yet if they remain solidly together but the fate of Austria may overtake them and disintegration set in, when of course they are lost.</p>
+          <pb id="hanes121" n="[2]" entity="h-nov05-18-02"/>
+          <p>Every paper and each communique brings wonderful news for us and our Allies. I am itching to get into real action again and help push these rascals back into Germany. I feel as if we are doing nothing here.</p>
+          <p>About all I can lay claim to is building a fairly good position. I have fixed a regular fairyland about my place now. The boys have covered everything with moss and grass and have put in stone paths and steps in all directions from my house. It is very pretty and picturesque. My little house is built right into the side of a hill. The top of it just comes to a level with the ground. The dirt and rocks that come out of the hole dug are piled on both sides and one end and the whole thing covered with moss, cedars and pines until you can't tell it is around at all until you stumble on it. I have had a lot of fun fixing and building it. Every day I add something to it or change something about it. The men have 
+<pb id="hanes122" n="[3]" entity="h-nov05-18-03"/>
+fixed themselves up most comfortably and are continually improving their places. We have the best place we have ever had altho' it looked the most hopeless when we moved into it a few days ago. The beauty of it is that we built practically all of it ourselves too. We feel very proud of it. The camouflage inspector says we have done the best job of any in the Regiment. We have worked pretty hard for the past week on it. Almost steadily.</p>
+          <p>“Doggie” Trenchard, an old Carolina football coach is over here as a Y.M.C.A. man. Funny the kind that have sprung to the colors of the Y.M.C.A. now. It must be hard for him to resist swearing when his shows don't turn out successful or the crowd for preaching isn't as large as he had anticipated.</p>
+          <p>I hope the Influenza epidemic has shut down somewhat. It must have assumed fearful proportions from all accounts I get. Do be careful about it, sweetheart. I'm afraid in your promiscuous visiting you 
+<pb id="hanes123" n="[4]" entity="h-nov05-18-04"/>
+may get it.</p>
+          <p>I love you so very dearly, my precious, that I can't even think of anything happening to you in any way without a terrible feeling. You are all in all to me and always will be.</p>
+          <p>All my heart to you.</p>
+          <closer><salute>Devotedly,</salute>
+<signed>Rob</signed></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>November 9, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope26" entity="h-nov09-18-env">
+              <p>Envelope postmarked November 15, 1918.</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine><addrLine>U.S.A.</addrLine></address>
+</p>
+          <p>[postmarked]<lb/>
+U.S. Army Postal Service<lb/>
+10 PM<lb/>
+Nov 15<lb/>
+No.1918</p>
+          <p>Soldier's Mail.</p>
+          <p>American<lb/>
+Y.M.C.A.</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 3073 </p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes125" n="[1]" entity="h-nov09-18-01"/>
+          <head>[Letter]</head>
+          <byline>“With the Colors”<lb/>
+ YMCA</byline>
+          <opener><dateline>Nov. 9, 1918</dateline>
+<salute>My darling </salute></opener>
+          <p>I didn't write you yesterday because I had a couple of eyes full of mustard gas and couldn't use them much. I thought I was clear of the stuff as it didn't show on me until about twelve or fifteen hours after the shelling. I had about eight other men to go to the hospital yesterday from the stuff and they tried to send me but I dodged them. I kept my eyes washed out well yesterday and today they have about cleared up. I hope all the men will get thru as easily and will soon get back. I had a couple of them with pretty nasty burns which may cause them trouble. A French captain in a dug out not twenty yards from mine had three direct hits on him and he and his telephone operator were both pretty badly burned. They were sent away in an ambulance last night.</p>
+          <p>They certainly did pour it to us for about two hours and a half as hard as they could and I didn't realize how thickly they did put it in on us until I got out and looked around. The whole landscape about us was peppered with the shells
+<q direct="unspecified"><p>Help your country by saving. Write on BOTH sides of this paper</p></q>
+<pb id="hanes126" n="[2]" entity="h-nov09-18-02"/>
+and the gas was everywhere. We had to wear our masks for about four hours before it cleared enough to remove them. We have had to abandon a part of our position on account of it and move out. McLendon had to move his whole battery. They put it in on him thick and heavy.</p>
+          <p>We are awaiting with great interest the German reply to the armistice terms submitted by Marshal Foch to the Germans. It doesn't matter what their answer is they are bound to come to the Allies' terms and can only prolong the war a few months by holding off now. They are a very proud people and are going to be extremely hard to get to submit to the terms I suspect so I rather doubt their accepting them now. They aren't sufficiently beaten to have to submit to them at this time and if they chose they can carry on a bit longer but it is bound to come to a successful ending for us eventually. We can wait as well as they.</p>
+          <p>If they accept the armistice we shall probably be held here for quite a long while while they hash and rehash the peace terms. It will undoubtedly be several months before we can get back even after the armistice goes into effect. I hope we shall be
+<pb id="hanes127" n="[3]" entity="h-nov09-18-03"/>
+lucky enough to get back among the first that do go tho!</p>
+          <p>That will be horrible, sweetheart, to be held here, when I could be with you as I probably shan't be of any more service here when the armistice does go into effect.</p>
+          <p>There is certainly no armistice in effect now from the way the Boche are shelling all out in front of us now. They have been putting across quite a lot of big shells all afternoon and are continuing the party still.</p>
+          <p>I have a Lieutenant who reported to me yesterday who has started off splendidly and who I believe is going to be the very man I have been looking for. If he proves to be what I think him I want to get a leave next month and go to see Fred for a few days. I shall be able to leave the battery then with a feeling of more security. If Bev Royster comes back too I shall be pretty well fixed then.</p>
+          <p>I had another letter from Fred last night telling me of the things of mine he had from you and I am <q direct="unspecified"><p>Help your country by saving. Write on BOTH sides of the paper</p></q>
+<pb id="hanes128" n="[4]" entity="h-nov09-18-04"/>
+writing him tonight how to send them.</p>
+          <p>I received a letter from you today written on August 26th which has evidently been roaming around France for quite some time now. I was delighted to get it tho even as late as it was.</p>
+          <p>I want you tonight very, very badly my sweetheart, and I truly hope the time will not be long before we shall be together again. That is too wonderful to think of, precious, after the way we have been separated all of our married life so far but it may come to pass.</p>
+          <p>I love you most dearly, my sweetheart. You are the one bright thing to always turn to no matter how dark and gloomy other things may seem. Dearest love to the most wonderful of all wives.</p>
+          <closer>
+            <signed>Rob.</signed>
+          </closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>November 10, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope27" entity="h-nov10-18-env">
+              <p>Envelope postmarked November 15, 1918.</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine><addrLine>U.S.A.</addrLine></address></p>
+          <p>[postmarked]<lb/>
+U.S. Army Postal Service<lb/>
+10 PM<lb/>
+Nov 15<lb/>
+No.<lb/>1918</p>
+          <p>Officer's Mail.</p>
+          <p>[stamped]<lb/>
+A.E.F. Passed as Censored A. 3073</p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes130" n="[1]" entity="h-nov10-18-01"/>
+          <head>[Letter]</head>
+          <opener><dateline>Nov. 10, 1918.</dateline>
+<salute>My darling </salute></opener>
+          <p>I have just finished four letters from you and they are all adorable. They were written from Sept. 10th to Oct. 17th the last one has made pretty good time as mail service with us goes.</p>
+          <p>Darling I don't blame you a bit for being peeved for my not writing you more regular especially when you are so good to write me. When we are on the road and in the drives we have very little time for doing anything but going all the time. When we are stationary as we now are we have a lot of time not required by our duties.</p>
+          <p>We have orders now to be ready to move out of here tonight and go into another drive but I don't believe it will materialize as I think the Germans 
+<pb id="hanes131" n="[2]" entity="h-nov10-18-02"/>
+are going to accept the armistice of the Allies by tomorrow and the war will be over. I may be too hopeful about this but I trust not. I should hate to leave here as comfortably as we are fixed unless we shall continue fighting and then I should like nothing better.</p>
+          <p>We have just heard that the Kaiser has abdicated, the Crown Prince has renounced his right to the throne and Prince man of Boden has left Germany so it looks as tho' the finish had come for them. I don't believe any other man than the Kaiser can hold the Germans together. They must finish now.</p>
+          <p>I guess we shall be kept over here for quite a while after the armistice goes into effect while they discuss peace terms. That will be the worst thing of all having to hang around over here with nothing to do.</p>
+          <p>Darling you are doing a wonderful
+<pb id="hanes132" n="[3]" entity="h-nov10-18-03"/>
+work visiting and helping the poor influenza people. I know it gives you no end of satisfaction too.</p>
+          <p>We have just had news that Drake Harden has died. He is the boy who was my Lieutenant at Severe you remember and who took my overcoat home to you. By the way you never have mentioned getting this, did he send it to you? He was a fine boy and I am very much depressed at the news of his death.</p>
+          <p>You never can tell where the safest place to be is can you? He left the fighting to go back to apparently no danger and we have been thru a lot of it and so far are unhurt.</p>
+          <p>You certainly are a wizard with that typewriter. You speak of learning the “touch system”, you promise to practice that only on the typewriter don't you and not on me? I am going to be very poor “touching ground”
+<pb id="hanes133" n="[4]" entity="h-nov10-18-04"/>
+when I get thru with this war.</p>
+          <p>I had another long wrangle from Miss Duff today with postscripts added by all of her cousins and friends. I shall take a month off after the war to read it but now I can't find the time.</p>
+          <p>I shall have to get busy with some arrangements for moving so I shall have to close for this time. I shall be rather irregular in writing you if we do move but it wont be because I am not thinking of you and loving you but because I can't find the time.</p>
+          <p>Give my love to Elsie—I hope she has entirely recovered now. All my heart to you my “all in all.”</p>
+          <closer><salute>Devotedly,</salute>
+<signed>Rob</signed></closer>
+        </div2>
+      </div1>
+      <div1 type="letter">
+        <head>November 11, 1918</head>
+        <div2 type="section">
+          <head>[Envelope]</head>
+          <p>
+            <figure id="envelope28" entity="h-nov11-18-env">
+              <p>Envelope postmarked November 15, 1918.</p>
+            </figure>
+          </p>
+          <p>Capt. Robt. M. Hanes<lb/>
+Field Artillery<lb/>
+American Exp. Forces.<address><addrLine>Mrs. Robt. M. Hanes</addrLine><addrLine>103 George St.</addrLine><addrLine>Goldsboro, N.C.</addrLine><addrLine>U.S.A.</addrLine></address></p>
+          <p>[postmarked]<lb/>
+U.S. Army Postal Service<lb/>
+10 PM<lb/>
+Nov 15<lb/>
+No. 1918</p>
+          <p>Officer's Mail.</p>
+          <p> [stamped]<lb/>
+A.E.F. Passed as Censored A. 3073 </p>
+          <p>Censored by<lb/>
+Capt. Robt. M. Hanes<lb/>
+F.A.</p>
+        </div2>
+        <div2 type="section">
+          <pb id="hanes135" n="[1]" entity="h-nov11-18-01"/>
+          <head>[Letter]</head>
+          <byline>“With the Colors”<lb/>
+YMCA</byline>
+          <opener>
+            <dateline>Nov. 11, 1918</dateline>
+          </opener>
+          <p>The greatest day in history!</p>
+          <p>Sweetheart a deathlike stillness covers the whole front now and has since eleven o'clock this morning when the armistice went into effect. It is the most unnatural sound to us that could possibly be. All sorts of artillery has been piling into this sector for the past two weeks and things had livened up considerably. There was firing going on all the time day and night by either the Germans or us. So the stillness now seems all wrong, I keep feeling like it isn't true.</p>
+          <p>I fired my last shot at exactly eleven o'clock this morning and am keeping the shell case as a souvenir. It is the last shot fired by my battery. I hope the last it will ever fire.</p>
+          <p>What is in store for us now we know not. Whether we shall be moved on to the Rhine front, sent to the rear, left here or whatnot is a conjecture for we have no news yet. We shall probably go right on ahead and help fortify the Rhine line for awhile. Of course everything will have to be kept intact and perfect <q direct="unspecified"><p>[Help your country by saving. Write on BOTH sides of this paper]</p></q>
+<pb id="hanes136" n="[2]" entity="h-nov11-18-02"/>
+readiness all the while until the peace terms are all signed and satisfactorily fixed up. Then some troops will have to stay to see that the terms are properly carried out but I hope this does not mean us. We shall probably all be held here for many months until things are threshed completely out. That is going to be the horrible part of this thing. Having to hang around here and have nothing to do.</p>
+          <p>They ought to send all that crowd they have training in the States over here to do the police work and let us who have done at least a little fighting go back home.</p>
+          <p>This is such a wonderful thing tho' to have the nasty thing over that we shouldn't complain at anything now. It is glorious to think that in a few months anyway we shall be together and then have a life to ourselves just as we want it. Every day will seem an age now until that time comes. I would give anything to be able to leave now and get back to you. I don't think there is a chance of more fighting and so I am perfectly ready to quit this country at any time.</p>
+          <p>I hope to get away on a furlough soon I think probably Ben Lacy and I shall take 
+<pb id="hanes137" n="[3]" entity="h-nov11-18-03"/>
+a trip together. I want to go along to keep him straight and sticking to the narrow path.</p>
+          <p>I hope Ralph is alright and got thru the old fight in great shape. I should love to see him now and learn all the gossip with him. We shall have some great fighting from now on around the fireside. Great experiences never before dreamed of will be brought to light.</p>
+          <p>We have a show in at the eschelon today and I think I shall go in to see it. I haven't seen one of them yet and I should like to see just how they work. The last crowd that came thru had two girls in it and my First Sergeant presented each of them with a knit pettycoat that he got out of some of these towns. I am afraid to hear what he will give the girl who is in this crowd today.</p>
+          <p>Give my dearest love to all. All my heart to you my precious you are
+life and all to me and I am so happy to <q direct="unspecified"><p>[Help your country by saving. Write on BOTH sides of this paper]</p></q><pb id="hanes138" n="[4]" entity="h-nov11-18-04"/>
+think that I shall soon see you. I wish the time were today.</p>
+          <closer><salute>Devotedly</salute>
+<signed>Rob</signed></closer>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

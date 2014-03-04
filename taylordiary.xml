@@ -1,0 +1,1484 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite2.dtd" [
+<!ENTITY taylor052oct28 SYSTEM "taylor052oct28.jpg" NDATA jpeg>
+<!ENTITY taylor005sept11 SYSTEM "taylor005sept11.jpg" NDATA jpeg>
+<!ENTITY taylor029oct5 SYSTEM "taylor029oct5.jpg" NDATA jpeg>
+<!ENTITY taylor019sept25 SYSTEM "taylor019sept25.jpg" NDATA jpeg>
+<!ENTITY taylor035oct11 SYSTEM "taylor035oct11.jpg" NDATA jpeg>
+<!ENTITY taylor030oct6 SYSTEM "taylor030oct6.jpg" NDATA jpeg>
+<!ENTITY taylor014sept20 SYSTEM "taylor014sept20.jpg" NDATA jpeg>
+<!ENTITY taylor044oct20 SYSTEM "taylor044oct20.jpg" NDATA jpeg>
+<!ENTITY taylor058nov3 SYSTEM "taylor058nov3.jpg" NDATA jpeg>
+<!ENTITY taylor023sept29 SYSTEM "taylor023sept29.jpg" NDATA jpeg>
+<!ENTITY taylor053oct29 SYSTEM "taylor053oct29.jpg" NDATA jpeg>
+<!ENTITY taylor036oct12 SYSTEM "taylor036oct12.jpg" NDATA jpeg>
+<!ENTITY taylor006sept12 SYSTEM "taylor006sept12.jpg" NDATA jpeg>
+<!ENTITY taylor059nov4 SYSTEM "taylor059nov4.jpg" NDATA jpeg>
+<!ENTITY taylor060nov5 SYSTEM "taylor060nov5.jpg" NDATA jpeg>
+<!ENTITY taylor045oct21 SYSTEM "taylor045oct21.jpg" NDATA jpeg>
+<!ENTITY taylor015sept21 SYSTEM "taylor015sept21.jpg" NDATA jpeg>
+<!ENTITY taylor010sept16 SYSTEM "taylor010sept16.jpg" NDATA jpeg>
+<!ENTITY taylor054oct30 SYSTEM "taylor054oct30.jpg" NDATA jpeg>
+<!ENTITY taylor024sept30 SYSTEM "taylor024sept30.jpg" NDATA jpeg>
+<!ENTITY taylor037oct13 SYSTEM "taylor037oct13.jpg" NDATA jpeg>
+<!ENTITY taylor061nov6 SYSTEM "taylor061nov6.jpg" NDATA jpeg>
+<!ENTITY taylor031oct07 SYSTEM "taylor031oct07.jpg" NDATA jpeg>
+<!ENTITY taylori SYSTEM "taylori.jpg" NDATA jpeg>
+<!ENTITY taylor007sept13 SYSTEM "taylor007sept13.jpg" NDATA jpeg>
+<!ENTITY taylor046oct22 SYSTEM "taylor046oct22.jpg" NDATA jpeg>
+<!ENTITY taylorcv SYSTEM "taylorcv.jpg" NDATA jpeg>
+<!ENTITY taylor040oct16 SYSTEM "taylor040oct16.jpg" NDATA jpeg>
+<!ENTITY taylor001sept7 SYSTEM "taylor001sept7.jpg" NDATA jpeg>
+<!ENTITY taylor016sept22 SYSTEM "taylor016sept22.jpg" NDATA jpeg>
+<!ENTITY taylor055oct31 SYSTEM "taylor055oct31.jpg" NDATA jpeg>
+<!ENTITY taylor011sept17 SYSTEM "taylor011sept17.jpg" NDATA jpeg>
+<!ENTITY taylor062nov7 SYSTEM "taylor062nov7.jpg" NDATA jpeg>
+<!ENTITY taylor038oct14 SYSTEM "taylor038oct14.jpg" NDATA jpeg>
+<!ENTITY taylor025oct1 SYSTEM "taylor025oct1.jpg" NDATA jpeg>
+<!ENTITY taylor032oct08 SYSTEM "taylor032oct08.jpg" NDATA jpeg>
+<!ENTITY taylor020sept26 SYSTEM "taylor020sept26.jpg" NDATA jpeg>
+<!ENTITY taylor047oct23 SYSTEM "taylor047oct23.jpg" NDATA jpeg>
+<!ENTITY taylor064nov10 SYSTEM "taylor064nov10.jpg" NDATA jpeg>
+<!ENTITY taylor008sept14 SYSTEM "taylor008sept14.jpg" NDATA jpeg>
+<!ENTITY taylor041oct17 SYSTEM "taylor041oct17.jpg" NDATA jpeg>
+<!ENTITY taylor002sept8 SYSTEM "taylor002sept8.jpg" NDATA jpeg>
+<!ENTITY taylor063nov8 SYSTEM "taylor063nov8.jpg" NDATA jpeg>
+<!ENTITY taylor026oct2 SYSTEM "taylor026oct2.jpg" NDATA jpeg>
+<!ENTITY taylor017sept23 SYSTEM "taylor017sept23.jpg" NDATA jpeg>
+<!ENTITY taylor050oct26 SYSTEM "taylor050oct26.jpg" NDATA jpeg>
+<!ENTITY taylor039oct15 SYSTEM "taylor039oct15.jpg" NDATA jpeg>
+<!ENTITY taylor012sept18 SYSTEM "taylor012sept18.jpg" NDATA jpeg>
+<!ENTITY taylor033oct09 SYSTEM "taylor033oct09.jpg" NDATA jpeg>
+<!ENTITY taylor048oct24 SYSTEM "taylor048oct24.jpg" NDATA jpeg>
+<!ENTITY taylor021sept27 SYSTEM "taylor021sept27.jpg" NDATA jpeg>
+<!ENTITY taylor042oct18 SYSTEM "taylor042oct18.jpg" NDATA jpeg>
+<!ENTITY taylor003sept9 SYSTEM "taylor003sept9.jpg" NDATA jpeg>
+<!ENTITY taylor027oct3 SYSTEM "taylor027oct3.jpg" NDATA jpeg>
+<!ENTITY taylor009sept15 SYSTEM "taylor009sept15.jpg" NDATA jpeg>
+<!ENTITY taylor051oct27 SYSTEM "taylor051oct27.jpg" NDATA jpeg>
+<!ENTITY taylor004sept10 SYSTEM "taylor004sept10.jpg" NDATA jpeg>
+<!ENTITY taylor018sept24 SYSTEM "taylor018sept24.jpg" NDATA jpeg>
+<!ENTITY taylor056nov1 SYSTEM "taylor056nov1.jpg" NDATA jpeg>
+<!ENTITY taylor013sept19 SYSTEM "taylor013sept19.jpg" NDATA jpeg>
+<!ENTITY taylor034oct10 SYSTEM "taylor034oct10.jpg" NDATA jpeg>
+<!ENTITY taylor065nov9 SYSTEM "taylor065nov9.jpg" NDATA jpeg>
+<!ENTITY taylor049oct25 SYSTEM "taylor049oct25.jpg" NDATA jpeg>
+<!ENTITY taylor066nov11 SYSTEM "taylor066nov11.jpg" NDATA jpeg>
+<!ENTITY taylor028oct4 SYSTEM "taylor028oct4.jpg" NDATA jpeg>
+<!ENTITY taylor043oct19 SYSTEM "taylor043oct19.jpg" NDATA jpeg>
+<!ENTITY taylor022sept28 SYSTEM "taylor022sept28.jpg" NDATA jpeg>
+<!ENTITY taylor057nov2 SYSTEM "taylor057nov2.jpg" NDATA jpeg>
+<!ENTITY taylortp SYSTEM "taylortp.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>Elizabeth Herbert Smith Taylor Diaries (#4994). 8 September 1918-10 May 1919:</emph>
+Electronic Edition.</title>
+        <author>Taylor, Elizabeth Herbert Smith, b. 1888</author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Diary  transcribed  by</resp>
+          <name>Amy Davis</name>
+        </respStmt>
+        <respStmt>
+          <resp>Page images scanned by</resp>
+          <name>Harris Henderson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name id="ns">Apex Data Services, Inc.  and Natalia Smith</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca.    70 K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="title page"> Daylogue</title>
+            <author>Elizabeth Herbert Smith Taylor</author>
+          </titleStmt>
+          <extent>[248] p.</extent>
+          <publicationStmt>
+            <pubPlace/>
+            <publisher/>
+            <date/>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number SHC #4994 (Manuscripts Dept., Southern Historical Collection, University of North Carolina at Chapel Hill)
+</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p> Transcript of the diary. The original is in the Southern Historical Collection, University of North Carolina at Chapel Hill. </p>
+        <p>Original grammar, punctuation, and spelling have been preserved. </p>
+        <p>Diary entries from 8 September  1918 through 11 November 1918 are accompanied by page images that can be viewed and compared in parallel with the text.</p>
+        <p>Words divided by hyphenation at the end of line have not been joined in order to mirror the diary's margins.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All single right and left quotation marks are encoded as ’ and ‘ respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+            <edition/>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+        <language id="fre">French</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>Women -- North Carolina -- Diaries.</item>
+            <item>World War, 1914-1918 -- North Carolina.</item>
+            <item>World War, 1914-1918 -- War work.</item>
+            <item>World War, 1914-1918 -- Women.</item>
+            <item>World War, 1914-1918 -- Personal narratives, American.</item>
+            <item>Taylor, Elizabeth Herbert Smith, b. 1888 -- Diaries.</item>
+            <item>Nurses -- North Carolina -- Diaries.</item>
+            <item>Nurses -- France -- Diaries.</item>
+            <item>France -- Social life and customs.</item>
+            <item>United States. Army Nurse Corps.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-06-12, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog 
+record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-05-31,  </date>
+        <respStmt>
+          <name>  Natalia Smith, </name>
+          <resp>project manager, </resp>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-04-26, </date>
+        <respStmt>
+          <name>Melissa Meeks</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-03-21, </date>
+        <respStmt>
+          <name>Amy Davis</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the manuscript.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div1 type="cover">
+        <pb id="cover" n="cover" entity="taylorcv"/>
+        <head>DAYLOGUE</head>
+        <p/>
+      </div1>
+      <div1 type="cover verso">
+        <pb id="taylor1" n="[i]" entity="taylori"/>
+        <head>Elizabeth Herbert Smith<lb/>Scotland Neck<lb/>North Carolina</head>
+        <p/>
+      </div1>
+      <titlePage>
+        <pb id="title" n="[title page]" entity="taylortp"/>
+        <docTitle>
+          <titlePart type="main">DAYLOGUE</titlePart>
+        </docTitle>
+        <epigraph>
+          <lg type="verse">
+            <l>Who can say</l>
+            <l>Why to-day</l>
+            <l>To-morrow will be</l>
+            <l>yesterday?</l>
+            <signed>—<hi rend="italics">Tennyson</hi></signed>
+          </lg>
+        </epigraph>
+      </titlePage>
+    </front>
+    <body>
+      <div1 type="diary entry">
+        <pb id="taylor2" n="[2]" entity="taylor001sept7"/>
+        <head>September 7 [1918]</head>
+        <p>1918. Given to me by Adele<lb/>and Walter Guion:<lb/>Lunch at Garvoni's, to<lb/>the Gaity, dinner at McAlpine.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor3" n="[3]" entity="taylor002sept8"/>
+        <head>September 8 [1918]</head>
+        <p>1918. Sunday.<lb/>Embarked. we are<lb/>1st class travelling steerage<lb/>Danced on deck in rain</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor4" n="[4]" entity="taylor003sept9"/>
+        <head>September 9 [1918]</head>
+        <p>19[18] did not sail until after<lb/>lunch. had the ships<lb/>physician. but not for<lb/>seasickness.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor5" n="[5]" entity="taylor004sept10"/>
+        <head>September 10 [1918]</head>
+        <p>19[18]. A suicide last night<lb/>can't find out anymore<lb/>I am wondering where<lb/>“87” is. Miss Nelson is kind now.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor6" n="[6]" entity="taylor005sept11"/>
+        <head>September 11 [1918]</head>
+        <p>19[18] A wonderful day! On deck<lb/>all day. drilled. sewed.<lb/>Met Lt. Bell from N.C.<lb/>But I do miss dancing.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor7" n="[7]" entity="taylor006sept12"/>
+        <head>September 12 [1918]</head>
+        <p>19[18] In bed w/ sorethroat.<lb/>Had a very interesting<lb/>call by Military surgeon.<lb/>I think he is a Virginian</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor8" n="[8]" entity="taylor007sept13"/>
+        <head>September 13 [1918]</head>
+        <p>19[18] Capt. Eanes scolded<lb/>me when he called.<lb/>declared I was signall-<lb/>ing to a convoy</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor9" n="[9]" entity="taylor008sept14"/>
+        <head>September 14 [1918]</head>
+        <p>19[18] Didn't I get mixed up w/<lb/>the O. G's! Laughed with Capt.<lb/>Eanes until weak. Steward<lb/>last bottle of ginger ale @ $1.00.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor10" n="[10]" entity="taylor009sept15"/>
+        <head>September 15 [1918]</head>
+        <p>19[18] Early celebration—no break-<lb/>fast. Miserable day from cold.<lb/>Porpoises playing—say a whale<lb/>is sighted. To bed etc. a book.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor11" n="[11]" entity="taylor010sept16"/>
+        <head>September 16 [1918]</head>
+        <p>19[18] Awfully cold and<lb/>windy. Did not<lb/>get on deck. played<lb/>cards.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor12" n="[12]" entity="taylor011sept17"/>
+        <head>September 17 [1918]</head>
+        <p>19[18] Another mistake in<lb/>message to O.G. I<lb/>don't carry my head<lb/>well on board.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor13" n="[13]" entity="taylor012sept18"/>
+        <head>September 18 [1918]</head>
+        <p>19[18] Things are better: our<lb/>nurses manage to stay<lb/>at the table for<lb/>their meals.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor14" n="[14]" entity="taylor013sept19"/>
+        <head>September 19 [1918]</head>
+        <p>19[18] Nearly froze to death last<lb/>night. snow and sleet.<lb/>The steward says we ran<lb/>up near Iceland.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor15" n="[15]" entity="taylor014sept20"/>
+        <head>September 20 [1918]</head>
+        <p>19[18] Great excitement getting<lb/>packed up. Irene of<lb/>dancing fame was<lb/>on deck smoking.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor16" n="[16]" entity="taylor015sept21"/>
+        <head>September 21 [1918]</head>
+        <p>19[18] Landed at Liverpool. Took train<lb/>for South Hampton. reached there 2:30 am.<lb/>Saw lovely homes, flowers<lb/>and parks. Love it all.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor17" n="[17]" entity="taylor016sept22"/>
+        <head>September 22 [1918]</head>
+        <p>19[18] After sleeping in a <lb/>quaint little room—a<lb/>regular queer breakfast. Emb-<lb/>arked again at 5 p.m.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor18" n="[18]" entity="taylor017sept23"/>
+        <head>September 23 [1918]</head>
+        <p>19[18] Met a dandy English officer—<lb/>we have dandy times. He<lb/>is so curious about nurses'<lb/>uniforms. In his office!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor19" n="[19]" entity="taylor018sept24"/>
+        <head>September 24 [1918]</head>
+        <p>La Havre. 19[18] Had to disembark after a<lb/>glorious night swinging<lb/>in a cradle—all dressed. I<lb/>hated to tell him goodbye. Blue silk hankie</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor20" n="[20]" entity="taylor019sept25"/>
+        <head>September 25 [1918]</head>
+        <p>19[18] Such a night as last was<lb/>at the Strasbourg! Slept  &amp; <lb/>had a shampoo. Entrained<lb/>again at 7:30 p.m. for <hi>Paris</hi>.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor21" n="[21]" entity="taylor020sept26"/>
+        <head>September 26 [1918]</head>
+        <p>19[18] Ate cold tomatoes and pork<lb/> &amp;  beans for breakfast. Slept<lb/>on seats all night—missed<lb/>train—did Paris this p.m.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor22" n="[22]" entity="taylor021sept27"/>
+        <head>September 27 [1918]</head>
+        <p>19[18] Up at 5 a.m. cold pork<lb/> &amp;  beans for breakfast  &amp;  lunch.<lb/>Reached here—Mesvres— in<lb/>time for dinner.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor23" n="[23]" entity="taylor022sept28"/>
+        <head>September 28 [1918]</head>
+        <p>19[18] On the O.R. Unit so<lb/>many nice officers. Nine<lb/>nurses in hospital. I am<lb/>well, happy  &amp;  good appetite.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor24" n="[24]" entity="taylor023sept29"/>
+        <head>September 29 [1918]</head>
+        <p>19[18] My major and captain are<lb/>so pleased w/ our work. My<lb/>mess. O. is bringing cakes<lb/>tonight: last night was pie</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor25" n="[25]" entity="taylor024sept30"/>
+        <head>September 30 [1918]</head>
+        <p>19[18] I feel like Sam<lb/>McGee's sister: if I<lb/>ever get warm<lb/>again! Several nurses ill</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor26" n="[26]" entity="taylor025oct1"/>
+        <head>October 1 [1918]</head>
+        <p>19[18] After a cold day, four<lb/>of us went into town<lb/>for some wine to warm<lb/>up. Sat out in court on cold stones.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor27" n="[27]" entity="taylor026oct2"/>
+        <head>October 2 [1918]</head>
+        <p>19[18] Operated in the open<lb/>on three cases today. I<lb/>am still frozen. have a<lb/>perpetual ache in my shoulder.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor28" n="[28]" entity="taylor027oct3"/>
+        <head>October 3 [1918]</head>
+        <p>19[18] Went over to the<lb/>hospital—couldn't go<lb/>in. but several nurses<lb/>very ill. Am <hi>so</hi> cold!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor29" n="[29]" entity="taylor028oct4"/>
+        <head>October 4 [1918]</head>
+        <p>19[18] Tis dreadful to<lb/>hear Miss Hardy call<lb/>for her mother. she<lb/>is dying tonight.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor30" n="[30]" entity="taylor029oct5"/>
+        <head>October 5 [1918]</head>
+        <p>19[18] Miss Hardy died last<lb/>night.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor31" n="[31]" entity="taylor030oct6"/>
+        <head>October 6 [1918]</head>
+        <p>19[18] My, we are kept<lb/>busy in the O.R.<lb/>And the patients!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor32" n="[32]" entity="taylor031oct07"/>
+        <head>October 7 [1918]</head>
+        <p>19[18] I hear that captain<lb/>Glascock is awfully<lb/>ill. he is a Virginian<lb/>and is so nice</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor33" n="[33]" entity="taylor032oct08"/>
+        <head>October 8 [1918]</head>
+        <p>19[18] Miss Hardy was<lb/>buried in a trunk<lb/>w/ nine soldiers<lb/>today.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor34" n="[34]" entity="taylor033oct09"/>
+        <head>October 9 [1918]</head>
+        <p>1918 Miss McMullen<lb/>died today. We are<lb/>not going to her<lb/>funeral as we are too<lb/>busy.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor35" n="[35]" entity="taylor034oct10"/>
+        <head>October 10 [1918]</head>
+        <p>1918 Capt. Weinstein<lb/>came up w/ the sad<lb/>news of Capt. Glascock's<lb/>death.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor36" n="[36]" entity="taylor035oct11"/>
+        <head>October 11 [1918]</head>
+        <p>1918 I have a chilblain<lb/>and can hardly<lb/>walls. imagine my<lb/>distress</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor37" n="[37]" entity="taylor036oct12"/>
+        <head>October 12 [1918]</head>
+        <p>1918 Am beginning to<lb/>long for letters.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor38" n="[38]" entity="taylor037oct13"/>
+        <head>October 13 [1918]</head>
+        <p>1918 Every nurse ordered<lb/>out but Mrs. E. five<lb/>ill nurses and my<lb/>self. We are rushed.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor39" n="[39]" entity="taylor038oct14"/>
+        <head>October 14 [1918]</head>
+        <p>1918 Hurrah! Two nurses<lb/>from “55” came in.<lb/>They go on night duty<lb/>over 800 patients each.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor40" n="[40]" entity="taylor039oct15"/>
+        <head>October 15 [1918]</head>
+        <p>1918. I want a letter.<lb/>Had such a queer<lb/>dream about a<lb/>black horse  &amp;  crazy baby.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor41" n="[41]" entity="taylor040oct16"/>
+        <head>October 16 [1918]</head>
+        <p>1918. Captain Dunoir <lb/>was <unclear reason="illegible"/> we like<lb/>the lab. here. And<lb/>Lt. Telfair is nice too.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor42" n="[42]" entity="taylor041oct17"/>
+        <head>October 17 [1918]</head>
+        <p>1918 I operated on the<lb/>C.O's finger. Major<lb/>Blacksburn says<lb/>I am a vampire.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor43" n="[43]" entity="taylor042oct18"/>
+        <head>October 18 [1918]</head>
+        <p>1918 A never to be forgotten<lb/>trip to Mesvres. Helped the<lb/>old lady with her wheelbarrow<lb/>full of carrots out of a mud<lb/>puddle, went into a<lb/>cottage &amp;  packed a girls'<lb/>nose: Mrs. Eubanks &amp;  I.<lb/>Result—a laundry woman.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor44" n="[44]" entity="taylor043oct19"/>
+        <head>October 19 [1918]</head>
+        <p>19[18] 350 new litter patients came<lb/>in. My first bathe (shower) &amp; <lb/>am wearing men's underwear<lb/>the R. C. captain gave me.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor45" n="[45]" entity="taylor044oct20"/>
+        <head>October 20 [1918]</head>
+        <p>19[18] And tonight there was<lb/>a real tub bathe tho'<lb/>the water was as<lb/>yellow as the James.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor46" n="[46]" entity="taylor045oct21"/>
+        <head>October 21 [1918]</head>
+        <p>19[18] I just can't like <lb/>Major Blackburn<lb/>tho' he says such<lb/>nice things about me.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor47" n="[47]" entity="taylor046oct22"/>
+        <head>October 22 [1918]</head>
+        <p>19[18] I am gradually<lb/>gathering the O.R. into<lb/>shape. The Colonel<lb/>is in bed w/ a bad eye.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor48" n="[48]" entity="taylor047oct23"/>
+        <head>October 23 [1918]</head>
+        <p>19[18] Went to Mesves again<lb/>to our charming French<lb/>laundress. Had a ride<lb/>in the R. C. car.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor49" n="[49]" entity="taylor048oct24"/>
+        <head>October 24 [1918]</head>
+        <p>19[18] I hear that the girls<lb/>who left here are w/ “40”<lb/>and L. C. L. is near<lb/>there dancing! I don't care.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor50" n="[50]" entity="taylor049oct25"/>
+        <head>October 25 [1918]</head>
+        <p>19[18] Same old wants and<lb/>wishes for something<lb/>I'll never have!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor51" n="[51]" entity="taylor050oct26"/>
+        <head>October 26 [1918]</head>
+        <p>19[18] To a dance given<lb/>by the 316 Engineers.<lb/>danced and danced! The<lb/>decorations were beautiful</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor52" n="[52]" entity="taylor051oct27"/>
+        <head>October 27 [1918]</head>
+        <p>19[18] Over did the stunt<lb/>and am sick.<lb/>I should be “typed.”<lb/>“Type 4. L. C. L.”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor53" n="[53]" entity="taylor052oct28"/>
+        <head>October 28 [1918]</head>
+        <p>19[18] In bed all day w/ a<lb/>dose of oil. Captain<lb/>Hargrave came in. We<lb/>all made a surprise.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor54" n="[54]" entity="taylor053oct29"/>
+        <head>October 29 [1918]</head>
+        <p>1918 Were asked to call on<lb/>Capt. Perdue at 7:30 p.m.<lb/>Danced and sang<lb/>in the Officers' Mess Hall</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor55" n="[55]" entity="taylor054oct30"/>
+        <head>October 30 [1918]</head>
+        <p>1918 Had my first letter<lb/>from home. Jamie.<lb/>Don't  I love him.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor56" n="[56]" entity="taylor055oct31"/>
+        <head>October 31 [1918]</head>
+        <p>19[18] The Arch-Bishop's<lb/>picture came today.<lb/>He is right by my<lb/>little pillow!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor57" n="[57]" entity="taylor056nov1"/>
+        <head>November 1  [1918]</head>
+        <p> Charlie's birthday.<lb/>The memorial services.</p>
+        <p>My heavens! To be<lb/>lost here “somewhere<lb/>in France” where<lb/>there is nothing doing!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor58" n="[58]" entity="taylor057nov2"/>
+        <head>November 2 [1918]</head>
+        <p>19[18] I ran amuck in the<lb/>O.R. Went to a dance<lb/>last evening and had a<lb/>wonderful time w/ an Engineer</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor59" n="[59]" entity="taylor058nov3"/>
+        <head>November 3 [1918]</head>
+        <p>19[18] A big fat letter from Sister<lb/>Jule this morning! 'Tis a<lb/>shame to operate on<lb/>Sundays when 'tis not necessary!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor60" n="[60]" entity="taylor059nov4"/>
+        <head>November 4 [1918]</head>
+        <p>19[18] Guess what? Had a letter<lb/>from “L. C. L.” today and<lb/>he is a “capitan.” But his<lb/>photo is awful!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor61" n="[61]" entity="taylor060nov5"/>
+        <head>November 5 [1918]</head>
+        <p>19[18] And yet more nurses<lb/>are ordered out! I am<lb/>wondering if they will<lb/>take all but me!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor62" n="[62]" entity="taylor061nov6"/>
+        <head>November 6 [1918]</head>
+        <p>19[18] Lt. Roden came over<lb/>to ask me out to <lb/>dinner. He reminds me<lb/>of “A Man's Man” by Webster.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor63" n="[63]" entity="taylor062nov7"/>
+        <head>November 7 [1918]</head>
+        <p>19[18] Couldn't go to dinner<lb/>w/ Lt. Roden as I have<lb/>a bad throat. My, he<lb/>is a wonderful dancer.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor64" n="[64]" entity="taylor063nov8"/>
+        <head>November 8 [1918]</head>
+        <p>19[18] Captain D'Au<unclear reason="illegible"/>  says I can<lb/>raise the flag. And we<lb/>are going to have a<lb/>real reception.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor65" n="[65]" entity="taylor065nov9"/>
+        <head>November 9 [1918]</head>
+        <p>19[18] Lt. Telfer, Mrs. E. &amp;  I went to<lb/>Mesvres to carry laundry. Had<lb/>some champagne. Went to<lb/>a wonderful dance at 909 Lt. R.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor66" n="[66]" entity="taylor064nov10"/>
+        <head>November 10 [1918]</head>
+        <p>19[18] A real Euchanstic cele-<lb/>bration this morning.<lb/>Chaplain Cleveland is from<lb/>the front—shell shocked.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor67" n="[67]" entity="taylor066nov11"/>
+        <head>November 11 [1918]</head>
+        <p>19[18] A crowd of us walked to<lb/>Mesvres to the laundry<lb/>carrying soiled laundry. Drank<lb/>champagne to celebrate.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor68" n="[68]"/>
+        <head>November 12 [1918]</head>
+        <p>19[18] “The Kellys”—Miss Sharon<lb/>and Miss Robbins #55, left<lb/>today. We hated for them<lb/>to go. To see Col. Moncrief.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor69" n="[69]"/>
+        <head>November 13 [1918]</head>
+        <p>19[18] Claibourne's birthday!<lb/>Had a fudge party over at the<lb/>Mess. hall. Lts. Roden, Maynard,<lb/>Schwartz, Blakelock, Telfer &amp;  “us.”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor70" n="[70]"/>
+        <head>November 14 [1918]</head>
+        <p>19[18] Went to dinner at Boulcy w/<lb/>Lt. Roden—“the Boot Club.”<lb/>Beaucoup champagne &amp;  poulet.<lb/>Had a dance at the Mess hall.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor71" n="[71]"/>
+        <head>November 15 [1918]</head>
+        <p>19[18] Stayed home and wrote<lb/>letters. Crowd came in and<lb/>stayed until late. I do just<lb/>hate 86</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor72" n="[72]"/>
+        <head>November 16 [1918]</head>
+        <p>19[18] To dance at “89” w/ Lt. Roden. Had<lb/>my first dance w/  Lt. Maynard.<lb/>He is splendid. The girls<lb/>are all leaving me here alone.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor73" n="[73]"/>
+        <head>November 17 [1918]</head>
+        <p>19[18] The girls left Mrs. Eubank &amp; <lb/>me here alone. Operated all<lb/>day but walked to La Chareté w/ <lb/>Lt. Eley to meet Lt. Roden &amp;  Mrs. E. for dinner</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor74" n="[74]"/>
+        <head>November 18 [1918]</head>
+        <p>19[18] Major Hargrave &amp;  Capt. Perdue<lb/>came over to play cards. Major<lb/>and I beat the others. I am<lb/>cross and cranky. fussed.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor75" n="[75]"/>
+        <head>November 19 [1918]</head>
+        <p>19[18] Lt. Maynard  &amp;  Lt. Schwartz<lb/>came to play five-hundred!<lb/>Made fudge. crawled thru' kitchen<lb/>window for bread  &amp;  pickles.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor76" n="[76]"/>
+        <head>November 20 [1918]</head>
+        <p>19[18] One new nurse has diphtheria. All<lb/>had to have cultures made!<lb/>Lts. Roden &amp;  Eley to play five hundred. We lost: have to give the dinner</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor77" n="[77]"/>
+        <head>November 21 [1918]</head>
+        <p>19[18] Another day just<lb/>like others—no mail!<lb/>Capt. Perdue came<lb/>in to play cards.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor78" n="[78]"/>
+        <head>November 22 [1918]</head>
+        <p>19[18] Asked to Pouilly to dinner<lb/>by Lt. Lowery but refused.<lb/>Lt. Ely  &amp;  Lt. Roden came<lb/>over—all talked French.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor79" n="[79]"/>
+        <head>November 23 [1918]</head>
+        <p>19[18] Went to a dance w/  Lt.<lb/>Maynard—to 89—to 54 and<lb/>back to 89. Brought Lt. Schwartz<lb/> &amp;  Miss Barnham in to M.N. feast.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor80" n="[80]"/>
+        <head>November 24  [1918]</head>
+        <p>19[18] Sunday and a busy day!<lb/>Off duty at 4:30 p.m. Lt. Roden<lb/> &amp;  Lt. Ely came in—dead<lb/>tired but they stayed m.n.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor81" n="[81]"/>
+        <head>November 25 [1918]</head>
+        <p>19[18] Card party —Misses Andrews,<lb/>Phyllis, Kantner, McVay, Mrs. Eubank<lb/> &amp;  I with Lts. Lowery, Daluers,<lb/>Maynard, and Schwartz.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor82" n="[82]"/>
+        <head>November 26 [1918]</head>
+        <p>19[18] Major Blackburn made Lt. Col.<lb/> &amp;  ordered away. Dance in his<lb/>honor. Lt. Maynard, Schwartz<lb/>Roden  &amp;  Eley came in.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor83" n="[83]"/>
+        <head>November 27 [1918]</head>
+        <p>19[18] I am tired. No mail yet. just<lb/>took a p.m. slept all time.<lb/>Lt. Roden came in but I<lb/>left him to Mrs. Eubanks.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor84" n="[84]"/>
+        <head>November 28 [1918]</head>
+        <p>19[18] Dance at “50.” Going w/  Lt. Maynard.<lb/>... Had a wonderful time. came<lb/>home in mud and rain but both of<lb/>us enjoyed it all—every bit.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor85" n="[85]"/>
+        <head>November 29 [1918]</head>
+        <p>19[18] Card game on w/ Capt. Perdue<lb/> &amp;  Lt. Roden. Went to sleep. In<lb/>came Major Williams  &amp;  Lt. McDonald<lb/>for help. two nurses stalled in ford.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor86" n="[86]"/>
+        <head>November 30 [1918]</head>
+        <p>19[18] A dance at “89.” Going w/  Lt.<lb/>Maynard. He is a dandy dancer<lb/>Awfully crowded floor. Mrs. Eubanks is no<lb/>longer chief: #72 in, and hated.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor87" n="[87]"/>
+        <head>December 1 [1918]</head>
+        <p>19[18]  Lt. Maynard did not come.<lb/>Mrs. Eubanks, Miss McVay, Lt. Roden<lb/> &amp;  Lt. Schwartz to Pouilly for dinner.<lb/>Miss Kantner, Simone, &amp;  I alone.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor88" n="[88]"/>
+        <head>December 2 [1918]</head>
+        <p>19[18] A dance at “67”—went w/  Lt. Maynard<lb/>and enjoyed it—coffee was real. We<lb/>had fun going in Lt. McDonald's<lb/>automobile ambulance.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor89" n="[89]"/>
+        <head>December 3 [1918]</head>
+        <p>19[18] Miss McVay taken from us<lb/>and Miss Love given. To see<lb/>Major Bocock. Lt. Maynard came<lb/>in to exchange blankets. R. C. <lb/><unclear reason="illegible"/> opened w/  card party to<lb/>“us three.”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor90" n="[90]"/>
+        <head>December 4 [1918]</head>
+        <p>19[18] Inspection by Col. Fisher. My little<lb/>chat w/  Col. Mancreif about<lb/>being lonely. A. R. the best in<lb/>camp. Capt. Weinstein happy.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor91" n="[91]"/>
+        <head>December 5 [1918]</head>
+        <p>19[18] Mrs. Eubanks and I are<lb/>ordered to Base 72. See Capt. Orr.<lb/>Lt. Maynard came over to<lb/>be cheered up—bless his heart.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor92" n="[92]"/>
+        <head>December 6 [1918]</head>
+        <p>19[18] This place is mud, mud! We are<lb/>wading knee deep in it. I hear<lb/>87 is here. Can it be true?<lb/>Major Gollman up today.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor93" n="[93]"/>
+        <head>December 7 [1918]</head>
+        <p>19[18] To Mesvres in the ambulance.<lb/>Lt. Maynard took me to the<lb/>dance at 89. Had a wonder-<lb/>ful time except w/  the adjutant.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor94" n="[94]"/>
+        <head>December 8 [1918]</head>
+        <p>19[18] Lt. Maynard came in to<lb/>take me for a walk: instead<lb/>we stayed at home and had<lb/>a big fuss. To bed w// a headache</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor95" n="[95]"/>
+        <head>December 9 [1918]</head>
+        <p>19[18] In bed all day until 4 p.m.<lb/>Nineteen new nurses in. helped fix<lb/>them up. Mrs. Eubanks to Mesvres<lb/>Lt. Maynard in for about ½ hr.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor96" n="[96]"/>
+        <head>December 10 [1918]</head>
+        <p>19[18] Made salad etc. all day—decorated<lb/>the hall beautifully. Lt. Maynard<lb/>took me over to “72's” first dance<lb/>Wonderful time but Lt. Maynard ill.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor97" n="[97]"/>
+        <head>December 11 [1918]</head>
+        <p>19[18] Nothing unusual. Simone<lb/>operated on and I went over<lb/>to help. Poor child told me<lb/>all her sorrows under ether.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor98" n="[98]"/>
+        <head>December 12 [1918]</head>
+        <p>19[18] Mrs. Eubanks ill: Major Airtel,<lb/>Capt. Huary, Lts. Dalure  &amp;  Blakelock over:<lb/>Lts. Redding  &amp;  Lt. Luck played mando<lb/>lin and ukelele. Lt. Maynard gone.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor99" n="[99]"/>
+        <head>December 13 [1918]</head>
+        <p>19[18] Lt. Pilgram over as a patient. Just<lb/>bronchitis  &amp;  I am specializing.<lb/>Surely do miss my very nice<lb/>brother! No dance for me tonight.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor100" n="[100]"/>
+        <head>December 14 [1918]</head>
+        <p>19[18] And no church today. up too<lb/>late. Made just splendid fudge w/ <lb/>Lts. Redding and Bengdhal. I do<lb/>wish Lt. Maynard would come home.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor101" n="[101]"/>
+        <head>December 15 [1918]</head>
+        <p>19[18] Ran Lt. Roden home last<lb/>night.  Have been cross and<lb/>cranky all day. Such a mess.<lb/>A dance but Lt. Maynard isn't here.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor102" n="[102]"/>
+        <head>December 16 [1918]</head>
+        <p>19[18] Went to Nevers today and<lb/>had a wonderful time lunching<lb/>w/  a French officer. The wonderful<lb/>thimble was bought.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor103" n="[103]"/>
+        <head>December 17 [1918]</head>
+        <p>19[18] A letter from Bess Earle! And<lb/>Lt. Maynard came in to have<lb/>dinner  &amp;  spend evening w/  us. Lts.<lb/>Ely and Colby w/  us in “Cinque-Cent.”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor104" n="[104]"/>
+        <head>December 18 [1918]</head>
+        <p>19[18] Lt. Pilgram has pneumonia<lb/>still I had to scold him. Capt. <lb/>Farris is from Phila. Rain is<lb/>coming thru' roof. No bath.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor105" n="[105]"/>
+        <head>December 19 [1918]</head>
+        <p>19[18] Lt. Maynard ran in for 5 min.<lb/>early in p.m. to say he would<lb/>call in evening. Came up <lb/>w/  a temp—from typho—bacteria.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor106" n="[106]"/>
+        <head>December 20 [1918]</head>
+        <p>19[18] Another mail-less day. I am<lb/>wondering what kind of<lb/>friends “army friends” are anyway.<lb/>Hate to think I never see L. C. L.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor107" n="[107]"/>
+        <head>December 21 [1918]</head>
+        <p>19[18] Went to dance at “24” w/  Lt.<lb/>Maynard. Crush—under the<lb/>table. home at 1 am—mid-<lb/>night feast until 2 am.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor108" n="[108]"/>
+        <head>December 22 [1918]</head>
+        <p>19[18] Sick all day: miserable cold<lb/>and aching. No mail as usual.<lb/>Our floor flooded: roof leak-<lb/>ing over everything.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor109" n="[109]"/>
+        <head>December 23 [1918]</head>
+        <p>19[18] Off duty on truck all day.<lb/>Mrs. Eubanks to Nevers. Lt. <lb/>Maynard up in evening<lb/>and again complained of “calls”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor110" n="[110]"/>
+        <head>December 24 [1918]</head>
+        <p>19[18] A cold wet miserable<lb/>Xmas eve. Wrote to Dolly<lb/>Louise and L.C.L. Made<lb/>up Lt. Maynard's box for Xmas.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor111" n="[111]"/>
+        <head>December 25 [1918]</head>
+        <p>19[18] Xmas day. real snow. so many<lb/>nurses happy. Mrs. E. &amp;  I had a real argument 
+@ the C. O. Lt. Maynard came in and did<lb/>need careful handling. I am surely blue.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor112" n="[112]"/>
+        <head>December 26</head>
+        <p>19[18]After a miserable morning, Mrs. E. &amp; <lb/>I have come to terms. Lt. Maynard<lb/>came up to ask me to a dance, and I<lb/>returned the compliment. He's nice</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor113" n="[113]"/>
+        <head>December 27 [1918]</head>
+        <p>19[18] A dandy dance given to the<lb/>casuals by Mrs. E. Had a wonderful<lb/>time but Lt. Maynard made me<lb/>cut one. Lt. Winstead is from U. P.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor114" n="[114]"/>
+        <head>December 28 [1918]</head>
+        <p>1918 Still no mail. Had a hard day. am<lb/>muddy from head to feet. Went to 89's<lb/>dance w/ Lt. Maynard and had a wonder-<lb/>ful time. He ate so many sandwiches</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor115" n="[115]"/>
+        <head>December 29 [1918]</head>
+        <p>19[18] Sunday—bad sore throat. 20 nurses<lb/>are ordered out—rain splashing thro<lb/>roof. Miss Kantner has been ordered<lb/>over to “89.” I am wild to see her.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor116" n="[116]"/>
+        <head>December 30 [1918]</head>
+        <p>19[18] Letters—one from Tom and one from<lb/>L.C.L. Needless to say 'tis great to<lb/>get mail. Lt. Maynard came in<lb/>and spent the evening. Does not like “dido”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor117" n="[117]"/>
+        <head>December 31 [1918]</head>
+        <p>19[18] To a wonderful dance at “89”<lb/>w/  Lt. Maynard. He is mad w/  me<lb/>tho'. Had a dandy supper and<lb/>real New Year's noise  &amp;  flare.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor118" n="[118]"/>
+        <head>January 1 [1919]</head>
+        <p>1919—Went to a dance given by<lb/>Engineers at La Charité. danced<lb/>until 12 m.n. dinner followed w/  Lt.<lb/>Ely. home at 3:15 am. “Perfume from girls hair”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor119" n="[119]"/>
+        <head>January 2 [1919]</head>
+        <p>1919—Very tired and miserable all<lb/>day. All those who went to dance<lb/>ill in bed. I am waiting on<lb/>them. No mail. —</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor120" n="[120]"/>
+        <head>January 3 [1919]</head>
+        <p>1919—Captain Payne  &amp;  Lt. Ely over to<lb/>play Cinque-Cent. Note from Lt.<lb/>Maynard asking me to go to the<lb/>dance. Am glad he isn't mad!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor121" n="[121]"/>
+        <head>January 4 [1919]</head>
+        <p>1919—To dance at “89” with<lb/>my regular partner. He is<lb/>surely nice. A letter from Charlie<lb/>another from Capt. Ludlum</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor122" n="[122]"/>
+        <head>January 5 [1919]</head>
+        <p>1919—An awful wind, roofs<lb/>leaving us. Not one<lb/>caller tonight. Simone<lb/>giving French lessons.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor123" n="[123]"/>
+        <head>January 6 [1919]</head>
+        <p>1919—Lt. Maynard came up<lb/>and stayed until 11:30 a.m.<lb/>Again this criticism of<lb/>Southerness.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor124" n="[124]"/>
+        <head>January 7 [1919]</head>
+        <p>1919 First op. at 72.. Lt. Maynard<lb/>and Miss Kantner for supper.<lb/>Lts. McKinley, Harmon, Pilgrim,<lb/> &amp;  Miss Ray for “Cinque Cent”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor125" n="[125]"/>
+        <head>January 8 [1919]</head>
+        <p>1919: Lt. Blakelock up for a<lb/>game of cards. He has promised<lb/>Mrs. Eubanks a nice card<lb/>table—up at the “Con. Camp.”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor126" n="[126]"/>
+        <head>January 9 [1919]</head>
+        <p>1919: Mrs. Lockwood brought in just<lb/>loads of American Ambulance<lb/>Hospt. pictures—makes me just<lb/>long to see J. P. Hutchinson</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor127" n="[127]"/>
+        <head>January 10 [1919]</head>
+        <p>1919: In bed w/  a fearful headache.<lb/>Lt. Maynard up for a short<lb/>while—just as sleepy as he<lb/>could be.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor128" n="[128]"/>
+        <head>January 11 [1919]</head>
+        <p>1919: Engineers dance w/  Lt. Maynard.<lb/>I believe he is getting tired<lb/>of going to dances avec moi.<lb/>Saw someone who looked blue</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor129" n="[129]"/>
+        <head>January 12 [1919]</head>
+        <p>1919. Seven nurses ordered to<lb/>Germany. Am wild to be on<lb/>my way. I want a letter from<lb/>someone—a vast great silence</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor130" n="[130]"/>
+        <head>January 13 [1919]</head>
+        <p>1919: Another siege w/  headache.<lb/>Candle grease all in my hair:<lb/>Five officers left—one, Lt. Redding<lb/>to Germany, others w/  Capt. Orr home.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor131" n="[131]"/>
+        <head>January 14 [1919]</head>
+        <p>1919. No mail as usual and a<lb/>headache. Lt. Maynard came<lb/>up and played cards w/  the<lb/>others. How I want some mail.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor132" n="[132]"/>
+        <head>January 15 [1919]</head>
+        <p>1919: Nothing of importance.<lb/>The O.R. is dead.<lb/>Read and slept.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor133" n="[133]"/>
+        <head>January 16 [1919]</head>
+        <p>1919. Co. E. B. &amp;  C. 109th Eng.<lb/>left for St. Armand. I<lb/>nearly cried. Lt. Ely says<lb/>he'll come up some time.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor134" n="[134]"/>
+        <head>January 17 [1919]</head>
+        <p>1919: Letters from Charlie, Bess<lb/>and L. C. L. Feel much better!<lb/>Lt. Maynard came up,<lb/>and played w/ Miss Grant all eve'g</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor135" n="[135]"/>
+        <head>January 18 [1919]</head>
+        <p>1919. To a dance at “108” w/  Lt.<lb/>Manly from Wisconsin. Our<lb/>lobster salad later. Paraded in<lb/>Lt. Roden's boots: teased about absent Q. M.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor136" n="[136]"/>
+        <head>January 19 [1919]</head>
+        <p>1919. Dinner (Turkey an' everything)<lb/>w/  Lt. Manly over w/ 109th Engineers.<lb/>Says I'll have to learn to speak<lb/>English. Sore from dancing.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor137" n="[137]"/>
+        <head>January 20 [1919]</head>
+        <p>1919: Over to “86” to get Lt. Lowery<lb/>to sing. Nurses gave an entertain-<lb/>ment in R.C. Hut. I had to stay<lb/>in bed w/  an awful headache.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor138" n="[138]"/>
+        <head>January 21 [1919]</head>
+        <p>1919: Captain Lippincott came in<lb/>to make all kinds of blood tests.<lb/>I can't imagine what can be<lb/>the trouble w/  my head.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor139" n="[139]"/>
+        <head>January 22 [1919]</head>
+        <p>1919: Miss Kantner ill so did not<lb/>come to dinner tho Lts. Maynard &amp; <lb/>Roden did. Miss Ray  &amp;  I lost<lb/>over dinner to Mrs. E. &amp;  Miss Grant. Letter from A. J. U.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor140" n="[140]"/>
+        <head>January 23 [1919]</head>
+        <p>1919: Captain Lippincott came in for<lb/>blood culture. I fainted after 3 trials<lb/>I am really blue and<lb/>need something.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor141" n="[141]"/>
+        <head>January 24 [1919]</head>
+        <p>1919. To a dance at “108” w/ <lb/>Lt. Maynard. He is so queer —<lb/>not one bit like he was.<lb/>Music from the “Call.”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor142" n="[142]"/>
+        <head>January 25 [1919]</head>
+        <p>1919: My feet are blistered.<lb/>Am ordered to Pruniers<lb/>Only regret is that I'll<lb/>never see Lt. Maynard again</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor143" n="[143]"/>
+        <head>January 26 [1919]</head>
+        <p>1919: Lt. Maynard came in a.m.<lb/>returned in p.m. to have dinner<lb/>w/  us  &amp;  Lt. Blakelock. Carried us to<lb/>the train. Mrs. E.  &amp;  I in Nevers.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor144" n="[144]"/>
+        <head>January 27 [1919]</head>
+        <p>1919: American Express late so spent<lb/>the night at hotel in Nevers—had a<lb/>real dinner on. delighted to meet my<lb/>Dolly here in Pruniers. I love her.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor145" n="[145]"/>
+        <head>January 28 [1919]</head>
+        <p>1919. To the Chateaux deTauer-<lb/>nay w/  Dolly, Mrs. “U” and three<lb/>aviator officers for dinner.<lb/>Had a very interesting time.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor146" n="[146]"/>
+        <head>January 29 [1919]</head>
+        <p>1919: Am put on a month's sick<lb/>leave w/  Dolly. Went to a dance at the<lb/>Officers' “Y.” Had a wonderful time<lb/>w/  all those aviators</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor147" n="[147]"/>
+        <head>January 30 [1919]</head>
+        <p>1919. Went to Orleans w/  Miss Morrill<lb/> &amp;  her capitan, Mrs. E.  &amp;  St. Barry &amp; <lb/>Lt. Whitkaiser. Had a nice ride<lb/>down. saw cathedral, had<lb/>dinner and auto troubles<lb/>that got us home at 4 am.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor148" n="[148]"/>
+        <head>January 31 [1919]</head>
+        <p>1919: In bed all day: received<lb/>the jam and tea from Miss<lb/>Morrill's “capitan.” In bed at<lb/>9:00 pm—Unheard of tale!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor149" n="[149]"/>
+        <head>February 1 [1919]</head>
+        <p>1919: Off on our leave. Lt. L &amp; <lb/>Captain to see us off. The two<lb/>very thrilling aviators. Lts. Bain<lb/> &amp;  Churchward trying to make<lb/>us stay over to a dance w/<lb/>them. Left in Paris. Put<lb/>up at Hotel St. Romaine.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor150" n="[150]"/>
+        <head>February 2 [1919]</head>
+        <p>1919:  busy in a.m. w/  Red Tape.<lb/>Tried to see Prince of Sev—<lb/>but because too cold so had <lb/>to move on. Our canary sings.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor151" n="[151]"/>
+        <head>February 3 [1919]</head>
+        <p>1919: In bed all day until<lb/>time to have supper and<lb/>leave for the Gare du Lyon. In<lb/>a compartment w/  4 nice artillery officers.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor152" n="[152]"/>
+        <head>February 4 [1919]</head>
+        <p>1919: An interesting day: had a nice<lb/>trip down. Saw Capt. Ludwig, Lt.<lb/>Lyon  &amp;  Patsy on train for Nice.<lb/>Hated to tell my newly found<lb/>friends goodbye. The <unclear reason="illegible"/><lb/>home in Antibes<unclear reason="illegible"/><lb/>so came over here to the<lb/>Grand Hotel in Cannes. Saw<lb/>Louise Reinhardt first thing.<lb/>She has made me so<lb/>happy about something. I<lb/>am in a marvellous swim</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor153" n="[153]"/>
+        <head>February 5 [1919]</head>
+        <p>1919: Cannes is beautiful!<lb/>We just lived in the<lb/>sun all day. Moved to<lb/>the Albion.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor154" n="[154]"/>
+        <head>February 6 [1919]</head>
+        <p>1919. Met Lt. Blue and<lb/>had tea and danced at<lb/>the Officer's Club. Engineer<lb/>who knew Lt. Ely.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor155" n="[155]"/>
+        <head>February 7 [1919]</head>
+        <p>1919: Came over here to Antibes<lb/>a matin. Am so glad<lb/>as 'tis “beautifuller” yet here.<lb/>Miss Delano here also.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor156" n="[156]"/>
+        <head>February 8 [1919]</head>
+        <p>1919: Such a nice lazy<lb/>day—slept and read<lb/>all day. Scotch officer<lb/>swapped me  &amp;  Dolly.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor157" n="[157]"/>
+        <head>February 9 [1919]</head>
+        <p>1919: Miss Delano gives<lb/>us a nice little talk.<lb/>I am desperately lazy<lb/>and sit all the time</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor158" n="[158]"/>
+        <head>February 10 [1919]</head>
+        <p>1919: Over to Cannes<lb/>for the day. Tea at<lb/>the Officers' Club<lb/>again. Met Lt. Emmett</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor159" n="[159]"/>
+        <head>February 11</head>
+        <p>1919. Dolly, Louise  &amp;  I<lb/>to Nice to spend the<lb/>day w/  Lt. Emmett. Had<lb/>a glorious day.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor160" n="[160]"/>
+        <head>February 12 [1919]</head>
+        <p>1919: To Cannes. had a <lb/>funny Capt. Slater of Wash<lb/>to bore me to death.<lb/>Trained it out.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor161" n="[161]"/>
+        <head>February 13 [1919]</head>
+        <p>1919: “Sunny” is down<lb/>Actually heard from<lb/>home today. I am<lb/>enjoying this place.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor162" n="[162]"/>
+        <head>February 14 [1919]</head>
+        <p>1919: Went to a Valentine<lb/>dance at the Officer's<lb/>Club. Met Lt. Gould. Also<lb/>saw my Montana lawyer</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor163" n="[163]"/>
+        <head>February 15 [1919]</head>
+        <p>1919: Danced w/  Lt. Gould at<lb/>the Officer's Club after tea<lb/>in p.m. and he came <lb/>out to our dance in<lb/>the evening. Several<lb/>men of the Tennis<lb/>Tournament over here<lb/>and danced tonight.<lb/>Had such a snippy<lb/>letter from Captain<lb/>Ludlum today. He is<lb/><hi>so</hi> mean!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor164" n="[164]"/>
+        <head>February 16 [1919]</head>
+        <p>1919. Miss Hobbs and<lb/>Miss Swayne left us<lb/>today. I've written many<lb/>letters  &amp;  yawned.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor165" n="[165]"/>
+        <head>February 17 [1919]</head>
+        <p>1919: To tea and Lt. Gould<lb/>brought us home in machine.<lb/>Lost girls' name. In to a<lb/>dance . . to the Carlton “bar.”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor166" n="[166]"/>
+        <head>February 18 [1919]</head>
+        <p>1919: Saw the old  donjon in<lb/>Antibes. Walked home w/ <lb/>Mass. sargeant. Missed our<lb/>trip to Grasse. Funny Captain. </p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor167" n="[167]"/>
+        <head>February 19 [1919]</head>
+        <p>1919: The wonderful “tear”<lb/>for Louise and her Q. M.<lb/>Deep remorse. dance at<lb/>O's C. Broken engagements</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor168" n="[168]"/>
+        <head>February 20 [1919]</head>
+        <p>1919: Shopped. Met my new<lb/>Spring hat. No mail. Captain<lb/>L. is ill. The Gasant at O's C.<lb/>Had lots of fun w/  Louise.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor169" n="[169]"/>
+        <head>February 21 [1919]</head>
+        <p>1919: To Cannes. to spend the<lb/>day w/  Lts. Lewis  &amp;  Young.<lb/>watched tennis tournament<lb/> &amp;  motored to Nice.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor170" n="[170]"/>
+        <head>February 22 [1919]</head>
+        <p>1919: In bed until 11. Lts. Lewis<lb/>and Young came out to spend<lb/>the day. Louise and I lunch-<lb/>ed there at Eden Rock. 60 francs'<lb/>And we went into the<lb/>Private's Dance. stayed until<lb/>10—then to Officer's Club.<lb/>Refused to dance—tired!<lb/>And Louise had a letter,<lb/>from Captain Ludlum.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor171" n="[171]"/>
+        <head>February 23 [1919]</head>
+        <p>1919: Lazy all day: Louise<lb/>went to Nice on a wild<lb/>chase. I want a real<lb/>letter. Bess is angry w/  me.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor172" n="[172]"/>
+        <head>February 24 [1919]</head>
+        <p>1919: Dolly's birthday. Up<lb/>early and went on a<lb/>trip to Grasse and up the<lb/>Loup. Saw three of<lb/>Rubins pictures. <lb/>Tea at R.C. club. No<lb/>dance tonight and<lb/>no mail. Miss Learned in.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor173" n="[173]"/>
+        <head>February 25 [1919]</head>
+        <p>1919: Ale, I hate to<lb/>think of leaving here<lb/>Went to Carnes and<lb/>had a very interesting<lb/>trip in w/  a Colonel and<lb/>two Majors. Am having<lb/>my shoes half soled. My<lb/>only pair. am wearing Louise's.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor174" n="[174]"/>
+        <head>February 26 [1919]</head>
+        <p>1919: To Nice, Monte Carlo,<lb/><unclear reason="illegible"/> &amp;  Italian border.<lb/>Louise tried to pet me<lb/> &amp;  tuck me—and I didn't<lb/>like it much to<lb/>her surprise.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor175" n="[175]"/>
+        <head>February 27 [1919]</head>
+        <p>1919 Went in for tea w/ <lb/>the two Louises. saw<lb/>only the big aviator.<lb/>Tired from tripping.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor176" n="[176]"/>
+        <head>February 28 [1919]</head>
+        <p>1919: To the Isles de St Marguerite  &amp; <lb/>St. Honorat w/  both Louises. Lt. Lewis<lb/> &amp;  Lt. Thayer. Sailed over on the<lb/>beautifully rough  &amp;  blue sea—<lb/>saw where the Prince of<lb/>the Iron Mask was kept<lb/>imprisoned.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor177" n="[177]"/>
+        <head>February 29 [1919]</head>
+        <p>1919—No such day.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor178" n="[178]"/>
+        <head>March 1 [1919]</head>
+        <p>1919: Had a dance out here<lb/>this evening. I had a dandy<lb/>time avoiding  &amp;  teasing Lt.<lb/>Young. Major Snow nice.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor179" n="[179]"/>
+        <head>March 2 [1919]</head>
+        <p>1919: Charlie came over to<lb/>see me today. He is stationed<lb/>at Nice. Dr. West calls me<lb/>one of the three Graces.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor180" n="[180]"/>
+        <head>March 3 [1919]</head>
+        <p>19[19] “We Three” lunched w/  Lt. Lewis<lb/>at Edu-Roe today: went to<lb/>Cannes  &amp;  Nice to see him<lb/>off. No mail. No L. C. L.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor181" n="[181]"/>
+        <head>March 4 [1919]</head>
+        <p>1919: The “Gibson girls” start<lb/>for home. Met Col. Woodbury<lb/> &amp;  Major Clarkson in<lb/>Cannes. Were so good<lb/>to us. Lt. Walden had<lb/>supper on the train w/  us.<lb/>slept in our compartment.<lb/>Knows J. P. U. still no<lb/>letter from L. C. L. Is<lb/>he angry?</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor182" n="[182]"/>
+        <head>March 5 [1919]</head>
+        <p>1919: In Paris at 3:30 p.m. Tried<lb/>to get J. P. on the phone but<lb/>couldn't. Tired and to<lb/>bed. Louise met Cpt. Morrison</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor183" n="[183]"/>
+        <head>March 6 [1919]</head>
+        <p>1919: Spent the day w/  Capt.<lb/>Morrison. took us to the<lb/>Pantheone de la Guerre and<lb/>Napoleon's Tomb. Went to<lb/>the Casino de Paris.<lb/>enjoyed it immensely. met<lb/>the lonely little <unclear reason="illegible"/><lb/>Captain. Naughty Louise</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor184" n="[184]"/>
+        <head>March 7 [1919]</head>
+        <p>1919: To the Louvre at last!<lb/>Met Lt. Young at the Regina.<lb/>To hear Castor  &amp;  Pollux at<lb/>the Opera House w/  the<lb/>crowd. Kelsie told me<lb/>that L. C. L. tried to get to<lb/>Cannes. If he only had!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor185" n="[185]"/>
+        <head>March 8 [1919]</head>
+        <p>1919: R. T. O. says we are in<lb/>Paris too long but can't<lb/>arrest us. Arrived at Pruniers<lb/>cold  &amp;  hungry. 14 letters and<lb/>a card from D. R. M.<lb/>Still no mail from L. C. L.<lb/>He's nothing but an Army find<lb/>anyway. didn't go to the<lb/>dance tonight</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor186" n="[186]"/>
+        <head>March 9 [1919]</head>
+        <p>1919: Am in the O.R.<lb/>Met a couple of<lb/>nice men. No mail.<lb/>Isn't he mean!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor187" n="[187]"/>
+        <head>March 10 [1919]</head>
+        <p>1919: Several ops—much interesting<lb/>work in view —but “long came”<lb/>a big headache and I am<lb/>sent to bed dinnerless w/  codeine gr ¼.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor188" n="[188]"/>
+        <head>March 11 [1919]</head>
+        <p>1919: In bed all day. Major<lb/>Howe in to see me. says<lb/>I may have to go home. Had a<lb/>letter from Lt. Maynard.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor189" n="[189]"/>
+        <head>March 12 [1919]</head>
+        <p>1919: Am up today but my<lb/>head is so light. 'tis actually<lb/>heavy. They say I must appear<lb/>before the examining board!!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor190" n="[190]"/>
+        <head>March 13 [1919]</head>
+        <p>1919: Couldn't go to the dance on<lb/>Monday or last night. “Le mal<lb/>a la tete.” Hope I am better<lb/>soon! No mail! I hate L. C. L.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor191" n="[191]"/>
+        <head>March 14 [1919]</head>
+        <p>1919: A funny letter from<lb/>Lt. Walden explaining<lb/>why we didn't see<lb/>him again. Our fault.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor192" n="[192]"/>
+        <head>March 15 [1919]</head>
+        <p>1919: Mrs. E. has gone to<lb/>Paris on official business.<lb/>She is going to call<lb/>on J. P. My headaches.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor193" n="[193]"/>
+        <head>March 16 [1919]</head>
+        <p>1919: Fourteen new nurses<lb/>in! Mrs. E. not back and<lb/>no mail in spite of my<lb/>dream last night.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor194" n="[194]"/>
+        <head>March 17 [1919]</head>
+        <p>1919: St. Patrick's day and<lb/>Dolly  &amp;  I celebrated by having<lb/>a delivery at 4:30 a.m. The child is<lb/>named Therese.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor195" n="[195]"/>
+        <head>March 18 [1919]</head>
+        <p>1919: Mrs. Eubanks home.<lb/>Has seen J. P., and says<lb/>he is coming down soon.<lb/>Dull monotonous days.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor196" n="[196]"/>
+        <head>March 19 [1919]</head>
+        <p>1919: Today I was ordered be-<lb/>fore the examining board: I am<lb/>being sent home. Major Howe is<lb/>consoling. Phila aviator nice.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor197" n="[197]"/>
+        <head>March 20 [1919]</head>
+        <p>1919: One of our nurses from<lb/>Germany down for baggage. Over<lb/> to the com. Q. W. Had quite<lb/>a time w/  Simone. No mail.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor198" n="[198]"/>
+        <head>March 21 [1919]</head>
+        <p>1919: Lt. Maynard walked<lb/>in! Won't we glad to see him?<lb/>Lang-ie, Miss Lewis, Dolly and<lb/>I leave for Germany. but<lb/>we stopped here at<lb/>Tours to spend the<lb/>night. A note sent up to<lb/>Room 48 by an officer.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor199" n="[199]"/>
+        <head>March 22 [1919]</head>
+        <p>1919: To the Cathedral: left Tours at<lb/>noon and a nice Q. W. shavetail found<lb/>me a seat. Was nice to Dolly. At the<lb/>Rec. Station, wanted to put me in a<lb/>mental ward. Dolly  &amp;  I are <unclear reason="illegible"/><lb/>Langy and Lewie are laughing <lb/>at us.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor200" n="[200]"/>
+        <head>March 23 [1919]</head>
+        <p>1919: Am left here at Savenay all<lb/>alone. The nurse had to pet me.<lb/>My physical gave me a headache.<lb/>Misses Palmer  &amp;  Evans are admitted.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor201" n="[201]"/>
+        <head>March 24 [1919]</head>
+        <p>1919: Ten nurses ordered to<lb/>embark. Some mad and<lb/>some glad. I feel wooden—<lb/>they can do as they choose.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor202" n="[202]"/>
+        <head>March 25 [1919]</head>
+        <p>1919: Well, the ten are gone and<lb/>I am over here at Wd 18<lb/>for observation. This is so<lb/>much quieter.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor203" n="[203]"/>
+        <head>March 26 [1919]</head>
+        <p>1919: Was examined by a<lb/>new man—he says I<lb/>have thyroid trouble.<lb/><foreign lang="fre">C'est la guerre!</foreign></p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor204" n="[204]"/>
+        <head>March 27 [1919]</head>
+        <p>1919: Rumors again—I wish<lb/>I were going to be at<lb/>the U.N.C. dinner in<lb/>Paris.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor205" n="[205]"/>
+        <head>March 28 [1919]</head>
+        <p>1919: Went before a board<lb/>that marked me<lb/>“To be evacuated as<lb/>soon as possible.”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor206" n="[206]"/>
+        <head>March 29 [1919]</head>
+        <p>1919: Brother's birthday.<lb/>It has surely been<lb/>a mean day. I do<lb/>want my mail.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor207" n="[207]"/>
+        <head>March 30 [1919]</head>
+        <p>1919: Went to R.C. church in<lb/>a.m., to walk w/ Lt. Rowen in<lb/>the p.m. To church again<lb/>in the little village.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor208" n="[208]"/>
+        <head>March 31 [1919]</head>
+        <p>1919: Up town twice—also<lb/>went for Jonquils. Went<lb/>up to my knees in a water<lb/>cress field I thought a meadow.<lb/>To a dance.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor209" n="[209]"/>
+        <head>April 1 [1919]</head>
+        <p>1919: To a masquerade dance<lb/>Dressed like a Grecian maid<lb/>Vamped Captain Orr until<lb/>he was more than puzzled<lb/>and finally left still<lb/>in mask, unknown.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor210" n="[210]"/>
+        <head>April 2 [1919]</head>
+        <p>1919: To Pont Chateau—did<lb/>the stations of the Cross.<lb/>Didn't go to the Casual's<lb/>Dance as I promised.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor211" n="[211]"/>
+        <head>April 3 [1919]</head>
+        <p>1919: As usual—no mail and<lb/>constant grumblings from<lb/>the “Class D patients”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor212" n="[212]"/>
+        <head>April 4 [1919]</head>
+        <p>1919: Dr. and I did a<lb/>Marathon to the “Gare.”</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor213" n="[213]"/>
+        <head>April 5 [1919]</head>
+        <p>1919: Did nothing but run up<lb/>town to get Miss McCarty's<lb/>yoke. visited the pastry shop<lb/>and a cute little French baby.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor214" n="[214]"/>
+        <head>April 6 [1919]</head>
+        <p>1919: To baseball game between<lb/>the Officers and Non-coms. I<lb/>could imagine other officers<lb/>in their places.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor215" n="[215]"/>
+        <head>April 7 [1919]</head>
+        <p>1919: To Guëronde, and then on<lb/>to La Bouche for picnic lunch.<lb/>A wild ride home in the truck<lb/>thru' St. Nazaire. A letter from Louise.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor216" n="[216]"/>
+        <head>April 8 [1919]</head>
+        <p>1919: Went to the “K- frolics”<lb/>and was wild to go to their<lb/>dance but didn't. Wrote to<lb/>L. C. L. instead. Will he wear it?</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor217" n="[217]"/>
+        <head>April 9 [1919]</head>
+        <p>1919: To the “113” dance this evening<lb/>Had a dandy dancer from<lb/>Boston infantry of 27th. He has<lb/>been gassed and is splendid!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor218" n="[218]"/>
+        <head>April 10 [1919]</head>
+        <p>1919: All ordered out: my feet are all<lb/>blistered from last night.<lb/>A noisy ward.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor219" n="[219]"/>
+        <head>April 11 [1919]</head>
+        <p>1919: Ready for train but<lb/>were ordered to stay<lb/>here another day. Had<lb/>a note from Dolly.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor220" n="[220]"/>
+        <head>April 12 [1919]</head>
+        <p>1919: Today we were ordered<lb/>out really. On hospital train<lb/>#60. Saw my gassed Sargent<lb/>to say goodbye.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor221" n="[221]"/>
+        <head>April 13 [1919]</head>
+        <p>1919: In St. Nazaire when I<lb/>awakened. came on board<lb/>the Rijndam at 9 a.m. Saw<lb/>the 41 Unit. Lt. Wellford minus</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor222" n="[222]"/>
+        <head>April 14 [1919]</head>
+        <p>1919: Had a lovely day. Talked w/
+<lb/>“The Col.” Major Reuhl and Lt.<lb/>Owen all day. Tis very rough<lb/>over half of passengers ill.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor223" n="[223]"/>
+        <head>April 15 [1919]</head>
+        <p>1919: Met a nice little M.G. man.<lb/>Awful storm last night. only seven<lb/>nurses well. On duty until late.<lb/>Have danced only once.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor224" n="[224]"/>
+        <head>April 16 [1919]</head>
+        <p>1919<lb/>Forget it! Ruehl</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor225" n="[225]"/>
+        <head>April 17 [1919]</head>
+        <p>19[19] A great load taken of my<lb/>mind to day. Washed my hair<lb/> &amp;  took a bath. “Beaucoup” hair devour-<lb/>ed by Lt. Owen as he likes taste of (we'll<lb/>buy tonic.)</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor226" n="[226]"/>
+        <head>April 18 [1919]</head>
+        <p>1919: Listened to Dr. Thomas's<lb/>confession. He surely is a<lb/>fascinating man and is the <lb/>best dancer in the world.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor227" n="[227]"/>
+        <head>April 19 [1919]</head>
+        <p>1919: Don't feel well. Today, But<lb/>listened to Lt. Owen's troubles. I<lb/>enjoy these Naval Officers<lb/> I ache in every limb.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor228" n="[228]"/>
+        <head>April 20 [1919]</head>
+        <p>1919: Easter morn! I am put<lb/>in Isolation by Dr Thomas and<lb/>given beaucoup drink by very<lb/>nice Miss Allen.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor229" n="[229]"/>
+        <head>April 21 [1919]</head>
+        <p>1919: Another day in bed but<lb/>am moved on port side.<lb/>Am dead hungry.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor230" n="[230]"/>
+        <head>April 22 [1919]</head>
+        <p>1919: Up and receiving con-<lb/>gratulations. at a dance and<lb/>Lt. Owens  &amp;  I came near faint<lb/>ing. He had a hemorrhage.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor231" n="[231]"/>
+        <head>April 23 [1919]</head>
+        <p>1919: Another dance: the first<lb/>five w/  Ensign Gallagher. Miss<lb/>Kantner wore Col Caball's cap  &amp; <lb/>was punished.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor232" n="[232]"/>
+        <head>April 24 [1919]</head>
+        <p>1919: Our last dance. w/  the<lb/>“Gobs” from 7:30—9—officers 9—11.<lb/>Had a wonderful time and<lb/>a glorious fox-trot w/  Lt. Owens.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor233" n="[233]"/>
+        <head>April 25 [1919]</head>
+        <p>1919: Went to bed so late  &amp;  up early.<lb/>Landed at Newport News at 2:30 p.m.<lb/>and am now in Old Soldier's Home<lb/>at Hampton. Lt. Harris is nice.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor234" n="[234]"/>
+        <head>April 26 [1919]</head>
+        <p>1919: Went over to Newport News<lb/>to see Hines. Ensign Bartlett<lb/>came over  &amp;  took Miss Kantner<lb/>and me to Hotel Chamberlaine</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor235" n="[235]"/>
+        <head>April 27 [1919]</head>
+        <p>1919: To Newport News again<lb/>Saw Col. Clark w/  his<lb/>father—Champ Clark.<lb/>A real club sandwich!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor236" n="[236]"/>
+        <head>April 28 [1919]</head>
+        <p>1919—Misses Kantner, Smith  &amp; <lb/>I went to Norfolk. Ensign<lb/>Bartlett w/  us. spent the<lb/>day—danced in evening.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor237" n="[237]"/>
+        <head>April 29 [1919]</head>
+        <p>1919: In bed all day—am<lb/>just lazy. Met a Loot. from<lb/>Camp Sevier last night<lb/>also Miss Brooks  &amp;  Lt. Dunn.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor238" n="[238]"/>
+        <head>April 30 [1919]</head>
+        <p>1919: Ordered to Biltmore.<lb/>Dinner at The Jefferson<lb/>in Richmond and am<lb/>now on sleeper waiting to go out</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor239" n="[239]"/>
+        <head>May 1 [1919]</head>
+        <p>1919: Breakfast in Salisbury—met<lb/>the attorney for Sen. R. R. wonderful<lb/>trip. I room w/  Miss Kantner: Misses Ford,<lb/>Lawson, Nelson and Page are here.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor240" n="[240]"/>
+        <head>May 2 [1919]</head>
+        <p>1919: Trolleyed into Asheville—the<lb/>prices are awful! Don't tell me<lb/>France is exorbitant! Moved<lb/>into another section.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor241" n="[241]"/>
+        <head>May 3 [1919]</head>
+        <p>1919: A lazy day. I did want<lb/>my mail so but not one <lb/>letter came. We shocked the<lb/>Lt. examining Miss McCartney.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor242" n="[242]"/>
+        <head>May 4 [1919]</head>
+        <p>1919: Sunday and no mail.<lb/>Saw a negro baptizing in<lb/>the river and we walked<lb/>into Biltmore for sodas.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor243" n="[243]"/>
+        <head>May 5 [1919]</head>
+        <p>1919: No mail. Had my<lb/>physical this evening and<lb/>I am to be discharged<lb/><foreign lang="fre">tout de suite</foreign>. I am glad!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor244" n="[244]"/>
+        <head>May 6 [1919]</head>
+        <p>1919: Stayed in bed all day<lb/>while Miss Kantner read<lb/>out loud to me. “Mac” con-<lb/>fides her fears that she's a vamp</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor245" n="[245]"/>
+        <head>May 7 [1919]</head>
+        <p>1919: Have my orders to leave<lb/>for home day after tomorrow<lb/>I still have no mail.<lb/>I am mad about it!</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor246" n="[246]"/>
+        <head>May 8 [1919]</head>
+        <p>1919: Went to the 30th Div.<lb/>parade. and to the Market<lb/>in Asheville for lunch.<lb/>Miss Kantner “treated” in evening</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor247" n="[247]"/>
+        <head>May 9 [1919]</head>
+        <p>1919: Left Biltmore 3:30 p.m. Adjutant of the<lb/>state, General Royster, very nice to me.<lb/>Saw Senator Overman! changed at Salis-<lb/>bury, and at Greensboro found my sleeper.</p>
+      </div1>
+      <div1 type="diary entry">
+        <pb id="taylor248" n="[248]"/>
+        <head>May 10 [1919]</head>
+        <p>1919: Changed at Selma, Rocky Mount  &amp; <lb/>Hobgood for home. Good to be here. The<lb/>children are so excited. a letter from<lb/>L. C. L. frisky called me “Herbert.”</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

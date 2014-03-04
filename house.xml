@@ -1,0 +1,199 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+<!ENTITY rockwelltp SYSTEM "rockwelltp.jpg" NDATA jpeg>
+<!ENTITY rockwellcv SYSTEM "rockwellcv.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="wwi" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>Kiffin Yates Rockwell:</emph>
+Electronic Edition.</title>
+        <author>House, R. B. (Robert Burton), 1892-</author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Apex Data Services, Inc.</name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Harris Henderson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name>Apex Data Services, Inc., Harris Henderson, and Jill Kuhn Sexton</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca.  20K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="caption title">Kiffin Yates Rockwell</title>
+            <author>R. B. House</author>
+          </titleStmt>
+          <extent> [150]-155 ; 23 cm.</extent>
+          <publicationStmt>
+            <pubPlace>Raleigh, N. C.</pubPlace>
+            <publisher>The North Carolina Society Daughters of the Revolution</publisher>
+            <date>1920</date>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number C970 N87b v. 19-20 (North Carolina Collection, University of North Carolina at Chapel Hill)</note>
+            <note anchored="yes">Appears in  North Carolina Booklet.   Vol. 19, no. 4-vol. 20, no. 1 (April-July, 1920)  </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been entered using double-keying and verified against the original. </p>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+        <p>All footnotes are moved to the end of paragraphs in which the reference occurs.</p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Running titles have not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>Rockwell, Kiffin Yates, 1892-1916.</item>
+            <item>World War, 1914-1918 -- North Carolina -- Biography.</item>
+            <item>Fighter pilots -- North Carolina -- Biography.</item>
+            <item>Fighter pilots -- France -- Biography.</item>
+            <item>Air pilots, Military -- North Carolina -- Biography.</item>
+            <item>Air pilots, Military -- France -- Biography.</item>
+            <item>France. Armee. Escadrille Lafayette -- Biography.</item>
+            <item>World War, 1914-1918 -- Aerial operations, French.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-04-25, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-04-02, </date>
+        <respStmt>
+          <name> Jill Kuhn Sexton </name>
+          <resp> </resp>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-03-27, </date>
+        <respStmt>
+          <name>Harris Henderson</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-01-25, </date>
+        <respStmt>
+          <name>Apex Data Services, Inc.</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the text.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div1 type="cover page">
+        <p>
+          <figure id="cover" entity="rockwellcv">
+            <p>[Cover Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="title page">
+        <p>
+          <figure id="title" entity="rockwelltp">
+            <p>[Title Page Image]</p>
+          </figure>
+        </p>
+      </div1>
+    </front>
+    <body>
+      <div1 type="section">
+        <pb id="p150" n="150"/>
+        <head>Kiffin Yates Rockwell<ref id="ref1" target="n1" targOrder="U">*</ref></head>
+        <byline>BY R. B. HOUSE. <lb/>(The North Carolina Historical Commission.)</byline>
+        <note id="n1" anchored="yes" target="ref1">
+          <p>*NOTE.—THE BOOKLET, in presenting this interesting sketch of one of the most renowned heroes of the World War, is departing from a long established custom since the history of the present has not heretofore been considered. The Colonial, Revolutionary and Confederate periods only have received attention. Publishing this is an exception and not intended to introduce a precedent. </p>
+          <p> THE EDITOR.</p>
+        </note>
+        <p>On September 23, 1916, by cable, telegraph and wireless, news flashed around the world that the aviator, Kiffin Yates Rockwell, after so many miraculous escapes, had at last fallen in combat for France. His comrades in Escadrille 124 mourned him as their best and bravest; France mourned him as a fighter not to be replaced; America mourned him as the second of her sons to fall in air combat, following so closely in the steps of Victor Chapman, her first. All the world paid tribute to him. For Kiffin Yates Rockwell was a leader in that group of young men who left the paths of peace in their own neutral countries to fight for France, and in her person, for civilization. Chapman, Rockwell, McConnell, Genet—these men were the pioneers of America in France, and in the air. They have all fallen on the field of honor, fell there before America entered the war. And now that over sixty thousand Americans, fallen under the Stars and Stripes, sleep in France beside these men, we realize some of the full measure of their achievement, and honor them for leading the way.</p>
+        <p>But in 1916 the majority of Americans were in that state of mind that echoed the slogan, “He kept us out of war,” over the country in a triumphant presidential campaign. Why American boys should give their lives in the European war except as in a gamble for adventure was not clear to most Americans; why they should give them to France was a problem that rankled in the minds of many of our citizens at that time, even pro-German.</p>
+        <pb id="p151" n="151"/>
+        <p>And so it was that his mother, in Asheville, North Carolina, asked herself why it was that she, a Carolinian by birth and sympathy, should sacrifice her son in France, and her questions were augmented by similar ones from relatives and friends all over the country. Kiffin, though gloriously dead, might have been saved, it seemed. She had tried to save him from himself by persistent entreaties to the Department of State in Washington to get her boy out of the French army, and by similarly persistent demands to the French Government to release her son. But before Kiffin fell she had come to see what he was fighting for, and it was not long after he fell before she was a sister in suffering to thousands of other American mothers who likewise had come to see why it was that their sons had to die in France.</p>
+        <p>Kiffin Yates Rockwell was the first North Carolinian to give his life in the world war, the first American volunteer for service in France, the first American to bring down a German plane, the premier fighter of his time in the Escadrille LaFayette, and after Victor Chapman, his comrade, the first American airman to fall in battle. He belongs to North Carolina by parentage on his father's side, and by residence, to South Carolina by parentage on the side of his mother, and to Tennessee by the actual event of birth. So it is that the sister states who share in common the glories of achievement in the records of the Old Hickory and Wildcat Divisions, also share in the glory of their premier fighter.</p>
+        <p>The father of Kiffin Rockwell was James Chester Rockwell, of Whiteville, in Columbus County, North Carolina. By vocation he was a Baptist preacher, by avocation a poet of promise. The Rockwell family is of French extraction, being lineally descended from Ralph de Rocheville. The first of the name to settle in America was the Puritan deacon, William Rockwell, who came to live in Dorchester, Massachusetts, in the year 1630. When the family came into North Carolina is not clear, but they were established
+<pb id="p152" n="152"/>
+in this State before the Civil War, for from North Carolina Henry Clay Rockwell, the aviator's grandfather, went as a captain in the Confederate Army.</p>
+        <p>Kiffin's mother was Loula Ayres, daughter of Major Enoch Shaw Ayres, of South Carolina, himself a Confederate veteran. She comes also of French Huguenot extraction. An early member of the Rockwell family was on the staff of General Washington.</p>
+        <p>From these parents Kiffin Yates Rockwell was born in Newport, Tennessee, September 20, 1892. His parents had moved to Newport sometime before this in search of health for his father. He was named Kiffin in honor of William Kiffin, an English home missionary in the fifteenth century, and Yates for Matthew Yates, a foreign missionary from North Carolina in the nineteenth century. At the age of 26 his father died, leaving his mother to care for Kiffin, his elder brother, Paul Ayres, and a younger sister.</p>
+        <p>His mother became a teacher, and founded the system of schools that obtains today in the little town of Newport. While Kiffin was still in the grammar grades she moved with her family to Asheville, to give them better opportunities in education and herself in business. She took up the successful practice of osteopathy. Kiffin entered the Orange Street school, where he became a favorite pupil of Mrs. Mary Walden Williamson. Dr. George T. Winston, in a memorial to Kiffin Rockwell, quotes Mrs. Williamson in the following description of Kiffin at the age of fifteen:</p>
+        <p>“A handsome, intelligent, chivalrous boy of fifteen, immaculate in person as in honor, impatient of the tedium of school routine, restive, though ever courteous under restraint; with serious deep-set, gray-blue eyes, aglow with enthusiasm over tales of daring adventure; breaking rarely into surprising light of merriment.” Even this early Kiffin and Paul pondered over the history of their ancestral country, France, and reached the conclusion that if France were ever attacked they would fight for her.</p>
+        <pb id="p153" n="153"/>
+        <p>Kiffin's mother had hoped for him to lead a life of scholarship. With this in view, she encouraged him to pursue studies at Virginia Military Institute, and later at Washington and Lee University. Although Kiffin spent some years at Virginia Military Institute and Washington and Lee, it was with no love for scholarship, and no intention of leading a scholarly existence. One real association of school days that inspired him to the day of his death was membership in the Sigma Phi Epsilon fraternity. Both he and his brother Paul were good fraternity men, loyal and ideal.</p>
+        <p>Without graduating he went from college into advertising journalism, organizing and conducting successfully a project for publishing advertising editions of newspapers. In this business he traveled over the United States and Canada, finally coming to rest in Atlanta, Georgia, as a member of the Massingale Advertising Agency. It was here that he was working when in August, 1914, Europe hurried into war. Kiffin and Paul Rockwell were on their way to France on August 3, 1914, by the first boat they could take. Landing in Liverpool, they made arrangements at the French embassy for entering the French army. From London they went by Havre to Paris, and there at the Invalides entered the French service on August 30, 1914. Training first at Rouen, then at Toulouse, and finally at Camp de Mailly, they made ready for a winter in the trenches with the Foreign Legion.</p>
+        <p>After many months in the trenches, he moved with his regiment to the 1915 battles in Artois. At the storming of Neuville-Saint-Vaast, May, 1915, he fell severely wounded in the thigh by a bullet. He recovered from his wounds, and by opportunity secured for him by influential friends, began the study of aviation, completing his education in the air in time to become, with Chapman, Prince, Thaw, Cowdin, McConnell and others, the organizer of the Escadrille LaFayette. His success was immediate. On May 18, 1916, at Hartmannsvillerskopp in Alsace, he brought
+<pb id="p154" n="154"/>
+down the first German plane of the many to fall at the hands of the Escadrille LaFayette. In rapid succession he won the Medaille Militaire, the Croix de Guerre, and three palms for additional citations. He rose from pilot to brevet lieutenant in the space of four months. Over Verdun he was indefatigable, engaging in over thirty-four victorious flights, and winning the title, “Aristocrat of the Air.” By September he had brought down three planes which officially were credited to him, and seven more of which there is no reasonable doubt as to his credit. Captain Thenault, his flight commander, said of him: “Where Rockwell was, the German could not pass, but was forced rapidly to take shelter on the ground.” In one combat he was struck in the face by an explosive bullet. Refusing to retire for the day, he re-engaged the enemy and brought down another plane.</p>
+        <p>On September 23, 1916, Rockwell attacked the enemy near the same spot where he had won his first victory. Although he had come successfully through one hundred and forty-one previous battles, and single-handed had driven off ten German planes, this time fate willed that he should fall —killed by an explosive bullet from a German machine gun. He was buried at Luxiul with the honors of a general. “The best and bravest of us is no more,” was the comment of his commander and his comrades.</p>
+        <p>Kiffin Rockwell's achievements in the air and previously in the trenches rank him as one of the greatest of the allied fighters. For his services he received the highest honor the French Government can give. But the most remarkable feature of his life is the perfect coordination of purpose and achievement in his spirit. He was indefatigable in battle because he was invincible in his conviction that he was defending civilization. In his school days, even, he had considered the possibility of France's being attacked and had resolved to fight for her. On August 3, 1914, he offered his services to the French Government. To his brother Paul he wrote, “If France should lose, I feel that I should
+<pb id="p155" n="155"/>
+no longer want to live.” But with all his love for France he retained his sense of responsibility as an American. “I am paying my part of America's debt for Lafayette and Rochambeau,” was his expression that has been echoed and re-echoed by American fighters from private to General Pershing.</p>
+        <p>His attitude towards death was a triumphant assertion of immortality. In a letter to Mrs. John Jay Chapman about the death of Victor, he dwells repeatedly on the idea that death had no part in such a life as Victor's; that Victor is still alive and fighting because his spirit has passed into his comrades. On another occasion he gave expression to an attitude toward death that caught the imagination of the French, and became a part of their own thought. “From the day a man enters the army,” he said, “he should consider himself as good as dead; then every day of life is just that much gained.” Acting on this belief he hardly gave his attendants time to fill the gas tank of his plane and keep it in repair, so constantly was he fighting.</p>
+        <p>Not the least of his victories was his winning his mother's support. Mrs. Rockwell had rebelled against his going to France at all, and she had continued to move the American and French governments in efforts to get Kiffin back home, until finally Kiffin brought her to realize that he could not retire from the struggle to which he had committed himself, and that he would not if he could. For he wrote her in his last words that referred to death, “If I die I want you to know that I have died as every man ought to die—fighting for what is right. I do not feel that I am fighting for France alone, but for the cause of all humanity—the greatest of all causes.” Catching up in these words the whole spirit of America as it arose at white heat for war, Kiffin not only won his mother to his cause, but his countrymen also. Of the thousands of Americans who followed him in death, he became an elder brother, a pioneer in the crusade for humanity.</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

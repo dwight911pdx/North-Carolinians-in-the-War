@@ -1,0 +1,334 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+<!ENTITY martincv SYSTEM "martincv.jpg" NDATA jpeg>
+<!ENTITY martinfp SYSTEM "martinfp.jpg" NDATA jpeg>
+<!ENTITY martinsp SYSTEM "martinsp.jpg" NDATA jpeg>
+<!ENTITY martintp SYSTEM "martintp.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="wwi" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>The Ashe County Case:</emph>
+Electronic Edition.</title>
+        <author>Bickett, Thomas Walter, 1869-1921</author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Apex Data Services, Inc.</name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Melissa Meeks</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name>Apex Data Services, Inc., Melissa Meeks, and Jill Kuhn Sexton</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca. 40K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="caption title">The Ashe County Case</title>
+            <author>Walter Bickett</author>
+          </titleStmt>
+          <extent>172-181 p.</extent>
+          <publicationStmt>
+            <pubPlace>Raleigh</pubPlace>
+            <publisher>Edwards &amp; Broughton Printing Company</publisher>
+            <date>1923</date>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number   Uncataloged copy (North Carolina Collection, University of North Carolina at Chapel Hill)</note>
+            <note anchored="yes">Appears in Public letters and private papers of Thomas Walter Bickett. Governor of North Carolina, 1917-1921   </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been entered using double-keying and verified against the original. </p>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All single right and left quotation marks are encoded as ’ and ‘ respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Running titles have not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>Military deserters -- North Carolina -- Ashe County.</item>
+            <item>Desertion, Military -- North Carolina -- Ashe County.</item>
+            <item>World War, 1914-1918 -- Desertions -- North Carolina -- Ashe County.</item>
+            <item>World War, 1914-1918 -- North Carolina -- Ashe County.</item>
+            <item>Ashe County (N.C.) -- History.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-05-09, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-03-22, </date>
+        <respStmt>
+          <name> Jill Kuhn Sexton </name>
+          <resp/>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-03-15, </date>
+        <respStmt>
+          <name>Melissa Meeks</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-01-25, </date>
+        <respStmt>
+          <name>Apex Data Services, Inc.</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the text.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div1 type="spine image">
+        <p>
+          <figure id="spine" entity="martinsp">
+            <p>[Spine Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="cover image">
+        <p>
+          <figure id="cover" entity="martincv">
+            <p>[Cover Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="title page image">
+        <p>
+          <figure id="title" entity="martintp">
+            <p>[Title Page Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="frontispiece image">
+        <p>
+          <figure id="frontis" entity="martinfp">
+            <p>[Frontispiece Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">PUBLIC LETTERS AND PAPERS <lb/> OF <lb/> THOMAS WALTER BICKETT <lb/> GOVERNOR OF NORTH CAROLINA <lb/> 1917-1921 </titlePart>
+        </docTitle>
+        <docAuthor>COMPILED BY <lb/> SANTFORD MARTIN <lb/> PRIVATE SECRETARY TO THE GOVERNOR</docAuthor>
+        <docAuthor>EDITED BY <lb/> R. B. HOUSE <lb/> ARCHIVIST, NORTH CAROLINA HISTORICAL COMMISSION</docAuthor>
+        <docImprint><pubPlace>RALEIGH</pubPlace>
+<publisher>EDWARDS &amp; BROUGHTON PRINTING COMPANY <lb/> STATE PRINTERS</publisher>
+<docDate>1923</docDate></docImprint>
+      </titlePage>
+    </front>
+    <body>
+      <div1 type="section">
+        <pb id="p172" n="172"/>
+        <head>(6) <lb/> THE ASHE COUNTY CASE</head>
+        <p>On the 24th of June, 1918, the Governor received the following telegram from the chairman of the Local Exemption Board of Ashe County:</p>
+        <q direct="unspecified">
+          <text>
+            <body>
+              <div1 type="letter">
+                <opener>
+                  <dateline>JEFFERSON, N. C., June 24, 1918.</dateline>
+                </opener>
+                <p>Around forty deserted in Ashe County. One civilian killed last night in attempt to arrest deserter. Situation serious. Home Guard selected but
+<pb id="p173" n="173"/>
+not yet organized. Can organize in a few days and want authority to call them to assistance. Have wired Washington for soldiers under military direction. Answer at once.</p>
+                <closer>
+                  <signed>W. E. MCNEILL, <hi rend="italics">Chairman.</hi></signed>
+                </closer>
+              </div1>
+            </body>
+          </text>
+        </q>
+        <p>Thereupon the Governor sent Adjutant General Lawrence W. Young to Ashe County with instructions to take charge of the situation and make full report. On June 26th Adjutant General Young sent the Governor the following telegram:</p>
+        <q direct="unspecified">
+          <text>
+            <body>
+              <div1 type="letter">
+                <opener>
+                  <dateline>JEFFERSON, N. C., June 26, 1918.</dateline>
+                </opener>
+                <p>Situation here appears to be acute. Have conferred with citizens. Opinion is that an organized force in addition to local officers will be needed to cope with the deserters. Is reported that every inducement has been offered them to voluntarily surrender and that the proposal has failed to bring results. The sheriff is reported to be in sympathy with fugitives, and I am informed that he will not coöperate. Citizens report that approximately thirty deserters are around and in hiding ready to resist arrest. Authorities believe if militia is sent that the deserters will surrender without resistance. I am convinced that the only solution is to send an outside force. Please advise.</p>
+                <closer>
+                  <signed>YOUNG.</signed>
+                </closer>
+              </div1>
+            </body>
+          </text>
+        </q>
+        <p>To this telegram the Governor replied as follows:</p>
+        <q direct="unspecified">
+          <text>
+            <body>
+              <div1 type="letter">
+                <opener><salute>GENERAL LAWRENCE W. YOUNG, <lb/><hi rend="italics">Jefferson, N. C.</hi></salute>
+<dateline>RALEIGH, N. C., June 26, 1918.</dateline></opener>
+                <p>Will arrive North Wilkesboro Friday night. Arrange to take me to Jefferson by motor car Saturday morning at six. Have notices sent to every nook and corner of Ashe County that I will address a mass-meeting of the citizens of Ashe at Jefferson, Saturday, three p. m.</p>
+                <closer>
+                  <signed>T. W. BICKETT, <hi rend="italics">Governor.</hi></signed>
+                </closer>
+              </div1>
+            </body>
+          </text>
+        </q>
+        <p>The Governor also sent the following telegram to the Chairman of the Local Exemption Board:</p>
+        <q direct="unspecified">
+          <text>
+            <body>
+              <div1 type="letter">
+                <opener><salute>W. E. MCNEILL, <lb/> <hi rend="italics">Chairman, Local Exemption Board,</hi> <lb/> <hi rend="italics">Jefferson, N. C.</hi></salute>
+<dateline>RALEIGH, N. C., June 27, 1918.</dateline></opener>
+                <p>Send notices by special messengers to every nook of Ashe County, especially the disaffected districts, that I will be in Jefferson Saturday and speak to the people at three p. m. I especially want all friends and relatives of delinquents notified.</p>
+                <closer>
+                  <signed>T. W. BICKETT, <hi rend="italics">Governor.</hi></signed>
+                </closer>
+              </div1>
+            </body>
+          </text>
+        </q>
+        <p>Pursuant to the above correspondence, the Governor proceeded to Jefferson, the county-seat of Ashe. As soon as he arrived there one of the delinquents came in and surrendered to the Governor, and to him the Governor gave the following letter:</p>
+        <q direct="unspecified">
+          <text>
+            <body>
+              <div1 type="letter">
+                <pb id="p174" n="174"/>
+                <opener>
+                  <salute>COMMANDING OFFICER, <lb/> <hi rend="italics">Camp Jackson.</hi></salute>
+                </opener>
+                <p>SIR:—This letter will be presented to you by . . . who some time ago left camp at . . . without leave. I am sure that the action of this man was due to ignorance and to misinformation, and not to any lack of fundamental patriotism. He has seen the error of his way, has come in voluntarily and surrendered himself, and now desires to be given an opportunity to make a good soldier. These mountaineers jump quick and shoot straight, and I am sure that they will give a good account of themselves when they stand face to face with the Hun. I am carrying on a regular campaign to get every man in North Carolina who quit camp without leave to return to his duty. I sincerely trust that the military authorities will see fit to restore these soldiers to rank, and to impose the very lightest punishment possible.</p>
+                <closer>
+                  <signed>T. W. BICKETT, <hi rend="italics">Governor.</hi></signed>
+                </closer>
+              </div1>
+            </body>
+          </text>
+        </q>
+        <p>Thereafter there was a mass-meeting in the courthouse, and the Governor spoke to the people for two and a half hours, saying, in part:</p>
+        <q direct="unspecified">
+          <text>
+            <body>
+              <div1 type="quote">
+                <p>Men of the mountains: I come to you today to save and not to destroy. I come to save the fair name of a county in which the whole State takes, and of which I have ever spoken with, peculiar pride. I come to save to you, men of the mountains, your birthright of honor and chivalry; I come to save wayward and willful boys from the sad and certain consequences of ignorance and sin.</p>
+                <p>My heart yearns after these boys even as the heart of David yearned after Absalom. Absalom had in him the elements of a hero. He was beautiful in form and brilliant in mind, but he listened to the whisperings of evil spirits. He deserted the house of his father; he rebelled against the law of Israel; he died as the fool dieth, and the King cried aloud: “Absalom, my son, my son, would to God I had died for thee.”</p>
+                <p>Already in North Carolina three young men, one in Jackson, one in Pitt, and one in Ashe, have followed in the footsteps of David's son. Like Absalom they have died as the fool dieth; and to save others from this tragic and shameful end I am here today.</p>
+                <p>I have tried honestly to get at the real cause of this unlovely situation. I have put to my soul the question, “Why do these men seek to hurt their country, when every hand should be stretched to help?” Certainly, it is not because they are afraid to fight. The mountaineer loves a scrap. He would just a little rather fight than not, for the same money.</p>
+                <p>It is not because they are unwilling to do or to give their share. Nowhere on earth will you find truer hospitality than right here in these hills, and if you were to tell any man in this crowd that he was unwilling to pull his end of the single-tree, to tote his end of the log, that he was a slacker who wanted to saddle his job on another man's shoulders, you would—well, in a few minutes you would devoutly wish that you had been born with enough sense to keep your mouth shut.</p>
+                <p>I speak whereof I know. I have spent much time in these hills, have walked with you along rushing mountain torrents and over rugged mountain slopes, and I know your hospitality and the real joy you take in doing your part and in helping another fellow along.</p>
+                <pb id="p175" n="175"/>
+                <p>I am forced to the conclusion that these mountain boys are giving trouble because they have not been told the truth about this war and because they have been told a lot of lies about it. Ignorance and misinformation are at the bottom of all this trouble and all this shame.</p>
+                <p>It is my purpose to lay before you the everlasting truth about this war.</p>
+                <p>America did not bring on this fight. You didn't want war. I didn't want it. He that sitteth upon the circle of the heavens and readeth the heart of man as an open book knows that Woodrow Wilson did not want war. The man is a school-teacher, a student, a historian. He loves the quietude of his study, the atmosphere of books. He loves to dig deep into the truths of history and the philosophy of civilization. He never dreamed of military glory. For him there is no intoxication in the thunder of the captains and the shouting. He never carried a big stick in his life. And so we find in the beginning this quiet gentleman shrinking from every suggestion of war. He avoided it. He evaded it. He backed away from it. He taxed to the breaking point the greatest brain in this world to keep out of it. And when at last, with a bleeding and broken heart, he went before the Congress and lifted his voice in favor of war, it was because there was no other way. Peace is entirely too dear when it comes at the price of honor. Men and nations must preserve a measure of self-respect if they would survive the grinding of the years. When a man reaches the point where nobody loves him, nobody fears him, and nobody respects him, he is done for. When he descends to the point that he is ashamed to stand and look at his own face in the glass there is no good reason why he should not buy a cheap rope and hang himself.</p>
+                <p>You all remember the long series of injuries and insults the Imperial German Government heaped upon this Nation; how, at the point of the sword, the Kaiser made a solemn pledge that henceforward he would observe the laws of nations and of humanity. It turned out that this pledge was a mere pretense made to gain time in which to build more submarines to do their dastardly work. And when they were builded and all things were ready the Kaiser coolly informed us that he proposed to treat the solemn compact made with this Government as a scrap of paper.</p>
+                <p>If in the face of this defiant and contemptuous challenge our Government had folded its arms, then today Old Glory would float to the breezes in lonely isolation as the one flag on this earth that no other nation loves, no other nation fears, and no other nation respects. We had to go in to preserve a single vestige of our self-respect and the respect of others.</p>
+                <p>In addition to what I have just said, there are three vital considerations, either one of which was sufficient to force America into this war.</p>
+                <p>1. America was forced into the World War by considerations of common gratitude. Some folks consider gratitude an old-fashioned virtue, out of date, out of tune, without place and without power in modern thought or action. I am a bit old-fashioned myself and believe that gratitude is one of the heavenly virtues. If I am in a place of peril and a man at the risk of his own life comes to my rescue, then forever thereafter the safety of my soul drives me to his rescue and the rescue of his children's children through all their generations.</p>
+                <p>There is nothing in literature more beautiful than the story of David and Jonathan, those fine young men who loved each other with a love “passing the love of women.” Time and again Jonathan warned David of plots against his life, and finally when the revolution came in Israel, when the House of Saul
+<pb id="p176" n="176"/>
+crumbled and David ascended the throne, his first royal proclamation was, “Is there any one left of the House of Saul that I may show him kindness for Jonathan's sake?” And they went out and found a crippled son of Jonathan and brought him before the King. I would give the half of my kingdom for a picture of that scene painted by a master hand. The royal servitors clad in the gorgeous livery of the court trundling the crippled lad into the great festal hall of the King, for the Bible narrative closes with the statement, beautiful in its simplicity, that “Mephibosheth sat at the king's table and was lame in both his feet.” David had his faults, many and grievous. They were condoned, they were forgiven; but if in the hour of triumph David had forgotten the friend of his youth, and failed to go to the rescue of his afflicted son, no inspired writer would have handed down to the centuries the declaration that “David was a man after God's own heart.”</p>
+                <p>This Republic owes its very life to France. But for France Old Glory would never have waved in the breezes “from the dawn's early light to the twilight's last gleaming.” Cornwallis was in the South. He sent his trusted lieutenant, Ferguson, on a foraging expedition, but the sturdy mountaineers tore through the gaps and passes of the mountains and swarmed around Ferguson and his thousand men on the slopes of Kings Mountain, and every man was killed or captured. Cornwallis said, “I have lost my eyes.” Subsequently Cornwallis met Greene at Guilford Court House, and beat him, but it was to Cornwallis a costly victory. His losses at Kings Mountain and Guilford Court House so depleted his ranks that he was eventually forced to seek a sea base at Yorktown. General Greene sent word of Cornwallis's movements to George Washington in command of the Continental Army at New York. When the news reached Washington his army was in a desperate plight. Half clad, half starved, with wages far in arrears, the soldiers were in no condition for any heroic enterprise. Rochambeau, the commander of the French, realized the desperateness of the situation, and ordered the gold sent ashore from a French ship, and before George Washington started on that world-famous march from New York to Yorktown the wages of the American soldiers were paid in French gold.</p>
+                <p>And more than that. When Washington started on that immortal march to bottle up Cornwallis at Yorktown, he started at the head of two thousand American and four thousand French soldiers. And more than that. The French fleet came up the Chesapeake Bay, cut off all hope of retreat or rescue for Cornwallis by water, and then landed three thousand marines, the best trained soldiers on earth at that time. On the way down Washington had gathered up some four or five thousand more ragged Continentals; but even then, in addition to holding the waters, the French had on foot at Yorktown more than half of Washington's army, while at their head stood LaFayette, a host within himself. It is as plain as day that without the money power and the man power of France at Yorktown, Cornwallis, trained and gifted soldier as he was, would have made short work of the ragged Continentals, and America's only hope for freedom would have been lost forever and forever.</p>
+                <p>As we were in 1781, France was in 1917. There is this exception in her favor. France did nothing, absolutely nothing, to bring on this war. Her wealth and her beauty were her only offense; but upon her the Black Eagle cast lustful eyes. For forty years, with tireless energy and matchless skill, the Imperial German Government converted every citizen into a soldier and every industry into an arsenal;
+<pb id="p177" n="177"/>
+and when the work was complete, when a vast empire had been forged into one living thunderbolt, suddenly, without warning, and without cause, this thunderbolt was hurled at the devoted head of France. Under this awful impact France reeled and staggered back to the very gates of Paris; and then, like a tigress about to be robbed of her whelps, she rallied all her strength, sprang straight at the invader's throat, and put up a fight that made all the world wonder. But despite the godlike heroism of her men and the godlike sacrifices of her women, the day came when France was bled white and starved thin. The Beast of Berlin was at her breast; and, still too proud to cry aloud for help, she turned wistful eyes to this young giant of the West, and I know that the soul of every true American leaped for joy when General Pershing stood in the city of Paris under the shadow of a monument to LaFayette and, speaking for one hundred million American freemen, said, “LaFayette, we are here!”</p>
+                <p>2. Our own peace and safety compelled us to go in.</p>
+                <p>When the American soldiers first landed on the other side the cause of the Allies was lost. Italy was torn with internal dissensions; Russia was reeling like a drunken man; England was bleeding at every pore; France was gasping for breath; the mailed fist was raised ready to strike the last fatal blow, when Uncle Sam reached for his gun and cried, “Not yet!” And if Germany should conquer Italy and Russia and England and France, what next? Us. With the British Empire broken up, with all Europe at his feet, the United States of America comes next in the Kaiser's dream of universal empire.</p>
+                <p>As early as 1892 the Kaiser issued a pamphlet to his soldiers in which he stated that the ultimate object of the Imperial Government was to Germanize the whole world. He had a map made of the world showing Berlin as the capital, England, France and Russia as German provinces, while “Germania” was stamped in red all over the United States and Canada. Permit me to pause long enough to say that every river in this land will run crimson to the sea before “Germania” is ever stamped on the face of this country.</p>
+                <p>In 1898 a German officer in Manila made a statement to the same effect, and Admiral Dewey thought the statement of sufficient importance to incorporate it in his official report.</p>
+                <p>When Dewey destroyed the Spanish fleet in Manila Bay the German admiral, Von Diedrich, stripped his ships for action against Dewey, but the British Lion growled a dissent, and the Hohenzollern held back.</p>
+                <p>During the same Spanish War the German Government tried to get England and France to place the combined fleets of Germany, England and France between the United States and Cuba, to which England replied, “No; if England goes in it will be on the side of the Stars and Stripes.”</p>
+                <p>Last year the German ambassador, Von Bernstorff, was loudly proclaiming how dearly he loved us; but at the very time he held out his right hand to the United States in token of eternal friendship, he had his left hand behind him offering a bribe to poor old poverty-stricken Mexico to join in a league against us. They told Mexico that if she would make war against the United States the Kaiser would restore to her the lost provinces of Texas and Arizona and New Mexico. And at the same time Germany was endeavoring to woo Japan from her allegiance to England into a big combine with Mexico and Germany against the United States.</p>
+                <pb id="p178" n="178"/>
+                <p>Last year the Kaiser got irritated on account of the many notes he was receiving from Mr. Wilson; and in a burst of anger forgot his discretion, but not his purpose, and said to Mr. Gerard, our ambassador, “You just wait till I finish this war, and I'll stand no more nonsense from the United States.” The whole course of events points with unerring certainty to the Kaiser's plan to bring Europe to its knees, and then rattle his sword in the face of this Government.</p>
+                <p>The original plan did not contemplate a direct frontal attack on us. Germany is entirely too smart for that. No one has ever said that Germany had no sense. The truth is, she has too much. The most dangerous man in this community is not a feeble-minded man, but the man that has the most sense and the least character. That is the position that today Germany occupies in the family of nations, and because she has so much sense and so little character, the conscience of the world is in arms against her. The plan was this: Down in Brazil there are strong German influences. At a signal from the Kaiser the Germans in Brazil would incite a revolution, and then, for the avowed purpose of protecting German citizens and German property, the Kaiser would intervene and establish a protectorate over Brazil; and then with the Brazilian fleet added to his own, with the mightiest army the world has ever seen, flushed with victory at his back, the Kaiser would turn to us and coolly inquire, “Now, my Uncle Samuel, what in the thunder are you going to do about it?” And what would we do, and what could we do? Just one of two things. We could salute, bow low, and say, “Dear Mr. Kaiser, be assured that there will be no trouble between us and thee. We suppose that you are thinking of that ancient doctrine sometimes called the Monroe Doctrine; but pray do not allow that to disturb you. We never did mean a word of it. It is just a great big international joke. It is true it is about the only thing we have. It is the one foreign policy that we have proclaimed. It is true that it has kept the peace of this continent for a hundred years and saved twenty baby republics to the south of us from being gobbled up by kings of Europe; but we never did mean it; it was all bluff, sounding brass and tinkling cymbal; and so good morning, Mr. Kaiser, and good day, Mr. Kaiser, and may you live long and prosper.” We could have said that, and at once in our own estimation and in the estimation of all lands sunk below the level of a hound pup. The contempt for the United States in such a case would have been such that from Shanghai to Bagdad principalities and powers would join in the taunting chorus, “The United States ain't nothing but a hound, and any old country can kick her around.”</p>
+                <p>Of course we would not say it. We would stand by our honor and our traditions. Unaided and alone, without the help or sympathy of any other nation, we would go down into the southern seas and fight it out with Germany at a place of her own choosing. Of course we would lose in such a fight, and then Germany would commence her triumphant advance. She would seize all the baby republics, for a single battleship can overpower any one of them; and then, coming on north, she would intrigue with Mexico that is always ready to intrigue with anybody against the United States; and, landing her victorious soldiers in Mexican ports, would establish a new Hindenburg line along the Rio Grande, and soon Texas would be another Belgium.</p>
+                <p>Despite these facts, which are as plain as day, we find a few people, more feeble-minded than faint-hearted, who still insist that we ought to wait until the German hordes are treading our own soil, till the whirr of the Zeppelins is heard above our cities, and then call out our militia and clean up the whole crowd before
+<pb id="p179" n="179"/>
+breakfast. Such a course would be criminal stupidity. We are sending our armies to Germany to keep the German armies from coming here. The South is the last place in the world to complain that a war is not fought out on our own soil. From '61 to '65 our fathers fought it out on our soil, and we are just beginning to recover from that tragic experience. The South ought to be deeply grateful that we had at Washington a government that had sense enough to see that the conflict was inevitable, and to walk in and fight it out on a foreign shore while there is plenty of help.</p>
+                <p>3. The third and most potent reason for our going in is that this war will mold and color the civilization of the world for a thousand years. That far-flung battle line is one vast melting pot in which there is being tried out every theory of government and every ideal of humanity. Into this hissing, roaring cauldron there is being dumped despotism and anarchism, bolshevism, militarism, pacificism. Into the melting pot there is going autocracy, and plutocracy, and democracy; and the thing that emerges triumphant from this ordeal of fire will rule this earth for a thousand years to come. The quarrel between Austria and Servia has been well-nigh forgotten. The rape of Belgium is remembered as a ghastly dream. The submarine question is but a bubble on a boiling sea. The one vital question is, Who and what shall rule the earth? Suppose Germany should win. Suppose Prussia in shining armor should leap triumphant from the melting pot. Then for a thousand years the ideals of Prussia would reign and men would be taught that a gun is God, and before it there is none other. Every government on earth would of necessity be fashioned after the Prussian model. Nations would be converted into armed camps ever ready as Prussia was ready to spring at another's throat. For a thousand years all the products of peace would be fed to mills of war and every private citizen would carry a soldier on his back.</p>
+                <p>On the other hand, if the Allies shall achieve a great victory, then I devoutly believe that war will come no more upon the earth. We are fighting the very soul of war. We are battling to send militarism to the scrap-heap of civilization, and to make the conscience of mankind the supreme arbiter of the rights of nations. We are pouring out blood and treasure to build up a civilization in which a woman's finger will weigh more than a mailed fist, and the voice of a little child will be heard farther than a cannon's roar. Is it not all well worth fighting for? God knows I hate war, and have no lust for battle. My heart bleeds with compassion for the mothers and fathers and wives of the men who are moving to the front. I shall deeply mourn the unreturning braves. But, my friends,</p>
+                <lg type="poetry">
+                  <l>“To every man upon this earth</l>
+                  <l>Death cometh soon or late.”</l>
+                </lg>
+                <p>And I know of no finer way to meet the grim, pale messenger than to traverse a dangerous sea and in an unknown land register a stern challenge to the blood-red prestige of a band of hereditary autocrats who have made unto themselves and all their people an iron image and called it God.</p>
+                <p>But how can we win? By fighting with every resource at our command—talon, tush and claw. We must put all our moral power, all our money power, all our man power into the fight. Every blow must carry the weight of the entire Nation. This is precisely what we are doing. To this end we are training our soldiers in the right way. I have recently been through the training camps. I went through for the purpose of seeing what was being done to and with our boys. They are
+<pb id="p180" n="180"/>
+making mighty men of them. I noticed what they had to eat. I ate with them. I observed their sleeping quarters. I took a nap in one of the bunks. I noticed the precautions taken to protect the health and morals of the boys, and I can say to you mothers and fathers advisedly that the boys in the camps are better fed, better clothed, are leading more healthful and more decent lives than the men of the same age at home.</p>
+                <p>We are raising our army in the right way. The Selective Draft law is a legislative embodiment of the principle of equal justice to all and special privilege to none. It is the essence of Americanism and the sublimation of the square deal. The man who understands the law and does not endorse it is not a good citizen. He is worse than a slacker—he is a shirker. He wants the other fellow to carry his part of the load. He believes in equal rights, but despises equal duties. When we come to raise money by taxation we all say that there must be absolute equality. The situation requires it and the conscience of the people approves it. To call a citizen to war is the highest tax a government can levy. It is the tax of blood and death. Should there be uniformity in taxing property, and discrimination in taxing life? Should there be equality in peace and favoritism in war? If there is to be preference, to whom should it be shown—you or me? If there is to be prejudice, against whom should it be directed—your boy or mine? No, my friends, the innate American love of fair play forces every man to admit that equal benefits and equal burdens go hand in hand; and the man who holds that the Selective Draft law is founded on the wrong principle does not believe in the Declaration of Independence and is an alien to the genius of this Republic.</p>
+                <p>I said the law is the essence of Americanism. Let me illustrate: A number of years ago Bill Fife, the drummer evangelist, and Mr. Litch, who was the Fife of South Carolina, joined forces down in Monroe, and held a great meeting. They converted a livery stable into a tabernacle, and preached hell fire and damnation straight from the shoulder three times a day. They held the congregation over the burning pit and fairly singed it. In the town there lived a little fellow by the name of June Hamilton. June weighed about ninety pounds, and kept a set of books for the Farmers Alliance store that weighed more than he did. One day the boys were gathered in front of the store and one said to June, “Did you hear Brother Litch this morning?” Said June, “I was right there.” “Well,” said the boy, “according to Brother Litch about ninety-nine folks out of every hundred are going straight to hell.” “Yes,” said June, “I am a bookkeeper, and that's the way I figure it out. It's awful, boys, ain't it? It's horrible, terrible to contemplate; but I tell you, I have just made up my mind that if the other ninety-eight can stand it, I can.” That is Americanism red-hot. We are perfectly willing to carry our end of the singletree if the other fellow carries his. We are willing to line up to the rack, fodder or no fodder, if every other man is compelled to line up to the same rack. We are willing to stand hell fire and damnation if every other man is required to stand the same thing. And that is precisely what the Selective Draft law requires. It measures every man with the same yardstick, and feeds him out of the same spoon. It is no respecter of persons, but treats every man exactly alike from John D. Rockefeller, Jr., up. And this is fair treatment. It is good medicine, compounded of the logic of justice and the grace of common sense. If a man is not willing to take the medicine, we propose to hold his nose and pour it down.</p>
+                <pb id="p181" n="181"/>
+                <p>The volunteer system is always unwise and unjust. It places a tax on patriotism and a premium on cowardice. When the war drums throb and the bugles blow, the brightest and the bravest rush to the front, while baser breeds skulk at home and become the fathers of the race. The cruel injustice of such a system is only surpassed by its colossal stupidity.</p>
+                <p>In raising our first National Army the military necessity of the hour forced the War Department to place the emphasis on the drafting principle in the law. In the present call the emphasis is placed on the selective principle. Men are called in the order that will entail the least hardship on families and communities. To this end all registrants are divided into classes. In a general way the single men will be called first, married men without children second, and married men with children third. Unskilled labor is called before skilled labor, and the idle before the industrious. Indeed, in the forefront of the first class will be placed married men who have not habitually supported their families. The man who has been boarding with his wife is going to try Uncle Sam's grub for a while. The fellow whose chief occupation has been holding down a goods box is going to take up his goods box and walk for the United States “from the dawn's early light till the twilight's last gleaming.” The fellow who has been hanging around the corner drug store with a cigarette at an angle of forty-five degrees in the south-west corner of his mouth is going to hold a rifle on his shoulder at an angle of seventy degrees in the sun where it is ninety-six in the shade. The poolroom aristocracy and the coca-cola gentry are going to be rounded up. After this call I will be able to issue a proclamation over the Great Seal of the State that between the ages of twenty-one and forty-five there is not a loafer left in North Carolina. The net is spread and the camel-and-needle act is dead easy compared with any attempt of a loafer to get away from a fair chance to die for his country.</p>
+              </div1>
+            </body>
+          </text>
+        </q>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

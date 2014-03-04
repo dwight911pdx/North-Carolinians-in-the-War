@@ -1,0 +1,190 @@
+<!DOCTYPE TEI.2 SYSTEM "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+<!ENTITY cvamj1917 SYSTEM "cvamj1917.jpg" NDATA jpeg>
+]>
+<TEI.2>
+  <teiHeader type="wwi" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title><emph>North Carolina's Part in the War:</emph>
+Electronic Edition.</title>
+        <author>John Wilber Jenkins </author>
+        <funder>Funding from the  State Library of North Carolina  
+ supported the electronic publication of this title.</funder>
+        <respStmt>
+          <resp>Text transcribed  by</resp>
+          <name>Apex Data Services, Inc.</name>
+        </respStmt>
+        <respStmt>
+          <resp>Images scanned by</resp>
+          <name>Harris Henderson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoded by </resp>
+          <name>Apex Data Services, Inc., Harris Henderson, and Jill Kuhn Sexton</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition, <date>2002</date></edition>
+      </editionStmt>
+      <extent>ca.    20K</extent>
+      <publicationStmt>
+        <publisher>Academic Affairs Library, UNC-CH</publisher>
+        <pubPlace>University of North Carolina at Chapel Hill, </pubPlace>
+        <date>2002.</date>
+        <availability status="unknown">
+          <p>© This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="caption title">North Carolina's Part in the War</title>
+            <author>Jenkins, John Wilber. </author>
+          </titleStmt>
+          <extent>     p. [2]-6</extent>
+          <publicationStmt>
+            <pubPlace>Greenville, N. C.</pubPlace>
+            <publisher>East Carolina Teachers Training School</publisher>
+            <date>1917</date>
+            <authority/>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="yes">Call number   C370.5 T76 v. 4  (North Carolina Collection, University of North Carolina at Chapel Hill)</note>
+            <note anchored="yes">Appears in Training school quarterly.   Vol. 4, no. 1 (Apr., May, June 1917) </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text has been entered using double-keying and verified against the original. </p>
+        <p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+        <p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+        <p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+        <p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+        <p>All double right and left quotation marks are encoded as ” and “
+respectively.</p>
+        <p>All single right and left quotation marks are encoded as ’ and ‘ respectively.</p>
+        <p>All em dashes are encoded as —</p>
+        <p>Indentation in lines has not been preserved.</p>
+        <p>Running titles have not been preserved.</p>
+        <p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list type="simple">
+            <item>World War, 1914-1918 -- North Carolina.</item>
+            <item>Statesmen -- North Carolina.</item>
+            <item>Soldiers -- North Carolina.</item>
+            <item>Daniels, Josephus, 1862-1948.</item>
+            <item>Houston, David Franklin, 1866-1940.</item>
+            <item>Page, Walter Hines, 1855-1918.</item>
+            <item>Rockwell, Kiffin Yates, 1892-1916.</item>
+            <item>McConnell, James R. (James Rogers), 1887-1917.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002-03-13, </date>
+        <respStmt>
+          <name>Celine Noel and Wanda Gunther </name>
+          <resp/>
+        </respStmt>
+        <item> revised TEIHeader and created catalog record for the electronic edition.</item>
+      </change>
+      <change>
+        <date>2002-03-11, </date>
+        <respStmt>
+          <name> Jill Kuhn Sexton </name>
+          <resp/>
+        </respStmt>
+        <item>finished TEI-conformant encoding and final proofing.</item>
+      </change>
+      <change>
+        <date>2002-03-06, </date>
+        <respStmt>
+          <name>Harris Henderson</name>
+          <resp/>
+        </respStmt>
+        <item> finished TEI/SGML encoding</item>
+      </change>
+      <change>
+        <date>2002-01-25, </date>
+        <respStmt>
+          <name>Apex Data Services, Inc.</name>
+          <resp/>
+        </respStmt>
+        <item> finished transcribing the text.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 type="section">
+        <p>
+          <figure id="cover" entity="cvamj1917">
+            <p>[Cover Image]</p>
+          </figure>
+        </p>
+      </div1>
+      <div1 type="section">
+        <pb id="p2" n="2"/>
+        <head>North Carolina's Part in the War</head>
+        <byline>JOHN WILBER JENKINS</byline>
+        <p>IN this momentous time, when the world is ringing with President Wilson's call to battle for humanity, it must be a source of pride to North Carolina to know that her sons are among the foremost in preparation for war.</p>
+        <p>When diplomatic relations with Germany were broken off and the whole country realized that armed conflict was practically inevitable, the first question that arose in every mind was, “Is the Navy ready?” And it was a relief to find that the Navy had been brought up to a high standard of efficiency, that it was stronger, better officered and manned, better prepared than the average man had believed or dared hope for. In spite of all the carping critics, it is incomparably superior in both ships and personnel to what it was a few years ago. And this is due in no small degree to the work of Josephus Daniels. No member of the administration has been more bitterly assailed—or more unjustly. And the very policies that have been most severely denounced are those that have worked out most successfully.</p>
+        <p>Daniels banished liquor from the Navy. Europe followed suit the moment the war broke out. Clear heads and steady nerves are required at the guns in the turrets, as well as in the officers in command. And it is a comfort to know that in this crisis none of our battleships will be endangered from whiskey-muddled brains. Daniels opened the Door of Opportunity to enlisted men, so that the youngest recruit who enlists today has the chance through ability and effort to rise to the highest rank. That has aroused the ambition of the jackies, and inspired them to their utmost efforts. He turned the Navy into a vast school, and today our “jackies” are probably the most intelligent, best educated, best informed body of fighting men in the world. Officers who resented the removal of the “dead-line” and declared that the abolition would make thorough discipline impossible—it has not, in fact—may still cherish resentment against the Secretary, but the enlisted men swear by him. The improvement in the personnel has been remarkable. It has been shown in every element of efficiency. When the call came ships and men were ready for instant service, and we may be sure they will give a good account of themselves on the firing line.</p>
+        <p>The tasks that have confronted the Navy Department in the past three months have been colossal. And the way in which they have been and are being solved is an exhibition of the way in which Americans can rise to an emergency.</p>
+        <pb id="p3" n="3"/>
+        <p>The Naval Advisory Council which Daniels created has proved of incalculable value. By the way, that was another thing in which France, England, and the other European countries quickly followed America's lead, creating councils of their own on the same line. With Thomas A. Edison at its head, it has marshaled the inventive genius of the country in the service of the Government. Daniels had a great deal to do with the establishment of the National Council of Defense, which is mobilizing our manufacturing establishments, railways, shipyards, and steamers into a vast industrial army that is hardly second in importance to the actual fighting forces in winning the war.</p>
+        <p>Steps have been taken to avoid the scandals and muddling that characterized our preparations at the beginning of the War with Spain. The Government is not going to be robbed by contractors making fortunes out of its necessities. Big things are being done quietly and efficiently. Many millions of dollars worth of steel are required for ships, armor, and guns. The heads of the great steel manufacturing plants were called to Washington, and in conference with the Secretary of the Navy and the Secretary of War agreed to furnish the Government all the steel it requires at far less than the prevailing market prices. The sum of $12,000,000 was saved on the first contract. Copper mine owners have made the same agreement. Torpedo manufacturers were promptly brought to terms. The makers of munitions have agreed to produce all the ammunition, shells, and guns we can use or that we may wish to send to the Allies, and at rates which assure only a fair profit.</p>
+        <p>This saving of millions, this mobilizing of industry, has been accomplished by the National Council of Defense so quietly and effectively that few people realize what great things have been done. And two North Carolinians are members of that council—Mr. Daniels and David Franklin Houston, Secretary of Agriculture.</p>
+        <p>Mr. Houston's task as head of the Agricultural Department is only second to that of the heads of the army and navy. One of the British commissioners remarked that the war would be won on the wheat fields of America. For the first and greatest aid we can give the Allies, as both the French and British envoys told us, is food. Houston is a native of Monroe, Union County, and as college professor, President of the University of Texas, and Chancellor of Washington University, St. Louis, he became an authority on social and political science. He made a special study of the farmers' problems, and when he became Secretary of Agriculture sought to make the Government's agencies more useful to the farmer. He has revolutionized the Department, establishing the Bureau of Markets, sending county agents into every corner of the country, organizing corn clubs, canning clubs, instituting
+<pb id="p4" n="4"/>
+better methods of farming, cooking, housekeeping, making country life more attractive and profitable.</p>
+        <p>He is charged with the handling of the food situation—increasing crops, getting grain to market, the vast task of preventing a food shortage in America, and feeding the French and English and Belgians. He has become suddenly one of the most powerful and important of American officials. And he is planning work on a broad scale that will result in changes in farming methods, operation, labor, and marketing that will count not only in the war, but for generations to come.</p>
+        <p>When the President called for a war loan of seven billion dollars—the largest ever made by any nation at one time in all history—North Carolinians had charge of the great financial measure in both House and Senate. For Representative Claude Kitchin is Chairman of the Ways and Means Committee and floor-leader of the Democratic majority in the House, and Senator F. M. Simmons is Chairman of the Senate Committee on Finance. Though Mr. Kitchin voted and spoke against the declaration of war against Germany, he did yeoman service in putting through the bill authorizing the huge “Liberty Loan,” which Congress passed unanimously, a thing almost unprecedented.</p>
+        <p>Senator Lee S. Overman is Chairman of the Senate Committee on Judiciary and Representative E. Yates Webb, of Shelby, N. C., is Chairman of the Judiciary Committee of the House. They have charge of some of the most important legislation pertaining to the war—the Espionage Bill, the bill enabling the Allies to enlist their citizens who are residents of the United States—all the legislation relating to the legal aspects of the conflict, the detection and punishment of spies, censorship and control of telegraphs, telephones, cables, the wireless, and the various means of communication.</p>
+        <p>Representative John H. Small, of Washington, N. C., is Chairman of the House Rivers and Harbors Committee, which controls legislation relating to waterways—a vital feature of the National defense.</p>
+        <p>Colonel William H. Osborn, of Greensboro, is Commissioner of Internal Revenue, and will direct the collection of the hundreds of millions in war taxes—a vast undertaking that covers every foot of the country and touches every one of its citizens.</p>
+        <p>And North Carolina is also at the forefront in diplomacy. No diplomat in the trying times of the past three years has made a more notable record than Walter H. Page, the Ambassador to England. He occupies the premier position in our diplomatic service. And while firmly maintaining America's right, he has won the confidence and esteem of the British. His innate modesty, his aversion to “fuss and feathers,” and his avoidance of spectacular display or sensational utterance have resulted, to some extent, in the failure of Americans generally to recognize the signal ability he has shown—not “displayed”
+<pb id="p5" n="5"/>
+—and the great work he has done for us in England and with the other European nations. But when the history of diplomacy in the colossal conflict is written, the name of Page will stand high on the list of diplomats who served well their countries and the world.</p>
+        <p>North Carolina has also “done her bit” for the Allies on the firing lines. Soon after the beginning of the war a number of her sons volunteered for service with the British and the French—some as surgeons, some with the ambulance corps, and others in the ranks of those who held the line against the German invaders.</p>
+        <p>Few more interesting stories have come out of the war than James R. McConnell's account of the American Escadrille at Verdun, published under the title, “Flying for France.” His account of the daily life and exploits of those daring soldiers of the air has in it the thrill of that mighty conflict. In that little corps of less than a dozen were two North Carolinians—McConnell and Kiffin Rockwell, of Asheville.</p>
+        <p>Rockwell had volunteered almost at the outbreak of the war, had seen service in a score of battles, and had been wounded at Carency before he joined the aerial service. He was the first member of the escadrille to bring down an enemy plane in aerial combat. Flying alone over Thann, he came upon a German on reconnaissance, rushed after him, and facing the gun of the German aviator closed in until he was within thirty yards of him before he began firing. The fourth shot struck its mark, the pilot crumpled up in his seat and the plane went crashing down into the German trenches. Rockwell was absolutely fearless and rushed to the attack at every opportunity.</p>
+        <p>This brave Carolinian lost his life on September 23, 1916, in a desperate duel in the air over the French lines near Verdun. Plunging through a rain of bullets, he engaged a powerful German machine. He was struck by an explosive bullet and killed instantly; his aeroplane was riddled and crashed to earth.</p>
+        <p>“The best and bravest of us all is no more,” said the Captain, in breaking the news to the escadrille. McConnell pays this highest tribute to his fellow Carolinian, who, he says, was the soul of the corps: “Kiftin was imbued with the spirit of the cause for which he fought, and gave his heart and soul to the performance of his duty. He said: ‘I pay my part for Lafayette and Rochambeau,’ and he gave the fullest measure. The old flame of chivalry burned brightly in this boy's fine and sensitive being. With his death France lost one of her most valuable pilots.”</p>
+        <p>Rockwell had been given the Medaille Military and the Croxide Guerre, on the ribbon of which he wore four palms, representing the four citations he had received in the orders of the army. He was given such a funeral as only generals and heroes receive, buried near the
+<pb id="p6" n="6"/>
+lines where he fell—a notable figure in one of the greatest battles that history records.</p>
+        <p>Only a few weeks ago McConnell himself fell a victim to his own daring, being brought down by the Germans, his machine crashing to earth within their lines. First he was reported “missing” and it was hoped he might somehow have escaped. But later the news of his death in action was posted and his name was recorded on the immortal roll of those who have given their lives for France and Liberty.</p>
+        <p>A number of other Carolinians have fought and are fighting in the Allied armies. One adventurous youngster, Carroll D. Weatherly, a native of Raleigh and a grandson of the late O. J. Carroll, once United States Marshal, enlisted in the Canadian contingent, fought in the trenches in Belgium, took part in those desperate battles of 1915, and was wounded at Ypres. He was invalided and returned to America. When we declared war against Germany he was among the first to volunteer, and has been assigned to the Flying Corps as pilot. There are many more like him, and the thousands of “Tar Heels” who will be enrolled in our new armies just being created may be depended upon to give a good account of themselves. They will be worthy of their fathers who in the War Between the States were “first at Bethel; farthest to the front at Gettysburg and Chickamauga, last at Appomattox.”</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>
